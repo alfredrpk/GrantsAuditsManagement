@@ -19,7 +19,6 @@ body {
   height: 250px;
   position: relative;
   font-family: 'Segoe UI';
-  border: 1px solid rgb(240, 240, 240);
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
   perspective: 1px;
   overflow: hidden;

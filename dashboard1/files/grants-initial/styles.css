@@ -23,6 +23,7 @@ body {
   perspective: 1px;
   overflow: hidden;
   border-radius: 20px;
+  white-space: nowrap;
 }
 
 #u37_div {

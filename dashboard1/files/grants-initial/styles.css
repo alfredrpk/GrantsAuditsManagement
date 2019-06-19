@@ -26,6 +26,10 @@ body {
   white-space: nowrap;
 }
 
+#heading {
+  font-size: 20px;
+}
+
 #u37_div {
   border-width:0px;
   position:absolute;

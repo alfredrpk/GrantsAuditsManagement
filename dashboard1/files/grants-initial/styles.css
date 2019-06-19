@@ -13,6 +13,7 @@ body {
 
 #tbl {
   margin: auto;
+  margin-left: -30px;
   top: 450px;
   width: 375px;
   height: 400px;
@@ -595,13 +596,13 @@ body {
 #u56 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
+  left:-40px;
+  top:-10px;
   width:253px;
   height:25px;
   font-family:'Segoe UI';
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u56_text {

@@ -7,27 +7,27 @@ body {
   overflow-x: hidden;
 }
 
-/* width */
-::-webkit-scrollbar {
-  width: 10px;
-}
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
 
-/* Track */
-::-webkit-scrollbar-track {
-  /*box-shadow: inset 0 0 5px grey; */
-  border-radius: 10px;
-}
+  /* Track */
+  ::-webkit-scrollbar-track {
+    /*box-shadow: inset 0 0 5px grey; */
+    border-radius: 10px;
+  }
 
-/* Handle */
-::-webkit-scrollbar-thumb {
-  background: #bbbbbb; 
-  border-radius: 10px;
-}
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #bbbbbb; 
+    border-radius: 10px;
+  }
 
-#base {
-  position:absolute;
-  z-index:0;
-}
+  #base {
+    position:absolute;
+    z-index:0;
+  }
 
 #headingtbl {
   margin: auto;
@@ -64,13 +64,32 @@ body {
   z-index: 1;
 }
 
-#heading {
-  font-size: 20px;
-}
+  #tbl {
+    margin: auto;
+    margin-left: -30px;
+    top: 450px;
+    width: 375px;
+    height: 400px;
+    position: relative;
+    font-family: 'Segoe UI';
+    box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
+    perspective: 1px;
+    border-radius: 20px;
+    white-space: nowrap;
+    display:block;
+    overflow:auto;
+    overflow-x: hidden; 
+    width: 100%;
+  }
+>>>>>>> ee5eb4aa33bc6bd69c61d87a58929c990a4f8c20
 
-#scrollbody {
-  overflow: auto;
-}
+  #heading {
+    font-size: 20px;
+  }
+
+  #scrollbody {
+    overflow: auto;
+  }
 
 #u37_div {
   border-width:0px;

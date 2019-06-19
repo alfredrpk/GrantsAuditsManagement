@@ -486,7 +486,22 @@ body {
   left:19px;
   top:401px;
 }
-
+#u53_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:1156px;
+  height:auto;
+  background-image:none;
+}
+#u53_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
 #u54_div {
   border-width:1px;
   position:absolute;

@@ -26,6 +26,7 @@ body {
   white-space: nowrap;
   display:block;
   overflow:auto;
+  overflow-x: hidden; 
   width: 100%;
 }
 

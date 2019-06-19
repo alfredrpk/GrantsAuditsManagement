@@ -4569,6 +4569,14 @@ body {
   width:32px;
   height:32px;
 }
+#u163_notif {
+  border-width:0px;
+  position:absolute;
+  left:1033px;
+  top:15px;
+  width:32px;
+  height:32px;
+}
 #u163_text {
   border-width:0px;
   position:absolute;

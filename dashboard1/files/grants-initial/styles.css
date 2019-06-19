@@ -30,6 +30,7 @@ body {
   font-size: 20px;
 }
 
+
 #u37_div {
   border-width:0px;
   position:absolute;
@@ -455,9 +456,7 @@ body {
 }
 #u52_div {
   border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
+  position:relative;
   width:1200px;
   height:35px;
   background:inherit;
@@ -466,17 +465,6 @@ body {
   border-width:1px;
   border-style:solid;
   border-color:rgba(147, 201, 248, 1);
-  border-left:0px;
-  border-right:0px;
-  border-bottom:0px;
-  border-radius:0px;
-  border-top-left-radius:0px;
-  border-top-right-radius:0px;
-  border-bottom-right-radius:0px;
-  border-bottom-left-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
 }
 #u52 {
   border-width:0px;
@@ -496,7 +484,7 @@ body {
   word-wrap:break-word;
 }
 #u53 {
-  position:absolute;
+  position:relative;
   left:19px;
   top:401px;
 }

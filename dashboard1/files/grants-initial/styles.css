@@ -64,25 +64,6 @@ body {
   z-index: 1;
 }
 
-  #tbl {
-    margin: auto;
-    margin-left: -30px;
-    top: 450px;
-    width: 375px;
-    height: 400px;
-    position: relative;
-    font-family: 'Segoe UI';
-    box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
-    perspective: 1px;
-    border-radius: 20px;
-    white-space: nowrap;
-    display:block;
-    overflow:auto;
-    overflow-x: hidden; 
-    width: 100%;
-  }
->>>>>>> ee5eb4aa33bc6bd69c61d87a58929c990a4f8c20
-
   #heading {
     font-size: 20px;
   }

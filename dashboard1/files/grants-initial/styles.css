@@ -13,6 +13,7 @@ body {
 
 #tbl {
   margin: auto;
+  margin-left: 50px;
   top: 450px;
   width: 375px;
   height: 250px;

@@ -15,7 +15,7 @@ body {
   margin: auto;
   top: 450px;
   width: 375px;
-  height: 250px;
+  height: 400px;
   position: relative;
   font-family: 'Segoe UI';
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
@@ -23,10 +23,17 @@ body {
   overflow: hidden;
   border-radius: 20px;
   white-space: nowrap;
+  display:block;
+  overflow:auto;
+  width: 100%;
 }
 
 #heading {
   font-size: 20px;
+}
+
+#scrollbody {
+
 }
 
 #u37_div {
@@ -468,7 +475,7 @@ body {
   border-width:0px;
   position:relative;
   left:-200px;
-  top:1159px;
+  top:959px;
   width:97%;
   height:35px;
 }

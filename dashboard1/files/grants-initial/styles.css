@@ -34,7 +34,7 @@ body {
 }
 
 #scrollbody {
-
+  overflow: auto;
 }
 
 #u37_div {

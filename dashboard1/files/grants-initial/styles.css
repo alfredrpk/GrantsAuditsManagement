@@ -455,7 +455,7 @@ body {
 #u52_div {
   border-width:0px;
   position:relative;
-  width:1200px;
+  width:140%;
   height:35px;
   background:inherit;
   background-color:rgba(17, 46, 81, 1);
@@ -466,21 +466,13 @@ body {
 }
 #u52 {
   border-width:0px;
-  position:absolute;
-  left:-3px;
+  position:relative;
+  left:-200px;
   top:1159px;
-  width:1200px;
+  width:97%;
   height:35px;
 }
-#u52_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
+
 #u53 {
   position:relative;
   left:19px;

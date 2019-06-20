@@ -29,6 +29,7 @@ body {
     z-index:0;
   }
 
+
 #headingtbl {
   margin: auto;
   margin-left: -30px;
@@ -648,6 +649,20 @@ body {
   width:250px;
   white-space:nowrap;
 }
+
+#myInput {
+/*  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');*/ /* Add a search icon to input */
+  position: relative;
+  left: 1050px;
+  top: 450px;
+}
+
+#icon{
+  position: relative;
+  left: 1027px;
+  top: 453px;
+}
+
 #u57_img {
   border-width:0px;
   position:absolute;

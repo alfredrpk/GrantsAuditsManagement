@@ -626,14 +626,14 @@ body {
   box-shadow:none;
   font-family:'Segoe UI';
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u56 {
   border-width:0px;
   position:absolute;
   left:-40px;
-  top:-10px;
+  top:-15px;
   width:253px;
   height:25px;
   font-family:'Segoe UI';
@@ -6991,19 +6991,19 @@ body {
   box-shadow:none;
   font-family:'Segoe UI';
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u207 {
   border-width:0px;
   position:absolute;
-  left:12px;
-  top:4px;
+  left:-40px;
+  top:20px;
   width:81px;
   height:25px;
   font-family:'Segoe UI';
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u207_text {
@@ -8675,19 +8675,19 @@ body {
   box-shadow:none;
   font-family:'Segoe UI';
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u253 {
   border-width:0px;
   position:absolute;
-  left:12px;
-  top:4px;
+  left:-40px;
+  top:20px;
   width:267px;
   height:25px;
   font-family:'Segoe UI';
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u253_text {

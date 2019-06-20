@@ -184,7 +184,15 @@
 
       <script>
         var loginbutton = document.getElementById("u21");
-        var onButtonClick = function() {console.log("yee haw gamers");};
+        var onButtonClick = function() {
+          var username = document.getElementById("u19_input").value;
+          var password = document.getElementById("u25_input").value;
+          if (username == "grants" && password == "grants"){
+            console.log("yeeee haw");
+            window.location.href = "./";
+
+          };
+        };
         loginbutton.addEventListener("click", onButtonClick);
       </script>
 

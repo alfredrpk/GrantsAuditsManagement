@@ -399,11 +399,11 @@
     <table id = 'tbl2' cellspacing="40">
       <thead id = 'heading'>
         <tr>
-          <td colspan = "5" style="padding-right: 405px;"></td>
-          <td style="padding-right: 140px;"></td>
-          <td colspan = "2" style="padding-right: 160px;"></td>
-          <td colspan = "2" style="padding-right: 170px;"></td>
-          <td colspan = "2" style="padding-right: 190px;"></td>
+          <td colspan = "5" style="padding-right: 440px;"></td>
+          <td style="padding-right: 145px;"></td>
+          <td colspan = "2" style="padding-right: 200px;"></td>
+          <td colspan = "2" style="padding-right: 215px;"></td>
+          <td colspan = "2" style="padding-right: 200px;"></td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -457,6 +457,84 @@
             </td>
             <td colspan = "2">
               Initial audit complete
+            </td>
+          </tr>
+        </tbody>
+      </div>
+    </table>
+
+    <table id = 'headingtbl3'>
+      <thead id = 'heading'>
+        <tr>
+          <td colspan = "5" style="padding-right: 350px;">Auditee ▼</td>
+          <td style="padding-right: 100px;">State</td>
+          <td colspan = "2" style="padding-right: 100px;">Auditee EIN</td>
+          <td colspan = "2" style="padding-right: 100px;">Assigned On</td>
+          <td colspan = "2" style="padding-right: 100px;">Assigned By</td>
+        </tr>
+      </thead>
+    </table>
+    <table id = 'tbl3' cellspacing="40">
+      <thead id = 'heading'>
+        <tr>
+          <td colspan = "5" style="padding-right: 440px;"></td>
+          <td style="padding-right: 145px;"></td>
+          <td colspan = "2" style="padding-right: 200px;"></td>
+          <td colspan = "2" style="padding-right: 215px;"></td>
+          <td colspan = "2" style="padding-right: 200px;"></td>
+        </tr>
+      </thead>
+      <div id = 'scrollbody'>
+        <tbody>
+          <tr>
+            <td colspan = "5">
+              Richmond Redevelopment and Housing Authority
+            </td>
+            <td>
+              33-1234888
+            </td>
+            <td colspan = "2">
+              10/06/2018 
+            </td>
+            <td colspan = "2">
+              Jacqueline Bowman
+            </td>
+            <td colspan = "2">
+              Monitoring
+            </td>
+          </tr>
+          <tr>
+            <td colspan = "5">
+              City of Norfolk
+            </td>
+            <td>
+              73-1234888
+            </td>
+            <td colspan = "2">
+              10/05/2018
+            </td>
+            <td colspan = "2">
+              Judy Larson
+            </td>
+            <td colspan = "2">
+              Monitoring
+            </td>
+          </tr>
+          <tr>
+            <td colspan = "5">
+              Eastern Virginia Medical School
+            </td>
+            <td>
+              53-1234888
+            </td>
+            <td colspan = "2">
+              10/01/2018
+            </td>
+            <td colspan = "2">
+              Nicholas White
+            </td>
+            <td colspan = "2">
+              Monitoring
             </td>
           </tr>
         </tbody>
@@ -1056,15 +1134,15 @@
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div id="u316" class="ax_default">
+            <div id="u316" onclick = "myFunction()" class="ax_default">
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div id="u317" class="ax_default">
+            <div id="u317" onclick = "myFunction2()" class="ax_default">
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div id="u318" class="ax_default">
+            <div id="u318" onclick = "myFunction3()" class="ax_default">
             </div>
           </div>
         </div>
@@ -1194,15 +1272,15 @@
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div id="u339" class="ax_default">
+            <div id="u339" onclick = "myFunction()" class="ax_default">
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div id="u340" class="ax_default">
+            <div id="u340" onclick = "myFunction2()" class="ax_default">
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div id="u341" class="ax_default">
+            <div id="u341" onclick = "myFunction3()" class="ax_default">
             </div>
           </div>
         </div>
@@ -1332,36 +1410,58 @@
             </div>
 
             <!-- Unnamed (Hot Spot) -->
-            <div onclick = "myFunction()"id="u362" class="ax_default">
+            <div onclick = "myFunction()"id="u316" class="ax_default">
             </div>
             <div onclick = "myFunction2()"id="u363" class="ax_default">
             </div>
+            <div onclick = "myFunction3()"id="u364" class="ax_default">
+            </div>
+
             <script>
             function myFunction() {
               var a = document.getElementById("tbl");
               var b = document.getElementById("headingtbl");
               var c = document.getElementById("tbl2");
               var d = document.getElementById("headingtbl2");
-
+              var e = document.getElementById("tbl3");
+              var f = document.getElementById("headingtbl3");
+              a.style.display = "block";
+              b.style.display = "block";
               c.style.display = "none";
-              d.style.display = "none";  
-              if (a.style.display === "none") {
-                a.style.display = "block";
-                b.style.display = "block";
-              }
+              d.style.display = "none";
+              e.style.display = "none";
+              f.style.display = "none";
             }
             function myFunction2() {
               var a = document.getElementById("tbl");
               var b = document.getElementById("headingtbl");
               var c = document.getElementById("tbl2");
               var d = document.getElementById("headingtbl2");
-              
+              var e = document.getElementById("tbl3");
+              var f = document.getElementById("headingtbl3");
+              c.style.display = "block";
+              d.style.display = "block";
               a.style.display = "none";
               b.style.display = "none";
-              if (c.style.display === "none") {
-                c.style.display = "block";
-                d.style.display = "block";
-              }
+              e.style.display = "none";
+              f.style.display = "none";
+              
+            }
+
+            function myFunction3() {
+              var a = document.getElementById("tbl");
+              var b = document.getElementById("headingtbl");
+              var c = document.getElementById("tbl2");
+              var d = document.getElementById("headingtbl2");
+              var e = document.getElementById("tbl3");
+              var f = document.getElementById("headingtbl3");
+              e.style.display = "block";
+              f.style.display = "block";
+              c.style.display = "none";
+              d.style.display = "none";
+              a.style.display = "none";
+              b.style.display = "none";
+              
             }
             </script>
 
@@ -1373,8 +1473,8 @@
             </div>  -->
  
             <!-- Unnamed (Hot Spot) -->
-            <div id="u364" class="ax_default">
-            </div>
+            <!-- <div id="u364" class="ax_default">
+            </div> -->
           </div>
         </div>
       </div>

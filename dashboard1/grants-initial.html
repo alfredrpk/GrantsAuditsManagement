@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
-  <link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css" type="text/css" rel="stylesheet"/>
+  <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css" type="text/css" rel="stylesheet"/>-->
   <link href="/theme.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
@@ -114,7 +114,7 @@
         </div>
       </div>
     </div>
-    <input type ="text"; id = "myInput", onkeyup = "myFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
+    <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
     <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
     <table id = 'headingtbl'>
       <thead id = 'heading'>
@@ -560,41 +560,89 @@
   </head>
   <body>
     <script>
-    function myFunction() {
-  // Declare variables 
-      var input, filter, table, tr, td, i, txtValue;
-      input = document.getElementById("myInput");
-      filter = input.value.toUpperCase();
-      table = document.getElementById("tbl");
-      tr = table.getElementsByTagName("tr");
-
-  // Loop through all table rows, and hide those who don't match the search query
-      for (i = 0; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td")[0];
-        if (td) {
-          txtValue = td.textContent || td.innerText;
-          if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            tr[i].style.display = "";
-            tr[0].style.display = "";
-          } else {
-            tr[i].style.display = "none";
+      function searchFunction() {
+        // Declare variables 
+        var x = document.getElementById("tbl");
+        var y = document.getElementById("tbl2");
+        var z = document.getElementById("tbl3");
+          if (window.getComputedStyle(x).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              } 
+              else {
+                tr[i].style.display = "none";
+              }
+            } 
           }
-        } 
+          }
+          if (window.getComputedStyle(y).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl2");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              } 
+              else {
+                tr[i].style.display = "none";
+              }
+            } 
+          }
+          }
+          if (window.getComputedStyle(z).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl3");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              } 
+              else {
+                tr[i].style.display = "none";
+              }
+            } 
+          }
+          }
       }
-    }
+
     </script>
 
-    <!-- Unnamed (Rectangle) -->
-    <div id="u145" class="ax_default box_2">
-      <div id="u145_div" class=""></div>
-    </div>
+<!-- Unnamed (Rectangle) -->
+<div id="u145" class="ax_default box_2">
+  <div id="u145_div" class=""></div>
+</div>
 
-    <!-- Unnamed (Rectangle) -->
-    <div id="u146" class="ax_default box_2">
-      <div id="u146_div" class=""></div>
-    </div>
+<!-- Unnamed (Rectangle) -->
+<div id="u146" class="ax_default box_2">
+  <div id="u146_div" class=""></div>
+</div>
 
-    <!-- Unnamed (Image) -->
+<!-- Unnamed (Image) -->
       <!--<div id="u147" class="ax_default image">
         <img id="u147_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/grants-initial/u147.png?token=dce6a34b3d893080ce1292679a6b1e3687cb5292034fb3fa1e98cd55374ca84e"/>
       </div>-->
@@ -1418,61 +1466,61 @@
             </div>
 
             <script>
-            function myFunction() {
-              var a = document.getElementById("tbl");
-              var b = document.getElementById("headingtbl");
-              var c = document.getElementById("tbl2");
-              var d = document.getElementById("headingtbl2");
-              var e = document.getElementById("tbl3");
-              var f = document.getElementById("headingtbl3");
-              a.style.display = "block";
-              b.style.display = "block";
-              c.style.display = "none";
-              d.style.display = "none";
-              e.style.display = "none";
-              f.style.display = "none";
-            }
-            function myFunction2() {
-              var a = document.getElementById("tbl");
-              var b = document.getElementById("headingtbl");
-              var c = document.getElementById("tbl2");
-              var d = document.getElementById("headingtbl2");
-              var e = document.getElementById("tbl3");
-              var f = document.getElementById("headingtbl3");
-              c.style.display = "block";
-              d.style.display = "block";
-              a.style.display = "none";
-              b.style.display = "none";
-              e.style.display = "none";
-              f.style.display = "none";
-              
-            }
+              function myFunction() {
+                var a = document.getElementById("tbl");
+                var b = document.getElementById("headingtbl");
+                var c = document.getElementById("tbl2");
+                var d = document.getElementById("headingtbl2");
+                var e = document.getElementById("tbl3");
+                var f = document.getElementById("headingtbl3");
+                a.style.display = "block";
+                b.style.display = "block";
+                c.style.display = "none";
+                d.style.display = "none";
+                e.style.display = "none";
+                f.style.display = "none";
+              }
+              function myFunction2() {
+                var a = document.getElementById("tbl");
+                var b = document.getElementById("headingtbl");
+                var c = document.getElementById("tbl2");
+                var d = document.getElementById("headingtbl2");
+                var e = document.getElementById("tbl3");
+                var f = document.getElementById("headingtbl3");
+                c.style.display = "block";
+                d.style.display = "block";
+                a.style.display = "none";
+                b.style.display = "none";
+                e.style.display = "none";
+                f.style.display = "none";
 
-            function myFunction3() {
-              var a = document.getElementById("tbl");
-              var b = document.getElementById("headingtbl");
-              var c = document.getElementById("tbl2");
-              var d = document.getElementById("headingtbl2");
-              var e = document.getElementById("tbl3");
-              var f = document.getElementById("headingtbl3");
-              e.style.display = "block";
-              f.style.display = "block";
-              c.style.display = "none";
-              d.style.display = "none";
-              a.style.display = "none";
-              b.style.display = "none";
-              
-            }
+              }
+
+              function myFunction3() {
+                var a = document.getElementById("tbl");
+                var b = document.getElementById("headingtbl");
+                var c = document.getElementById("tbl2");
+                var d = document.getElementById("headingtbl2");
+                var e = document.getElementById("tbl3");
+                var f = document.getElementById("headingtbl3");
+                e.style.display = "block";
+                f.style.display = "block";
+                c.style.display = "none";
+                d.style.display = "none";
+                a.style.display = "none";
+                b.style.display = "none";
+
+              }
             </script>
 
            <!--  <div id="u362" class="ax_default">
-            </div>  -->
- 
+           </div>  -->
+
            <!--  Unnamed (Hot Spot) -->
       <!--       <div id="u363" class="ax_default">
-            </div>  -->
- 
-            <!-- Unnamed (Hot Spot) -->
+      </div>  -->
+
+      <!-- Unnamed (Hot Spot) -->
             <!-- <div id="u364" class="ax_default">
             </div> -->
           </div>

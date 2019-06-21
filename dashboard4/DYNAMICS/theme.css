@@ -107,6 +107,8 @@
 }
 .fontawesome1 {
 }
+
+
 body {
   margin: auto;
   background-image:none;
@@ -155,15 +157,13 @@ body {
   overflow-x: hidden; 
   width: 100%;
   z-index: 2;
-  display: block;
 }
 #tbl {
   margin: auto;
   margin-left: -30px;
   top: 450px;
   width: 375px;
-  height: 100%;
-  max-height: 400px;
+  height: 400px;
   position: relative;
   font-family: 'Segoe UI';
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
@@ -174,88 +174,11 @@ body {
   overflow-x: hidden; 
   width: 100%;
   z-index: 1;
-  display: block;
 }
 
   #heading {
     font-size: 20px;
   }
-
-  #headingtbl2 {
-  margin: auto;
-  margin-left: -30px;
-  top: 480px; 
-  width: 100%;
-  height: 100%;
-  position: relative;
-  font-family: 'Segoe UI';
-  box-shadow: 0px -1px 5px 2px rgb(240, 240, 240);
-  perspective: 1px;
-  border-radius: 20px 20px 0px 0px;
-  white-space: nowrap;
-  display:block;
-  overflow-x: hidden; 
-  width: 100%;
-  z-index: 2;
-  display:none;
-}
-#tbl2 {
-  margin: auto;
-  margin-left: -30px;
-  top: 450px;
-  width: 375px;
-  height: 100%;
-  max-height: 400px;
-  position: relative;
-  font-family: 'Segoe UI';
-  box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
-  perspective: 1px;
-  border-radius: 0px 0px 20px 20px;
-  white-space: nowrap;
-  display:block;
-  overflow-x: hidden; 
-  width: 100%;
-  z-index: 1;
-  display:none;
-}
-
-#headingtbl3 {
-  margin: auto;
-  margin-left: -30px;
-  top: 480px; 
-  width: 100%;
-  height: 100%;
-  position: relative;
-  font-family: 'Segoe UI';
-  box-shadow: 0px -1px 5px 2px rgb(240, 240, 240);
-  perspective: 1px;
-  border-radius: 20px 20px 0px 0px;
-  white-space: nowrap;
-  display:block;
-  overflow-x: hidden; 
-  width: 100%;
-  z-index: 2;
-  display:none;
-}
-#tbl3 {
-  margin: auto;
-  margin-left: -30px;
-  top: 450px;
-  width: 375px;
-  height: 100%;
-  max-height: 400px;
-  position: relative;
-  font-family: 'Segoe UI';
-  box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
-  perspective: 1px;
-  border-radius: 0px 0px 20px 20px;
-  white-space: nowrap;
-  display:block;
-  overflow-x: hidden; 
-  width: 100%;
-  z-index: 1;
-  display:none;
-}
 
   #scrollbody {
     overflow: auto;
@@ -626,7 +549,7 @@ body {
 #myInput {
 /*  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');*/ /* Add a search icon to input */
   position: relative;
-  left: 500px;
+  left: 1050px;
   top: 450px;
   border: 1px solid;
   border-radius: 5px;
@@ -636,7 +559,7 @@ body {
 
 #icon{
   position: relative;
-  left: 477px;
+  left: 1027px;
   top: 453px;
 }
 
@@ -1182,7 +1105,15 @@ body {
   width:32px;
   height:32px;
 }
-
+#u163_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
 #u164 {
   position:absolute;
   left:144px;
@@ -1544,6 +1475,7 @@ body {
   top:70px;
   width:100px;
   height:35px;
+  background-color:rgba(147, 201, 248, 0.298039215);
   overflow:hidden;
   background-image:url('https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif');
 }
@@ -1556,7 +1488,6 @@ body {
   height:35px;
   overflow:hidden;
   background-image:url('https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif');
-  background-color:rgba(147, 201, 248, 0.298039215);
 }
 #u171 {
   border-width:0px;
@@ -3430,7 +3361,7 @@ body {
   position:relative;
   left:0px;
   top:0px;
-  width:100px;
+  width:1156px;
   height:290px;
   background-image:none;
 }
@@ -3564,7 +3495,7 @@ body {
   position:relative;
   left:0px;
   top:0px;
-  width:100px;
+  width:1156px;
   height:389px;
   background-image:none;
 }
@@ -5642,6 +5573,7 @@ body {
   overflow:hidden;
   background-image:url('https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif');
 }
+
 /* so the window resize fires within a frame in IE7 */
 html, body {
     height: 100%;
@@ -5881,6 +5813,7 @@ div.annnotelabel {
     display: none;
     visibility: hidden;
 }
+
 /*
 * jQuery UI CSS Framework
 * Copyright (c) 2009 AUTHORS.txt (http://jqueryui.com/about)

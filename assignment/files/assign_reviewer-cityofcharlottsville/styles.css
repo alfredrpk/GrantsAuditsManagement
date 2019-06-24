@@ -89,8 +89,9 @@ body {
 
 #savebutton {
   position: relative;
-  width: 20px;
-  height: 20px;
+  left: 1160px;
+  top: 955px;
+  font-size: 24px;
 }
 
 #heading {
@@ -1494,7 +1495,7 @@ body {
 #u408_div {
   border-width:0px;
   position:absolute;
-  left:20px;
+  left:-20px;
   top:0px;
   width:115px;
   height:32px;
@@ -1558,7 +1559,7 @@ body {
 #u408_text {
   border-width:0px;
   position:absolute;
-  left:2px;
+  left:-40px;
   top:8px;
   width:152px;
   word-wrap:break-word;
@@ -6233,7 +6234,7 @@ body {
   border-width:0px;
   position:absolute;
   left:975px;
-  top:955px;
+  top:958px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';

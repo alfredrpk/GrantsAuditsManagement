@@ -90,6 +90,7 @@ body {
 #heading {
     font-size: 20px;
 }
+
 #base {
   position:absolute;
   z-index:0;
@@ -1488,9 +1489,9 @@ body {
 #u408_div {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:20px;
   top:0px;
-  width:156px;
+  width:115px;
   height:32px;
   background:inherit;
   background-color:rgba(0, 112, 210, 1);
@@ -1498,7 +1499,7 @@ body {
   border-width:1px;
   border-style:solid;
   border-color:rgba(0, 112, 210, 1);
-  border-radius:2px;
+  border-radius:10px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;

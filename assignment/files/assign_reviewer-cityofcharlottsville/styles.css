@@ -73,8 +73,8 @@ body {
 #myInput {
 /*  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');*/ /* Add a search icon to input */
   position: relative;
-  left: 1060px;
-  top: -30px;
+  left: 1040px;
+  top: 480px;
   border: 1px solid;
   border-radius: 5px;
   border-color: gray;
@@ -83,8 +83,8 @@ body {
 
 #icon{
   position: relative;
-  left: 1037px;
-  top: -33px;
+  left: 1185px;
+  top: 463px;
 }
 
 #savebutton {

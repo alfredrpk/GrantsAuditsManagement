@@ -847,14 +847,13 @@ body {
   top:0px;
   width:0px;
   visibility:hidden;
-  word-wrap:break-word;
 }
 #u386_img {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-10px;
   top:0px;
-  width:52px;
+  width:125px;
   height:24px;
 }
 #u386 {

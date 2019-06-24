@@ -6148,20 +6148,20 @@ body {
   font-family:'Segoe UI';
   font-weight:400;
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u517 {
   border-width:0px;
   position:absolute;
-  left:59px;
+  left:-20px;
   top:372px;
   width:184px;
   height:25px;
   font-family:'Segoe UI';
   font-weight:400;
   font-style:normal;
-  font-size:18px;
+  font-size:30px;
   color:#222222;
 }
 #u517_text {
@@ -6337,9 +6337,9 @@ body {
 #u524_img {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-165px;
   top:0px;
-  width:1201px;
+  width:1600px;
   height:21px;
 }
 #u524 {
@@ -6362,9 +6362,9 @@ body {
 #u525_div {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-165px;
   top:0px;
-  width:1200px;
+  width:1600px;
   height:35px;
   background:inherit;
   background-color:rgba(17, 46, 81, 1);

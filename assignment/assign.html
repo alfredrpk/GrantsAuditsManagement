@@ -10,10 +10,7 @@
     <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="data/styles.css" type="text/css" rel="stylesheet"/>
     <link href="files/assign_reviewer-cityofcharlottsville/styles.css" type="text/css" rel="stylesheet"/>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"/>
     <link href="https://axure.guru/cdn/FontAwesome-501/css/fontawesome-all.axure.guru.css" type="text/css" rel="stylesheet"/>
     <script type="text/javascript">
         AXSHARE_HOST_URL = 'http://app.axure.cloud';
@@ -581,6 +578,79 @@
           <img id="u456_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/grants-initial/u190.png?token=186190e197f53450f965cfd2a6bd5b85c7871291557ef27ea830e9c92c15796d"/>
         </div>
 
+        <script>
+      function searchFunction() {
+        // Declare variables 
+        var x = document.getElementById("tbl");
+        var y = document.getElementById("tbl2");
+        var z = document.getElementById("tbl3");
+          if (window.getComputedStyle(x).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              } 
+              else {
+                tr[i].style.display = "none";
+              }
+            } 
+          }
+          }
+          if (window.getComputedStyle(y).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl2");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              } 
+              else {
+                tr[i].style.display = "none";
+              }
+            } 
+          }
+          }
+          if (window.getComputedStyle(z).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl3");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              } 
+              else {
+                tr[i].style.display = "none";
+              }
+            } 
+          }
+          }
+      }
+
+    </script>
+
         <!-- ddn (Dynamic Panel) -->
         <div id="u457" class="ax_default" data-label="ddn">
           <div id="u457_state0" class="panel_state" data-label="State1" style="">
@@ -679,8 +749,6 @@
           <div id="u469_div" class=""></div>
         </div>
       </div>
-
-      <a class="btn btn-primary" href="#" role="button" id = 'backbtn'>Back</a>
 
       <table id = 'headingtbl'>
       <thead id = 'heading'>
@@ -981,7 +1049,7 @@
         <div id="u518_div" class=""></div>
         <div id="u518_text" class="text ">
           <p><span>Cancel</span></p>
-        </div> 
+        </div>
       </div>
 
       <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">

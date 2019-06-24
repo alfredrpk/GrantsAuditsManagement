@@ -5,6 +5,7 @@ body {
   align-items: center;
   width: 1201px;
   overflow-x: hidden;
+  overflow-y: scroll;
 }
 
   /* width */

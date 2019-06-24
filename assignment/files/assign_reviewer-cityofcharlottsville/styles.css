@@ -91,6 +91,7 @@ body {
   position: relative;
   top: 370px;
   right: 20px;
+  position:relative;
 }
 
 #u365 {
@@ -1504,7 +1505,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1050px;
-  top:918px;
+  top:950px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -6218,7 +6219,7 @@ body {
   border-width:0px;
   position:absolute;
   left:975px;
-  top:925px;
+  top:955px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';

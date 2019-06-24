@@ -70,6 +70,23 @@ body {
   display: block;
 }
 
+#myInput {
+/*  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');*/ /* Add a search icon to input */
+  position: relative;
+  left: 1060px;
+  top: 0px;
+  border: 1px solid;
+  border-radius: 5px;
+  border-color: gray;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3490196);
+}
+
+#icon{
+  position: relative;
+  left: 1037px;
+  top: 3px;
+}
+
 #heading {
     font-size: 20px;
 }
@@ -79,7 +96,9 @@ body {
 }
 
 #backbtn {
-  position: relative;
+  position:relative;
+  left: 500px;
+  top: 500px;
 }
 
 #u365 {

@@ -109,6 +109,31 @@ body {
   position:relative;
 }
 
+#u163_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:32px;
+  height:32px;
+}
+#u163 {
+  border-width:0px;
+  position:absolute;
+  left:1133px;
+  top:5px;
+  width:32px;
+  height:32px;
+}
+#u163_notif {
+  border-width:0px;
+  position:absolute;
+  left:1083px;
+  top:8px;
+  width:32px;
+  height:32px;
+}
+
 #u365 {
   position:absolute;
   left:219px;

@@ -66,7 +66,7 @@ body {
 /*  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');*/ /* Add a search icon to input */
   position: relative;
   left: 1060px;
-  top: 0px;
+  top: -30px;
   border: 1px solid;
   border-radius: 5px;
   border-color: gray;
@@ -76,7 +76,7 @@ body {
 #icon{
   position: relative;
   left: 1037px;
-  top: 3px;
+  top: -33px;
 }
 
 #heading {
@@ -89,6 +89,8 @@ body {
 
 #backbtn {
   position: relative;
+  top: 370px;
+  right: 20px;
 }
 
 #u365 {
@@ -6176,7 +6178,7 @@ body {
   border-width:0px;
   position:absolute;
   left:-20px;
-  top:372px;
+  top:442px;
   width:184px;
   height:25px;
   font-family:'Segoe UI';

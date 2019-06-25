@@ -11,6 +11,15 @@ body {
   position:absolute;
   z-index:0;
 }
+#alertmsg {
+  margin-top: -6px;
+  font-family: Segoe UI;
+  visibility: hidden;
+}
+
+#alertmsg .close {
+  padding-bottom: 10px;
+}
 #u0 {
   position:absolute;
   left:411px;
@@ -503,6 +512,7 @@ body {
   white-space:nowrap;
 }
 #u15_div {
+  padding-top: 10px;
   border-width:0px;
   position:absolute;
   left:0px;
@@ -521,6 +531,7 @@ body {
   box-shadow:none;
 }
 #u15 {
+  padding-top: 20px;
   border-width:0px;
   position:absolute;
   left:411px;

@@ -163,7 +163,7 @@
           </tr>
           <tr>
             <td colspan = "5">
-              Fairfax Public Schools
+              Fairfaxxxxx
             </td>
             <td>
               Virginia
@@ -628,6 +628,64 @@
             } 
           }
           }
+      }
+      // EDIT TABLES
+
+      var tbl = document.getElementById("tbl");
+      rownum = tbl.rows.length;
+      //console.log(rownum);
+
+      var csvarray = [];
+      var client = new XMLHttpRequest();
+      client.open('GET', 'https://centennial-tech-test.microsoftcrmportals.com/grants-initial/applicationdata.csv', false);
+      client.onload = function() {
+          var rows = client.responseText.split('\n');
+          for(var i = 0; i < rows.length-1; i++){
+            csvarray.push(rows[i].split(','));
+            //console.log(i);
+          }
+      }
+      client.send();
+
+      csvarray[0] = [];
+
+      if (tbl.rows.length < csvarray.length) {
+        while (tbl.rows.length < csvarray.length) {
+          tbl.insertRow();
+        }
+      }
+      else if (tbl.rows.length > csvarray.length) {
+        while (tbl.rows.length > csvarray.length) {
+          tbl.deleteRow();
+        }
+      }
+
+      console.log(tbl.rows.length);
+      //console.log(tbl.rows[1].cells);
+      //console.log(csvarray[13].length)
+      rowlen = JSON.parse(JSON.stringify(tbl.rows.length));
+      lencell = JSON.parse(JSON.stringify(tbl.rows[1].cells.length));
+
+      for(var i=1; i<rowlen; i++) {
+        for(var x=0; x<lencell; x++) {
+          tbl.rows[i].deleteCell(0)
+        }
+      }
+      for(var i=0; i<rowlen; i++) {
+        tbl.deleteRow(0);
+      }
+      for(var i=1; i<rowlen; i++) {
+        tbl.insertRow(0);
+      }
+      for(var x=0; x<rowlen; x++) {
+          var newcell = tbl.rows[0].insertCell(x);
+          newcell.innerHTML = "";
+        }
+      for(var i=1; i<rowlen; i++) {
+        for(var x=0; x<csvarray[i].length; x++) {
+          var newcell = tbl.rows[i].insertCell(x);
+          newcell.innerHTML = csvarray[i][x];
+        }
       }
 
     </script>

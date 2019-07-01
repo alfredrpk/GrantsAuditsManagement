@@ -15,11 +15,10 @@ body {
   margin-top: -6px;
   font-family: Segoe UI;
   visibility: hidden;
+  text-align: center;
+  font-size: 12px;
 }
 
-#alertmsg .close {
-  padding-bottom: 10px;
-}
 #u0 {
   position:absolute;
   left:411px;

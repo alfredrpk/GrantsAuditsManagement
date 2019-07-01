@@ -20,6 +20,7 @@
         ACCOUNT_SERVICE_URL = 'http://accounts.axure.com';
         ACCOUNT_SERVICE_SECURE_URL = 'https://accounts.axure.com';
         ON_PREM_LDAP_ENABLED = 'false';
+
 </script><script src="resources/scripts/jquery-1.7.1.min.js"></script>
     <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
     <script src="resources/scripts/prototypePre.js"></script>
@@ -31,7 +32,8 @@
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
     </script>
-  
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
     $(document).ready(function(){
         $("iframe").each(function( index ) {
@@ -793,13 +795,20 @@
         </tr>
       </thead>
     </table>
-    <table id = 'tbl' cellspacing="40">
+
+    <script type="text/javascript">
+              $('#tbl tr').on('click', function (){
+            $('.clicked').removeClass('clicked');
+          $(this).addClass('clicked');
+        });
+    </script>
+<table id = 'tbl' cellspacing="40">
       <thead id = 'heading'>
         <tr>
           <td colspan = "5" style="padding-right: 430px;"></td>
           <td style="padding-right: 300px;"></td>
           <td colspan = "2" style="padding-right: 260px;"></td>
-          <td colspan = "2" style="padding-right: 200px;"></td>
+          <td colspan = "2" style="padding-right: 215px;"></td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -872,10 +881,6 @@
       th, td {
         text-align: left;
         padding: 13px;
-      }
-
-      th {
-
       }
 
       tr:nth-child(odd) {background-color: #f2f2f2;}

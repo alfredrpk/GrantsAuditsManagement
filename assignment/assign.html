@@ -32,7 +32,7 @@
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
     </script>
-
+<script src="/scripts/snippet-javascript-console.min.js?v=1"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
     $(document).ready(function(){
@@ -795,13 +795,6 @@
         </tr>
       </thead>
     </table>
-
-    <script type="text/javascript">
-              $('#tbl tr').on('click', function (){
-            $('.clicked').removeClass('clicked');
-          $(this).addClass('clicked');
-        });
-    </script>
 <table id = 'tbl' cellspacing="40">
       <thead id = 'heading'>
         <tr>
@@ -872,6 +865,12 @@
         </tbody>
       </div>
     </table>
+    <script type="text/javascript">
+              $('#tbl tr').on('click', function (){
+            $('.clicked').removeClass('clicked');
+          $(this).addClass('clicked');
+        });
+    </script>
     <style>
       table {
         border-collapse: collapse;

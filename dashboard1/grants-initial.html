@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
-  <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css" type="text/css" rel="stylesheet"/>-->
+  <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css/" type="text/css" rel="stylesheet"/>-->
   <link href="/theme.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
@@ -630,63 +630,53 @@
           }
       }
       // EDIT TABLES
-
-      var tbl = document.getElementById("tbl");
-      rownum = tbl.rows.length;
-      //console.log(rownum);
-
-      var csvarray = [];
-      var client = new XMLHttpRequest();
-      client.open('GET', 'https://centennial-tech-test.microsoftcrmportals.com/grants-initial/applicationdata.csv', false);
-      client.onload = function() {
-          var rows = client.responseText.split('\n');
-          for(var i = 0; i < rows.length-1; i++){
-            csvarray.push(rows[i].split(','));
-            //console.log(i);
+      function tableFromCSV(url, table) {
+        var tbl = table;
+        var csvarray = [];
+        var client = new XMLHttpRequest();
+        client.open('GET', url, false);
+        client.onload = function() {
+            var rows = client.responseText.split('\n');
+            for(var i = 0; i < rows.length-1; i++){
+              csvarray.push(rows[i].split(','));
+              //console.log(i);
+            }
+        }
+        client.send();
+        csvarray[0] = [];
+        if (tbl.rows.length < csvarray.length) {
+          while (tbl.rows.length < csvarray.length) {
+            tbl.insertRow();
           }
+        }
+        else if (tbl.rows.length > csvarray.length) {
+          while (tbl.rows.length > csvarray.length) {
+            tbl.deleteRow();
+          }
+        }
+        console.log(tbl.rows.length);
+        rowlen = JSON.parse(JSON.stringify(tbl.rows.length));
+        lencell = JSON.parse(JSON.stringify(tbl.rows[1].cells.length));
+        for(var i=1; i<rowlen; i++) {
+          for(var x=0; x<lencell; x++) {
+            tbl.rows[i].deleteCell(0)
+          }
+        }
+        for(var x=0; x<rowlen; x++) {
+            var newcell = tbl.rows[0].insertCell(x);
+            newcell.innerHTML = "";
+          }
+        for(var i=1; i<rowlen; i++) {
+          for(var x=0; x<csvarray[i].length; x++) {
+            var newcell = tbl.rows[i].insertCell(x);
+            newcell.innerHTML = csvarray[i][x];
+          }
+        }
       }
-      client.send();
 
-      csvarray[0] = [];
-
-      if (tbl.rows.length < csvarray.length) {
-        while (tbl.rows.length < csvarray.length) {
-          tbl.insertRow();
-        }
-      }
-      else if (tbl.rows.length > csvarray.length) {
-        while (tbl.rows.length > csvarray.length) {
-          tbl.deleteRow();
-        }
-      }
-
-      console.log(tbl.rows.length);
-      //console.log(tbl.rows[1].cells);
-      //console.log(csvarray[13].length)
-      rowlen = JSON.parse(JSON.stringify(tbl.rows.length));
-      lencell = JSON.parse(JSON.stringify(tbl.rows[1].cells.length));
-
-      for(var i=1; i<rowlen; i++) {
-        for(var x=0; x<lencell; x++) {
-          tbl.rows[i].deleteCell(0)
-        }
-      }
-      for(var i=0; i<rowlen; i++) {
-        tbl.deleteRow(0);
-      }
-      for(var i=1; i<rowlen; i++) {
-        tbl.insertRow(0);
-      }
-      for(var x=0; x<rowlen; x++) {
-          var newcell = tbl.rows[0].insertCell(x);
-          newcell.innerHTML = "";
-        }
-      for(var i=1; i<rowlen; i++) {
-        for(var x=0; x<csvarray[i].length; x++) {
-          var newcell = tbl.rows[i].insertCell(x);
-          newcell.innerHTML = csvarray[i][x];
-        }
-      }
+      tableFromCSV('https://centennial-tech-test.microsoftcrmportals.com/grants-initial/applicationdata.csv/', document.getElementById("tbl"));
+      tableFromCSV('https://centennial-tech-test.microsoftcrmportals.com/grants-initial/auditsdata.csv/', document.getElementById("tbl2"));
+      tableFromCSV('https://centennial-tech-test.microsoftcrmportals.com/grants-initial/monitoringdata.csv/', document.getElementById("tbl3"));
 
     </script>
 
@@ -1569,6 +1559,17 @@
                 b.style.display = "none";
 
               }
+
+              var _attachDefaultObjectEvent = function(elementIdQuery, elementId, eventName, fn) {
+                var func = function() {
+                    if(!$ax.style.IsWidgetDisabled(elementId)) return fn.apply(this, arguments);
+                    return true;
+                };
+
+                var bind = !elementIdQuery[eventName];
+                if(bind) elementIdQuery.bind(eventName, func);
+                else elementIdQuery[eventName](func);
+              };
             </script>
 
            <!--  <div id="u362" class="ax_default">

@@ -805,8 +805,8 @@
               </tr>
             </thead>
           </table>
-          <button type="button" class="btn btn-outline-primary float-right">Continue to Merit Criteria</button>
-          <table class="table">
+          <button id='continue' type="button" class="btn btn-outline-primary float-right" onclick='showNew();'>Continue to Merit Criteria</button>
+          <table id='merit' class="table" style='display: none;'>
             <thead class="thead-light">
               <tr>
                 <th scope="col">Criteria</th>
@@ -854,6 +854,8 @@
               </tr>
             </thead>
           </table>
+          <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick='' style='display: none;'>Cancel</button>
+          <button id='submit' type="button" class="btn btn-primary float-right" onclick='' style='display: none;'>Submit</button>
         </div>
         <div class='col-3'>
           <div class="container">
@@ -891,6 +893,14 @@
         </div>
       </div>
     </div>
+    <script type="text/javascript">
+      function showNew(){
+        document.getElementById("continue").style.display = "none";
+        document.getElementById("merit").style.display = "block";
+        document.getElementById("cancel").style.display = "block";
+        document.getElementById("submit").style.display = "block";
+      }
+    </script>
     <!-- Unnamed (Rectangle) -->
       <div class="footer navbar-fixed-bottom">
         <div id="u525_div" class=""></div>

@@ -613,79 +613,6 @@
           <img id="u456_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/grants-initial/u190.png?token=186190e197f53450f965cfd2a6bd5b85c7871291557ef27ea830e9c92c15796d"/>
         </div>
 
-        <script>
-      function searchFunction() {
-        // Declare variables 
-        var x = document.getElementById("tbl");
-        var y = document.getElementById("tbl2");
-        var z = document.getElementById("tbl3");
-          if (window.getComputedStyle(x).display !== "none"){
-          var input, filter, table, tr, td, i, txtValue;
-          input = document.getElementById("myInput");
-          filter = input.value.toUpperCase();
-          table = document.getElementById("tbl");
-          tr = table.getElementsByTagName("tr");
-          // Loop through all table rows, and hide those who don't match the search query
-          for (i = 0; i < tr.length; i++) {
-            td = tr[i].getElementsByTagName("td")[0];
-            if (td) {
-              txtValue = td.textContent || td.innerText;
-              if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                tr[i].style.display = "";
-                tr[0].style.display = "";
-              } 
-              else {
-                tr[i].style.display = "none";
-              }
-            } 
-          }
-          }
-          if (window.getComputedStyle(y).display !== "none"){
-          var input, filter, table, tr, td, i, txtValue;
-          input = document.getElementById("myInput");
-          filter = input.value.toUpperCase();
-          table = document.getElementById("tbl2");
-          tr = table.getElementsByTagName("tr");
-          // Loop through all table rows, and hide those who don't match the search query
-          for (i = 0; i < tr.length; i++) {
-            td = tr[i].getElementsByTagName("td")[0];
-            if (td) {
-              txtValue = td.textContent || td.innerText;
-              if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                tr[i].style.display = "";
-                tr[0].style.display = "";
-              } 
-              else {
-                tr[i].style.display = "none";
-              }
-            } 
-          }
-          }
-          if (window.getComputedStyle(z).display !== "none"){
-          var input, filter, table, tr, td, i, txtValue;
-          input = document.getElementById("myInput");
-          filter = input.value.toUpperCase();
-          table = document.getElementById("tbl3");
-          tr = table.getElementsByTagName("tr");
-          // Loop through all table rows, and hide those who don't match the search query
-          for (i = 0; i < tr.length; i++) {
-            td = tr[i].getElementsByTagName("td")[0];
-            if (td) {
-              txtValue = td.textContent || td.innerText;
-              if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                tr[i].style.display = "";
-                tr[0].style.display = "";
-              } 
-              else {
-                tr[i].style.display = "none";
-              }
-            } 
-          }
-          }
-      }
-
-    </script>
-
         <!-- ddn (Dynamic Panel) -->
         <div id="u457" class="ax_default" data-label="ddn">
           <div id="u457_state0" class="panel_state" data-label="State1" style="">
@@ -777,120 +704,23 @@
             </div>
           </div>
         </div>
-        <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
-      <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
         <!-- Unnamed (Rectangle) -->
         <div id="u469" class="ax_default box_2">
           <div id="u469_div" class=""></div>
         </div>
       </div>
       <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1)">Back</a>
-      <table id = 'headingtbl'>
-      <thead id = 'heading'>
-        <tr>
-          <td colspan = "5" style="padding-right: 350px;">Reviewer ▼</td>
-          <td style="padding-right: 200px;">Designation</td>
-          <td colspan = "2" style="padding-right: 200px;">Phone</td>
-          <td colspan = "2" style="padding-right: 170px;">Email</td>
-        </tr>
-      </thead>
-    </table>
-<table id = 'tbl' cellspacing="40">
-      <thead id = 'heading'>
-        <tr>
-          <td colspan = "5" style="padding-right: 430px;"></td>
-          <td style="padding-right: 300px;"></td>
-          <td colspan = "2" style="padding-right: 260px;"></td>
-          <td colspan = "2" style="padding-right: 215px;"></td>
-        </tr>
-      </thead>
-      <div id = 'scrollbody'>
-        <tbody>
-          <tr>
-            <td colspan = "5">
-              Evelyn Henderson
-            </td>
-            <td>
-              Reviewer
-            </td>
-            <td colspan = "2">
-              (247) 262 5207
-            </td>
-            <td colspan = "2">
-              evelyn-90@gmail.com
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              Alfred Premkumar
-            </td>
-            <td>
-              Reviewer
-            </td>
-            <td colspan = "2">
-              (247) 262 5207
-            </td>
-            <td colspan = "2">
-              apremk@gmail.com
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              Surya Mamidyala
-            </td>
-            <td>
-              Reviewer
-            </td>
-            <td colspan = "2">
-              (247) 262 5207
-            </td>
-            <td colspan = "2">
-              smamid@gmail.com
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              Shrey Gupta
-            </td>
-            <td>
-              Reviewer
-            </td>
-            <td colspan = "2">
-              (247) 262 5207
-            </td>
-            <td colspan = "2">
-              sgupta@gmail.com
-            </td>
-          </tr>
-        </tbody>
-      </div>
-    </table>
-    <script type="text/javascript">
-              $('#tbl tr').on('click', function (){
-            $('.clicked').removeClass('clicked');
-          $(this).addClass('clicked');
-        });
-    </script>
-    <style>
-      table {
-        border-collapse: collapse;
-        width: 100%;
-      }
-
-      th, td {
-        text-align: left;
-        padding: 13px;
-      }
-
-      tr:nth-child(odd) {background-color: #f2f2f2;}
-    </style>
       <!-- Unnamed (Rectangle) -->
       <div id="u517" class="ax_default paragraph1">
         <div id="u517_div" class=""></div>
         <div id="u517_text" class="text ">
-          <p><span>Available Reviewers: 07</span></p>
+          <p><span>Review Eligibility Criteria</span></p>
         </div>
       </div>
+
+      <div id='mainbody' class='text-center'>
+        yee haw
+      <div>
 
       <!-- Unnamed (Rectangle) -->
       <div id="u518" class="ax_default label">

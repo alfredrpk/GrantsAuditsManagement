@@ -33,6 +33,12 @@ body {
     border-radius: 10px;
   }
 
+  #mainbody {
+    width:100%;
+    height: 50px;
+    background-color: red;
+  }
+
   table {
         border-collapse: collapse;
         width: 100%;

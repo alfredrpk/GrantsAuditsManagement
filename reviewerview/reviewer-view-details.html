@@ -7,6 +7,8 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
     <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
@@ -853,8 +855,39 @@
             </thead>
           </table>
         </div>
-        <div class='col-3' style='background-color: blue'>
-          lol
+        <div class='col-3'>
+          <div class="container">
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title">Application_ccps.pdf</h4>
+                    </div>
+                    <div class="modal-body">
+                      <object width=500 height=575 data="Application_ccps.pdf"></object>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                  
+                </div>
+            </div>
+
+            <div class="panel panel-default" id="thepanel">
+                <div class="panel-heading" id="panelheading">Documents submitted: 5</div>
+                <div class="panel-body" id="panelbody">
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                </div>
+              </div>
+          </div>
         </div>
       </div>
     </div>

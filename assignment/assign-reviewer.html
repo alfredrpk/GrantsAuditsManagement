@@ -139,7 +139,7 @@
       <div id="u377" class="ax_default paragraph1">
         <div id="u377_div" class=""></div>
         <div id="u377_text" class="text ">
-          <p><span>City of Charlottesville Public Schools</span></p>
+          <p id = "applicant"><span>City of Charlottesville Public Schools</span></p>
         </div>
       </div>
 
@@ -337,12 +337,18 @@
       </div>
 
       <!-- btn-primary (Rectangle) -->
-      <a href='https://centennial-tech-test.microsoftcrmportals.com/grants-initial/' id="u408" class="ax_default shape btn-primary" style='width:0px;'>
+      <a onclick=redirectFunction() id="u408" class="ax_default shape btn-primary" style='width:0px;'>
         <div id="u408_div" class=""></div>
         <div id="u408_text" class="text ">
           <p><span>Assign Reviewer</span></p>
         </div>
       </a>
+
+      <script>
+        function redirectFunction() {
+          window.location.href = "file:///C:/Users/Surya/Downloads/centennialproj/dashboard1/grants-initial.html" + queryString;
+        }
+      </script>
 
           <span class="glyphicon glyphicon-floppy-disk" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span> 
 
@@ -869,6 +875,14 @@
               $('#tbl tr').on('click', function (){
             $('.clicked').removeClass('clicked');
           $(this).addClass('clicked');
+          $tds = $(this).closest("tr").find("td:nth-child(1)");
+          name = $tds.text();
+          applicant = document.getElementById("applicant").textContent;
+          name = name.trim();
+          queryString = "?para1=" + name + "&para2=" + applicant;
+          console.log(queryString);
+          console.log(name);
+          console.log(applicant);
         });
     </script>
     <style>

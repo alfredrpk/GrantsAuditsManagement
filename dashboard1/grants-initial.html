@@ -94,7 +94,21 @@
     </div>
 
     <!-- Unnamed (Footer) -->
-    <div id = "alertmsg" class="alert alert-warning alert-dismissible">           ✓ Successfully assigned <strong>Evelyn Henderson</strong> to the <strong>City of Charlottsville Public Schools</strong> application</div>
+    <div id = "alertmsg" class="alert alert-warning alert-dismissible">           ✓ Successfully assigned <strong><span id = "nameText"> Evelyn Henderson</span></strong> to the <strong><span id ="applicantText">City of Charlottsville Public Schools</span></strong> application</div>
+
+    <script>
+      // var queryString = decodeURIComponent(window.location.search);
+      // queryString = queryString.substring(1);
+      // console.log(queryString);
+      // var queries = queryString.split("&");   
+
+      var urlParams = new URLSearchParams(window.location.search);
+      myName = urlParams.get('para1');
+      myApplicant = urlParams.get('para2');
+      document.getElementById("nameText").innerHTML = myName;
+      document.getElementById("applicantText").innerHTML = myApplicant;
+
+    </script>
 
     <!-- Unnamed (Rectangle) -->
     <div id="u52" class="ax_default box_2">

@@ -52,12 +52,12 @@ body {
   }  
 
 #thepanel {
-      width: 300px;
-      height: 100%;
-      max-height: 500px;
-      line-height: 30px;
-      font-family: Segoe UI;
-    }
+  width: 300px;
+  height: 100%;
+  max-height: 500px;
+  line-height: 30px;
+  font-family: Segoe UI;
+}
 
 .pdfbutton {
   background: none;
@@ -68,13 +68,16 @@ body {
   cursor: pointer;
   outline: inherit;
 }
-
-.modal-body {
+.modal-dialog {
+  left: -200px;
+}
+.modal-content {
   text-align: center;
+  width: 900px;
 }
 
 #closebtn {
-  margin: 0px;
+  left-margin: 0px;
   padding: 0px;
 }
 

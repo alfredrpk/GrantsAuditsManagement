@@ -49,8 +49,7 @@
     });
 </script>
 </head>
-  <body class="container">
-    <div class="row">
+  <body>
     <div id="base" class="">
 
       <div id="u37" class="ax_default box_2">
@@ -142,7 +141,7 @@
       <div id="u377" class="ax_default paragraph1">
         <div id="u377_div" class=""></div>
         <div id="u377_text" class="text ">
-          <p><span id = "applicantText">City of Charlottesville Public Schools</span></p>
+          <p><span>City of Charlottesville Public Schools</span></p>
         </div>
       </div>
 
@@ -806,13 +805,7 @@
               </tr>
             </thead>
           </table>
-          <button id='continue' type="button" class="btn btn-outline-primary float-right" onclick='showNew();'>Continue to Merit Criteria</button>
-          <div id="u5172" style='display: none;'>
-            <div id="u517_text" class="text">
-              <p><span>Review Merit Criteria</span></p>
-            </div>
-          </div>
-          <table id='merit' class="table" style='display: none;'>
+          <table class="table">
             <thead class="thead-light">
               <tr>
                 <th scope="col">Criteria</th>
@@ -860,18 +853,8 @@
               </tr>
             </thead>
           </table>
-          <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick='' style='display: none;'>Cancel</button>
-          <button id='submit' type="button" class="btn btn-primary float-right" onclick='redirectFunction2()' style='display: none;'>Submit</button>
-          <script>
-            function redirectFunction2(){
-              applicant = document.getElementById("applicantText").textContent;
-              applicant = applicant.trim();
-              queryString = "?para1=" + applicant;
-              console.log(queryString);
-              window.location.href = "../dashboard2/grants-reviewer-initial.html" + queryString;
-              //might change in DYNAMICS
-            }
-          </script>
+          <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick=''>Cancel</button>
+        <button id='submit' type="button" class="btn btn-primary float-right" onclick='redirectFunction2()'>Submit</button>
         </div>
         <div class='col-3'>
           <div class="container">
@@ -909,20 +892,9 @@
         </div>
       </div>
     </div>
-    <script type="text/javascript">
-      function showNew(){
-        document.getElementById("continue").style.display = "none";
-        document.getElementById("merit").style.display = "block";
-        document.getElementById("cancel").style.display = "block";
-        document.getElementById("submit").style.display = "block";
-        document.getElementById("u5172").style.display = "block";
-      }
-    </script>
-  </div>
-  <div class="row">
-    <div id="u525" class="">
-     <div id="u525_div" class=""></div>
-    </div>
-  </div>
+    <!-- Unnamed (Rectangle) -->
+      <div class="footer navbar-fixed-bottom">
+        <div id="u525_div" class=""></div>
+      </div>
   </body>
 </html>

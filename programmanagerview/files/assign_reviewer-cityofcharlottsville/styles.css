@@ -6281,7 +6281,8 @@ body {
   font-weight:400;
   font-style:normal;
   font-size:30px;
-  color:#
+  color:#222222;
+}
 #u517_text {
   border-width:0px;
   left:0px;
@@ -6478,8 +6479,10 @@ body {
 }
 #u525_div {
   border-width:0px;
+  position:absolute;
   left:-165px;
-  width:2000px;
+  top:0px;
+  width:1600px;
   height:35px;
   background:inherit;
   background-color:rgba(17, 46, 81, 1);
@@ -6501,8 +6504,9 @@ body {
 }
 #u525 {
   border-width:0px;
+  position:absolute;
   left:0px;
-  bottom:0px;
+  top:1011px;
   width:1200px;
   height:35px;
 }

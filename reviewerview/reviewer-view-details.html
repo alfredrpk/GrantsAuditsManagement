@@ -142,7 +142,7 @@
       <div id="u377" class="ax_default paragraph1">
         <div id="u377_div" class=""></div>
         <div id="u377_text" class="text ">
-          <p><span>City of Charlottesville Public Schools</span></p>
+          <p><span id = "applicantText">City of Charlottesville Public Schools</span></p>
         </div>
       </div>
 
@@ -861,7 +861,17 @@
             </thead>
           </table>
           <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick='' style='display: none;'>Cancel</button>
-          <button id='submit' type="button" class="btn btn-primary float-right" onclick='' style='display: none;'>Submit</button>
+          <button id='submit' type="button" class="btn btn-primary float-right" onclick='redirectFunction2()' style='display: none;'>Submit</button>
+          <script>
+            function redirectFunction2(){
+              applicant = document.getElementById("applicantText").textContent;
+              applicant = applicant.trim();
+              queryString = "?para1=" + applicant;
+              console.log(queryString);
+              window.location.href = "../dashboard2/grants-reviewer-initial.html" + queryString;
+              //might change in DYNAMICS
+            }
+          </script>
         </div>
         <div class='col-3'>
           <div class="container">

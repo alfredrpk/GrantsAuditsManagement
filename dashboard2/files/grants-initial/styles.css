@@ -152,6 +152,19 @@ body {
     overflow: auto;
   }
 
+#alertmsg {
+  /*margin-top: -6px;*/
+  font-family: Segoe UI;
+  visibility: hidden;
+  text-align: left;
+  font-size: 15px;
+  position: relative;
+  width: 1300px;
+  left: -25px;
+  height: 50px;
+  top: 445px;
+}
+
 #u37_div {
   border-width:0px;
   position:absolute;

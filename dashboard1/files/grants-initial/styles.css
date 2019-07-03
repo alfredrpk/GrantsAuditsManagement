@@ -32,6 +32,7 @@ body {
   #alertmsg {
   /*margin-top: -6px;*/
   font-family: Segoe UI;
+  visibility: hidden;
   text-align: left;
   font-size: 15px;
   position: relative;

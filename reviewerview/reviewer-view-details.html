@@ -49,8 +49,7 @@
     });
 </script>
 </head>
-  <body class="container">
-    <div class="row">
+  <body>
     <div id="base" class="">
 
       <div id="u37" class="ax_default box_2">
@@ -803,13 +802,8 @@
               </tr>
             </thead>
           </table>
-          <button id='continue' type="button" class="btn btn-outline-primary float-right" onclick='showNew();'>Continue to Merit Criteria</button>
-          <div id="u5172" style='display: none;'>
-            <div id="u517_text" class="text">
-              <p><span>Review Merit Criteria</span></p>
-            </div>
-          </div>
-          <table id='merit' class="table" style='display: none;'>
+          <button type="button" class="btn btn-outline-primary float-right">Continue to Merit Criteria</button>
+          <table class="table">
             <thead class="thead-light">
               <tr>
                 <th scope="col">Criteria</th>
@@ -857,8 +851,6 @@
               </tr>
             </thead>
           </table>
-          <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick='' style='display: none;'>Cancel</button>
-          <button id='submit' type="button" class="btn btn-primary float-right" onclick='' style='display: none;'>Submit</button>
         </div>
         <div class='col-3'>
           <div class="modal fade modal" id="myModal" role="dialog">
@@ -902,20 +894,5 @@
       </div>
 
   
-    <script type="text/javascript">
-      function showNew(){
-        document.getElementById("continue").style.display = "none";
-        document.getElementById("merit").style.display = "block";
-        document.getElementById("cancel").style.display = "block";
-        document.getElementById("submit").style.display = "block";
-        document.getElementById("u5172").style.display = "block";
-      }
-    </script>
-  </div>
-  <div class="row">
-    <div id="u525" class="">
-     <div id="u525_div" class=""></div>
-    </div>
-  </div>
   </body>
 </html>

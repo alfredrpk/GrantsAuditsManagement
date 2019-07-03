@@ -1,4 +1,4 @@
-html {
+  html {
   box-sizing: border-box;
 }
 
@@ -71,6 +71,15 @@ body {
 
 .modal-body {
   text-align: center;
+}
+
+#closebtn {
+  margin: 0px;
+  padding: 0px;
+}
+
+#modaltitle {
+  float: left;
 }
 
 #u37_div {

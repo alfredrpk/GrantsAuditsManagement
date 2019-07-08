@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
@@ -339,10 +340,10 @@
       </div> -->
 
       <!-- btn-primary (Rectangle) -->
-      <a onclick=redirectFunction() id="u408" class="ax_default shape btn-primary" style='width:0px;'>
+      <a onclick=redirectFunction() id="u408" class="ax_default shape btn-primary" />
         <div id="u408_div" class=""></div>
         <div id="u408_text" class="text ">
-          <p><span>Assign Reviewer</span></p>
+          <p><span>Select for Potential Award</span></p>
         </div>
       </a>
 
@@ -797,97 +798,270 @@
       <table id = 'headingtbl'>
       <thead id = 'heading'>
         <tr>
-          <td colspan = "5" style="padding-right: 350px;">Reviewer ▼</td>
-          <td style="padding-right: 200px;">Designation</td>
-          <td colspan = "2" style="padding-right: 200px;">Phone</td>
-          <td colspan = "2" style="padding-right: 170px;">Email</td>
+          <td style="padding-right: 180px;"> Applicant ▼</td>
+          <td style="padding-right: 80px;">Applicant ID</td>
+          <td style="padding-right: 75px;">Eligibility Score</td>
+          <td style="padding-right: 60px;">Merit Score</td>
+          <td style = "padding-right: 60px;">Budget Requested</td>
+          <td style = "padding-right: 150px;">Potential Award   <input type="checkbox" onchange="checkAll(this)" name = "chk[]" /><span id = "smallText">(Select All)</span></td>
         </tr>
       </thead>
     </table>
-<table id = 'tbl' cellspacing="40">
+<table id = 'tbl'>
       <thead id = 'heading'>
         <tr>
-          <td colspan = "5" style="padding-right: 430px;"></td>
           <td style="padding-right: 300px;"></td>
-          <td colspan = "2" style="padding-right: 260px;"></td>
-          <td colspan = "2" style="padding-right: 215px;"></td>
+          <td style="padding-right: 220px;"></td>
+          <td style="padding-right: 200px;"></td>
+          <td style="padding-right: 160px;"></td>
+          <td style="padding-right: 250px;"></td>
+          <td style="padding-right: 260px;"></td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
         <tbody>
           <tr>
-            <td colspan = "5">
-              Evelyn Henderson
+            <td>
+              City of Charlottesville Public Schools
             </td>
             <td>
-              Reviewer
+              JH1234880
             </td>
-            <td colspan = "2">
-              (247) 262 5207
+            <td>
+              43
             </td>
-            <td colspan = "2">
-              evelyn-90@gmail.com
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
             </td>
           </tr>
           <tr>
-            <td colspan = "5">
-              Alfred Premkumar
+            <td>
+              Fairfax County Public Schools
             </td>
             <td>
-              Reviewer
+              JH1234882
             </td>
-            <td colspan = "2">
-              (247) 262 5207
+            <td>
+              39
             </td>
-            <td colspan = "2">
-              apremk@gmail.com
+            <td>
+              39
+            </td>
+            <td>
+              42,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
             </td>
           </tr>
           <tr>
-            <td colspan = "5">
-              Surya Mamidyala
+            <td>
+              Howard County Public Schools
             </td>
             <td>
-              Reviewer
+              JH1234884
             </td>
-            <td colspan = "2">
-              (247) 262 5207
+            <td>
+              48
             </td>
-            <td colspan = "2">
-              smamid@gmail.com
+            <td>
+              48
+            </td>
+            <td>
+              52,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
             </td>
           </tr>
           <tr>
-            <td colspan = "5">
-              Shrey Gupta
+           <td>
+              Loudoun County Public Schools
             </td>
             <td>
-              Reviewer
+              JH1234885
             </td>
-            <td colspan = "2">
-              (247) 262 5207
+            <td>
+              45
             </td>
-            <td colspan = "2">
-              sgupta@gmail.com
+            <td>
+              45
+            </td>
+            <td>
+              72,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
             </td>
           </tr>
         </tbody>
       </div>
     </table>
-    <script type="text/javascript">
-              $('#tbl tr').on('click', function (){
-            $('.clicked').removeClass('clicked');
-          $(this).addClass('clicked');
-          $tds = $(this).closest("tr").find("td:nth-child(1)");
-          name = $tds.text();
-          applicant = document.getElementById("applicant").textContent;
-          name = name.trim();
-          queryString = "?para1=" + name + "&para2=" + applicant;
-          console.log(queryString);
-          console.log(name);
-          console.log(applicant);
-        });
-    </script>
+    <script>
+      function checkAll(ele) {
+       var checkboxes = document.getElementsByTagName('input');
+       if (ele.checked) {
+         for (var i = 0; i < checkboxes.length; i++) {
+           if (checkboxes[i].type == 'checkbox') {
+             checkboxes[i].checked = true;
+           }
+         }
+       } else {
+         for (var i = 0; i < checkboxes.length; i++) {
+           console.log(i)
+           if (checkboxes[i].type == 'checkbox') {
+             checkboxes[i].checked = false;
+           }
+         }
+       }
+     }
+   </script>
     <style>
       table {
         border-collapse: collapse;
@@ -905,7 +1079,7 @@
       <div id="u517" class="ax_default paragraph1">
         <div id="u517_div" class=""></div>
         <div id="u517_text" class="text ">
-          <p><span>Reviewer Eligibility Criteria</span></p>
+          <p><span>Applications: <strong>10<strong></span></p>
         </div>
       </div>
 

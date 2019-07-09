@@ -775,7 +775,7 @@
               <tr>
                 <th scope="col">Factor</th>
                 <th scope="col"></th>
-                <th scope="col">Risk Category</th>
+                <th scope="col" style="white-space: nowrap;">Risk Category</th>
               </tr>
             </thead>
             <tbody>
@@ -788,42 +788,46 @@
                 <td>1. Type of Audit Report</td>
                 <td>
                   <div class="radio">
-                    <label><input type="radio" name="optradio">Qualified</label>
-                    <label><input type="radio" name="optradio">Adverse</label>
-                    <label><input type="radio" name="optradio">Disclaimer</label>
+                    <label><input type="radio" name="1" value="Medium" oninput="changeRisk('1', 'Medium')">Qualified</label>
+                  </div>
+                  <div class="radio">
+                    <label><input type="radio" name="1" value="High" oninput="changeRisk('1', 'Medium')">Adverse</label>
+                  </div>
+                  <div class="radio">
+                    <label><input type="radio" name="1" value="High" oninput="changeRisk('1', 'High')">Disclaimer</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk1'></td>
               </tr>
               <tr>
                 <td>2. Is a reportable condition</td>
                 <td>
                   <div class="radio">
-                    <label><input type="radio" name="optradio">Disclosed</label>
-                    <label><input type="radio" name="optradio">Report as a material weakness</label>
+                    <label><input type="radio" name="2" value="Medium" oninput="changeRisk('2', 'Medium')">Disclosed</label>
+                  </div>
+                  <div class="radio">
+                    <label><input type="radio" name="2" value="High" oninput="changeRisk('1', 'High')">Report as a material weakness</label>
                   </div>
                 </td>
-                <td>
-                  -
-                </td>
+                <td id='risk2'></td>
               </tr>
               <tr>
                 <td>3. Is a material noncompliance disclosed?</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check3' type="checkbox" value="">Yes</label>
+                    <label><input id='check3' type="checkbox" name="3" value="Medium" oninput="changeRisk('3', 'Medium')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk3'></td>
               </tr>
               <tr>
                 <td>4. Is a "Going Concern" explanatory paragram included in the audit report?</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check4' type="checkbox" value="">Yes</label>
+                    <label><input id='check4' type="checkbox" name="4" value="High" oninput="changeRisk('4', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk4'></td>
               </tr>
               <tr class='spblue'>
                 <td>FEDERAL PROGRAMS</td>
@@ -834,20 +838,23 @@
                 <td>5. Did the auditee qualify as a low risk auditee? (Assessed if auditee did not qualify as a low risk auditee)</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check5' type="checkbox" value="">Yes</label>
+                    <label><input id='check5' type="checkbox" name="5" value="Medium" oninput="changeRisk('5', 'Medium')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk5'></td>
               </tr>
               <tr>
                 <td>6. Is a reportable condition</td>
-                <td><div class="radio">
-                    <label><input type="radio" name="optradio">Disclosed for any major program?</label>
-                    <label><input type="radio" name="optradio">Is any major program reported as a material weakness?</label>
-                  </div></td>
                 <td>
-                  -
+                  <div class="radio">
+                    <label><input type="radio" name="optradio" name="6" value="Medium" oninput="changeRisk('6', 'Medium')">Disclosed for any major program?</label>
+                    <label><input type="radio" name="optradio" name="6" value="High" oninput="changeRisk('6', 'High')">Is any major program reported as a material weakness?</label>
+                  </div>
+                  <div class="radio">
+                    <label><input type="radio" name="optradio">Is any major program reported as a material weakness?</label>
+                  </div>
                 </td>
+                <td id='risk6'></td>
               </tr>
               <tr class='spblue'>
                 <td>FEDERAL PROGRAMS</td>
@@ -858,83 +865,97 @@
                 <td>7. Does the audit contain repeat findings from the prior year</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check7' type="checkbox" value="">Yes</label>
+                    <label><input id='check7' type="checkbox" name="7" value="High" oninput="changeRisk('7', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk7'></td>
               </tr>
               <tr>
                 <td>8. Did the audit identify questioned costs? Are they greater than $500,000</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check8' type="checkbox" value="">Yes</label>
+                    <label><input id='check8' type="checkbox" name="8" value="High" oninput="changeRisk('8', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk8'></td>
               </tr>
               <tr>
                 <td>9. Is the audit overdue for resolution</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check9' type="checkbox" value="">Yes</label>
+                    <label><input id='check9' type="checkbox" name="9" value="High" oninput="changeRisk('9', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk9'></td>
               </tr>
               <tr>
                 <td>10. Is the audit a late submittal</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check10' type="checkbox" value="">Yes</label>
+                    <label><input id='check10' type="checkbox" name="10" value="High" oninput="changeRisk('10', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk10'></td>
               </tr>
               <tr>
                 <td>11. Will the Statute of Limitations expire within the next 2 years?</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check11' type="checkbox" value="">Yes</label>
+                    <label><input id='check11' type="checkbox" name="11" value="High" oninput="changeRisk('11', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk11'></td>
               </tr>
               <tr>
                 <td>12. Is the ratio of CFDA’s with findings compared to the number of CFDAs audited as a major program greater than 60%</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check12' type="checkbox" value="">Yes</label>
+                    <label><input id='check12' type="checkbox" name="12" value="High" oninput="changeRisk('12', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk12'></td>
               </tr>
               <tr>
                 <td>13. Is the auditee located outside of the United States</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check13' type="checkbox" value="">Yes</label>
+                    <label><input id='check13' type="checkbox" name="13" value="High" oninput="changeRisk('13', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk13'></td>
               </tr>
               <tr>
                 <td>14. Does the audit contain ARRA programs with findings?</td>
                 <td>
                   <div class="checkbox">
-                    <label><input id='check14' type="checkbox" value="">Yes</label>
+                    <label><input id='check14' type="checkbox" name="14" value="High" oninput="changeRisk('14', 'High')">Yes</label>
                   </div>
                 </td>
-                <td>-</td>
+                <td id='risk14'></td>
               </tr>
               <tr>
                 <td>15. Does the auditee have other open audits with findings in ARRA programs?</td>
                 <td><div class="checkbox">
-                    <label><input id='check15' type="checkbox" value="">Yes</label>
+                    <label><input id='check15' type="checkbox" name="15" value="High" onchange="changeRisk('15', 'High')">Yes</label>
                   </div></td>
-                <td>-</td>
+                <td id='risk15'></td>
               </tr>
             </tbody>
           </table>
+          <script>
+            function changeRisk(num, risk) {
+              if (risk == "Medium"){
+                document.getElementById('risk'+num).innerHTML = "<span class=\"badge badge-warning\">Warning</span>";
+                console.log('yellow');
+              }
+              else if (risk == "High"){
+                document.getElementById('risk'+num).innerHTML = "<span class=\"badge badge-danger\">High</span>";
+                console.log('red');
+              }
+              else
+                document.getElementById('risk'+num).innerHTML = "";
+            }
+          </script>
     </div>
     <!-- Unnamed (Rectangle) -->
       <div class="footer navbar-fixed-bottom">

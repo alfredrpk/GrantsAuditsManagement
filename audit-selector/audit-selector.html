@@ -2,12 +2,11 @@
 <html>
 <head>
   <meta name="robots" content="noindex, nofollow"/>
-  <title>Grants-initial</title>
+  <title>Audits-initial</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
-  <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css/" type="text/css" rel="stylesheet"/>-->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css" type="text/css" rel="stylesheet"/>-->
   <link href="/theme.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
@@ -94,44 +93,6 @@
     </div>
 
     <!-- Unnamed (Footer) -->
-    <div id = "alertmsg" class="alert alert-warning alert-dismissible">           ✓ Successfully assigned <strong><span id = "nameText"> Evelyn Henderson</span></strong> to the <strong><span id ="applicantText">City of Charlottsville Public Schools</span></strong> application</div>
-
-    <script>
-      // var queryString = decodeURIComponent(window.location.search);
-      // queryString = queryString.substring(1);
-      // console.log(queryString);
-      // var queries = queryString.split("&");   
-
-      var urlParams = new URLSearchParams(window.location.search);
-      var currentLink = document.URL;
-      parameterValue = false;
-      if (currentLink.includes("?")){
-        parameterValue = true;
-      }
-      myName = urlParams.get('para1');
-      myApplicant = urlParams.get('para2');
-      document.getElementById("applicantText").innerHTML = myApplicant;
-      document.getElementById("nameText").innerHTML = myName;
-      console.log(myApplicant);
-      if(parameterValue == true){
-        document.getElementById("alertmsg").style.visibility = "visible";
-      }
-
-      var urlParams = new URLSearchParams(window.location.search);
-      var currentLink = document.URL;
-      parameterValue = false;
-      if (currentLink.includes("?")){
-        parameterValue = true;
-      }
-      myName = urlParams.get('para1');
-      myApplicant = urlParams.get('para2');
-      document.getElementById("nameText").innerHTML = myName;
-      document.getElementById("applicantText").innerHTML = myApplicant;
-      if (parameterValue == true){
-        document.getElementById("alertmsg").style.display = "visible";
-      }
-
-    </script>
 
     <!-- Unnamed (Rectangle) -->
     <div id="u52" class="ax_default box_2">
@@ -147,273 +108,88 @@
           <div id="u56" class="ax_default paragraph1">
             <div id="u56_div" class=""></div>
             <div id="u56_text" class="text ">
-              <p><span style="font-family:'Segoe UI';font-weight:400;">Applications:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:400;">15</span></p>
+              <p><span style="font-family:'Segoe UI';font-weight:400;">Audits for CFDA# 98.102:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:400;">15</span></p>
             </div>
           </div>
         </div>
       </div>
     </div>
-   <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
-   <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
-   <table id = 'tbl'>
+    <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
+    <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
+    <table id = 'headingtbl'>
       <thead id = 'heading'>
         <tr>
-          <td colspan = "5" style="padding-right: 300px;">Applicant ▼</td>
-          <td style="padding-right: 100px;">State</td>
-          <td colspan = "2" style="padding-right: 100px;">EIN</td>
-          <td colspan = "2" style="padding-right: 100px;">DUNS</td>
-          <td colspan = "2" style="padding-right: 100px;">Grant Type</td>
-          <td style="padding-right: 80px;">Status</td>
+          <td colspan = "5" style="padding-right: 230px;">Grantee Name</td>
+<!--           <td style="padding-right: 100px;">State</td> -->
+          <td colspan = "2" style="padding-right: 50px;">Grantee EIN</td>
+          <td colspan = "2" style="padding-right: 60px;">Grantee City/State</td>
+          <td colspan = "2" style="padding-right: 60px;">FAC Accepted Date ▼</td>
+          <td style="padding-right: 80px;">Prior Year Finding</td>
         </tr>
-        <!-- <tr>
-          <td colspan = "5" style="padding-right: 455px;"></td>
-          <td style="padding-right: 120px;"></td>
-          <td colspan = "2" style="padding-right: 145px;"></td>
+      </thead>
+    </table>
+    <table id = 'tbl' cellspacing="40">
+      <thead id = 'heading'>
+        <tr>
+          <td colspan = "5" style="padding-right: 370px;"></td>
+         <!--  <td style="padding-right: 220px;"></td> -->
           <td colspan = "2" style="padding-right: 170px;"></td>
-          <td colspan = "2" style="padding-right: 190px;"></td>
-          <td style="padding-right: 100px;"></td>
-        </tr> -->
+          <td colspan = "2" style="padding-right: 230px;"></td>
+          <td colspan = "2" style="padding-right: 280px;"></td>
+          <td style="padding-right: 145px;"></td>
+        </tr>
       </thead>
       <div id = 'scrollbody'>
-        <tbody cellspacing = "40">
+        <tbody>
           <tr>
             <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
+              Richmond Redevelopment and Housing
             </td>
             <td colspan = "2">
               33-1234888
             </td>
             <td colspan = "2">
-              88-111-8235
+              Richmond, VA
             </td>
             <td colspan = "2">
-              Discretionary
+              10/10/2018
             </td>
             <td>
-              Active
+              Yes
             </td>
           </tr>
           <tr>
             <td colspan = "5">
-              Fairfaxxxxx
-            </td>
-            <td>
-              Virginia
+              Richmond Redevelopment and Housing
             </td>
             <td colspan = "2">
               33-1234888
             </td>
             <td colspan = "2">
-              88-111-8235
+              Richmond, VA
             </td>
             <td colspan = "2">
-              Discretionary
+              10/10/2018
             </td>
             <td>
-              Active
+              Yes
             </td>
           </tr>
           <tr>
             <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
+              Richmond Redevelopment and Housing
             </td>
             <td colspan = "2">
               33-1234888
             </td>
-            <td colspan = "2">
-              88-111-8235
+            <td colspan = "2">  
+              Richmond, VA
             </td>
             <td colspan = "2">
-              Discretionary
+              10/10/2018
             </td>
             <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
-            </td>
-          </tr>
-          <tr>
-            <td colspan = "5">
-              City of Charlottesville Public Schools
-            </td>
-            <td>
-              Virginia
-            </td>
-            <td colspan = "2">
-              33-1234888
-            </td>
-            <td colspan = "2">
-              88-111-8235
-            </td>
-            <td colspan = "2">
-              Discretionary
-            </td>
-            <td>
-              Active
+              Yes
             </td>
           </tr>
         </tbody>
@@ -581,16 +357,6 @@
         width: 100%;
       }
 
-      table thead tr{
-        display: block;
-      }
-
-      table tbody{
-        display: block;
-        height: 400px;
-        overflow: auto;
-      }
-
       th, td {
         text-align: left;
         padding: 13px;
@@ -674,49 +440,6 @@
           }
           }
       }
-      // EDIT TABLES
-      function tableFromCSV(url, table) {
-        var tbl = table;
-        var csvarray = [];
-        var client = new XMLHttpRequest();
-        client.open('GET', url, false);
-        client.onload = function() {
-            var rows = client.responseText.split('\n');
-            for(var i = 0; i < rows.length-1; i++){
-              csvarray.push(rows[i].split(','));
-              //console.log(i);
-            }
-        }
-        client.send();
-        if (tbl.rows.length < csvarray.length) {
-          while (tbl.rows.length < csvarray.length) {
-            tbl.insertRow();
-          }
-        }
-        else if (tbl.rows.length > csvarray.length) {
-          while (tbl.rows.length > csvarray.length) {
-            tbl.deleteRow();
-          }
-        }
-        console.log(tbl.rows.length);
-        rowlen = JSON.parse(JSON.stringify(tbl.rows.length));
-        lencell = JSON.parse(JSON.stringify(tbl.rows[0].cells.length));
-        for(var i=0; i<rowlen; i++) {
-          for(var x=0; x<lencell; x++) {
-            tbl.rows[i].deleteCell(0)
-          }
-        }
-        for(var i=0; i<rowlen; i++) {
-          for(var x=0; x<csvarray[i].length; x++) {
-            var newcell = tbl.rows[i].insertCell(x);
-            newcell.innerHTML = csvarray[i][x];
-          }
-        }
-      }
-
-      tableFromCSV('https://centennial-tech-test.microsoftcrmportals.com/grants-initial/applicationdata.csv/', document.getElementById("tbl"));
-      tableFromCSV('https://centennial-tech-test.microsoftcrmportals.com/grants-initial/auditsdata.csv/', document.getElementById("tbl2"));
-      tableFromCSV('https://centennial-tech-test.microsoftcrmportals.com/grants-initial/monitoringdata.csv/', document.getElementById("tbl3"));
 
     </script>
 
@@ -775,7 +498,7 @@
       <div id="u153" class="ax_default label">
         <div id="u153_div" class=""></div>
         <div id="u153_text" class="text ">
-          <p><span>Grants</span></p>
+          <p><span>Grants ▾</span></p>
         </div>
       </div>
 
@@ -783,7 +506,14 @@
       <div id="u154" class="ax_default label">
         <div id="u154_div" class=""></div>
         <div id="u154_text" class="text ">
-          <p><span>Audits</span></p>
+          <p><span>Audits ▾</span></p>
+        </div>
+      </div>
+
+      <div id="u154a" class="ax_default label">
+        <div id="u154a_div" class=""></div>
+        <div id="u154a_text" class="text ">
+          <p><span>FAC</span></p>
         </div>
       </div>
 
@@ -988,6 +718,9 @@
       <div id="u185" class="ax_default">
       </div>
 
+      <div id="u185a" class="ax_default" tabindex="0"style="cursor: pointer;">
+      </div>
+
       <!-- Unnamed (Group) -->
       <div id="u186" class="ax_default" data-left="19" data-top="6" data-width="827" data-height="271">
 
@@ -1122,7 +855,7 @@
             <div id="u207" class="ax_default paragraph1" data-label="ReviewerViewLnk">
               <div id="u207_div" class=""></div>
               <div id="u207_text" class="text ">
-                <p><span style="font-family:'Segoe UI';font-weight:400;">Audits:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:600;">04</span></p>
+                <p><span style="font-family:'Segoe UI';font-weight:400;">Audits for CFDA# 98.102:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:600;">15</span></p>
               </div>
             </div>
           </div>
@@ -1138,7 +871,7 @@
             <div id="u253" class="ax_default paragraph1" data-label="ReviewerViewLnk">
               <div id="u253_div" class=""></div>
               <div id="u253_text" class="text ">
-                <p><span style="font-family:'Segoe UI';font-weight:400;">Applications:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:600;">06</span></p>
+                <p><span style="font-family:'Segoe UI';font-weight:400;">Audits for CFDA# 98.102:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:600;">15</span></p>
               </div>
             </div>
             
@@ -1190,7 +923,7 @@
               <div id="u304" class="ax_default paragraph1">
                 <div id="u304_div" class=""></div>
                 <div id="u304_text" class="text ">
-                  <p><span>Audits</span></p>
+                  <p><span>Assigned Audits</span></p>
                 </div>
               </div>
             </div>
@@ -1216,7 +949,7 @@
               <div id="u309" class="ax_default paragraph1">
                 <div id="u309_div" class=""></div>
                 <div id="u309_text" class="text ">
-                  <p><span>Post-Award Grant Monitoring</span></p>
+                  <p><span>Closed Audits</span></p>
                 </div>
               </div>
             </div>
@@ -1225,7 +958,7 @@
             <div id="u310" class="ax_default label">
               <div id="u310_div" class=""></div>
               <div id="u310_text" class="text ">
-                <p><span>Applications to be assigned to reviewers</span></p>
+                <p><span>New audit reports received</span></p>
               </div>
             </div>
 
@@ -1233,7 +966,7 @@
             <div id="u311" class="ax_default paragraph1">
               <div id="u311_div" class=""></div>
               <div id="u311_text" class="text ">
-                <p><span>Applications</span></p>
+                <p><span>New Audits</span></p>
               </div>
             </div>
 
@@ -1241,7 +974,7 @@
             <div id="u312" class="ax_default paragraph1">
               <div id="u312_div" class=""></div>
               <div id="u312_text" class="text ">
-                <p><span>04</span></p>
+                <p><span>44</span></p>
               </div>
             </div>
 
@@ -1249,7 +982,7 @@
             <div id="u313" class="ax_default label">
               <div id="u313_div" class=""></div>
               <div id="u313_text" class="text ">
-                <p><span>Audits that need your attention</span></p>
+                <p><span>Audits already assigned</span></p>
               </div>
             </div>
 
@@ -1257,7 +990,7 @@
             <div id="u314" class="ax_default paragraph1">
               <div id="u314_div" class=""></div>
               <div id="u314_text" class="text ">
-                <p><span>06</span></p>
+                <p><span>16</span></p>
               </div>
             </div>
 
@@ -1265,7 +998,7 @@
             <div id="u315" class="ax_default label">
               <div id="u315_div" class=""></div>
               <div id="u315_text" class="text ">
-                <p><span>Grants currently monitoring</span></p>
+                <p><span>Audits closed</span></p>
               </div>
             </div>
 
@@ -1328,7 +1061,7 @@
               <div id="u327" class="ax_default paragraph1">
                 <div id="u327_div" class=""></div>
                 <div id="u327_text" class="text ">
-                  <p><span>Audits</span></p>
+                  <p><span>Assigned Audits</span></p>
                 </div>
               </div>
             </div>
@@ -1354,7 +1087,7 @@
               <div id="u332" class="ax_default paragraph1">
                 <div id="u332_div" class=""></div>
                 <div id="u332_text" class="text ">
-                  <p><span>Post-Award Grant Monitoring</span></p>
+                  <p><span>Closed Audits</span></p>
                 </div>
               </div>
             </div>
@@ -1363,7 +1096,7 @@
             <div id="u333" class="ax_default label">
               <div id="u333_div" class=""></div>
               <div id="u333_text" class="text ">
-                <p><span>Applications to be assigned to reviewers</span></p>
+                <p><span>New audit reports received</span></p>
               </div>
             </div>
 
@@ -1371,7 +1104,7 @@
             <div id="u334" class="ax_default paragraph1">
               <div id="u334_div" class=""></div>
               <div id="u334_text" class="text ">
-                <p><span>Applications</span></p>
+                <p><span>New Audits</span></p>
               </div>
             </div>
 
@@ -1379,7 +1112,7 @@
             <div id="u335" class="ax_default paragraph1">
               <div id="u335_div" class=""></div>
               <div id="u335_text" class="text ">
-                <p><span>04</span></p>
+                <p><span>44</span></p>
               </div>
             </div>
 
@@ -1387,7 +1120,7 @@
             <div id="u336" class="ax_default label">
               <div id="u336_div" class=""></div>
               <div id="u336_text" class="text ">
-                <p><span>Audits that need your attention</span></p>
+                <p><span>Audits already assigned</span></p>
               </div>
             </div>
 
@@ -1395,7 +1128,7 @@
             <div id="u337" class="ax_default paragraph1">
               <div id="u337_div" class=""></div>
               <div id="u337_text" class="text ">
-                <p><span>06</span></p>
+                <p><span>16</span></p>
               </div>
             </div>
 
@@ -1403,7 +1136,7 @@
             <div id="u338" class="ax_default label">
               <div id="u338_div" class=""></div>
               <div id="u338_text" class="text ">
-                <p><span>Grants currently monitoring</span></p>
+                <p><span>Audits closed</span></p>
               </div>
             </div>
 
@@ -1466,7 +1199,7 @@
               <div id="u350" class="ax_default paragraph1">
                 <div id="u350_div" class=""></div>
                 <div id="u350_text" class="text ">
-                  <p><span>Audits</span></p>
+                  <p><span>Assigned Audits</span></p>
                 </div>
               </div>
             </div>
@@ -1492,7 +1225,7 @@
               <div id="u355" class="ax_default paragraph1">
                 <div id="u355_div" class=""></div>
                 <div id="u355_text" class="text ">
-                  <p><span>Post-Award Grant Monitoring</span></p>
+                  <p><span>Closed Audits</span></p>
                 </div>
               </div>
             </div>
@@ -1501,7 +1234,7 @@
             <div id="u356" class="ax_default label">
               <div id="u356_div" class=""></div>
               <div id="u356_text" class="text ">
-                <p><span>Applications to be assigned to reviewers</span></p>
+                <p><span>New audit reports received</span></p>
               </div>
             </div>
 
@@ -1509,7 +1242,7 @@
             <div id="u357" class="ax_default paragraph1">
               <div id="u357_div" class=""></div>
               <div id="u357_text" class="text ">
-                <p><span>Applications</span></p>
+                <p><span>New Audits</span></p>
               </div>
             </div>
 
@@ -1517,7 +1250,7 @@
             <div id="u358" class="ax_default paragraph1">
               <div id="u358_div" class=""></div>
               <div id="u358_text" class="text ">
-                <p><span>04</span></p>
+                <p><span>44</span></p>
               </div>
             </div>
 
@@ -1525,7 +1258,7 @@
             <div id="u359" class="ax_default label">
               <div id="u359_div" class=""></div>
               <div id="u359_text" class="text ">
-                <p><span>Audits that need your attention</span></p>
+                <p><span>Audits already assigned</span></p>
               </div>
             </div>
 
@@ -1533,7 +1266,7 @@
             <div id="u360" class="ax_default paragraph1">
               <div id="u360_div" class=""></div>
               <div id="u360_text" class="text ">
-                <p><span>06</span></p>
+                <p><span>16</span></p>
               </div>
             </div>
 
@@ -1541,7 +1274,7 @@
             <div id="u361" class="ax_default label">
               <div id="u361_div" class=""></div>
               <div id="u361_text" class="text ">
-                <p><span>Grants currently monitoring</span></p>
+                <p><span>Audits closed</span></p>
               </div>
             </div>
 
@@ -1556,13 +1289,13 @@
             <script>
               function myFunction() {
                 var a = document.getElementById("tbl");
-                // var b = document.getElementById("headingtbl");
+                var b = document.getElementById("headingtbl");
                 var c = document.getElementById("tbl2");
                 var d = document.getElementById("headingtbl2");
                 var e = document.getElementById("tbl3");
                 var f = document.getElementById("headingtbl3");
                 a.style.display = "block";
-                // b.style.display = "block";
+                b.style.display = "block";
                 c.style.display = "none";
                 d.style.display = "none";
                 e.style.display = "none";
@@ -1570,7 +1303,7 @@
               }
               function myFunction2() {
                 var a = document.getElementById("tbl");
-                // var b = document.getElementById("headingtbl");
+                var b = document.getElementById("headingtbl");
                 var c = document.getElementById("tbl2");
                 var d = document.getElementById("headingtbl2");
                 var e = document.getElementById("tbl3");
@@ -1578,7 +1311,7 @@
                 c.style.display = "block";
                 d.style.display = "block";
                 a.style.display = "none";
-                // b.style.display = "none";
+                b.style.display = "none";
                 e.style.display = "none";
                 f.style.display = "none";
 
@@ -1586,7 +1319,7 @@
 
               function myFunction3() {
                 var a = document.getElementById("tbl");
-                // var b = document.getElementById("headingtbl");
+                var b = document.getElementById("headingtbl");
                 var c = document.getElementById("tbl2");
                 var d = document.getElementById("headingtbl2");
                 var e = document.getElementById("tbl3");
@@ -1596,20 +1329,9 @@
                 c.style.display = "none";
                 d.style.display = "none";
                 a.style.display = "none";
-                // b.style.display = "none";
+                b.style.display = "none";
 
               }
-
-              var _attachDefaultObjectEvent = function(elementIdQuery, elementId, eventName, fn) {
-                var func = function() {
-                    if(!$ax.style.IsWidgetDisabled(elementId)) return fn.apply(this, arguments);
-                    return true;
-                };
-
-                var bind = !elementIdQuery[eventName];
-                if(bind) elementIdQuery.bind(eventName, func);
-                else elementIdQuery[eventName](func);
-              };
             </script>
 
            <!--  <div id="u362" class="ax_default">

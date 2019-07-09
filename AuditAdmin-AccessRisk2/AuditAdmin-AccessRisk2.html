@@ -788,13 +788,13 @@
                 <td>1. Type of Audit Report</td>
                 <td>
                   <div class="radio">
-                    <label><input type="radio" name="1" value="Medium" oninput="changeRisk('1', 'Medium')">Qualified</label>
+                    <label><input type="radio" name="1" value="Medium" oninput="changeRiskr('1', 'Medium')">Qualified</label>
                   </div>
                   <div class="radio">
-                    <label><input type="radio" name="1" value="High" oninput="changeRisk('1', 'Medium')">Adverse</label>
+                    <label><input type="radio" name="1" value="High" oninput="changeRiskr('1', 'Medium')">Adverse</label>
                   </div>
                   <div class="radio">
-                    <label><input type="radio" name="1" value="High" oninput="changeRisk('1', 'High')">Disclaimer</label>
+                    <label><input type="radio" name="1" value="High" oninput="changeRiskr('1', 'High')">Disclaimer</label>
                   </div>
                 </td>
                 <td id='risk1'></td>
@@ -803,10 +803,10 @@
                 <td>2. Is a reportable condition</td>
                 <td>
                   <div class="radio">
-                    <label><input type="radio" name="2" value="Medium" oninput="changeRisk('2', 'Medium')">Disclosed</label>
+                    <label><input type="radio" name="2" value="Medium" oninput="changeRiskr('2', 'Medium')">Disclosed</label>
                   </div>
                   <div class="radio">
-                    <label><input type="radio" name="2" value="High" oninput="changeRisk('1', 'High')">Report as a material weakness</label>
+                    <label><input type="radio" name="2" value="High" oninput="changeRiskr('2', 'High')">Report as a material weakness</label>
                   </div>
                 </td>
                 <td id='risk2'></td>
@@ -847,8 +847,8 @@
                 <td>6. Is a reportable condition</td>
                 <td>
                   <div class="radio">
-                    <label><input type="radio" name="optradio" name="6" value="Medium" oninput="changeRisk('6', 'Medium')">Disclosed for any major program?</label>
-                    <label><input type="radio" name="optradio" name="6" value="High" oninput="changeRisk('6', 'High')">Is any major program reported as a material weakness?</label>
+                    <label><input type="radio" name="optradio" name="6" value="Medium" oninput="changeRiskr('6', 'Medium')">Disclosed for any major program?</label>
+                    <label><input type="radio" name="optradio" name="6" value="High" oninput="changeRiskr('6', 'High')">Is any major program reported as a material weakness?</label>
                   </div>
                   <div class="radio">
                     <label><input type="radio" name="optradio">Is any major program reported as a material weakness?</label>
@@ -942,14 +942,42 @@
               </tr>
             </tbody>
           </table>
+          <span class="btn glyphicon glyphicon-floppy-disk float-right" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
+          <div id="u518" class="btn float-right">
+            <div id="u518_text" class="text ">
+              <p><span>Cancel</span></p>
+            </div>
+          </div>
           <script>
             function changeRisk(num, risk) {
               if (risk == "Medium"){
-                document.getElementById('risk'+num).innerHTML = "<span class=\"badge badge-warning\">Warning</span>";
+                if (document.getElementById('check'+num).checked == true){
+                  document.getElementById('risk'+num).innerHTML = "<span class=\"label label-warning\">Warning</span>";
+                  console.log('yellow');
+                }
+                else {
+                  document.getElementById('risk'+num).innerHTML = "";
+                }
+              }
+              else if (risk == "High"){
+                if (document.getElementById('check'+num).checked == true){
+                  document.getElementById('risk'+num).innerHTML = "<span class=\"label label-danger\">High</span>";
+                  console.log('red');
+                }
+                else {
+                  document.getElementById('risk'+num).innerHTML = "";
+                }
+              }
+              else
+                document.getElementById('risk'+num).innerHTML = "";
+            }
+            function changeRiskr(num, risk) {
+              if (risk == "Medium"){
+                document.getElementById('risk'+num).innerHTML = "<span class=\"label label-warning\">Warning</span>";
                 console.log('yellow');
               }
               else if (risk == "High"){
-                document.getElementById('risk'+num).innerHTML = "<span class=\"badge badge-danger\">High</span>";
+                document.getElementById('risk'+num).innerHTML = "<span class=\"label label-danger\">High</span>";
                 console.log('red');
               }
               else

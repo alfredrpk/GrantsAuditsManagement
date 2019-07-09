@@ -176,14 +176,10 @@ body {
 
 #icon{
   position: relative;
-  left: 1180px;
-  top: 462px;
 }
 
 #savebutton {
   position: relative;
-  left: 1160px;
-  top: 955px;
   font-size: 24px;
 }
 
@@ -1661,9 +1657,7 @@ body {
 }
 #u408 {
   border-width:0px;
-  position:absolute;
-  left:1050px;
-  top:950px;
+  position:relative;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -6355,9 +6349,7 @@ body {
 }
 #u518 {
   border-width:0px;
-  position:absolute;
-  left:975px;
-  top:958px;
+  position:relative;
   width:41px;
   height:19px;
   font-family:'Segoe UI';

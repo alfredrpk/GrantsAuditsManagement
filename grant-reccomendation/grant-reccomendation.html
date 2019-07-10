@@ -877,18 +877,38 @@
             </div>
           </div>
 
-          <!-- Unnamed (Shape) -->
-          <button type = "button" class = "btn btn-primary" data-toggle ="modal" data-target = "exampleModal" id = "u6438">
-           <div style = "font-size: 20px; color: red" id = "plusIcon"> + </div>
-          </button>
+          <div class="container">
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h4 id="modaltitle" class="modal-title">Text Editor Type Beat</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p> My Modal Very Cool </p>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                  
+                </div>
+            </div>
 
-          <script>
+            <button type = "button" class = "btn btn-primary" data-toggle="modal" data-target="#myModal" id = "u6438">
+              <div style = "font-size: 20px; color: red" id = "plusIcon"> + </div>
+            </button>
+          </div>
+
+          <!-- <script>
             document.getElementById("u6438").onclick = function (){
               window.location.href = "http://apple.com"
 
             }
           </script>
-
+ -->
           <!-- Communication modal (Dynamic Panel) -->
           <div id="u6439" class="ax_default ax_default_hidden" data-label="Communication modal" style="display:none; visibility: hidden">
             <div id="u6439_state0" class="panel_state" data-label="State1" style="">
@@ -1622,7 +1642,7 @@
         </table>
       </div>
       <div class = "row">
-        <div id="u518" class="ax_default label">
+        <!-- <div id="u518" class="ax_default label">
             <div id="u518_div" class=""></div>
               <div id="u518_text" class="text ">
                   <p><span>Cancel</span></p>
@@ -1633,7 +1653,132 @@
           <div id="u408_text" class="text ">
             <p><span>Assign Reviewer</span></p>
           </div>
-        </a>
+        </a> -->
+        <div class = "col">
+          <div id="u517" class="ax_default paragraph1">
+            <div id="u517_text" class="text ">
+              <p><span style = "color: brown;">Grantee Response</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+        <div class = "row">
+          <div class = "col">
+            <table class = "table table-striped">
+              <thead style = "font-size: 15px">
+                <tr>
+                  <td>Finding</td>
+                  <td>Current Corrective Plan</td>
+                  <td>Grantee Response</td>
+                  <td>Accept</td>
+                  <td>Deny</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
+                  </td>
+                  <td>
+                    Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply themto the internal procedures for preparing financial statements.
+                  </td>
+                  <td>
+                    Will provide quarterly training to staff. Management will also routinely review financial statements for accuracy.
+                  </td>
+                  <td>
+                    <input type="radio" class = "radio" name="group-one" id = "acceptCB" />&nbsp;
+                  </td>
+                  <td>
+                    <input type="radio" class = "radio" name="group-one" id = "denyCB" />&nbsp;
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
+                  </td>
+                  <td>
+                    We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
+                  </td>
+                  <td>
+                    Management will implement policies and procedures and review them every month. Management will also complete a formal annual financial statement closing process.
+                  </td>
+                  <td>
+                    <input type="radio" name="group-two" id = "acceptCB2" />
+                  </td>
+                  <td>
+                    <input type="radio" name="group-two" id = "denyCB2" />
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <script>
+              // var x = document.getElementById("acceptCB").checked;
+              // var y = document.getElementById("denyCB").checked;
+              // var z1 = document.getElementById("acceptCB2").checked;
+              // var z2 = document.getElementById("denyCB2").checked;
+              // if (x) {
+              //   document.getElementById("denyCB").checked = false;
+              // }
+              // else if (y) {
+              //   document.getElementById("acceptCB").checked = false;
+              // }
+
+              // if (z1) {
+              //   document.getElementById("denyCB2").checked = false;
+              // }
+              // else if (z2) {
+              //   document.getElementById("acceptCB2").checked = false;
+              // }
+            </script>
+      <div class = "row">
+        <div class = "col">
+          <div id="u517" class="ax_default paragraph1">
+            <div id="u517_text" class="text ">
+              <p><span style = "color: brown;">Additional Documents</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class = "row">
+          <div class = "col">
+            <table class = "table table-striped">
+              <thead style = "font-size: 15px">
+                <tr>
+                  <td>Finding</td>
+                  <td>Questioned Cost</td>
+                  <td>Additional Documents</td>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
+                  </td>
+                  <td>
+                    $ 200,000.00
+                  </td>
+                  <td>
+                    <input type="checkbox" name="name1" /></td>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+                  </td>
+                  <td>
+                    $ 120,000.00
+                  </td>
+                  <td>
+                    <input type="checkbox" name="name1" /></td>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+      </div>
+
+          </div>
+        </div>
       </div>
     </div>
           

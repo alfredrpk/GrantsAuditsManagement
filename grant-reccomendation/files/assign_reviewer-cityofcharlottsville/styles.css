@@ -21,6 +21,12 @@ table {
   font-style: normal;
 }
 
+.radio {
+display: inline;
+
+}
+
+
   /* width */
   ::-webkit-scrollbar 
     width: 10px;
@@ -75,6 +81,18 @@ table {
 
 .table-sm {
   font-size: 12px;
+}
+
+.modal-dialog {
+  left: -200px;
+}
+.modal-content {
+  text-align: center;
+  width: 900px;
+}
+
+#modaltitle {
+  float: left;
 }
 
 #plusIcon {

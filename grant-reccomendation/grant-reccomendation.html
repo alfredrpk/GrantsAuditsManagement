@@ -878,9 +878,16 @@
           </div>
 
           <!-- Unnamed (Shape) -->
-          <div id="u6438" class="ax_default icon">
-            <img id="u6438_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/audit_in_process/u6438.png?token=873ed439b468cc88b93cde7dd82b98dc4a38a2715982e41ff4cd754b462c3eab"/>
-          </div>
+          <button type = "button" class = "btn btn-primary" data-toggle ="modal" data-target = "exampleModal" id = "u6438">
+           <div style = "font-size: 20px; color: red" id = "plusIcon"> + </div>
+          </button>
+
+          <script>
+            document.getElementById("u6438").onclick = function (){
+              window.location.href = "http://apple.com"
+
+            }
+          </script>
 
           <!-- Communication modal (Dynamic Panel) -->
           <div id="u6439" class="ax_default ax_default_hidden" data-label="Communication modal" style="display:none; visibility: hidden">

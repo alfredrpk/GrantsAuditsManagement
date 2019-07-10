@@ -77,6 +77,12 @@ table {
   font-size: 12px;
 }
 
+#plusIcon {
+  position: relative;
+  left: -5px;
+  bottom: 10px;
+}
+
 #u37_div {
   border-width:0px;
   position:absolute;

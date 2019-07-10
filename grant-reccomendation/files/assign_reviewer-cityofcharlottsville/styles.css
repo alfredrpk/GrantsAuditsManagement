@@ -194,10 +194,31 @@ display: inline;
 }
 
 #savebutton {
-  position: relative;
-  left: 1160px;
-  top: 955px;
+  position: relative;;
   font-size: 24px;
+}
+
+.btn-default {
+  border: none;
+  position: relative;
+  left: 550px;
+}
+
+#submitbtn {
+  position: relative;
+  left: 410px;
+  background-color: rgba(0, 112, 210, 1);
+  border-color: rgba(0, 112, 210, 1);
+}
+
+
+#cancelbtn {
+  position: relative;
+  left: 255px;
+  background-color: white;
+  border: white;
+  color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
 }
 
 #heading {

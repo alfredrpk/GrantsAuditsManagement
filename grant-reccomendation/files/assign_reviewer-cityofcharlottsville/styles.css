@@ -21,6 +21,12 @@ table {
   font-style: normal;
 }
 
+.radio {
+display: inline;
+
+}
+
+
   /* width */
   ::-webkit-scrollbar 
     width: 10px;
@@ -75,6 +81,24 @@ table {
 
 .table-sm {
   font-size: 12px;
+}
+
+.modal-dialog {
+  left: -200px;
+}
+.modal-content {
+  text-align: center;
+  width: 900px;
+}
+
+#modaltitle {
+  float: left;
+}
+
+#plusIcon {
+  position: relative;
+  left: -5px;
+  bottom: 10px;
 }
 
 #u37_div {
@@ -170,10 +194,31 @@ table {
 }
 
 #savebutton {
-  position: relative;
-  left: 1160px;
-  top: 955px;
+  position: relative;;
   font-size: 24px;
+}
+
+.btn-default {
+  border: none;
+  position: relative;
+  left: 550px;
+}
+
+#submitbtn {
+  position: relative;
+  left: 410px;
+  background-color: rgba(0, 112, 210, 1);
+  border-color: rgba(0, 112, 210, 1);
+}
+
+
+#cancelbtn {
+  position: relative;
+  left: 255px;
+  background-color: white;
+  border: white;
+  color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
 }
 
 #heading {

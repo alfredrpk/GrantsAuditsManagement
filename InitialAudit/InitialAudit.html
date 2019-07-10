@@ -200,7 +200,7 @@
 
       <!-- btn-lg (Rectangle) -->
       <div id="u386" class="ax_default shape" data-label="btn-lg">
-        <span id="newlabel" class="label label-success">Active</span>
+        <span id="newlabel" class="label label-success">Initial Audit</span>
       </div>
 
       <!-- Unnamed (Image) -->
@@ -770,220 +770,238 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <div id='umainbody' class='container'>
-      <table class="table" style='background-color: rgba(250, 250, 251, 1);'>
-            <thead>
-              <tr>
-                <th scope="col">Factor</th>
-                <th scope="col"></th>
-                <th scope="col" style="white-space: nowrap;">Risk Category</th>
-              </tr>
-            </thead>
+      <div class='row'>
+        <div class='col'>
+          <div id="u517">
+            <div id="u517_text" class="text ">
+              <p><span>Summary Schedule of Prior Year Findings</span></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col'>
+          <table class="table" style='background-color: rgba(255, 255, 255, 1);'>
             <tbody>
-              <tr class='spblue'>
-                <td>FINANCIAL STATEMENT</td>
+              <tr class='sp'>
+                <td>2015-001 - Internal Control over Financial Reporting</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr>
-                <td>1. Type of Audit Report</td>
                 <td>
-                  <div class="radio">
-                    <label><input type="radio" name="1" value="Medium" oninput="changeRiskr('1', 'Medium')">Qualified</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="1" value="High" oninput="changeRiskr('1', 'Medium')">Adverse</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="1" value="High" oninput="changeRiskr('1', 'High')">Disclaimer</label>
-                  </div>
+                  <p>
+                    <strong>Condition</strong></br>
+                    During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements. Recommendation: Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
+                  </p>
                 </td>
-                <td id='risk1'></td>
-              </tr>
-              <tr>
-                <td>2. Is a reportable condition</td>
                 <td>
-                  <div class="radio">
-                    <label><input type="radio" name="2" value="Medium" oninput="changeRiskr('2', 'Medium')">Disclosed</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="2" value="High" oninput="changeRiskr('2', 'High')">Report as a material weakness</label>
-                  </div>
+                  <strong>Recommendation</strong></br>
+                  None
                 </td>
-                <td id='risk2'></td>
-              </tr>
-              <tr>
-                <td>3. Is a material noncompliance disclosed?</td>
                 <td>
-                  <div class="checkbox">
-                    <label><input id='check3' type="checkbox" name="3" value="Medium" oninput="changeRisk('3', 'Medium')">Yes</label>
-                  </div>
+                  <p>
+                    <strong>Current Status</strong>
+                    <span class="label label-danger float-right" style=>Repeated</span>
+                    </br>
+                    During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements. Recommendation: Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
+                  </p>
                 </td>
-                <td id='risk3'></td>
               </tr>
-              <tr>
-                <td>4. Is a "Going Concern" explanatory paragram included in the audit report?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check4' type="checkbox" name="4" value="High" oninput="changeRisk('4', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk4'></td>
-              </tr>
-              <tr class='spblue'>
-                <td>FEDERAL PROGRAMS</td>
+              <tr class='sp'>
+                <td>2015-002 - Reporting Requirements Not met, All Federal Awards</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr>
-                <td>5. Did the auditee qualify as a low risk auditee? (Assessed if auditee did not qualify as a low risk auditee)</td>
                 <td>
-                  <div class="checkbox">
-                    <label><input id='check5' type="checkbox" name="5" value="Medium" oninput="changeRisk('5', 'Medium')">Yes</label>
-                  </div>
+                  <p>
+                  <strong>Condition</strong></br>
+                    Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
+                  </p>
                 </td>
-                <td id='risk5'></td>
-              </tr>
-              <tr>
-                <td>6. Is a reportable condition</td>
                 <td>
-                  <div class="radio">
-                    <label><input type="radio" name="optradio" name="6" value="Medium" oninput="changeRiskr('6', 'Medium')">Disclosed for any major program?</label>
-                    <label><input type="radio" name="optradio" name="6" value="High" oninput="changeRiskr('6', 'High')">Is any major program reported as a material weakness?</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="optradio">Is any major program reported as a material weakness?</label>
-                  </div>
+                  <p>
+                    <strong>Recommendation</strong></br>
+                    We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
+                  </p>
                 </td>
-                <td id='risk6'></td>
+                <td>
+                  <p>
+                    <strong>Current Status</strong>
+                    <span class="label label-success float-right" style=>Resolved</span>
+                    </br>
+                    The reporting package for the year ended June 30, 2015 was submitted on time.
+                  </p>
+                </td>
               </tr>
-              <tr class='spblue'>
-                <td>FEDERAL PROGRAMS</td>
+              <tr class='sp'>
+                <td>2015-003 - Unallowable Cash Disbursements</td>
                 <td></td>
                 <td></td>
               </tr>
               <tr>
-                <td>7. Does the audit contain repeat findings from the prior year</td>
                 <td>
-                  <div class="checkbox">
-                    <label><input id='check7' type="checkbox" name="7" value="High" oninput="changeRisk('7', 'High')">Yes</label>
-                  </div>
+                  <p>
+                    <strong>Condition</strong></br>
+                    Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+                    </br></br>
+                    <strong>Questioned Costs</strong></br>
+                    $15,070 applicable to the Supportive Housing for Persons with Disabilities program $73,956 applicable to the Supportive Housing for Elderly program
+                  </p>
                 </td>
-                <td id='risk7'></td>
-              </tr>
-              <tr>
-                <td>8. Did the audit identify questioned costs? Are they greater than $500,000</td>
                 <td>
-                  <div class="checkbox">
-                    <label><input id='check8' type="checkbox" name="8" value="High" oninput="changeRisk('8', 'High')">Yes</label>
-                  </div>
+                  <p>
+                    <strong>Recommendation</strong></br>
+                    In addition to recommendations made in finding 2015-001 and 2015-002 we recommend that Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash disbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
+                  </p>
                 </td>
-                <td id='risk8'></td>
-              </tr>
-              <tr>
-                <td>9. Is the audit overdue for resolution</td>
                 <td>
-                  <div class="checkbox">
-                    <label><input id='check9' type="checkbox" name="9" value="High" oninput="changeRisk('9', 'High')">Yes</label>
-                  </div>
+                  <p>
+                    <strong>Current Status</strong>
+                    <span class="label label-danger float-right" style=>Repeated</span>
+                    </br>
+                    The issue remains unresolved as Management is awaiting approval of a correction action plan from Department of Housing and Urban Development.
+                  </p>
                 </td>
-                <td id='risk9'></td>
-              </tr>
-              <tr>
-                <td>10. Is the audit a late submittal</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check10' type="checkbox" name="10" value="High" oninput="changeRisk('10', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk10'></td>
-              </tr>
-              <tr>
-                <td>11. Will the Statute of Limitations expire within the next 2 years?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check11' type="checkbox" name="11" value="High" oninput="changeRisk('11', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk11'></td>
-              </tr>
-              <tr>
-                <td>12. Is the ratio of CFDA’s with findings compared to the number of CFDAs audited as a major program greater than 60%</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check12' type="checkbox" name="12" value="High" oninput="changeRisk('12', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk12'></td>
-              </tr>
-              <tr>
-                <td>13. Is the auditee located outside of the United States</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check13' type="checkbox" name="13" value="High" oninput="changeRisk('13', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk13'></td>
-              </tr>
-              <tr>
-                <td>14. Does the audit contain ARRA programs with findings?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check14' type="checkbox" name="14" value="High" oninput="changeRisk('14', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk14'></td>
-              </tr>
-              <tr>
-                <td>15. Does the auditee have other open audits with findings in ARRA programs?</td>
-                <td><div class="checkbox">
-                    <label><input id='check15' type="checkbox" name="15" value="High" onchange="changeRisk('15', 'High')">Yes</label>
-                  </div></td>
-                <td id='risk15'></td>
               </tr>
             </tbody>
           </table>
-          <span class="btn glyphicon glyphicon-floppy-disk float-right" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
+        </div>
+      </div>
+      </br>
+      <div class='row'>
+        <div class='col'>
+          <div id="u517">
+            <div id="u517_text" class="text ">
+              <p><span>Corrective Actions</span></p>
+            </div>
+          </div>
+          </br>
+          <p>
+            Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
+          </p>
+          </br>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col'>
+          <div id="u517">
+            <div id="u517_text" class="text ">
+              <p><span>Summary Schedule of Prior Year Findings</span></p>
+            </div>
+          </div>
+        </div>
+        <div class='col'>
+          <div class="modal fade" id="pdfModal" role="dialog">
+            <div class="modal-dialog">
+              <!-- Modal content-->
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h4 id="modaltitle" class="modal-title">Application_ccps.pdf</h4>
+                </div>
+                <div class="modal-body">
+                  <iframe width=800 height=575 src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"></iframe>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <button type="button" class="btn btn-info float-right" data-toggle='modal' data-target='#pdfModal'>Audit Document</button>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col'>
+          <table class="table" style='background-color: rgba(255, 255, 255, 1);'>
+            <tbody>
+              <tr class='sp'>
+                <td>2016-001 - Internal Control over Financial Reporting, Repeated Finding</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <p>
+                    <strong>Condition</strong></br>
+                    During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements. Recommendation: Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
+                    </br></br>
+                    <strong>Criteria</strong></br>
+                    Management is responsible for the basic financial statements and all accompanying information. Management is also responsible for establishing effective internal controls, the selection and application of appropriate accounting principles, and for the fair representation of the financial position, changes in net assets, and cash flows in conformity with Generally Accepted Accounting Principles.
+                    </br></br>
+                    <strong>Recommendation</strong></br>
+                    Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepted Accounting Principles and how to apply them to the internal procedures for preparing financial statements.
+                  </p>
+                </td>
+                <td>
+                  <p>
+                    <strong>Cause</strong></br>
+                    The staff responsible for preparing the financial statements lacked the technical skills to properly present financials in accordance with Generally Accepted Accounting Standards.
+                    </br></br>
+                    <strong>Effect</strong></br>
+                    As a result of the condition noted above, the financial statements were materially misstated and not prepared in conformity with Generally Accepted Accounting Standards.
+                    </br></br>
+                    <strong>Views of Reponsible Officials and Planned Correction Action</strong></br>
+                    Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepted Accounting Principles and how to apply them to the internal procedures for preparing financial statements.
+                  </p>
+                </td>
+              </tr>
+              <tr class='sp'>
+                <td>2016-002 - Unallowable Cash Disbursements</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>
+                  <p>
+                    <strong>Condition</strong></br>
+                    Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+                    </br></br>
+                    <strong>Criteria</strong></br>
+                    Owners are required to establish and maintain a separate project account for each project. All rents, charges, income, and revenues arising from the project operation shall be maintained separately. Project funds should only be used to pay for mortgage payments, required deposits to the reserve for replacement fund, reasonable expenses necessary for the operation and maintenance of the project, distributions of surplus cash as permitted, and repayment of owner advances from surplus cash or as authorized by HUD. Disbursements from a centralized account must clearly be traceable to each project. The actual cash position of each project in this account must be easily identifiable at all times without exception.
+                    </br></br>
+                    <strong>Recommendation</strong></br>
+                    MIn addition to recommendations made in finding 2016-001, we recommend that Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommended that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash disbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
+                  </p>
+                </td>
+                <td>
+                  <p>
+                    <strong>Cause</strong></br>
+                    Due to internal staffing constraints and the effects caused by finding 2016-001, financial statements were not prepared accurately and timely. Due to the complex nature of Lokahi Pacific and Affiliates’ financial reporting practices, intercompany transactions were not handled correctly resulting in interfund borrowings that were not remedied timely.
+                    </br></br>
+                    <strong>Effect</strong></br>
+                    Disbursements made from project accounts were not in accordance with the criteria above, thus noncompliance has occurred.
+                    </br></br>
+                    <strong>Views of Reponsible Officials and Planned Correction Action</strong></br>
+                    Lokahi Pacific continues to work with HUD to address this situation and is cooperating with HUD's Enforcement Center Referral office in finding the correct solution to this matter.
+                    </br></br>
+                    <strong>Questioned Costs</strong></br>
+                    $63,776 applicable to the Supportive Housing for Elderly program
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col'>
+          <div class="btn-group float-right" style='margin-left: 20px;'>
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Select Action...
+            </button>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">Send Confirmation to Grantee</a>
+              <a class="dropdown-item" href="#">Notify XYZ</a>
+              <a class="dropdown-item" href="#">Documents Missing</a>
+            </div>
+          </div>
           <div id="u518" class="btn float-right" style='top:15px;'>
             <div id="u518_text" class="text ">
               <p><span>Cancel</span></p>
             </div>
           </div>
-          <script>
-            function changeRisk(num, risk) {
-              if (risk == "Medium"){
-                if (document.getElementById('check'+num).checked == true){
-                  document.getElementById('risk'+num).innerHTML = "<span class=\"label label-warning\">Warning</span>";
-                  console.log('yellow');
-                }
-                else {
-                  document.getElementById('risk'+num).innerHTML = "";
-                }
-              }
-              else if (risk == "High"){
-                if (document.getElementById('check'+num).checked == true){
-                  document.getElementById('risk'+num).innerHTML = "<span class=\"label label-danger\">High</span>";
-                  console.log('red');
-                }
-                else {
-                  document.getElementById('risk'+num).innerHTML = "";
-                }
-              }
-              else
-                document.getElementById('risk'+num).innerHTML = "";
-            }
-            function changeRiskr(num, risk) {
-              if (risk == "Medium"){
-                document.getElementById('risk'+num).innerHTML = "<span class=\"label label-warning\">Warning</span>";
-                console.log('yellow');
-              }
-              else if (risk == "High"){
-                document.getElementById('risk'+num).innerHTML = "<span class=\"label label-danger\">High</span>";
-                console.log('red');
-              }
-              else
-                document.getElementById('risk'+num).innerHTML = "";
-            }
-          </script>
+        </div>
+      </div>
     </div>
     <!-- Unnamed (Rectangle) -->
       <div class="footer navbar-fixed-bottom">

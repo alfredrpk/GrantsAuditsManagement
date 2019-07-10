@@ -49,7 +49,8 @@
     });
 </script>
 </head>
-  <body>
+  <body class="container">
+    <div class="row">
     <div id="base" class="">
 
       <div id="u37" class="ax_default box_2">
@@ -295,7 +296,7 @@
         <div id="u401" class="ax_default paragraph1">
           <div id="u401_div" class=""></div>
           <div id="u401_text" class="text ">
-            <p><span>ASSIGNED ON</span></p>
+            <p><span>GRANT TYPE</span></p>
           </div>
         </div>
 
@@ -303,7 +304,7 @@
         <div id="u402" class="ax_default paragraph1">
           <div id="u402_div" class=""></div>
           <div id="u402_text" class="text ">
-            <p><span>10/06/2018</span></p>
+            <p><span>Discretionary</span></p>
           </div>
         </div>
       </div>
@@ -315,7 +316,7 @@
         <div id="u404" class="ax_default paragraph1">
           <div id="u404_div" class=""></div>
           <div id="u404_text" class="text ">
-            <p><span>DUE ON</span></p>
+            <p><span>DATE APPLIED</span></p>
           </div>
         </div>
 
@@ -323,27 +324,7 @@
         <div id="u405" class="ax_default paragraph1">
           <div id="u405_div" class=""></div>
           <div id="u405_text" class="text ">
-            <p><span>04/05/2019</span></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Unnamed (Group) -->
-      <div id="u397" class="ax_default" data-left="648" data-top="166" data-width="99" data-height="37">
-
-        <!-- Unnamed (Rectangle) -->
-        <div id="u3982" class="ax_default paragraph">
-          <div id="u398_div" class=""></div>
-          <div id="u398_text" class="text ">
-            <p><span>BUDGET REQUESTED</span></p>
-          </div>
-        </div>
-
-        <!-- Unnamed (Rectangle) -->
-        <div id="u3992" class="ax_default paragraph1">
-          <div id="u399_div" class=""></div>
-          <div id="u399_text" class="text ">
-            <p><span>$347,000.00</span></p>
+            <p><span>05/18/2018</span></p>
           </div>
         </div>
       </div>
@@ -722,7 +703,7 @@
         </div>
       </div>
 
-      <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1);">Back</a>
+      <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1)">Back</a>
 
       <!-- selected-tooltip (Group) -->
       <div id="u519" class="ax_default ax_default_hidden" data-label="selected-tooltip" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
@@ -770,224 +751,168 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <div id='umainbody' class='container'>
-      <table class="table" style='background-color: rgba(250, 250, 251, 1);'>
-            <thead>
+      <div id="u517">
+        <div id="u517_text" class="text ">
+          <p><span>Review Eligibility Criteria</span></p>
+        </div>
+      </div>
+      <div class='row'>
+        <div class='col-9' >
+          <table class="table">
+            <thead class="thead-light">
               <tr>
-                <th scope="col">Factor</th>
-                <th scope="col"></th>
-                <th scope="col" style="white-space: nowrap;">Risk Category</th>
+                <th scope="col">Criteria</th>
+                <th scope="col">Max Points</th>
+                <th scope="col">Points Awarded</th>
+                <th scope="col">Comments</th>
               </tr>
             </thead>
             <tbody>
-              <tr class='spblue'>
-                <td>FINANCIAL STATEMENT</td>
-                <td></td>
-                <td></td>
+              <tr>
+                <td>Criteria 1 - Lorem ipsum dolor sit amet</td>
+                <td>9</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
               </tr>
               <tr>
-                <td>1. Type of Audit Report</td>
-                <td>
-                  <div class="radio">
-                    <label><input type="radio" name="1" value="Medium" oninput="changeRiskr('1', 'Medium')">Qualified</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="1" value="High" oninput="changeRiskr('1', 'Medium')">Adverse</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="1" value="High" oninput="changeRiskr('1', 'High')">Disclaimer</label>
-                  </div>
-                </td>
-                <td id='risk1'></td>
+                <td>Criteria 2 - Lorem ipsum dolor sit amet</td>
+                <td>12</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
               </tr>
               <tr>
-                <td>2. Is a reportable condition</td>
-                <td>
-                  <div class="radio">
-                    <label><input type="radio" name="2" value="Medium" oninput="changeRiskr('2', 'Medium')">Disclosed</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="2" value="High" oninput="changeRiskr('2', 'High')">Report as a material weakness</label>
-                  </div>
-                </td>
-                <td id='risk2'></td>
+                <td>Criteria 3 - Lorem ipsum dolor sit amet</td>
+                <td>25</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
               </tr>
               <tr>
-                <td>3. Is a material noncompliance disclosed?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check3' type="checkbox" name="3" value="Medium" oninput="changeRisk('3', 'Medium')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk3'></td>
+                <td>Criteria 4 - Lorem ipsum dolor sit amet</td>
+                <td>4</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
               </tr>
               <tr>
-                <td>4. Is a "Going Concern" explanatory paragram included in the audit report?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check4' type="checkbox" name="4" value="High" oninput="changeRisk('4', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk4'></td>
-              </tr>
-              <tr class='spblue'>
-                <td>FEDERAL PROGRAMS</td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>5. Did the auditee qualify as a low risk auditee? (Assessed if auditee did not qualify as a low risk auditee)</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check5' type="checkbox" name="5" value="Medium" oninput="changeRisk('5', 'Medium')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk5'></td>
-              </tr>
-              <tr>
-                <td>6. Is a reportable condition</td>
-                <td>
-                  <div class="radio">
-                    <label><input type="radio" name="optradio" name="6" value="Medium" oninput="changeRiskr('6', 'Medium')">Disclosed for any major program?</label>
-                    <label><input type="radio" name="optradio" name="6" value="High" oninput="changeRiskr('6', 'High')">Is any major program reported as a material weakness?</label>
-                  </div>
-                  <div class="radio">
-                    <label><input type="radio" name="optradio">Is any major program reported as a material weakness?</label>
-                  </div>
-                </td>
-                <td id='risk6'></td>
-              </tr>
-              <tr class='spblue'>
-                <td>FEDERAL PROGRAMS</td>
-                <td></td>
-                <td></td>
-              </tr>
-              <tr>
-                <td>7. Does the audit contain repeat findings from the prior year</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check7' type="checkbox" name="7" value="High" oninput="changeRisk('7', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk7'></td>
-              </tr>
-              <tr>
-                <td>8. Did the audit identify questioned costs? Are they greater than $500,000</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check8' type="checkbox" name="8" value="High" oninput="changeRisk('8', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk8'></td>
-              </tr>
-              <tr>
-                <td>9. Is the audit overdue for resolution</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check9' type="checkbox" name="9" value="High" oninput="changeRisk('9', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk9'></td>
-              </tr>
-              <tr>
-                <td>10. Is the audit a late submittal</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check10' type="checkbox" name="10" value="High" oninput="changeRisk('10', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk10'></td>
-              </tr>
-              <tr>
-                <td>11. Will the Statute of Limitations expire within the next 2 years?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check11' type="checkbox" name="11" value="High" oninput="changeRisk('11', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk11'></td>
-              </tr>
-              <tr>
-                <td>12. Is the ratio of CFDA’s with findings compared to the number of CFDAs audited as a major program greater than 60%</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check12' type="checkbox" name="12" value="High" oninput="changeRisk('12', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk12'></td>
-              </tr>
-              <tr>
-                <td>13. Is the auditee located outside of the United States</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check13' type="checkbox" name="13" value="High" oninput="changeRisk('13', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk13'></td>
-              </tr>
-              <tr>
-                <td>14. Does the audit contain ARRA programs with findings?</td>
-                <td>
-                  <div class="checkbox">
-                    <label><input id='check14' type="checkbox" name="14" value="High" oninput="changeRisk('14', 'High')">Yes</label>
-                  </div>
-                </td>
-                <td id='risk14'></td>
-              </tr>
-              <tr>
-                <td>15. Does the auditee have other open audits with findings in ARRA programs?</td>
-                <td><div class="checkbox">
-                    <label><input id='check15' type="checkbox" name="15" value="High" onchange="changeRisk('15', 'High')">Yes</label>
-                  </div></td>
-                <td id='risk15'></td>
+                <td>Criteria 5 - Lorem ipsum dolor sit amet</td>
+                <td>8</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
               </tr>
             </tbody>
+            <thead class="thead-light">
+              <tr>
+                <th scope="col" colspan='2'>Total Points Awarded</th>
+                <th scope="col" colspan='2'>00</th>
+              </tr>
+            </thead>
           </table>
-          <span class="btn glyphicon glyphicon-floppy-disk float-right" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
-          <div id="u518" class="btn float-right" style='top:15px;'>
-            <div id="u518_text" class="text ">
-              <p><span>Cancel</span></p>
+          <button id='continue' type="button" class="btn btn-outline-primary float-right" onclick='showNew();'>Continue to Merit Criteria</button>
+          <div id="u5172" style='display: none;'>
+            <div id="u517_text" class="text">
+              <p><span>Review Merit Criteria</span></p>
             </div>
           </div>
-          <script>
-            function changeRisk(num, risk) {
-              if (risk == "Medium"){
-                if (document.getElementById('check'+num).checked == true){
-                  document.getElementById('risk'+num).innerHTML = "<span class=\"label label-warning\">Warning</span>";
-                  console.log('yellow');
-                }
-                else {
-                  document.getElementById('risk'+num).innerHTML = "";
-                }
-              }
-              else if (risk == "High"){
-                if (document.getElementById('check'+num).checked == true){
-                  document.getElementById('risk'+num).innerHTML = "<span class=\"label label-danger\">High</span>";
-                  console.log('red');
-                }
-                else {
-                  document.getElementById('risk'+num).innerHTML = "";
-                }
-              }
-              else
-                document.getElementById('risk'+num).innerHTML = "";
-            }
-            function changeRiskr(num, risk) {
-              if (risk == "Medium"){
-                document.getElementById('risk'+num).innerHTML = "<span class=\"label label-warning\">Warning</span>";
-                console.log('yellow');
-              }
-              else if (risk == "High"){
-                document.getElementById('risk'+num).innerHTML = "<span class=\"label label-danger\">High</span>";
-                console.log('red');
-              }
-              else
-                document.getElementById('risk'+num).innerHTML = "";
-            }
-          </script>
-    </div>
-    <!-- Unnamed (Rectangle) -->
-      <div class="footer navbar-fixed-bottom">
-        <div id="u525_div" class=""></div>
+          <table id='merit' class="table" style='display: none;'>
+            <thead class="thead-light">
+              <tr>
+                <th scope="col">Criteria</th>
+                <th scope="col">Max Points</th>
+                <th scope="col">Points Awarded</th>
+                <th scope="col">Comments</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Criteria 1 - Lorem ipsum dolor sit amet</td>
+                <td>15</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 2 - Lorem ipsum dolor sit amet</td>
+                <td>18</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 3 - Lorem ipsum dolor sit amet</td>
+                <td>25</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 4 - Lorem ipsum dolor sit amet</td>
+                <td>10</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 5 - Lorem ipsum dolor sit amet</td>
+                <td>10</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+            </tbody>
+            <thead class="thead-light">
+              <tr>
+                <th scope="col" colspan='2'>Total Points Awarded</th>
+                <th scope="col" colspan='2'>00</th>
+              </tr>
+            </thead>
+          </table>
+          <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick='' style='display: none;'>Cancel</button>
+          <button id='submit' type="button" class="btn btn-primary float-right" onclick='' style='display: none;'>Submit</button>
+        </div>
+        <div class='col-3'>
+          <div class="container">
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title">Application_ccps.pdf</h4>
+                    </div>
+                    <div class="modal-body">
+                      <object width=500 height=575 data="Application_ccps.pdf"></object>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                  
+                </div>
+            </div>
+
+            <div class="panel panel-default" id="thepanel">
+                <div class="panel-heading" id="panelheading">Documents submitted: 5</div>
+                <div class="panel-body" id="panelbody">
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                </div>
+              </div>
+          </div>
+        </div>
       </div>
+    </div>
+    <script type="text/javascript">
+      function showNew(){
+        document.getElementById("continue").style.display = "none";
+        document.getElementById("merit").style.display = "block";
+        document.getElementById("cancel").style.display = "block";
+        document.getElementById("submit").style.display = "block";
+        document.getElementById("u5172").style.display = "block";
+      }
+    </script>
+  </div>
+  <div class="row">
+    <div id="u525" class="">
+     <div id="u525_div" class=""></div>
+    </div>
+  </div>
   </body>
 </html>

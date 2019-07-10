@@ -8,9 +8,10 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css" type="text/css" rel="stylesheet"/>-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css">
   <link href="/theme.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
@@ -1251,13 +1252,22 @@
       </div>
       <div class='row' style='height:60px;'></div>
       <div class='row'>
-        <div id="u56" class="ax_default paragraph1">
-          <div id="u56_text" class="text " style="left: 0px; width: 253px; transform-origin: 126.5px 13px;">
-            <p><span style="font-family:'Segoe UI';font-weight:400;">Audits for CFDA# 98.102:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:400;">15</span></p>
+        <div class='col-6'>
+          <div id="u56" class="ax_default paragraph1">
+            <div id="u56_text" class="text " style="left: 0px; width: 253px; transform-origin: 126.5px 13px;">
+              <p><span style="font-family:'Segoe UI';font-weight:400;">Audits for CFDA# 98.102:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:400;">15</span></p>
+            </div>
           </div>
         </div>
-        <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)" class='float-right'>
-        <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
+        <div class='col-6'>
+          <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px" class='float-right align-middle'>
+          <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)" class='float-right align-middle'>
+          <div class="input-group input-daterange float-right align-middle" style='width:240px;'>
+              <input type="text" class="form-control" value="2012-04-05">
+              <div class="input-group-addon">to</div>
+              <input type="text" class="form-control" value="2012-04-19">
+          </div>
+        </div>
       </div>
       <div class='row' style='height:30px;'></div>
       <div class='row'>
@@ -1266,11 +1276,12 @@
             <thead id = 'heading'>
               <tr>
                 <td scope="col" >Applicant ▼</td>
+                <td scope="col">Grantee EIN</td>
                 <td scope="col">State</td>
-                <td scope="col">EIN</td>
-                <td scope="col">DUNS</td>
-                <td scope="col">Grant Type</td>
-                <td scope="col">Status</td>
+                <td scope="col">FAC Accepted Date</td>
+                <td scope="col">Expenditures</td>
+                <td scope="col">Prior Finding</td>
+                <td scope="col">Audit</td>
               </tr>
             </thead>
             <div id = 'scrollbody'>
@@ -1280,139 +1291,160 @@
                     City of Charlottesville Public Schools
                   </td>
                   <td>
-                    Virginia
-                  </td>
-                  <td >
                     33-1234888
-                  </td>
-                  <td >
-                    88-111-8235
-                  </td>
-                  <td >
-                    Discretionary
-                  </td>
-                  <td>
-                    Active
-                  </td>
-                </tr>
-                <tr>
-                  <td >
-                    Fairfaxxxxx
                   </td>
                   <td>
                     Virginia
                   </td>
                   <td >
-                    33-1234888
-                  </td>
-                  <td >
-                    88-111-8235
-                  </td>
-                  <td >
-                    Discretionary
+                    10/10/2018
                   </td>
                   <td>
-                    Active
+                    $62,000.00
+                  </td>
+                  <td>
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
                   </td>
                 </tr>
                 <tr>
-                  <td>
+                  <td >
                     City of Charlottesville Public Schools
                   </td>
                   <td>
-                    Virginia
-                  </td>
-                  <td>
                     33-1234888
                   </td>
                   <td>
-                    88-111-8235
+                    Virginia
+                  </td>
+                  <td >
+                    10/10/2018
                   </td>
                   <td>
-                    Discretionary
+                    $62,000.00
                   </td>
                   <td>
-                    Active
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
                   </td>
                 </tr>
                 <tr>
-                  <td>
+                  <td >
                     City of Charlottesville Public Schools
-                  </td>
-                  <td>
-                    Virginia
                   </td>
                   <td>
                     33-1234888
                   </td>
                   <td>
-                    88-111-8235
+                    Virginia
+                  </td>
+                  <td >
+                    10/10/2018
                   </td>
                   <td>
-                    Discretionary
+                    $62,000.00
                   </td>
                   <td>
-                    Active
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
                   </td>
                 </tr>
                 <tr>
-                  <td>
+                  <td >
                     City of Charlottesville Public Schools
-                  </td>
-                  <td>
-                    Virginia
                   </td>
                   <td>
                     33-1234888
                   </td>
                   <td>
-                    88-111-8235
+                    Virginia
+                  </td>
+                  <td >
+                    10/10/2018
                   </td>
                   <td>
-                    Discretionary
+                    $62,000.00
                   </td>
                   <td>
-                    Active
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
                   </td>
                 </tr>
                 <tr>
-                  <td>
+                  <td >
                     City of Charlottesville Public Schools
-                  </td>
-                  <td>
-                    Virginia
                   </td>
                   <td>
                     33-1234888
                   </td>
                   <td>
-                    88-111-8235
+                    Virginia
+                  </td>
+                  <td >
+                    10/10/2018
                   </td>
                   <td>
-                    Discretionary
+                    $62,000.00
                   </td>
                   <td>
-                    Active
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
                   </td>
                 </tr>
                 <tr>
-                  <td>
+                  <td >
                     City of Charlottesville Public Schools
-                  </td>
-                  <td>
-                    Virginia
                   </td>
                   <td>
                     33-1234888
                   </td>
                   <td>
-                    88-111-8235
+                    Virginia
+                  </td>
+                  <td >
+                    10/10/2018
                   </td>
                   <td>
-                    Discretionary
+                    $62,000.00
                   </td>
                   <td>
-                    Active
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
+                  </td>
+                </tr>
+                <tr>
+                  <td >
+                    City of Charlottesville Public Schools
+                  </td>
+                  <td>
+                    33-1234888
+                  </td>
+                  <td>
+                    Virginia
+                  </td>
+                  <td >
+                    10/10/2018
+                  </td>
+                  <td>
+                    $62,000.00
+                  </td>
+                  <td>
+                    Yes
+                  </td>
+                  <td>
+                    <input type="checkbox" oninput="">
                   </td>
                 </tr>
               </tbody>

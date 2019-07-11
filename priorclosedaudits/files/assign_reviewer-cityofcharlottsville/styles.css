@@ -6306,10 +6306,11 @@ body {
 #u517_text {
   border-width:0px;
   position:absolute;
-  left:0px;
+  left:-80px;
   top:0px;
   width:183px;
   white-space:nowrap;
+  font-size:30px;
 }
 #smallText {
   font-size: 12px;

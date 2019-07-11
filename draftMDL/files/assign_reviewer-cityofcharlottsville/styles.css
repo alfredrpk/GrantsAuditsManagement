@@ -2,10 +2,6 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-
 body {
   margin: auto;
   background-image:none;
@@ -33,33 +29,85 @@ body {
     border-radius: 10px;
   }
 
+  .label {
+  font-size:12px;
+}
+
+  .sp {
+    background-color: rgba(250, 250, 251, 1);
+    color: #333333;
+    font-family: 'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
+    overflow: hidden;
+    font-size: 12px;
+  }
+
+  tr {
+    font-size: 12px;
+  }
+
+  #umainbody {
+    width:1200px;
+    height: fit-content;
+    top:410px;
+    position:absolute;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   table {
-        border-collapse: collapse;
-        width: 100%;
-    }
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
+  }
 
   th, td {
     text-align: left;
     padding: 13px;
-  }
+  }  
 
-  tr:nth-child(odd) {background-color: #f2f2f2;}
+#thepanel {
+  width: 300px;
+  height: 100%;
+  max-height: 500px;
+  line-height: 30px;
+  font-family: Segoe UI;
+}
 
-  tbody tr:hover {
-    background-color: rgba(201, 228, 252) !important;
-  }
+.pdfbutton {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+.modal-dialog {
+  left: -200px;
+}
+.modal-content {
+  text-align: center;
+  width: 900px;
+}
 
-  tbody tr.clicked {
-    background-color: rgba(201, 228, 252) !important; 
-  }    
+#closebtn {
+  left-margin: 0px;
+  padding: 0px;
+}
+
+#modaltitle {
+  float: left;
+}
 
 #u37_div {
   border-width:0px;
   position:absolute;
   left:-200px;
-  top:0px;
+  top:-10px;
   width:140%;
-  height:20%;
+  height:100%;
   background:inherit;
   background-color:rgba(225, 243, 248, 1);
   box-sizing:border-box;
@@ -86,30 +134,10 @@ body {
   width:1200px;
   height:265px;
 }
-
-#u37_text {
-  border-width: 0px;
-  position: absolute;
-  left: 100px;
-  top: 15px;
-  width: 300px;
-  word-wrap: break-word;
-}
-
-#reviewbgttxt {
-  font-family: 'Segoe UI Semilight', 'Segoe UI Regular', 'Segoe UI';
-  font-weight: 350;
-  font-style: normal;
-  font-size: 16px;
-  color: #444444;
-  text-align: left;
-}
-
 #headingtbl {
   margin: auto;
   margin-left: -30px;
-  top: 300px; 
-  left: -105px;
+  top: 480px; 
   width: 100%;
   height: 100%;
   position: relative;
@@ -127,11 +155,10 @@ body {
 #tbl {
   margin: auto;
   margin-left: -30px;
-  top: 270px;
-  left: -105px;
+  top: 450px;
   width: 375px;
   height: 100%;
-  max-height: 500px;
+  max-height: 400px;
   position: relative;
   font-family: 'Segoe UI';
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
@@ -149,7 +176,7 @@ body {
 /*  background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');*/ /* Add a search icon to input */
   position: relative;
   left: 1040px;
-  top: 300px;
+  top: 480px;
   border: 1px solid;
   border-radius: 5px;
   border-color: gray;
@@ -158,14 +185,10 @@ body {
 
 #icon{
   position: relative;
-  left: 1180px;
-  top: 282px;
 }
 
 #savebutton {
   position: relative;
-  left: 1260px;
-  top: 895px;
   font-size: 24px;
 }
 
@@ -180,8 +203,8 @@ body {
 
 #backbtn {
   position: relative;
-  top: 190px;
-  right: 160px;
+  top: 370px;
+  right: 20px;
   position:relative;
 }
 
@@ -1274,6 +1297,31 @@ body {
   width:0px;
   height:0px;
 }
+#u3982 {
+  border-width:0px;
+  position:absolute;
+  left:940px;
+  top:164px;
+  width:78px;
+  height:17px;
+  font-family:'Segoe UI';
+  font-weight:400;
+  font-style:normal;
+  color:#666666;
+  white-space: nowrap;
+}
+#u3992 {
+  border-width:0px;
+  position:absolute;
+  left:940px;
+  top:182px;
+  width:99px;
+  height:19px;
+  font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
+  font-weight:600;
+  font-style:normal;
+  font-size:36px;
+}
 #u398_div {
   border-width:0px;
   position:absolute;
@@ -1423,7 +1471,7 @@ body {
 #u402 {
   border-width:0px;
   position:absolute;
-  left:500px;
+  left:514px;
   top:214px;
   width:84px;
   height:19px;
@@ -1511,7 +1559,7 @@ body {
 #u405 {
   border-width:0px;
   position:absolute;
-  left:739px;
+  left:710px;
   top:214px;
   width:77px;
   height:19px;
@@ -1597,7 +1645,7 @@ body {
   position:absolute;
   left:-20px;
   top:0px;
-  width:200px;
+  width:115px;
   height:32px;
   background:inherit;
   background-color:rgba(0, 112, 210, 1);
@@ -1618,9 +1666,7 @@ body {
 }
 #u408 {
   border-width:0px;
-  position:absolute;
-  left:1050px;
-  top:900px;
+  position:relative;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -1659,9 +1705,9 @@ body {
 #u408_text {
   border-width:0px;
   position:absolute;
-  left:-20px;
+  left:-40px;
   top:8px;
-  width:200px;
+  width:152px;
   word-wrap:break-word;
 }
 #u410_div {
@@ -6270,52 +6316,26 @@ body {
   border-color:transparent;
   outline-style:none;
 }
-#u517_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:184px;
-  height:25px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+#u517 {
   font-family:'Segoe UI';
   font-weight:400;
   font-style:normal;
   font-size:30px;
   color:#222222;
 }
-#u517 {
-  border-width:0px;
-  position:absolute;
-  left:-20px;
-  top:260px;
-  width:184px;
-  height:25px;
+#u5172 {
   font-family:'Segoe UI';
   font-weight:400;
   font-style:normal;
-  font-size:20px;
+  font-size:30px;
   color:#222222;
 }
 #u517_text {
   border-width:0px;
-  position:absolute;
   left:0px;
   top:0px;
   width:183px;
   white-space:nowrap;
-}
-#smallText {
-  font-size: 12px;
-  position: relative;
-  left: 5px;
-  bottom: 3px;
 }
 #u518_div {
   border-width:0px;
@@ -6338,9 +6358,7 @@ body {
 }
 #u518 {
   border-width:0px;
-  position:absolute;
-  left:960px;
-  top:908px;
+  position:relative;
   width:41px;
   height:19px;
   font-family:'Segoe UI';
@@ -6506,13 +6524,11 @@ body {
 }
 #u525_div {
   border-width:0px;
-  position:fixed;
-  bottom: 0px;
-  left:0px;
-  right: 0px;
-  z-index: 10;
-  width:2000px;
-  height:60px;
+  position:absolute;
+  left:-165px;
+  top:0px;
+  width:1600px;
+  height:35px;
   background:inherit;
   background-color:rgba(17, 46, 81, 1);
   box-sizing:border-box;

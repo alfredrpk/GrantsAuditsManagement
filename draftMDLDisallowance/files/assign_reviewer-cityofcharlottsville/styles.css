@@ -6650,12 +6650,11 @@ body {
 .btn-default {
   border: none;
   position: relative;
-  left: 550px;
 }
 
 #submitbtn {
   position: relative;
-  left: 900px;
+  /*left: 900px;*/
   background-color: rgba(0, 112, 210, 1);
   border-color: rgba(0, 112, 210, 1);
   font-family: 'Segoe UI';
@@ -6664,7 +6663,7 @@ body {
 
 #cancelbtn {
   position: relative;
-  left: 675px;
+  /*left: 675px;*/
   background-color: white;
   border: white;
   color: rgba(0, 112, 210, 1);
@@ -6673,7 +6672,7 @@ body {
 
 #approvebtn {
   position: relative;
-  left: 900px;
+ /* left: 900px;*/
   border-color: rgb(102,167,69);
   border-radius: 20px;
   font-family: 'Segoe UI';
@@ -6682,7 +6681,7 @@ body {
 
 #cancelbtn2 {
   position: relative;
-  left: 725px;
+/*  left: 725px;*/
   background-color: white;
   border: white;
   color: rgb(102,167,69);

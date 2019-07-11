@@ -763,20 +763,44 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <div id='umainbody' class='container'>
       <div class = "row">
-        <div class = "column">
-          <button type = "button" class = "btn btn-outline-success" id = "approvebtn" onclick="approve();">
+        <div class = "col">
+          <button type = "button" class = "btn btn-outline-success float-right" id = "approvebtn" onclick="approveSet();">
             Approve
           </button>
           <script>
-            function approve(){
-              app = document.getElementByID("approvebtn");
-              app.style.backgroundColor = "rgb(102,167,69)";
-              app.style.color = "white";
-              app.innerHTML = "Approved";
+            var count = 1;
+            function approveSet(){
+              var property = document.getElementById("approvebtn");
+              if (count == 0){
+                property.style.backgroundColor = "white";
+                property.style.color = "rgb(102,167,69)";
+                property.innerHTML = "Approve";
+                count = 1;
+              }
+              else {
+                property.style.backgroundColor = "rgb(102,167,69)";
+                property.style.color = "white";
+                property.innerHTML = "Approved";
+                count = 0;
+              }
             };
           </script>
+          <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn2">
+            Cancel
+          </button>
+        </div>
+      </div>
+      <div class = "row" style = "margin-top: 100px;">
+        <div class = "col">
+          <button type="button" class="btn btn-default float-right">
+            <span class="glyphicon glyphicon-floppy-disk" id = "savebutton" style="color: rgba(0, 112, 210, 1);"></span>
+          </button>
 
-          <button type = "button" class = "btn btn-primary" id = "cancelbtn2">
+          <button type = "button" class = "btn btn-primary float-right" id = "submitbtn">
+            Submit
+          </button>
+
+          <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn">
             Cancel
           </button>
         </div>

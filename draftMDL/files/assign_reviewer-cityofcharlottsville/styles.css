@@ -29,6 +29,12 @@ body {
     border-radius: 10px;
   }
 
+  .form-control {
+    display: inline;
+    height: 22px;
+    font-size: 12px;
+  }
+
   .label {
   font-size:12px;
 }

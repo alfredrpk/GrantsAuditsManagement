@@ -1559,7 +1559,7 @@ body {
 #u405 {
   border-width:0px;
   position:absolute;
-  left:710px;
+  left:740px;
   top:214px;
   width:77px;
   height:19px;
@@ -6645,4 +6645,46 @@ body {
   width:0px;
   visibility:hidden;
   word-wrap:break-word;
+}
+
+.btn-default {
+  border: none;
+  position: relative;
+  left: 550px;
+}
+
+#submitbtn {
+  position: relative;
+  left: 900px;
+  background-color: rgba(0, 112, 210, 1);
+  border-color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
+}
+
+
+#cancelbtn {
+  position: relative;
+  left: 675px;
+  background-color: white;
+  border: white;
+  color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
+}
+
+#approvebtn {
+  position: relative;
+  left: 900px;
+  border-color: rgb(102,167,69);
+  border-radius: 20px;
+  font-family: 'Segoe UI';
+}
+
+
+#cancelbtn2 {
+  position: relative;
+  left: 725px;
+  background-color: white;
+  border: white;
+  color: rgb(102,167,69);
+  font-family: 'Segoe UI';
 }

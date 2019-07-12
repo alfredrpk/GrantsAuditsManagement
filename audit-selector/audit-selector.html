@@ -1287,11 +1287,11 @@
             <div id = 'scrollbody'>
               <tbody>
                 <tr>
-                  <td >
-                    City of Charlottesville Public Schools
+                  <td>
+                    Alfred Premkumar Institution of Technology
                   </td>
                   <td>
-                    33-1234888
+                    43-4234765
                   </td>
                   <td>
                     Virginia
@@ -1450,6 +1450,25 @@
               </tbody>
             </div>
           </table>
+
+          <script type="text/javascript">
+                    $('#tbl tr').on('click', function (){
+                  $('.clicked').removeClass('clicked');
+                $(this).addClass('clicked');
+                $tds = $(this).closest("tr").find("td:nth-child(1)");
+                applicant = $tds.text();
+                $tds = $(this).closest("tr").find("td:nth-child(2)");
+                granteeEIN = $tds.text();
+                applicant = applicant.trim();
+                granteeEIN = granteeEIN.trim();
+                queryString = "?para1=" + applicant + "&para2=" + granteeEIN;
+                console.log(queryString);
+                console.log(applicant);
+                console.log(granteeEIN);
+                window.location.href = "../InitialAudit/InitialAudit.html" + queryString;
+              });
+          </script>
+
         </div>
       </div>
       <div class='row'>

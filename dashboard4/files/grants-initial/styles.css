@@ -29,6 +29,17 @@ body {
     z-index:0;
   }
 
+#alertmsg {
+  font-family: Segoe UI;
+  visibility: hidden;
+  /*text-align: left;*/
+  font-size: 15px;
+  position: relative;
+  width: 1300px;
+  height: 40px;
+  bottom: 50px;
+  line-height: 1;
+}
 
 #headingtbl {
   margin: auto;

@@ -7,12 +7,13 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <!--<link href="https://centennial-tech-test.microsoftcrmportals.com/grants-initial//theme.css" type="text/css" rel="stylesheet"/>-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css">
   <link href="/theme.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
   <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
   <link href="data/styles.css" type="text/css" rel="stylesheet"/>
   <link href="files/grants-initial/styles.css" type="text/css" rel="stylesheet"/>
-  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"/>
   <link href="https://axure.guru/cdn/FontAwesome-501/css/fontawesome-all.axure.guru.css" type="text/css" rel="stylesheet"/>
   <script type="text/javascript">
     AXSHARE_HOST_URL = 'http://app.axure.cloud';
@@ -104,8 +105,26 @@
       <div id="u53_state0" class="panel_state" data-label="State1" style="">
         <div id="u53_state0_content" class="panel_state_content">
 
+    <div id = "alertmsg" class="alert alert-warning alert-dismissible">           ✓ Successfully completed initial review of <strong><span id = "applicantText"></span></strong></div>
+
+    <script>
+      var urlParams = new URLSearchParams(window.location.search);
+      var currentLink = document.URL;
+      parameterValue = false;
+      if (currentLink.includes("?")){
+        parameterValue = true;
+      }
+      myApplicant = urlParams.get('para1');
+      myEIN = urlParams.get('para2');
+      document.getElementById("applicantText").innerHTML = myApplicant;
+      console.log(myApplicant);
+      if(parameterValue == true){
+        document.getElementById("alertmsg").style.visibility = "visible";
+      }
+    </script>
+
           <!-- Unnamed (Rectangle) -->
-          <div id="u56" class="ax_default paragraph1">
+          <div id="u56" class="ax_default paragraph1" style = "margin-top: 50px;">
             <div id="u56_div" class=""></div>
             <div id="u56_text" class="text ">
               <p><span style="font-family:'Segoe UI';font-weight:400;">Applications:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:400;">15</span></p>

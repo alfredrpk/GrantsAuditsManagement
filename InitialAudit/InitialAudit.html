@@ -141,7 +141,7 @@
       <div id="u377" class="ax_default paragraph1">
         <div id="u377_div" class=""></div>
         <div id="u377_text" class="text ">
-          <p><span>City of Charlottesville Public Schools</span></p>
+          <p><span id = "applicantText">City of Charlottesville Public Schools</span></p>
         </div>
       </div>
 
@@ -168,7 +168,7 @@
         <div id="u381" class="ax_default paragraph1">
           <div id="u381_div" class=""></div>
           <div id="u381_text" class="text ">
-            <p><span>33-1234888</span></p>
+            <p><span id = "einText">33-1234888</span></p>
           </div>
         </div>
       </div>
@@ -200,7 +200,6 @@
 
       <!-- btn-lg (Rectangle) -->
       <div id="u386" class="ax_default shape" data-label="btn-lg">
-        <span id="newlabel" class="label label-success">Initial Audit</span>
       </div>
 
       <!-- Unnamed (Image) -->
@@ -983,18 +982,23 @@
           </table>
         </div>
       </div>
-      <div class='row'>
+      <div class='row' style = "margin-bottom: 100px;">
         <div class='col'>
           <div class="btn-group float-right" style='margin-left: 20px;'>
             <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Select Action...
             </button>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Send Confirmation to Grantee</a>
-              <a class="dropdown-item" href="#">Notify XYZ</a>
-              <a class="dropdown-item" href="#">Documents Missing</a>
+              <a class="dropdown-item" href="#" onclick = "redirectFunction()">Send Confirmation to Grantee</a>
+              <a class="dropdown-item" href="#" onclick = "redirectFunction()">Notify XYZ</a>
+              <a class="dropdown-item" href="#" onclick = "redirectFunction()">Documents Missing</a>
             </div>
           </div>
+          <script>
+            function redirectFunction(){
+              window.location.href = "../dashboard4/AuditAnalyst-initial.html" + window.location.search;
+            }
+          </script>
           <div id="u518" class="btn float-right" style='top:15px;'>
             <div id="u518_text" class="text ">
               <p><span>Cancel</span></p>
@@ -1003,6 +1007,15 @@
         </div>
       </div>
     </div>
+    <script>
+      var urlParams = new URLSearchParams(window.location.search);
+      var currentLink = document.URL;
+
+      myApplicant = urlParams.get('para1');
+      myGranteeEIN = urlParams.get('para2');
+      document.getElementById("applicantText").innerHTML = myApplicant + "&nbsp;&nbsp;<span id=\"newlabel\" class=\"label label-success\">Initial Audit</span>";
+      document.getElementById("einText").innerHTML = myGranteeEIN;
+    </script>
     <!-- Unnamed (Rectangle) -->
       <div class="footer navbar-fixed-bottom">
         <div id="u525_div" class=""></div>

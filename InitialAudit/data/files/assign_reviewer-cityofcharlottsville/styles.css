@@ -958,9 +958,8 @@ body {
 }
 #u386 {
   border-width:0px;
-  position:absolute;
-  left:462px;
-  top:155px;
+  position:relative;
+  left: ;
   width:52px;
   height:24px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';

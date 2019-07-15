@@ -126,7 +126,7 @@ body {
   top: 220px;
   width: 375px;
   height: 100%;
-  max-height: 400px;
+  max-height: 300px;
   position: relative;
   font-family: 'Segoe UI';
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
@@ -160,7 +160,7 @@ body {
 #savebutton {
   position: relative;
   left: 1160px;
-  top: 555px;
+  top: 678px;
   font-size: 24px;
 }
 
@@ -1615,7 +1615,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1050px;
-  top:550px;
+  top:673px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -6329,7 +6329,7 @@ body {
   border-width:0px;
   position:absolute;
   left:975px;
-  top:558px;
+  top:678px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';

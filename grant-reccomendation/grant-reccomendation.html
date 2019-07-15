@@ -2005,8 +2005,31 @@
                 <p style = "width: 100%; text-align: left;">During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.</p>
               </div>
               <div class = "col">
-                <p class = "float-right"><strong>$ 200,000.00</strong></p>
+                <p class = "float-right"><strong>$ <span id = "questionedCost">200000.00</span></strong></p>
               </div>
+            </div>
+            <div class = "row">
+              <div class = "col-3">
+                <br>
+                <p class = "float-left"><strong>Disallowance</strong></p>
+                <div class="input-group mb-3">
+                  <div class="input-group-prepend">
+                    <span class="input-group-text">$</span>
+                    <input type="number" class="form-control" aria-label="Amount (to the nearest dollar)" id = "disallowance" min = "0">
+                  </div>
+                </div>
+              </div>
+              <div class = "col-3">
+                <br>
+                <p><strong>New Questioned Cost</strong></p>
+                <div>
+                  <p id = "newCost"></p>
+                </div>
+              </div>
+              <script>
+                // document.getElementById("newCost").innerHTML = (parseFloat(document.getElementById("questionedCost")) - parseFloat(document.getElementById("disallowance").value())).toString();
+                console.log(Number(document.getElementById("disallowance").innerHTML)); 
+              </script>
             </div>
           </div>
         </div>

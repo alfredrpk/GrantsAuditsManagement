@@ -1,4 +1,4 @@
-  html {
+html {
   box-sizing: border-box;
 }
 
@@ -52,13 +52,26 @@ body {
   }  
 
 #thepanel {
-  width: 300px;
-  height: 100%;
-  max-height: 500px;
-  line-height: 30px;
-  font-family: Segoe UI;
+      width: 300px;
+      height: 100%;
+      max-height: 500px;
+      line-height: 30px;
+      font-family: Segoe UI;
+    }
+
+.pdfbutton {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
 }
 
+.modal-body {
+  text-align: center;
+}
 
 #u37_div {
   border-width:0px;
@@ -114,20 +127,21 @@ body {
 #tbl {
   margin: auto;
   margin-left: -30px;
-  top: 440px;
+  top: 450px;
   width: 375px;
   height: 100%;
-  max-height: 500px;
-  display: block;
+  max-height: 400px;
   position: relative;
   font-family: 'Segoe UI';
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
   perspective: 1px;
-  border-radius: 20px;
+  border-radius: 0px 0px 20px 20px;
+  white-space: nowrap;
+  display:block;
   overflow-x: hidden; 
   width: 100%;
   z-index: 1;
-  word-wrap: break-word;
+  display: block;
 }
 
 #myInput {
@@ -147,11 +161,10 @@ body {
   top: 462px;
 }
 
-
 #savebutton {
   position: relative;
   left: 1160px;
-  top: 985px;
+  top: 955px;
   font-size: 24px;
 }
 
@@ -166,7 +179,7 @@ body {
 
 #backbtn {
   position: relative;
-  top: -160px;
+  top: 370px;
   right: 20px;
   position:relative;
 }
@@ -1606,7 +1619,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1050px;
-  top:980px;
+  top:950px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -6256,42 +6269,21 @@ body {
   border-color:transparent;
   outline-style:none;
 }
-##u517_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:184px;
-  height:25px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Segoe UI';
-  font-weight:400;
-  font-style:normal;
-  font-size:30px;
-  color:#222222;
-}
 #u517 {
-  border-width:0px;
-  position:absolute;
-  left:-20px;
-  top:420px;
-  width:184px;
-  height:25px;
   font-family:'Segoe UI';
   font-weight:400;
   font-style:normal;
   font-size:30px;
   color:#222222;
 }
+#u5172 {
+  font-family:'Segoe UI';
+  font-weight:400;
+  font-style:normal;
+  font-size:30px;
+  color:#
 #u517_text {
   border-width:0px;
-  position:absolute;
   left:0px;
   top:0px;
   width:183px;
@@ -6320,7 +6312,7 @@ body {
   border-width:0px;
   position:absolute;
   left:975px;
-  top:988px;
+  top:958px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';
@@ -6485,21 +6477,32 @@ body {
   word-wrap:break-word;
 }
 #u525_div {
-  width:1600px;
+  border-width:0px;
+  left:-165px;
+  width:2000px;
   height:35px;
-  top: 500px;
   background:inherit;
   background-color:rgba(17, 46, 81, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
   border-color:rgba(147, 201, 248, 1);
+  border-left:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u525 {
   border-width:0px;
-  position:absolute;
   left:0px;
-  top:1121px;
+  bottom:0px;
   width:1200px;
   height:35px;
 }

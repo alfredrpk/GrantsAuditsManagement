@@ -211,6 +211,17 @@ display: inline;
   border-color: rgba(0, 112, 210, 1);
 }
 
+.table-striped > tbody > tr:nth-child(even) > td, 
+.table-striped > thead > tr > td 
+{
+    background-color: #f9f9f9;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td 
+{
+    background-color: white;
+}
+
 
 #cancelbtn {
   /*position: relative;

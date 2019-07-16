@@ -8,11 +8,14 @@
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
     <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
     <link href="data/styles.css" type="text/css" rel="stylesheet"/>
     <link href="files/assign_reviewer-cityofcharlottsville/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css" rel="stylesheet"/>
+    <link href="https://axure.guru/cdn/FontAwesome-501/css/fontawesome-all.axure.guru.css" type="text/css" rel="stylesheet"/>
     <script type="text/javascript">
         AXSHARE_HOST_URL = 'http://app.axure.cloud';
         AXSHARE_HOST_SECURE_URL = 'https://share.axure.com';
@@ -46,7 +49,8 @@
     });
 </script>
 </head>
-  <body>
+  <body class="container">
+    <div class="row">
     <div id="base" class="">
 
       <div id="u37" class="ax_default box_2">
@@ -197,7 +201,7 @@
 
       <!-- btn-lg (Rectangle) -->
       <div id="u386" class="ax_default shape" data-label="btn-lg">
-        <span id="newlabel" class="label label-success badge-pill">Suspension of Award</span>
+        <span id="newlabel" class="label label-success">Active</span>
       </div>
 
       <!-- Unnamed (Image) -->
@@ -292,7 +296,7 @@
         <div id="u401" class="ax_default paragraph1">
           <div id="u401_div" class=""></div>
           <div id="u401_text" class="text ">
-            <p><span>ASSIGNED ON</span></p>
+            <p><span>GRANT TYPE</span></p>
           </div>
         </div>
 
@@ -300,7 +304,7 @@
         <div id="u402" class="ax_default paragraph1">
           <div id="u402_div" class=""></div>
           <div id="u402_text" class="text ">
-            <p><span>10/06/2018</span></p>
+            <p><span>Discretionary</span></p>
           </div>
         </div>
       </div>
@@ -312,7 +316,7 @@
         <div id="u404" class="ax_default paragraph1">
           <div id="u404_div" class=""></div>
           <div id="u404_text" class="text ">
-            <p><span>DUE ON</span></p>
+            <p><span>DATE APPLIED</span></p>
           </div>
         </div>
 
@@ -320,27 +324,7 @@
         <div id="u405" class="ax_default paragraph1">
           <div id="u405_div" class=""></div>
           <div id="u405_text" class="text ">
-            <p><span>04/05/2019</span></p>
-          </div>
-        </div>
-      </div>
-
-      <!-- Unnamed (Group) -->
-      <div id="u397" class="ax_default" data-left="648" data-top="166" data-width="99" data-height="37">
-
-        <!-- Unnamed (Rectangle) -->
-        <div id="u3982" class="ax_default paragraph">
-          <div id="u398_div" class=""></div>
-          <div id="u398_text" class="text ">
-            <p><span>DISALLOWANCE COST</span></p>
-          </div>
-        </div>
-
-        <!-- Unnamed (Rectangle) -->
-        <div id="u3992" class="ax_default paragraph1">
-          <div id="u399_div" class=""></div>
-          <div id="u399_text" class="text ">
-            <p><span>$47,000.00</span></p>
+            <p><span>05/18/2018</span></p>
           </div>
         </div>
       </div>
@@ -412,6 +396,14 @@
       <div id="u419" class="ax_default label">
         <div id="u419_div" class=""></div>
         <div id="u419_text" class="text ">
+          <p><span>Grants</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u420" class="ax_default label">
+        <div id="u420_div" class=""></div>
+        <div id="u420_text" class="text ">
           <p><span>Audits</span></p>
         </div>
       </div>
@@ -711,7 +703,7 @@
         </div>
       </div>
 
-      <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1);">Back</a>
+      <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1)">Back</a>
 
       <!-- selected-tooltip (Group) -->
       <div id="u519" class="ax_default ax_default_hidden" data-label="selected-tooltip" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
@@ -759,70 +751,168 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <div id='umainbody' class='container'>
-      <div class='row' style='padding-bottom: 20px;'>
-        <div class='col'>
-          <div class="card d-flex align-items-center align-middle" style="color: #333333; font-size:50px; height: 300px; padding-bottom: 20px;">
-            <div class="card-body">
-              Award Information
-            </div>
-          </div>
+      <div id="u517">
+        <div id="u517_text" class="text ">
+          <p><span>Review Eligibility Criteria</span></p>
         </div>
       </div>
       <div class='row'>
-        <div class='col'>
-          <div class="alert alert-success" role="alert">
-            <p><span class="glyphicon glyphicon-ok"></span> Completed</p>
-            <div class="card d-flex align-items-center align-middle" style="color: #333333; font-size:50px; height: 300px;";>
-              <div class="card-body">
-                Award payments and their reason for suspension maybe table format.
+        <div class='col-9' >
+          <table class="table">
+            <thead class="thead-light">
+              <tr>
+                <th scope="col">Criteria</th>
+                <th scope="col">Max Points</th>
+                <th scope="col">Points Awarded</th>
+                <th scope="col">Comments</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Criteria 1 - Lorem ipsum dolor sit amet</td>
+                <td>9</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 2 - Lorem ipsum dolor sit amet</td>
+                <td>12</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 3 - Lorem ipsum dolor sit amet</td>
+                <td>25</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 4 - Lorem ipsum dolor sit amet</td>
+                <td>4</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 5 - Lorem ipsum dolor sit amet</td>
+                <td>8</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+            </tbody>
+            <thead class="thead-light">
+              <tr>
+                <th scope="col" colspan='2'>Total Points Awarded</th>
+                <th scope="col" colspan='2'>00</th>
+              </tr>
+            </thead>
+          </table>
+          <button id='continue' type="button" class="btn btn-outline-primary float-right" onclick='showNew();'>Continue to Merit Criteria</button>
+          <div id="u5172" style='display: none;'>
+            <div id="u517_text" class="text">
+              <p><span>Review Merit Criteria</span></p>
+            </div>
+          </div>
+          <table id='merit' class="table" style='display: none;'>
+            <thead class="thead-light">
+              <tr>
+                <th scope="col">Criteria</th>
+                <th scope="col">Max Points</th>
+                <th scope="col">Points Awarded</th>
+                <th scope="col">Comments</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Criteria 1 - Lorem ipsum dolor sit amet</td>
+                <td>15</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 2 - Lorem ipsum dolor sit amet</td>
+                <td>18</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 3 - Lorem ipsum dolor sit amet</td>
+                <td>25</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 4 - Lorem ipsum dolor sit amet</td>
+                <td>10</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+              <tr>
+                <td>Criteria 5 - Lorem ipsum dolor sit amet</td>
+                <td>10</td>
+                <td><input type='number'></td>
+                <td><input type='text'></td>
+              </tr>
+            </tbody>
+            <thead class="thead-light">
+              <tr>
+                <th scope="col" colspan='2'>Total Points Awarded</th>
+                <th scope="col" colspan='2'>00</th>
+              </tr>
+            </thead>
+          </table>
+          <button id='cancel' type="button" class="btn btn-outline-primary float-right" onclick='' style='display: none;'>Cancel</button>
+          <button id='submit' type="button" class="btn btn-primary float-right" onclick='' style='display: none;'>Submit</button>
+        </div>
+        <div class='col-3'>
+          <div class="container">
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">
+                
+                  <!-- Modal content-->
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      <h4 class="modal-title">Application_ccps.pdf</h4>
+                    </div>
+                    <div class="modal-body">
+                      <object width=500 height=575 data="Application_ccps.pdf"></object>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                  </div>
+                  
+                </div>
+            </div>
+
+            <div class="panel panel-default" id="thepanel">
+                <div class="panel-heading" id="panelheading">Documents submitted: 5</div>
+                <div class="panel-body" id="panelbody">
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                  <img src="pdficon.png"> &nbsp; <button class="pdfbutton" data-toggle="modal" data-target="#myModal">Application_ccps.pdf</button><br>
+                </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class = "row">
-        <div class = "col">
-          <button type = "button" class = "btn btn-outline-success float-right" id = "approvebtn" onclick="approveSet();">
-            Confrim
-          </button>
-          <script>
-            var count = 1;
-            function approveSet(){
-              var property = document.getElementById("approvebtn");
-              if (count == 0){
-                property.style.backgroundColor = "white";
-                property.style.color = "rgb(102,167,69)";
-                property.innerHTML = "Confirm";
-                count = 1;
-              }
-              else {
-                property.style.backgroundColor = "rgb(102,167,69)";
-                property.style.color = "white";
-                property.innerHTML = "Confirmed";
-                count = 0;
-              }
-            };
-          </script>
-          <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn2">
-            Cancel
-          </button>
-        </div>
-      </div>
-      <div class='row'>
-        <div class='col'>
-          <span class="btn glyphicon glyphicon-floppy-disk float-right" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
-          <button type="button" class="btn btn-primary float-right">Submit</button>
-          <div id="u518" class="btn float-right" style="top: 5px;right: 10px;">
-            <div id="u518_text" class="text ">
-              <p><span>Cancel</span></p>
-            </div>
           </div>
         </div>
       </div>
     </div>
-    <!-- Unnamed (Rectangle) -->
-      <div class="footer navbar-fixed-bottom">
-        <div id="u525_div" class=""></div>
-      </div>
+    <script type="text/javascript">
+      function showNew(){
+        document.getElementById("continue").style.display = "none";
+        document.getElementById("merit").style.display = "block";
+        document.getElementById("cancel").style.display = "block";
+        document.getElementById("submit").style.display = "block";
+        document.getElementById("u5172").style.display = "block";
+      }
+    </script>
+  </div>
+  <div class="row">
+    <div id="u525" class="">
+     <div id="u525_div" class=""></div>
+    </div>
+  </div>
   </body>
 </html>

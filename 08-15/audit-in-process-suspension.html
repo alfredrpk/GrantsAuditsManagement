@@ -1745,19 +1745,8 @@
       </div>
       <div class = "row">
         <div class = "col">
-          <div class="alert alert-warning" role="alert" style = "height: 260px; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
-            &#9888; Please review questioned costs related to the findings in 
-            <div class="dropdown" style='display:inline !important; font-family:"Segoe UI" !important;'>
-              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style ="background: white; color: black; font-size: 14px;">
-                Current Fiscal Year
-              </button>
-              <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                <button class="dropdown-item" type="button">Previous Year</button>
-                <button class="dropdown-item" type="button">Another action</button>
-                <button class="dropdown-item" type="button">Something else here</button>
-              </div>
-            </div>
-            <table class = "table table-striped" style = "border: solid 1px rgb(249,249,249); border-radius: 0px 0px 20px 20px; box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);">
+    
+            <table class = "table table-striped" style = "border: solid 1px rgb(249,249,249); border-radius: 0px 0px 20px 20px; box-shadow: 0px 0px 5px 2px rgb(240, 240, 240); margin-top: 30px;">
               <thead style = "font-size: 15px">
                 <tr>
                   <td>Finding</td>
@@ -1778,7 +1767,7 @@
                     <button type="button" class="btn btn-light" data-toggle="modal" data-target="#pdfModal"><span class = "glyphicon glyphicon-file"></span> Additional Documents</button>
                   </td>
                   <td>
-                    <button type = "button" class = "btn btn-light" data-toggle = "modal" data-target = "#editModal"><span class = "glyphicon glyphicon-edit"></span> Edit</button>
+                    None
                   </td>
                 </tr>
                 <tr>
@@ -1792,15 +1781,13 @@
                     <button type="button" class="btn btn-light" data-toggle="modal" data-target="#pdfModal"><span class = "glyphicon glyphicon-file"></span> Additional Documents</button>
                   </td>
                   <td>
-                    <button type = "button" class = "btn btn-light" data-toggle = "modal" data-target = "#editModal"><span class = "glyphicon glyphicon-edit"></span> Edit</button>
+                    None
                   </td>
                 </tr>
               </tbody>
             </table>
-            <button type = "button" class = "btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal" style = "background: rgb(252,248,227); border: none; margin-top: -30px;">
-              <div style = "font-size: 14px; color: rgb(81,63,141);" id = "plusIcon"> + Add New Question Cost</div>
-            </button>
-          </div>
+
+            
           <!-- <button type="button" class="btn btn-default">
             <span class="glyphicon glyphicon-floppy-disk" id = "savebutton" style="color: rgba(0, 112, 210, 1);"></span>
           </button>
@@ -1812,6 +1799,31 @@
           <button type = "button" class = "btn btn-primary" id = "cancelbtn">
             Cancel
           </button> -->
+        </div>
+      </div>
+      <div class = "row">
+        <div class = "col">
+          <button type = "button" class = "btn btn-outline-success float-right" id = "approvebtn" onclick="approveSet();">
+            Approve
+          </button>
+          <script>
+            var count = 1;
+            function approveSet(){
+              var property = document.getElementById("approvebtn");
+              if (count == 0){
+                property.style.backgroundColor = "white";
+                property.style.color = "rgb(102,167,69)";
+                property.innerHTML = "Approve";
+                count = 1;
+              }
+              else {
+                property.style.backgroundColor = "rgb(102,167,69)";
+                property.style.color = "white";
+                property.innerHTML = "Approved";
+                count = 0;
+              }
+            };
+          </script>
         </div>
       </div>
       <div class = "row">

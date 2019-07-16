@@ -200,21 +200,21 @@ display: inline;
 
 .btn-default {
   border: none;
-  position: relative;
-  left: 550px;
+ /* position: relative;*/
+  /*left: 550px;*/
 }
 
 #submitbtn {
-  position: relative;
-  left: 900px;
+  /*position: relative;
+  left: 900px;*/
   background-color: rgba(0, 112, 210, 1);
   border-color: rgba(0, 112, 210, 1);
 }
 
 
 #cancelbtn {
-  position: relative;
-  left: 675px;
+  /*position: relative;
+  left: 675px;*/
   background-color: white;
   border: white;
   color: rgba(0, 112, 210, 1);

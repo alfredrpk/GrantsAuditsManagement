@@ -1814,7 +1814,7 @@
       </div>
       <div class = "row">
         <div class = "col">
-          <div class="alert alert-warning" role="alert" style = "height: 300px; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
+          <div class="alert alert-warning" role="alert" style = "height: auto; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
             &#9888; Review prior year closed audit details 
             <div class="dropdown" style='display:inline !important; font-family:"Segoe UI" !important;'>
               <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style ="background: white; color: black; font-size: 14px;">
@@ -1826,6 +1826,7 @@
                 <button class="dropdown-item" type="button">Something else here</button>
               </div>
             </div>
+            <span class = "glyphicon glyphicon-check float-right"><span style = "font-family: 'Segoe UI'; font-size: 14px;"><strong> Marked to end suspension grant</strong></span></span>
             <table class = "table table-striped">
               <thead style = "font-size: 15px">
                 <tr>
@@ -1833,7 +1834,7 @@
                   <td>Corrective Action Plan</td>
                   <td>Due Date</td>
                   <td>Issues</td>
-                  <td style = "text-align: left; vertical-align: center;">Confirm Closure<input type="checkbox" onClick="toggle(this)" /><span style = "font-size: 10px;">Select All</span></td>
+                  <td style = "text-align: left; vertical-align: center;">Confirm Closure</td>
                 </tr>
               </thead>
               <tbody>
@@ -1842,7 +1843,7 @@
                     During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
                   </td>
                   <td>
-                    During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
+                    Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply themto the internal procedures for preparing financial statements.
                   </td>
                   <td>
                     01/01/2019
@@ -1851,15 +1852,15 @@
                     None
                   </td>
                   <td>
-                    <td><input type="checkbox" name="checkgroup-1" />&nbsp;</td>
+                    <span class="label label-danger">Suspended Until Further Notice</span>
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+                    Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
                   </td>
                   <td>
-                    Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+                    We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
                   </td>
                   <td>
                     01/01/2019
@@ -1868,7 +1869,7 @@
                     None
                   </td>
                   <td>
-                    <td><input type="checkbox" name="checkgroup-1" />&nbsp;</td>
+                    <span class="label label-danger">Suspended Until Further Notice</span>
                   </td>
                 </tr>
               </tbody>
@@ -1888,18 +1889,26 @@
         </div>
       </div>
       <div class = "row">
-        <div class = "column">
-          <button type="button" class="btn btn-default" style = "position: relative; left: 875px;">
+        <div class = "col">
+
+         <div class="dropdown">
+          <button class="btn btn-primary dropdown-toggle float-right" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Select Action
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="#" style = "font-family: 'Segoe UI';">Send results to OMB designated source</a>
+            <a class="dropdown-item" href="#" style = "font-family: 'Segoe UI';">Request additional information from grantee</a>
+          </div>
+        </div>
+
+          <button type="button" class="btn btn-default float-right">
             <span class="glyphicon glyphicon-floppy-disk" id = "savebutton" style="color: rgba(0, 112, 210, 1);"></span>
           </button>
 
-          <button type = "button" class = "btn btn-primary" id = "submitbtn">
-            Submit
-          </button>
-
-          <button type = "button" class = "btn btn-primary" id = "cancelbtn">
+          <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn">
             Cancel
           </button>
+
         </div>
       </div>
 

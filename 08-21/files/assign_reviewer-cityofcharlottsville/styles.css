@@ -96,7 +96,7 @@ body {
 #headingtbl {
   margin: auto;
   margin-left: -30px;
-  top: 480px; 
+  top: 460px; 
   width: 100%;
   height: 100%;
   position: relative;
@@ -114,20 +114,33 @@ body {
 #tbl {
   margin: auto;
   margin-left: -30px;
-  top: 440px;
-  width: 375px;
+  top: 400px;
+  width: 1250px;
   height: 100%;
   max-height: 500px;
-  display: block;
   position: relative;
   font-family: 'Segoe UI';
   box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
   perspective: 1px;
   border-radius: 20px;
   overflow-x: hidden; 
-  width: 100%;
   z-index: 1;
   word-wrap: break-word;
+  display: block;
+}
+
+#fill {
+  left: -60px;
+  position: relative;
+  max-height: 500px;
+  height: 100%;
+  padding: 20px;
+  font-family: Segoe UI;
+  width: 1250px;
+  white-space: pre-wrap;
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
+  top: 1000px;
 }
 
 #myInput {
@@ -151,7 +164,7 @@ body {
 #savebutton {
   position: relative;
   left: 1160px;
-  top: 985px;
+  top: 1555px;
   font-size: 24px;
 }
 
@@ -166,7 +179,7 @@ body {
 
 #backbtn {
   position: relative;
-  top: -160px;
+  top: -150px;
   right: 20px;
   position:relative;
 }
@@ -1606,7 +1619,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1050px;
-  top:980px;
+  top:1550px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -6279,8 +6292,8 @@ body {
 #u517 {
   border-width:0px;
   position:absolute;
-  left:-20px;
-  top:420px;
+  left:1000px;
+  top:180px;
   width:184px;
   height:25px;
   font-family:'Segoe UI';
@@ -6320,7 +6333,7 @@ body {
   border-width:0px;
   position:absolute;
   left:975px;
-  top:988px;
+  top:1558px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';
@@ -6499,7 +6512,7 @@ body {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:1121px;
+  top:1621px;
   width:1200px;
   height:35px;
 }

@@ -915,12 +915,12 @@
           <br>
           <div class="alert alert-info text-right" role="alert" style = "height: auto; font-family: 'Segoe UI';">
             <button type="button" class="btn btn-link" data-toggle="modal" data-target="#findingModal">Add Audit Finding <span class = "glyphicon glyphicon-plus"></span></button>
-            <div class="panel-group">
+            <div class="panel-group" id = "panelGroup">
               <div class="panel panel-success">
                 <div class="panel-heading">2015-002-Reporting Requirements Not Met, All federal awards</div>
                 <div class="panel-body">Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.</div>
               </div>
-              <div class="panel panel-success">
+              <div class="panel panel-success" style = "margin-bottom: 5px;">
                 <div class="panel-heading">2015-002-Unallowable Cash Disbursements</div>
                 <div class="panel-body">We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.</div>
               </div>
@@ -974,7 +974,15 @@
           </div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-primary" data-dismiss="modal">Confirm</button>
+          <button type="button" class="btn btn-primary" data-dismiss="modal" onclick = "addPanelFunction()">Confirm</button>
+          <script>
+            function addPanelFunction(){
+              var panel1 = document.createElement("div");
+              panel1.innerHTML = '<div class="panel panel-success" style = "margin-bottom: 5px;"><div class="panel-heading">2015-002-Unallowable Cash Disbursements</div><div class="panel-body">We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.</div></div>';
+              var containerDiv = document.getElementById("panelGroup");
+              containerDiv.appendChild(panel1);
+            }
+          </script>
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>

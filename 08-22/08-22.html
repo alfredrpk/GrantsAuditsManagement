@@ -350,15 +350,16 @@
       <a  id="u409" onclick="newColor('green');" class="ax_default shape btn-primary" style='width:0px;'>
         <div id="u409_div" class=""></div>
         <div id="u409_text" class="text ">
-          <p><span>Approve</span></p>
+          <p id="approve">Approve</p>
         </div>
       </a>
 
       <script type="text/javascript">
-        var buttonidEL= document.getElementById("u409_div")
+        var buttonidEL= document.getElementById("u409_div");
         function newColor(newC) {
         buttonidEL.style.backgroundColor = newC;
         buttonidEL.style.border = newC;
+        document.getElementById("approve").textContent = "Approved";
         }
       </script>
 

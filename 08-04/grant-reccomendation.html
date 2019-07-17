@@ -1745,7 +1745,7 @@
       </div>
       <div class = "row">
         <div class = "col">
-          <div class="alert alert-warning" role="alert" style = "height: 260px; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
+          <div class="alert alert-warning" role="alert" style = "height: auto; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
             &#9888; Please review questioned costs related to the findings in 
             <div class="dropdown" style='display:inline !important; font-family:"Segoe UI" !important;'>
               <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style ="background: white; color: black; font-size: 14px;">
@@ -1757,7 +1757,7 @@
                 <button class="dropdown-item" type="button">Something else here</button>
               </div>
             </div>
-            <table class = "table table-striped">
+            <table class = "table table-striped" id = "myTable">
               <thead style = "font-size: 15px">
                 <tr>
                   <td>Finding</td>
@@ -1765,7 +1765,7 @@
                 </tr>
               </thead>
               <tbody>
-                <tr>
+                <tr onclick = "editFunction(this)">
                   <td>
                     During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
                   </td>
@@ -1779,7 +1779,7 @@
                     <button type = "button" class = "btn btn-light" data-toggle = "modal" data-target = "#editModal"><span class = "glyphicon glyphicon-edit"></span> Edit</button>
                   </td>
                 </tr>
-                <tr>
+                <tr onclick = "editFunction(this)">
                   <td>
                     Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
                   </td>
@@ -1795,6 +1795,13 @@
                 </tr>
               </tbody>
             </table>
+            <script>
+              function editFunction(x){
+                rowCounter = x.rowIndex;
+              }
+                  
+              
+            </script>
             <button type = "button" class = "btn btn-xs btn-primary" data-toggle="modal" data-target="#myModal" style = "background: rgb(252,248,227); border: none; margin-top: -30px;">
               <div style = "font-size: 14px; color: rgb(81,63,141);" id = "plusIcon"> + Add New Question Cost</div>
             </button>
@@ -1814,7 +1821,7 @@
       </div>
       <div class = "row">
         <div class = "col">
-          <div class="alert alert-warning" role="alert" style = "height: 300px; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
+          <div class="alert alert-warning" role="alert" style = "height: auto; text-align: left; margin-top: 30px; font-family: 'Segoe UI';">
             &#9888; Review prior year closed audit details 
             <div class="dropdown" style='display:inline !important; font-family:"Segoe UI" !important;'>
               <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style ="background: white; color: black; font-size: 14px;">
@@ -2005,7 +2012,7 @@
                 <p style = "width: 100%; text-align: left;">During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.</p>
               </div>
               <div class = "col">
-                <p class = "float-right"><strong>$ <span id = "questionedCost">200000.00</span></strong></p>
+                <p class = "float-right">$ <span id = "questionedCost">200000.00</span></p>
               </div>
             </div>
             <div class = "row">
@@ -2015,7 +2022,7 @@
                 <div class="input-group mb-3">
                   <div class="input-group-prepend">
                     <span class="input-group-text">$</span>
-                    <input type="number" class="form-control" aria-label="Amount (to the nearest dollar)" id = "disallowance" min = "0">
+                    <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" id = "disallowance">
                   </div>
                 </div>
               </div>
@@ -2027,14 +2034,41 @@
                 </div>
               </div>
               <script>
-                // document.getElementById("newCost").innerHTML = (parseFloat(document.getElementById("questionedCost")) - parseFloat(document.getElementById("disallowance").value())).toString();
-                console.log(Number(document.getElementById("disallowance").innerHTML)); 
+                console.log(parseFloat(document.getElementById("questionedCost").innerHTML)); 
+                var textInput = document.getElementById('disallowance');
+                var timeout = null;
+                textInput.onkeyup = function (e) {
+                  clearTimeout(timeout);
+                  timeout = setTimeout(function () {
+                      document.getElementById("newCost").innerHTML = '$ ' + (parseFloat(document.getElementById("questionedCost").innerHTML) - parseFloat(textInput.value)).toString();
+                  }, 500);
+                };
               </script>
             </div>
           </div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-primary">Save changes</button>
+          <button type="button" class="btn btn-primary" onclick = "alfredFunction()" data-dismiss = "modal">Save changes</button>
+          <script>
+            function alfredFunction() {
+              var div1 = document.createElement("div");
+              div1.innerHTML = "NEW";
+              div1.setAttribute("class", "alert alert-primary");
+              div1.setAttribute("role", "alert");
+              div1.setAttribute("width", "30px");
+              div1.setAttribute("height", "15px" );
+              var para = document.createElement("p");
+              var node = document.createTextNode("New Questioned Cost")
+              para.appendChild(node);
+              var para2 = document.createElement("p");
+              var node2 = document.createTextNode((document.getElementById("newCost").innerHTML).toString());
+              para2.appendChild(node2);
+              var element = document.getElementById("myTable").rows[rowCounter].cells[1];
+              element.appendChild(para);
+              element.appendChild(para2);
+              element.appendChild(div1);
+            }
+          </script>
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
       </div>

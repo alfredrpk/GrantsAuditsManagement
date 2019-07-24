@@ -1,3 +1,19 @@
+<?php>
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+$serverName = "CENT-SURM";
+$connectionOptions = array(
+    "Database" => "FAC",
+);
+//Establishes the connection
+$conn = sqlsrv_connect($serverName, $connectionOptions);
+if($conn)
+    echo "Connected!";
+
+$sql = "SELECT TOP 10 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.gen";
+$stmt = sqlsrv_query($conn, $sql);
+
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -1286,7 +1302,31 @@
             </thead>
             <div id = 'scrollbody'>
               <tbody>
-                
+                <?php
+                  $result = array(); 
+
+                  do {
+                      while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                        echo '
+                        <tr>
+                          <td>'.$row["AUDITEENAME"].'</td>
+                          <td>'.$row["EIN"].'</td>
+                          <td>'.$row["STATE"].'</td>
+                          <td>'.$row["FACACCEPTEDDATE"].'</td>
+                          <td>'.$row["TOTFEDEXPEND"].'</td>
+                          <td>'.$row["PYSCHEDULE"].'</td>
+                          <td><input type="checkbox" oninput=""></td>
+                        </tr>
+                        ';
+                      }
+                  } while (sqlsrv_next_result($stmt));
+
+
+                  // sqlsrv_free_stmt($stmt);
+                  // sqlsrv_close($conn); //Close the connnectiokn first
+
+                  // echo json_encode($result); //You will get the encoded array variable
+                ?>
               </tbody>
             </div>
           </table>
@@ -1324,5 +1364,5 @@
     </div>
   </body>
   </html>
-
+  
 

@@ -12,7 +12,7 @@ $conn = sqlsrv_connect($serverName, $connectionOptions);
 
 
 
-$sql = "SELECT TOP 10 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.gen";
+$sql = "SELECT TOP 20 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.gen";
 $stmt = sqlsrv_query($conn, $sql);
 
 ?>
@@ -1302,8 +1302,8 @@ $stmt = sqlsrv_query($conn, $sql);
             <td scope="col">Audit</td>
           </tr>
         </thead>
-        <div id = 'scrollbody'>
-          <tbody>
+        <div>
+          <tbody id = 'scrollbody'>
             <?php
             $result = array();
 

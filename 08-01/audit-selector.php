@@ -1013,7 +1013,7 @@ $stmt = sqlsrv_query($conn, $sql);
             <div id="u333_div" class=""></div>
             <div id="u333_text" class="text ">
               <p><span>New audit reports received</span></p>
-            </div>
+           </div>
           </div>
 
           <!-- Unnamed (Rectangle) -->
@@ -1212,7 +1212,7 @@ $stmt = sqlsrv_query($conn, $sql);
             var f = document.getElementById("headingtbl3");
             a.style.display = "block";
             b.style.display = "block";
-            c.style.display = "none";
+           c.style.display = "none";
             d.style.display = "none";
             e.style.display = "none";
             f.style.display = "none";

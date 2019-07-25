@@ -7,8 +7,9 @@ $connectionOptions = array(
 );
 //Establishes the connection
 $conn = sqlsrv_connect($serverName, $connectionOptions);
-if($conn)
-echo "Connected!";
+
+
+
 
 $sql = "SELECT TOP 10 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.gen";
 $stmt = sqlsrv_query($conn, $sql);

@@ -32,11 +32,16 @@ body {
   .table-striped > thead > tr > th
   {
     background-color: #f9f9f9;
+    padding: 20px;
   }
 
   .table-striped > tbody > tr:nth-child(odd) > td
   {
     background-color: white;
+  }
+
+  .table-striped >tbody > tr > td {
+    padding: 20px;
   }
 
   .table {
@@ -47,6 +52,7 @@ body {
   {
     border: none;
   }
+
   .label {
   font-size:12px;
   }

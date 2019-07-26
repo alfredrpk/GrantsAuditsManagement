@@ -770,7 +770,7 @@
               <tr>
                 <th width = 40%>2016-001 – Internal Control over Financial Reporting, Repeated finding</th>
                 <th></th>
-                <th style = "background-color: #f9f9f9;text-align: center;">Due Date</th>
+                <th style = "background-color: #f9f9f9; text-align: center;">Due Date</th>
                 <th style = "text-align: center;">Material Weakness</th>
               </tr>
             </thead>
@@ -798,7 +798,7 @@
                   01/01/19
                 </td>
                 <td style = "text-align: center;">
-                  <input type = "checkbox" style = "width: 30px; height: 30px;"/>
+                  <input type = "checkbox" style = "width: 30px; height: 30px;" />
                 </td>
               </tr>
               <tr>
@@ -817,7 +817,34 @@
               </tr>
             </tbody>
           </table>
-
+        </div>
+      </div>
+      <div class = "row" style = "margin-bottom: 100px;">
+        <div class = "col">
+          <button type = "button" class = "btn btn-outline-success float-right" id = "approvebtn" onclick="approveSet();">
+            Confirm
+          </button>
+          <script>
+            var count = 1;
+            function approveSet(){
+              var property = document.getElementById("approvebtn");
+              if (count == 0){
+                property.style.backgroundColor = "white";
+                property.style.color = "rgb(102,167,69)";
+                property.innerHTML = "Confirm";
+                count = 1;
+              }
+              else {
+                property.style.backgroundColor = "rgb(102,167,69)";
+                property.style.color = "white";
+                property.innerHTML = "Confirmed";
+                count = 0;
+              }
+            };
+          </script>
+          <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn2">
+            Cancel
+          </button>
         </div>
       </div>
       <div class = "row" style = "margin-top: 50px; margin-bottom: 50px;">

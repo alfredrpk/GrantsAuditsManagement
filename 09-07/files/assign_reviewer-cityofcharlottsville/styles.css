@@ -111,11 +111,25 @@ body {
   z-index: 2;
   display: block;
 }
+
+.table-striped > tbody > tr:nth-child(even) > td,
+.table-striped > thead > tr > td
+{
+    background-color: #f9f9f9;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td
+{
+    background-color: white;
+}
+
+.table-striped> tbody > tr {
+  font-size: 12px;
+}
+
 #tbltitle {
   position: relative;
   font-family: Segoe UI;
-  font-weight: 500;
-  font-size: 20px;
   top: 400px;
   left: -30px;
 }
@@ -190,13 +204,13 @@ body {
 #savebutton {
   position: relative;
   left: 1000px;
-  top: 1010px;
+  top: 910px;
   font-size: 24px;
 }
 
 #intake {
   position: relative;
-  top:960px;
+  top:850px;
   left: 970px;
   font: Segoe UI;
 }
@@ -212,9 +226,20 @@ body {
 
 #backbtn {
   position: relative;
-  top: -160px;
-  right: 20px;
+  top: -50px;
+  right: 42px;
   position:relative;
+}
+
+#cancelbtn {
+  position: relative;
+  /*left: 675px;*/
+  background-color: white;
+  border: white;
+  color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
+  top: 480px;
+  left: -320px;
 }
 
 #u163_img {
@@ -1726,7 +1751,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1015px;
-  top:1003px;
+  top:903px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -6441,7 +6466,7 @@ body {
   border-width:0px;
   position:absolute;
   left:955px;
-  top:1010px;
+  top:910px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';

@@ -1,18 +1,31 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-$serverName = "localhost";
-$connectionOptions = array(
-  "Database" => "FAC",
-);
-//Establishes the connection
-$conn = sqlsrv_connect($serverName, $connectionOptions);
-// if($conn)
-//   echo "Connected!";
+// $serverName = "localhost";
+// $connectionOptions = array(
+//   "Database" => "FAC",
+// );
+// //Establishes the connection
+// $conn = sqlsrv_connect($serverName, $connectionOptions);
+// // if($conn)
+// //   echo "Connected!";
 
+// PHP Data Objects(PDO) Sample Code:
+try {
+    $conn = new PDO("sqlsrv:server = tcp:grantsaudits.database.windows.net,1433; Database = FAC_GrantsAudits", "DevAdmin", "{CentennialTools@2019}");
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+}
+catch (PDOException $e) {
+    print("Error connecting to SQL Server.");
+    die(print_r($e));
+}
 
+// SQL Server Extension Sample Code:
+$connectionInfo = array("UID" => "DevAdmin@grantsaudits", "pwd" => "{CentennialTools@2019}", "Database" => "FAC_GrantsAudits", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+$serverName = "tcp:grantsaudits.database.windows.net,1433";
+$conn = sqlsrv_connect($serverName, $connectionInfo);
 
-$sql = "SELECT TOP 20 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.gen";
+$sql = "SELECT TOP 5 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.GEN";
 $stmt = sqlsrv_query($conn, $sql);
 
 ?>
@@ -478,7 +491,7 @@ $stmt = sqlsrv_query($conn, $sql);
 
     <!-- Unnamed (Image) -->
     <div id="u163" class="ax_default image">
-      <img id="u163_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+      <img id="u163_img" class="img " src="pfp.png"/>
     </div>
 
     <!-- GrantsMenuDP (Dynamic Panel) -->

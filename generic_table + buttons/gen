@@ -1,30 +1,119 @@
 //table
 
 <h5 class = ""><strong style = "font-family: 'Segoe UI Semibold'">Summary Schedule of Current Year Findings</strong></h5>
-<table class = "table table-striped" style = "border: solid 1px rgb(249,249,249); border-radius: 20px; box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);">
-  <thead style = "font-size: 15px">
+<table class = "table table-striped">
+  <thead>
     <tr>
-      <th>Condition</th>
-      <th>Recommendation</th>
-      <th>Current Status</th>
-      <th>Closure</th>
+      <td width="45%">2016-001 – Internal Control over Financial Reporting, Repeated finding</td>
+      <td width="45%"></td>
+      <td width="10%">Due Date</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
+        During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
+      </td>
+      <td>
+        Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply themto the internal procedures for preparing financial statements.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
+      </td>
+      <td>
+        We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
-        <br>
-        <strong style = "font-family: 'Segoe UI Semibold'">Questioned Costs:</strong> $15,070 applicable to the Supportive Housing for Persons with Disabilities program $73,956 applicable to the Supportive Housing for Elderly program.
       </td>
       <td>
-        In addition to recommendations made in finding 2015-001 and 2015-002 we recommend that Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash disbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
+        Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash isbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
       </td>
       <td>
-        <span class = "label label-success">Resolved</span>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
       </td>
-      <td style = "text-align: center">
-        <input type = "checkbox">
+    </tr>
+    <tr>
+      <td>
+        The Company failed to make the required deposits within 90 days subsequent to the end of the fiscal year into the residual receipts account during the year ended December 31, 2017.
+      </td>
+      <td>
+        Make required deposit of $1,702 by November 9, 2017. In subsequent yers, management will confirm the required residul receipt deposit is made within 90 days after fiscal year end.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<button type="button" class="btn btn-primary btn-sm" id="intake">Send to Audit Intake Specialist</button>
+</div>
+<div class="row">
+<p>Agency input for MDL</p>
+<div class="alert alert-success" role="alert">
+<p><input type="checkbox" name="Cross-Cutting" value="yes"> Confirm approval<br></p>
+<table class = "table table-striped">
+  <thead>
+    <tr>
+      <td width="45%">2016-001 – Internal Control over Financial Reporting, Repeated finding</td>
+      <td width="45%"></td>
+      <td width="10%">Due Date</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
+      </td>
+      <td>
+        Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply themto the internal procedures for preparing financial statements.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
+      </td>
+      <td>
+        We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+      </td>
+      <td>
+        Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash isbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        The Company failed to make the required deposits within 90 days subsequent to the end of the fiscal year into the residual receipts account during the year ended December 31, 2017.
+      </td>
+      <td>
+        Make required deposit of $1,702 by November 9, 2017. In subsequent yers, management will confirm the required residul receipt deposit is made within 90 days after fiscal year end.
+      </td>
+      <td>
+        <input type="checkbox" name="Cross-Cutting" value="yes"><br>
       </td>
     </tr>
   </tbody>
@@ -47,34 +136,18 @@
 //css
 
 .table-striped > tbody > tr:nth-child(even) > td,
-.table-striped > thead > tr > th
+.table-striped > thead > tr > td
 {
-  background-color: #f9f9f9;
+    background-color: #f9f9f9;
 }
 
 .table-striped > tbody > tr:nth-child(odd) > td
 {
-  background-color: white;
+    background-color: white;
 }
 
-tr {
+.table-striped> tbody > tr {
   font-size: 12px;
-}
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-  border-radius: 20px 20px 20px 20px;
-  box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
-}
-
-th, td {
-  text-align: left;
-  padding: 13px;
-}
-
-th {
-  font-family: 'Segoe UI Semibold';
 }
 
 #savebutton {

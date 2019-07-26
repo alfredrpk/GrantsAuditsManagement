@@ -1,0 +1,124 @@
+//table
+
+<h6>2015-003-Unallowable Cash Disbursements</h6>
+<table class = "table table-striped" style = "border: solid 1px rgb(249,249,249); border-radius: 20px; box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);">
+  <thead style = "font-size: 15px">
+    <tr>
+      <th>Condition</th>
+      <th>Recommendation</th>
+      <th>Current Status</th>
+      <th>Closure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
+        <br>
+        <strong style = "font-family: 'Segoe UI Semibold'">Questioned Costs:</strong> $15,070 applicable to the Supportive Housing for Persons with Disabilities program $73,956 applicable to the Supportive Housing for Elderly program.
+      </td>
+      <td>
+        In addition to recommendations made in finding 2015-001 and 2015-002 we recommend that Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash disbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
+      </td>
+      <td>
+        <span class = "label label-success">Resolved</span>
+      </td>
+      <td style = "text-align: center">
+        <input type = "checkbox">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1);">Back</a>
+
+<button type="button" class="btn btn-default float-right">
+  <span class="glyphicon glyphicon-floppy-disk" id = "savebutton" style="color: rgba(0, 112, 210, 1);"></span>
+</button>
+
+<button type = "button" class = "btn btn-primary float-right" id = "submitbtn">
+  Submit
+</button>
+
+<button type = "button" class = "btn btn-primary float-right" id = "cancelbtn">
+  Cancel
+</button>
+
+//css
+
+.table-striped > tbody > tr:nth-child(even) > td,
+.table-striped > thead > tr > th
+{
+  background-color: #f9f9f9;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td
+{
+  background-color: white;
+}
+
+tr {
+  font-size: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 20px 20px 20px 20px;
+  box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
+}
+
+th, td {
+  text-align: left;
+  padding: 13px;
+}
+
+th {
+  font-family: 'Segoe UI Semibold';
+}
+
+#savebutton {
+  position: relative;
+  font-size: 24px;
+}
+
+#backbtn {
+  position: relative;
+  top: 370px;
+  right: 20px;
+  position:relative;
+}
+
+.btn-default {
+  border: none;
+  position: relative;
+}
+#closebtn {
+  left-margin: 0px;
+  padding: 0px;
+}
+
+#submitbtn {
+  position: relative;
+  /*left: 900px;*/
+  background-color: rgba(0, 112, 210, 1);
+  border-color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
+}
+
+#cancelbtn {
+  position: relative;
+  /*left: 675px;*/
+  background-color: white;
+  border: white;
+  color: rgba(0, 112, 210, 1);
+  font-family: 'Segoe UI';
+}
+
+#approvebtn {
+  position: relative;
+ /* left: 900px;*/
+  border-color: rgb(102,167,69);
+  border-radius: 20px;
+  font-family: 'Segoe UI';
+}

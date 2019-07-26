@@ -1324,10 +1324,9 @@ $stmt = sqlsrv_query($conn, $sql);
             } while (sqlsrv_next_result($stmt));
 
 
-            // sqlsrv_free_stmt($stmt);
-            // sqlsrv_close($conn); //Close the connnectiokn first
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
 
-            // echo json_encode($result); //You will get the encoded array variable
             ?>
           </tbody>
         </div>

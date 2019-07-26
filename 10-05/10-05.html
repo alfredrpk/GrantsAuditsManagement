@@ -436,7 +436,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u429" class="ax_default image">
-        <img id="u429_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u429_img" class="img " src="pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -764,87 +764,62 @@
     <div id='umainbody' class='container'>
       <div class = "row">
         <div class = "col">
-          <h5 class = ""><strong style = "font-family: 'Segoe UI Semibold'">Summary Schedule of Current Year Findings</strong></h5>
-          <table class = "table table-striped" style = "">
-            <thead style = "font-size: 15px">
-              <tr>
-                <th width = 40%>2016-001 – Internal Control over Financial Reporting, Repeated finding</th>
-                <th></th>
-                <th style = "background-color: #f9f9f9; text-align: center;">Due Date</th>
-                <th style = "text-align: center;">Material Weakness</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                  Condition
-                </td>
-                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                  Cause
-                </td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                <td style = "color: red; background-color: #f9f9f9;">
-                </td>
-                <td>
-                </td>
-              </tr>
-              <tr>
-                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                  Criteria
-                </td>
-                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                  Effect
-                </td>
-                <td style = "color: red; background-color: #f9f9f9; font-size: 14px; text-align: center;">
-                  01/01/19
-                </td>
-                <td style = "text-align: center;">
-                  <input type = "checkbox" style = "width: 30px; height: 30px;" />
-                </td>
-              </tr>
-              <tr>
-                <td style = "font-size: 14px;">
-                  <div style = "font-family: 'Segoe UI Semibold'";>Reccomendation  <button type = "button class = "btn btn-dark"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;">Edit</span></button></div>
-                  <br>
-                  <div style = "font-size: 12px";>Corrective actions have not been implemented and are past due</div>
-                </td>
-                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                  Views
-                </td>
-                <td style = "color: red; background-color: #f9f9f9; font-family: 'Segoe UI Semibold'; font-size: 14px;">
-                </td>
-                <td>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-      <div class = "row" style = "margin-bottom: 100px;">
-        <div class = "col">
-          <button type = "button" class = "btn btn-outline-success float-right" id = "approvebtn" onclick="approveSet();">
-            Confirm
-          </button>
-          <script>
-            var count = 1;
-            function approveSet(){
-              var property = document.getElementById("approvebtn");
-              if (count == 0){
-                property.style.backgroundColor = "white";
-                property.style.color = "rgb(102,167,69)";
-                property.innerHTML = "Confirm";
-                count = 1;
-              }
-              else {
-                property.style.backgroundColor = "rgb(102,167,69)";
-                property.style.color = "white";
-                property.innerHTML = "Confirmed";
-                count = 0;
-              }
-            };
-          </script>
-          <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn2">
-            Cancel
-          </button>
+          <h4 class = ""><strong style = "font-family: 'Segoe UI Semibold'">Summary Schedule of Current Year Findings</strong></h4>
+          <div class = "alert alert-success" role "alert">
+            <input type = "checkbox"><span style = "font-family: 'Segoe UI'">Confirmed information</span>
+            <table class = "table table-striped" style = "">
+              <thead>
+                <tr>
+                  <th width = 40%>2016-001 – Internal Control over Financial Reporting, Repeated finding</th>
+                  <th></th>
+                  <th style = "background-color: #f9f9f9; text-align: center;">Due Date</th>
+                  <th style = "text-align: center;">Material Weakness</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                    Condition
+                  </td>
+                  <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                    Cause
+                  </td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                  <td style = "color: red; background-color: #f9f9f9;">
+                  </td>
+                  <td>
+                  </td>
+                </tr>
+                <tr>
+                  <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                    Criteria
+                  </td>
+                  <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                    Effect
+                  </td>
+                  <td style = "color: red; background-color: #f9f9f9; font-size: 14px; text-align: center;">
+                    01/01/19
+                  </td>
+                  <td style = "text-align: center;">
+                    <input type = "checkbox" style = "width: 30px; height: 30px;" />
+                  </td>
+                </tr>
+                <tr>
+                  <td style = "font-size: 14px;">
+                    <div style = "font-family: 'Segoe UI Semibold'";>Reccomendation <button type = "button class = "btn btn-dark"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;">Edit</span></button></div>
+                    <br>
+                    <div style = "font-size: 12px";>Corrective actions have not been implemented and are past due</div>
+                  </td>
+                  <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                    Views
+                  </td>
+                  <td style = "color: red; background-color: #f9f9f9; font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                  </td>
+                  <td>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
       <div class = "row" style = "margin-top: 50px; margin-bottom: 50px;">

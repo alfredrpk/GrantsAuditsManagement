@@ -5,17 +5,6 @@ $serverName = "localhost";
 $connectionOptions = array(
   "Database" => "FAC",
 );
-//Establishes the connection
-$conn = sqlsrv_connect($serverName, $connectionOptions);
-// if($conn)
-//   echo "Connected!";
-
-
-
-$sql = "SELECT STREET1, DUNS, CPADATESIGNED, FYENDDATE, AUDITEECONTACT, AUDITEEEMAIL, AUDITEEPHONE, AUDITEEFAX FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-//$sql = "SELECT TOP 5 AUDITEENAME, EIN, STATE, FACACCEPTEDDATE, TOTFEDEXPEND, PYSCHEDULE FROM dbo.GEN";
-$stmt = sqlsrv_query($conn, $sql);
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -168,7 +157,24 @@ $(document).ready(function(){
     <div id="u378" class="ax_default paragraph1">
       <div id="u378_div" class=""></div>
       <div id="u378_text" class="text ">
-        <p><span id = "address">400 Main St. , Charlottesville, VA&nbsp; 22908</span></p>
+        <p><span id = "address">
+          <?php
+          $conn = sqlsrv_connect($serverName, $connectionOptions);
+          $sql = "SELECT STREET1 FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+          $stmt = sqlsrv_query($conn, $sql);
+          $result = array();
+          do {
+            while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+              echo '
+              <span>'.$row['STREET1'].'</span>
+              ';
+            }
+          } while (sqlsrv_next_result($stmt));
+
+          sqlsrv_free_stmt($stmt);
+          sqlsrv_close($conn); //Close the connnectiokn first
+          ?>
+        </span></p>
       </div>
     </div>
 
@@ -207,7 +213,24 @@ $(document).ready(function(){
       <div id="u384" class="ax_default paragraph1">
         <div id="u384_div" class=""></div>
         <div id="u384_text" class="text ">
-          <p><span id = "duns">88-111-8235</span></p>
+          <p><span id = "duns">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT DUNS FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.$row['DUNS'].'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
     </div>
@@ -241,7 +264,24 @@ $(document).ready(function(){
       <div id="u390" class="ax_default paragraph1">
         <div id="u390_div" class=""></div>
         <div id="u390_text" class="text ">
-          <p><span id = "auditeecontact">Nancy Richards</span></p>
+          <p><span id = "auditeecontact">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT AUDITEECONTACT FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.$row['AUDITEECONTACT'].'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
     </div>
@@ -261,7 +301,24 @@ $(document).ready(function(){
       <div id="u393" class="ax_default paragraph1">
         <div id="u393_div" class=""></div>
         <div id="u393_text" class="text ">
-          <p><span id = "auditeeemail">nancy.richards@ccps.gov</span></p>
+          <p><span id = "auditeeemail">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT AUDITEEEMAIL FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.$row['AUDITEEEMAIL'].'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
     </div>
@@ -273,7 +330,24 @@ $(document).ready(function(){
       <div id="u395" class="ax_default paragraph1">
         <div id="u395_div" class=""></div>
         <div id="u395_text" class="text ">
-          <p><span id = "auditeephone">(202) 111 2238</span></p>
+          <p><span id = "auditeephone">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT AUDITEEPHONE FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.$row['AUDITEEPHONE'].'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
 
@@ -301,7 +375,24 @@ $(document).ready(function(){
       <div id="u399" class="ax_default paragraph1">
         <div id="u399_div" class=""></div>
         <div id="u399_text" class="text ">
-          <p><span id = "auditeefax">(202) 111 2248</span></p>
+          <p><span id = "auditeefax">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT AUDITEEFAX FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.$row['AUDITEEFAX'].'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
     </div>
@@ -321,7 +412,24 @@ $(document).ready(function(){
       <div id="u402" class="ax_default paragraph1">
         <div id="u402_div" class=""></div>
         <div id="u402_text" class="text ">
-          <p><span id = "cpadatesigned">10/06/2018</span></p>
+          <p><span id = "cpadatesigned">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT CPADATESIGNED FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.date_format($row['CPADATESIGNED'], 'Y-m-d').'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
     </div>
@@ -341,7 +449,24 @@ $(document).ready(function(){
       <div id="u405" class="ax_default paragraph1">
         <div id="u405_div" class=""></div>
         <div id="u405_text" class="text ">
-          <p><span id = "fyenddate">04/05/2019</span></p>
+          <p><span id = "fyenddate">
+            <?php
+            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $sql = "SELECT FYENDDATE FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
+            $stmt = sqlsrv_query($conn, $sql);
+            $result = array();
+            do {
+              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
+                echo '
+                <span>'.date_format($row['FYENDDATE'], 'Y-m-d').'</span>
+                ';
+              }
+            } while (sqlsrv_next_result($stmt));
+
+            sqlsrv_free_stmt($stmt);
+            sqlsrv_close($conn); //Close the connnectiokn first
+            ?>
+          </span></p>
         </div>
       </div>
     </div>
@@ -365,59 +490,6 @@ $(document).ready(function(){
         </div>
       </div>
     </div>
-
-    <?php
-    do {
-      while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-        $dom = new DOMDocument;
-        $dom->loadHTML("'.$row["STREET1"].'");
-        $div = $dom->getElementById("address");
-        echo $dom->saveHTML();
-
-        $dom1 = new DOMDocument;
-        $dom1->loadHTML("'.$row["DUNS"].'");
-        $div1 = $dom1->getElementById("duns");
-        echo $dom1->saveHTML();
-
-        $dom2 = new DOMDocument;
-        $dom2->loadHTML("'.$row["CPADATESIGNED"].'");
-        $div2 = $dom2->getElementById("cpadatesigned");
-        echo $dom2->saveHTML();
-
-        $dom3 = new DOMDocument;
-        $dom3->loadHTML("'.$row["FYENDDATE"].'");
-        $div3 = $dom3->getElementById("fyenddate");
-        echo $dom3->saveHTML();
-
-        $dom4 = new DOMDocument;
-        $dom4->loadHTML("'.$row["AUDITEECONTACT"].'");
-        $div4 = $dom4->getElementById("auditeecontact");
-        echo $dom4->saveHTML();
-
-        $dom5 = new DOMDocument;
-        $dom5->loadHTML("'.$row["AUDITEEEMAIL"].'");
-        $div5 = $dom5->getElementById("auditeeemail");
-        echo $dom5->saveHTML();
-
-        $dom6 = new DOMDocument;
-        $dom6->loadHTML("'.$row["AUDITEEPHONE"].'");
-        $div6 = $dom6->getElementById("auditeephone");
-        echo $dom6->saveHTML();
-
-        $dom7 = new DOMDocument;
-        $dom7->loadHTML("'.$row["AUDITEEFAX"].'");
-        $div7 = $dom7->getElementById("auditeefax");
-        echo $dom7->saveHTML();
-
-      }
-    } while (sqlsrv_next_result($stmt));
-
-
-    sqlsrv_free_stmt($stmt);
-    sqlsrv_close($conn); //Close the connnectiokn first
-
-
-    ?>
 
     <!-- Unnamed (Rectangle) -->
     <div id="u406" class="ax_default box_3">

@@ -1359,7 +1359,7 @@ $stmt = sqlsrv_query($conn, $sql);
       console.log(queryString);
       console.log(applicant);
       console.log(granteeEIN);
-      window.location.href = "../08-02/InitialAudit.html" + queryString;
+      window.location.href = "../08-02/InitialAudit.php" + queryString;
     });
   </script>
 

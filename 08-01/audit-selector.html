@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html>
+<html>+
+
 <head>
   <meta name="robots" content="noindex, nofollow"/>
   <title>Audits-initial</title>
@@ -1459,8 +1460,8 @@
                 applicant = $tds.text();
                 $tds = $(this).closest("tr").find("td:nth-child(2)");
                 granteeEIN = $tds.text();
-                applicant = applicant.trim();
-                granteeEIN = granteeEIN.trim();
+                // applicant = applicant.trim();
+                // granteeEIN = granteeEIN.trim();
                 queryString = "?para1=" + applicant + "&para2=" + granteeEIN;
                 console.log(queryString);
                 console.log(applicant);

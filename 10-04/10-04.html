@@ -803,7 +803,7 @@
               </tr>
               <tr>
                 <td style = "font-size: 14px;">
-                  <div style = "font-family: 'Segoe UI Semibold'";>Reccomendation  <button type = "button class = "btn btn-dark"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;">Edit</span></button></div>
+                  <div style = "font-family: 'Segoe UI Semibold'";>Reccomendation  <button class = "btn btn-default"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button></div>
                   <br>
                   <div style = "font-size: 12px";>Corrective actions have not been implemented and are past due</div>
                 </td>
@@ -825,21 +825,12 @@
             Confirm
           </button>
           <script>
-            var count = 1;
             function approveSet(){
               var property = document.getElementById("approvebtn");
-              if (count == 0){
-                property.style.backgroundColor = "white";
-                property.style.color = "rgb(102,167,69)";
-                property.innerHTML = "Confirm";
-                count = 1;
-              }
-              else {
                 property.style.backgroundColor = "rgb(102,167,69)";
                 property.style.color = "white";
                 property.innerHTML = "Confirmed";
                 count = 0;
-              }
             };
           </script>
           <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn2">

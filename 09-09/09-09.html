@@ -1,11 +1,3 @@
-<?php
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
-$serverName = "localhost";
-$connectionOptions = array(
-  "Database" => "FAC",
-);
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -149,7 +141,7 @@ $(document).ready(function(){
     <div id="u377" class="ax_default paragraph1">
       <div id="u377_div" class=""></div>
       <div id="u377_text" class="text ">
-        <p><span id = "applicantText">City of Charlottesville Public Schools</span></p>
+        <p><span>City of Charlottesville Public Schools</span></p>
       </div>
     </div>
 
@@ -157,24 +149,7 @@ $(document).ready(function(){
     <div id="u378" class="ax_default paragraph1">
       <div id="u378_div" class=""></div>
       <div id="u378_text" class="text ">
-        <p><span id = "address">
-          <?php
-          $conn = sqlsrv_connect($serverName, $connectionOptions);
-          $sql = "SELECT STREET1 FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-          $stmt = sqlsrv_query($conn, $sql);
-          $result = array();
-          do {
-            while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-              echo '
-              <span>'.$row['STREET1'].'</span>
-              ';
-            }
-          } while (sqlsrv_next_result($stmt));
-
-          sqlsrv_free_stmt($stmt);
-          sqlsrv_close($conn); //Close the connnectiokn first
-          ?>
-        </span></p>
+        <p><span>400 Main St. , Charlottesville, VA&nbsp; 22908</span></p>
       </div>
     </div>
 
@@ -193,7 +168,7 @@ $(document).ready(function(){
       <div id="u381" class="ax_default paragraph1">
         <div id="u381_div" class=""></div>
         <div id="u381_text" class="text ">
-          <p><span id = "einText">33-1234888</span></p>
+          <p><span>33-1234888</span></p>
         </div>
       </div>
     </div>
@@ -213,24 +188,7 @@ $(document).ready(function(){
       <div id="u384" class="ax_default paragraph1">
         <div id="u384_div" class=""></div>
         <div id="u384_text" class="text ">
-          <p><span id = "duns">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT DUNS FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.$row['DUNS'].'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>88-111-8235</span></p>
         </div>
       </div>
     </div>
@@ -242,6 +200,7 @@ $(document).ready(function(){
 
     <!-- btn-lg (Rectangle) -->
     <div id="u386" class="ax_default shape" data-label="btn-lg">
+      <span id="newlabel" class="label label-success">Cross-Cutting</span>
     </div>
 
     <!-- Unnamed (Image) -->
@@ -256,7 +215,7 @@ $(document).ready(function(){
       <div id="u389" class="ax_default paragraph">
         <div id="u389_div" class=""></div>
         <div id="u389_text" class="text ">
-          <p><span>APPLICATION SUBMITTED BY</span></p>
+          <p><span>GRANTEE</span></p>
         </div>
       </div>
 
@@ -264,24 +223,7 @@ $(document).ready(function(){
       <div id="u390" class="ax_default paragraph1">
         <div id="u390_div" class=""></div>
         <div id="u390_text" class="text ">
-          <p><span id = "auditeecontact">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT AUDITEECONTACT FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.$row['AUDITEECONTACT'].'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>Nancy Richards</span></p>
         </div>
       </div>
     </div>
@@ -301,24 +243,7 @@ $(document).ready(function(){
       <div id="u393" class="ax_default paragraph1">
         <div id="u393_div" class=""></div>
         <div id="u393_text" class="text ">
-          <p><span id = "auditeeemail">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT AUDITEEEMAIL FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.$row['AUDITEEEMAIL'].'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>nancy.richards@ccps.gov</span></p>
         </div>
       </div>
     </div>
@@ -330,24 +255,7 @@ $(document).ready(function(){
       <div id="u395" class="ax_default paragraph1">
         <div id="u395_div" class=""></div>
         <div id="u395_text" class="text ">
-          <p><span id = "auditeephone">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT AUDITEEPHONE FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.$row['AUDITEEPHONE'].'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>(202) 111 2238</span></p>
         </div>
       </div>
 
@@ -375,24 +283,7 @@ $(document).ready(function(){
       <div id="u399" class="ax_default paragraph1">
         <div id="u399_div" class=""></div>
         <div id="u399_text" class="text ">
-          <p><span id = "auditeefax">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT AUDITEEFAX FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.$row['AUDITEEFAX'].'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>(202) 111 2248</span></p>
         </div>
       </div>
     </div>
@@ -404,7 +295,7 @@ $(document).ready(function(){
       <div id="u401" class="ax_default paragraph1">
         <div id="u401_div" class=""></div>
         <div id="u401_text" class="text ">
-          <p><span>ASSIGNED ON</span></p>
+          <p><span>GRANT TYPE</span></p>
         </div>
       </div>
 
@@ -412,24 +303,7 @@ $(document).ready(function(){
       <div id="u402" class="ax_default paragraph1">
         <div id="u402_div" class=""></div>
         <div id="u402_text" class="text ">
-          <p><span id = "cpadatesigned">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT CPADATESIGNED FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.date_format($row['CPADATESIGNED'], 'Y-m-d').'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>Discretionary</span></p>
         </div>
       </div>
     </div>
@@ -441,7 +315,7 @@ $(document).ready(function(){
       <div id="u404" class="ax_default paragraph1">
         <div id="u404_div" class=""></div>
         <div id="u404_text" class="text ">
-          <p><span>DUE ON</span></p>
+          <p><span>DATE APPLIED</span></p>
         </div>
       </div>
 
@@ -449,24 +323,7 @@ $(document).ready(function(){
       <div id="u405" class="ax_default paragraph1">
         <div id="u405_div" class=""></div>
         <div id="u405_text" class="text ">
-          <p><span id = "fyenddate">
-            <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
-            $sql = "SELECT FYENDDATE FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
-            $stmt = sqlsrv_query($conn, $sql);
-            $result = array();
-            do {
-              while ($row = sqlsrv_fetch_array($stmt, SQLSRV_FETCH_ASSOC)){
-                echo '
-                <span>'.date_format($row['FYENDDATE'], 'Y-m-d').'</span>
-                ';
-              }
-            } while (sqlsrv_next_result($stmt));
-
-            sqlsrv_free_stmt($stmt);
-            sqlsrv_close($conn); //Close the connnectiokn first
-            ?>
-          </span></p>
+          <p><span>05/18/2018</span></p>
         </div>
       </div>
     </div>
@@ -478,7 +335,7 @@ $(document).ready(function(){
       <div id="u3982" class="ax_default paragraph">
         <div id="u398_div" class=""></div>
         <div id="u398_text" class="text ">
-          <p><span>BUDGET REQUESTED</span></p>
+          <p style = "font-size: 20px;"><span>Budget</span></p>
         </div>
       </div>
 
@@ -486,7 +343,7 @@ $(document).ready(function(){
       <div id="u3992" class="ax_default paragraph1">
         <div id="u399_div" class=""></div>
         <div id="u399_text" class="text ">
-          <p><span>$347,000.00</span></p>
+          <p><span>$47,000.00</span></p>
         </div>
       </div>
     </div>
@@ -558,14 +415,6 @@ $(document).ready(function(){
     <div id="u419" class="ax_default label">
       <div id="u419_div" class=""></div>
       <div id="u419_text" class="text ">
-        <p><span>Grants</span></p>
-      </div>
-    </div>
-
-    <!-- Unnamed (Rectangle) -->
-    <div id="u420" class="ax_default label">
-      <div id="u420_div" class=""></div>
-      <div id="u420_text" class="text ">
         <p><span>Audits</span></p>
       </div>
     </div>
@@ -587,7 +436,7 @@ $(document).ready(function(){
 
     <!-- Unnamed (Image) -->
     <div id="u429" class="ax_default image">
-      <img id="u429_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+      <img id="u429_img" class="img " src="pfp.png"/>
     </div>
 
     <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -913,256 +762,155 @@ $(document).ready(function(){
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   <div id='umainbody' class='container'>
-    <div class='row'>
-      <div class='col'>
-        <div id="u517">
-          <div id="u517_text" class="text ">
-            <p><span>Summary Schedule of Prior Year Findings</span></p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class='row'>
-      <div class='col'>
-        <table class="table" style='background-color: rgba(255, 255, 255, 1);'>
+    <div class = "row">
+      <div class = "col">
+        <h5 class = ""><strong style = "font-family: 'Segoe UI Semibold'">Cross-cutting Audit Findings</strong></h5>
+        <table class = "table table-striped" style = "">
+          <thead style = "font-size: 15px">
+            <tr>
+              <th width = 50%>2016-001 – Internal Control over Financial Reporting, Repeated finding</th>
+              <th></th>
+            </tr>
+          </thead>
           <tbody>
-            <tr class='sp'>
-              <td>2015-001 - Internal Control over Financial Reporting</td>
-              <td></td>
-              <td></td>
+            <tr>
+              <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                Condition
+              </td>
+              <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                Cause
             </tr>
             <tr>
-              <td>
-                <p>
-                  <strong>Condition</strong></br>
-                  During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements. Recommendation: Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
-                </p>
+              <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                Criteria
               </td>
-              <td>
-                <strong>Recommendation</strong></br>
-                None
+              <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                Effect
               </td>
-              <td>
-                <p>
-                  <strong>Current Status</strong>
-                  <span class="label label-danger float-right" style=>Repeated</span>
-                </br>
-                During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements. Recommendation: Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
-              </p>
-            </td>
-          </tr>
-          <tr class='sp'>
-            <td>2015-002 - Reporting Requirements Not met, All Federal Awards</td>
-            <td></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td>
-              <p>
-                <strong>Condition</strong></br>
-                Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
-              </p>
-            </td>
-            <td>
-              <p>
-                <strong>Recommendation</strong></br>
-                We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
-              </p>
-            </td>
-            <td>
-              <p>
-                <strong>Current Status</strong>
-                <span class="label label-success float-right" style=>Resolved</span>
-              </br>
-              The reporting package for the year ended June 30, 2015 was submitted on time.
-            </p>
-          </td>
-        </tr>
-        <tr class='sp'>
-          <td>2015-003 - Unallowable Cash Disbursements</td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            <p>
-              <strong>Condition</strong></br>
-              Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
-            </br></br>
-            <strong>Questioned Costs</strong></br>
-            $15,070 applicable to the Supportive Housing for Persons with Disabilities program $73,956 applicable to the Supportive Housing for Elderly program
-          </p>
-        </td>
-        <td>
-          <p>
-            <strong>Recommendation</strong></br>
-            In addition to recommendations made in finding 2015-001 and 2015-002 we recommend that Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash disbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
-          </p>
-        </td>
-        <td>
-          <p>
-            <strong>Current Status</strong>
-            <span class="label label-danger float-right" style=>Repeated</span>
-          </br>
-          The issue remains unresolved as Management is awaiting approval of a correction action plan from Department of Housing and Urban Development.
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
-</br>
-<div class='row'>
-  <div class='col'>
-    <div id="u517">
-      <div id="u517_text" class="text ">
-        <p><span>Corrective Actions</span></p>
+            </tr>
+            <tr>
+              <td style = "font-size: 14px;">
+                <div style = "font-family: 'Segoe UI Semibold'";>Recomendation</div></
+              </td>
+              <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                Views
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
-  </br>
-  <p>
-    Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
-  </p>
-</br>
-</div>
-</div>
-<div class='row'>
-  <div class='col'>
-    <div id="u517">
-      <div id="u517_text" class="text ">
-        <p><span>Summary Schedule of Prior Year Findings</span></p>
-      </div>
-    </div>
-  </div>
-  <div class='col'>
-    <div class="modal fade" id="pdfModal" role="dialog">
-      <div class="modal-dialog">
-        <!-- Modal content-->
-        <div class="modal-content">
-          <div class="modal-header">
-            <h4 id="modaltitle" class="modal-title">Application_ccps.pdf</h4>
-          </div>
-          <div class="modal-body">
-            <iframe width=800 height=575 src="https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"></iframe>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          </div>
+    <div class = "row">
+      <div class = "col">
+        <h5 class = ""><strong style = "font-family: 'Segoe UI Semibold'">Additional Information from Grant Recipient</strong></h5>
+        <div class = "alert alert-warning" role "alert">
+          <p><span class = "glyphicon glyphicon-warning-sign"></span><span style = "font-family: 'Segoe UI'"> Missed Deadline</span></p>
+          <table class = "table table-striped" style = "">
+            <thead>
+              <tr>
+                <th width = 40%>--</th>
+                <th></th>
+                <th style = "background-color: #f9f9f9; text-align: center;">Due Date</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                  Additional Info. Regarding Audit Finding
+                </td>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+
+                </td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
+                <td style = "color: red; background-color: #f9f9f9; font-size: 14px; text-align: center;">
+                  01/01/2019
+                </td>
+              </tr>
+            </tbody>
+          </table>
         </div>
       </div>
     </div>
-    <button type="button" class="btn btn-info float-right" data-toggle='modal' data-target='#pdfModal'>Audit Document</button>
-  </div>
-</div>
-<div class='row'>
-  <div class='col'>
-    <table class="table" style='background-color: rgba(255, 255, 255, 1);'>
-      <tbody>
-        <tr class='sp'>
-          <td>2016-001 - Internal Control over Financial Reporting, Repeated Finding</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            <p>
-              <strong>Condition</strong></br>
-              During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements. Recommendation: Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply them to the internal procedures for preparing financial statements.
-            </br></br>
-            <strong>Criteria</strong></br>
-            Management is responsible for the basic financial statements and all accompanying information. Management is also responsible for establishing effective internal controls, the selection and application of appropriate accounting principles, and for the fair representation of the financial position, changes in net assets, and cash flows in conformity with Generally Accepted Accounting Principles.
-          </br></br>
-          <strong>Recommendation</strong></br>
-          Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepted Accounting Principles and how to apply them to the internal procedures for preparing financial statements.
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Cause</strong></br>
-          The staff responsible for preparing the financial statements lacked the technical skills to properly present financials in accordance with Generally Accepted Accounting Standards.
-        </br></br>
-        <strong>Effect</strong></br>
-        As a result of the condition noted above, the financial statements were materially misstated and not prepared in conformity with Generally Accepted Accounting Standards.
-      </br></br>
-      <strong>Views of Reponsible Officials and Planned Correction Action</strong></br>
-      Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepted Accounting Principles and how to apply them to the internal procedures for preparing financial statements.
-    </p>
-  </td>
-</tr>
-<tr class='sp'>
-  <td>2016-002 - Unallowable Cash Disbursements</td>
-  <td></td>
-</tr>
-<tr>
-  <td>
-    <p>
-      <strong>Condition</strong></br>
-      Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
-    </br></br>
-    <strong>Criteria</strong></br>
-    Owners are required to establish and maintain a separate project account for each project. All rents, charges, income, and revenues arising from the project operation shall be maintained separately. Project funds should only be used to pay for mortgage payments, required deposits to the reserve for replacement fund, reasonable expenses necessary for the operation and maintenance of the project, distributions of surplus cash as permitted, and repayment of owner advances from surplus cash or as authorized by HUD. Disbursements from a centralized account must clearly be traceable to each project. The actual cash position of each project in this account must be easily identifiable at all times without exception.
-  </br></br>
-  <strong>Recommendation</strong></br>
-  MIn addition to recommendations made in finding 2016-001, we recommend that Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommended that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash disbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
-</p>
-</td>
-<td>
-  <p>
-    <strong>Cause</strong></br>
-    Due to internal staffing constraints and the effects caused by finding 2016-001, financial statements were not prepared accurately and timely. Due to the complex nature of Lokahi Pacific and Affiliates’ financial reporting practices, intercompany transactions were not handled correctly resulting in interfund borrowings that were not remedied timely.
-  </br></br>
-  <strong>Effect</strong></br>
-  Disbursements made from project accounts were not in accordance with the criteria above, thus noncompliance has occurred.
-</br></br>
-<strong>Views of Reponsible Officials and Planned Correction Action</strong></br>
-Lokahi Pacific continues to work with HUD to address this situation and is cooperating with HUD's Enforcement Center Referral office in finding the correct solution to this matter.
-</br></br>
-<strong>Questioned Costs</strong></br>
-$63,776 applicable to the Supportive Housing for Elderly program
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div class='row' style = "margin-bottom: 100px;">
-  <div class='col'>
-    <div class="btn-group float-right" style='margin-left: 20px;'>
-      <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Select Action...
-      </button>
-      <div class="dropdown-menu">
-        <a class="dropdown-item" href="#" onclick = "redirectFunction()">Send Confirmation to Grantee</a>
-        <a class="dropdown-item" href="#" onclick = "redirectFunction()">Notify XYZ</a>
-        <a class="dropdown-item" href="#" onclick = "redirectFunction()">Documents Missing</a>
+    <div class = "row">
+      <div class = "col">
+        <h5 class = ""><strong style = "font-family: 'Segoe UI Semibold'">Receipt of Additional Information</strong></h5>
+          <table class = "table table-striped" style = "">
+            <thead>
+              <tr>
+                <th width = 33%>Receipt</th>
+                <th width = 34%>Recomendation</th>
+                <th width = 33%>Results</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 12px;"></td>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 12px;"></td>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 12px;">No further input needs to be provided</td>
+              </tr>
+              <tr>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 12px;"></td>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 12px;"><button class = "btn btn-default"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button></td>
+                <td style = "font-family: 'Segoe UI Semibold'; font-size: 12px;"><button class = "btn btn-default"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button></td>
+              </tr>
+            </tbody>
+          </table>
       </div>
     </div>
-    <script>
-    function redirectFunction(){
-      window.location.href = "../dashboard4/AuditAnalyst-initial.html" + window.location.search;
-    }
-    </script>
-    <div id="u518" class="btn float-right" style='top:15px;'>
-      <div id="u518_text" class="text ">
-        <p><span>Cancel</span></p>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
-<script>
-var urlParams = new URLSearchParams(window.location.search);
-var currentLink = document.URL;
+    <div class = "row" style = "margin-top: 50px; margin-bottom: 50px;">
+      <div class = "col">
+        <button type="button" class="btn btn-default float-right">
+          <span class="glyphicon glyphicon-floppy-disk" id = "savebutton" style="color: rgba(0, 112, 210, 1);"></span>
+        </button>
 
-myApplicant = urlParams.get('para1');
-myGranteeEIN = urlParams.get('para2');
-document.getElementById("applicantText").innerHTML = myApplicant + "&nbsp;&nbsp;<span id=\"newlabel\" class=\"label label-success\">Initial Audit</span>";
-document.getElementById("einText").innerHTML = myGranteeEIN;
-</script>
-<!-- Unnamed (Rectangle) -->
-<div class="footer navbar-fixed-bottom">
-  <div id="u525_div" class=""></div>
-</div>
+        <button type = "button" class = "btn btn-primary float-right" id = "submitbtn">
+          Submit
+        </button>
+
+        <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn">
+          Cancel
+        </button>
+      </div>
+    </div>
+  </div>
+  <!-- Unnamed (Rectangle) -->
+  <div class="footer navbar-fixed-bottom">
+    <div id="u525_div" class=""></div>
+  </div>
 </body>
-</html>
+<div class="modal fade" id="findingModal" tabindex="-1" role="dialog" style = "font-family: 'Segoe UI';">
+  <div class="modal-dialog" role = "document">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 id="modaltitle" class="modal-title">Audit Finding Selector</h4>
+      </div>
+      <div class="modal-body">
+        <div class = "container" style = "width: auto;">
+          <div class = "row">
+            <div class = "col">
+              <h4>Prior Year: </h3>
+                <input type="text" placeholder="Search.." name="search">
+                <button type="submit">
+                  <span class="glyphicon glyphicon-search"></span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal" onclick = "addPanelFunction()">Confirm</button>
+          <script>
+            function addPanelFunction(){
+              var panel1 = document.createElement("div");
+              panel1.innerHTML = '<div class="panel panel-success" style = "margin-bottom: 5px;"><div class="panel-heading">2015-002-Unallowable Cash Disbursements</div><div class="panel-body">We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.</div></div>';
+              var containerDiv = document.getElementById("panelGroup");
+              containerDiv.appendChild(panel1);
+            }
+          </script>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  </html>

@@ -133,6 +133,8 @@
   Cancel
 </button>
 
+<button class = "btn btn-default"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button>
+
 //css
 
 .table-striped > tbody > tr:nth-child(even) > td,

@@ -51,6 +51,7 @@ body {
   .table-striped > tbody > tr > td
   {
     border: none;
+    background-color: white;
   }
 
   .label {

@@ -170,7 +170,7 @@
   left-margin: 0px;
   padding: 0px;
 }
-  
+
 #submitbtn {
   position: relative;
   /*left: 900px;*/
@@ -178,7 +178,7 @@
   border-color: rgba(0, 112, 210, 1);
   font-family: 'Segoe UI';
 }
-
+  
 #cancelbtn {
   position: relative;
   /*left: 675px;*/

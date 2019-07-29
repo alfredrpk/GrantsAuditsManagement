@@ -1353,13 +1353,13 @@ $stmt = sqlsrv_query($conn, $sql);
       applicant = $tds.text();
       $tds = $(this).closest("tr").find("td:nth-child(2)");
       granteeEIN = $tds.text();
-      applicant = applicant.trim();
-      granteeEIN = granteeEIN.trim();
+      // applicant = applicant.trim();
+      // granteeEIN = granteeEIN.trim();
       queryString = "?para1=" + applicant + "&para2=" + granteeEIN;
       console.log(queryString);
       console.log(applicant);
       console.log(granteeEIN);
-      window.location.href = "../08-02/InitialAudit.html" + queryString;
+      window.location.href = "../08-02/InitialAudit.php" + queryString;
     });
   </script>
 

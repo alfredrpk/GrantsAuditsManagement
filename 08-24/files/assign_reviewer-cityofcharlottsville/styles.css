@@ -39,17 +39,21 @@ body {
     margin-right: auto;
   }
 
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    border-radius: 20px 20px 20px 20px;
-    box-shadow: 0px 0px 5px 2px rgb(240, 240, 240);
+  .table-striped > tbody > tr:nth-child(even) > td,
+  .table-striped > thead > tr > td
+  {
+      background-color: #f9f9f9;
   }
 
-  th, td {
-    text-align: left;
-    padding: 13px;
+  .table-striped > tbody > tr:nth-child(odd) > td
+  {
+      background-color: white;
   }
+
+  .table-striped> tbody > tr {
+    font-size: 12px;
+  }
+
 
 #thepanel {
   width: 300px;
@@ -190,7 +194,7 @@ body {
 #savebutton {
   position: relative;
   left: 1160px;
-  top: 1613px;
+  top: 1350px;
   font-size: 24px;
 }
 
@@ -205,7 +209,7 @@ body {
 
 #backbtn {
   position: relative;
-  top: -900px;
+  top: -700px;
   right: 20px;
   position:relative;
 }
@@ -1645,7 +1649,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1015px;
-  top:1610px;
+  top:1380px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -1719,7 +1723,7 @@ body {
   border-width:0px;
   position:absolute;
   left:1040px;
-  top:1565px;
+  top:1345px;
   width:156px;
   height:32px;
   font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';
@@ -4583,7 +4587,7 @@ body {
   border-width:0px;
   position:absolute;
   left:970px;
-  top:1570px;
+  top:1390px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';
@@ -6428,7 +6432,7 @@ body {
   border-width:0px;
   position:absolute;
   left:955px;
-  top:1617px;
+  top:1350px;
   width:41px;
   height:19px;
   font-family:'Segoe UI';

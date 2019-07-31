@@ -1,10 +1,18 @@
 <?php
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-$serverName = "localhost";
-$connectionOptions = array(
-  "Database" => "FAC",
-);
+try {
+    $conn = new PDO("sqlsrv:server = tcp:grantsaudits.database.windows.net,1433; Database = FAC_GrantsAudits", "DevAdmin", "{CentennialTools@2019}");
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+}
+catch (PDOException $e) {
+    print("Error connecting to SQL Server.");
+    die(print_r($e));
+}
+
+// SQL Server Extension Sample Code:
+$connectionInfo = array("UID" => "DevAdmin@grantsaudits", "pwd" => "{CentennialTools@2019}", "Database" => "FAC_GrantsAudits", "LoginTimeout" => 30, "Encrypt" => 1, "TrustServerCertificate" => 0);
+$serverName = "tcp:grantsaudits.database.windows.net,1433";
 ?>
 <!DOCTYPE html>
 <html>
@@ -159,7 +167,7 @@ $(document).ready(function(){
       <div id="u378_text" class="text ">
         <p><span id = "address">
           <?php
-          $conn = sqlsrv_connect($serverName, $connectionOptions);
+          $conn = sqlsrv_connect($serverName, $connectionInfo);
           $sql = "SELECT STREET1 FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
           $stmt = sqlsrv_query($conn, $sql);
           $result = array();
@@ -215,7 +223,7 @@ $(document).ready(function(){
         <div id="u384_text" class="text ">
           <p><span id = "duns">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT DUNS FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();
@@ -266,7 +274,7 @@ $(document).ready(function(){
         <div id="u390_text" class="text ">
           <p><span id = "auditeecontact">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT AUDITEECONTACT FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();
@@ -303,7 +311,7 @@ $(document).ready(function(){
         <div id="u393_text" class="text ">
           <p><span id = "auditeeemail">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT AUDITEEEMAIL FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();
@@ -332,7 +340,7 @@ $(document).ready(function(){
         <div id="u395_text" class="text ">
           <p><span id = "auditeephone">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT AUDITEEPHONE FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();
@@ -377,7 +385,7 @@ $(document).ready(function(){
         <div id="u399_text" class="text ">
           <p><span id = "auditeefax">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT AUDITEEFAX FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();
@@ -414,7 +422,7 @@ $(document).ready(function(){
         <div id="u402_text" class="text ">
           <p><span id = "cpadatesigned">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT CPADATESIGNED FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();
@@ -451,7 +459,7 @@ $(document).ready(function(){
         <div id="u405_text" class="text ">
           <p><span id = "fyenddate">
             <?php
-            $conn = sqlsrv_connect($serverName, $connectionOptions);
+            $conn = sqlsrv_connect($serverName, $connectionInfo);
             $sql = "SELECT FYENDDATE FROM dbo.gen WHERE AUDITEENAME='" . $_GET['para1'] . "'";
             $stmt = sqlsrv_query($conn, $sql);
             $result = array();

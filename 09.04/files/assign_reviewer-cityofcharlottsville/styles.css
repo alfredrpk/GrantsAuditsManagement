@@ -25,13 +25,13 @@ body {
 
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #bbbbbb; 
+    background: #bbbbbb;
     border-radius: 10px;
   }
 
   .label {
-  font-size:12px;
-}
+    font-size:12px;
+  }
 
   .sp {
     background-color: rgba(250, 250, 251, 1);
@@ -65,7 +65,7 @@ body {
   th, td {
     text-align: left;
     padding: 13px;
-  }  
+  }
 
 #thepanel {
   width: 300px;
@@ -137,7 +137,7 @@ body {
 #headingtbl {
   margin: auto;
   margin-left: -30px;
-  top: 480px; 
+  top: 480px;
   width: 100%;
   height: 100%;
   position: relative;
@@ -147,7 +147,7 @@ body {
   border-radius: 20px 20px 0px 0px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   width: 100%;
   z-index: 2;
   display: block;
@@ -166,7 +166,7 @@ body {
   border-radius: 0px 0px 20px 20px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   width: 100%;
   z-index: 1;
   display: block;
@@ -6648,7 +6648,6 @@ body {
 }
 
 .btn-default {
-  border: none;
   position: relative;
 }
 

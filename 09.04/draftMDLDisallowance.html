@@ -436,7 +436,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u429" class="ax_default image">
-        <img id="u429_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u429_img" class="img " src="https://pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -764,18 +764,20 @@
     <div id='umainbody' class='container'>
       <div class = "row">
         <div class = "col">
-          <div class="card d-flex align-items-center align-middle" style="color: #333333; font-size:30px; height: 300px; border-radius: 20px;">
-            <div class="card-body align-items-center d-flex justify-content-center">
-              Drafted MDL 
+          <div class="card" style="color: #333333; font-size:30px; height: 300px; border-radius: 20px;" id = "card-1" onclick = "editFunction(this)">
+            <div class="card-body">
+              <button class = "btn btn-default" data-toggle = "modal" data-target = "#editModal"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button>
+              <p id = "template" style = "font-family: 'Segoe UI Semibold'; font-size: 20px;">Drafted MDL</p>
             </div>
           </div>
           <h4 style = "font-family: 'Segoe UI Semibold';">Request to edit MDL</h4>
-          <div class="card d-flex align-items-center align-middle" style="color: #333333; height: auto; border-radius: 20px; font-family: 'Segoe UI';">
+          <div class="card" style="color: #333333; height: auto; border-radius: 20px; font-family: 'Segoe UI';"  id = "card-2" onclick = "editFunction(this)">
             <div class="card-body">
               <div class = "container">
                 <div class = "row">
                   <div class = "col-10" style = "font-size: 30px;">
-                    <p style = "margin-left: 100px; margin-top: 25px;">guidance for liason to edit MDL</p>
+                    <button class = "btn btn-default" data-toggle = "modal" data-target = "#editModal"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button>
+                    <p id = "template2" style = "font-family: 'Segoe UI Semibold'; font-size: 20px;">Guidance for liason to edit MDL</p>
                   </div>
                   <div class = "col-2" style = "font-size: 20px;">
                     <div class = "rectangle" style = "height: 130%; width: 100%;background-color: #e5e5e5; margin-top: -14px; border-radius: 20px;">
@@ -789,8 +791,13 @@
           </div>
         </div>
       </div>
+      <script>
+        function editFunction(x){
+          param = x.id;
+        }
+      </script>
       <div class = "row">
-        <div class = "col">        
+        <div class = "col">
           <br>
           <div class="custom-control custom-checkbox custom-control-inline float-right">
             <input type="checkbox" class="custom-control-input" id="defaultInline1">
@@ -825,4 +832,54 @@
         <div id="u525_div" class=""></div>
       </div>
   </body>
+  <div class="modal" id = "editModal" tabindex="-1" role="dialog" style = "font-family: 'Segoe UI' ">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title"><strong>Edit Award Information</strong></h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class = "container" style = "width: auto;">
+            <div class = "row">
+              <div class = "col">
+                <div class="form-group">
+                  <textarea class="form-control" rows="20" id = "card-input"></textarea>
+                </div>
+              </div>
+              <script>
+                var textInput = document.getElementById('card-input');
+                var timeout = null;
+                template = "";
+                textInput.onkeyup = function (e) {
+                  clearTimeout(timeout);
+                  timeout = setTimeout(function () {
+                      template = (textInput.value).toString();
+                  }, 100);
+                };
+              </script>
+            </div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" onclick = "alfredFunction()" data-dismiss = "modal">Save changes</button>
+          <script>
+            function alfredFunction() {
+              if(param == 'card-1'){
+                document.getElementById("template").innerHTML = template;
+                document.getElementById('card-input').value='';
+              }
+              if(param == 'card-2'){
+                document.getElementById("template2").innerHTML = template;
+                document.getElementById('card-input').value='';
+              }
+            }
+          </script>
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
 </html>

@@ -802,10 +802,10 @@
                 </td>
               </tr>
               <tr>
-                <td style = "font-size: 14px;">
-                  <div style = "font-family: 'Segoe UI Semibold'";>Reccomendation  <button class = "btn btn-dark"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button></div>
+                <td style = "font-size: 14px;" id = "card-1" onclick = "editFunction(this)">
+                  <div style = "font-family: 'Segoe UI Semibold'";>Recomendation  <button class = "btn btn-default" data-toggle = "modal" data-target = "#editModal"><span class = "glyphicon glyphicon-pencil" style = "font-size: 12px;"> Edit</span></button></div>
                   <br>
-                  <div style = "font-size: 12px";>Corrective actions have not been implemented and are past due</div>
+                  <p id = "template" style = "font-size: 12px;">Corrective actions have not been implemented and are past due</p>
                 </td>
                 <td style = "font-family: 'Segoe UI Semibold'; font-size: 14px;">
                   Views
@@ -817,7 +817,11 @@
               </tr>
             </tbody>
           </table>
-
+          <script>
+            function editFunction(x){
+              param = x.id;
+            }
+          </script>
         </div>
       </div>
       <div class = "row" style = "margin-top: 50px; margin-bottom: 50px;">
@@ -841,36 +845,52 @@
         <div id="u525_div" class=""></div>
       </div>
   </body>
-  <div class="modal fade" id="findingModal" tabindex="-1" role="dialog" style = "font-family: 'Segoe UI';">
-    <div class="modal-dialog" role = "document">
-
-      <!-- Modal content-->
+  <div class="modal" id = "editModal" tabindex="-1" role="dialog" style = "font-family: 'Segoe UI' ">
+    <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h4 id="modaltitle" class="modal-title">Audit Finding Selector</h4>
+          <h4 class="modal-title"><strong>Edit Award Information</strong></h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
         </div>
         <div class="modal-body">
           <div class = "container" style = "width: auto;">
             <div class = "row">
               <div class = "col">
-                <h4>Prior Year: </h3>
-                <input type="text" placeholder="Search.." name="search">
-                <button type="submit">
-                  <span class="glyphicon glyphicon-search"></span>
-                </button>
+                <div class="input-group mb-3">
+                  <div class="input-group-prepend">
+                    <input type="text" class="form-control" id = "card-input">
+                  </div>
+                </div>
               </div>
+              <script>
+              var textInput = document.getElementById('card-input');
+              var timeout = null;
+              template = "";
+              textInput.onkeyup = function (e) {
+                clearTimeout(timeout);
+                timeout = setTimeout(function () {
+                  template = (textInput.value).toString();
+                }, 100);
+              };
+              </script>
             </div>
           </div>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-primary" data-dismiss="modal" onclick = "addPanelFunction()">Confirm</button>
+          <button type="button" class="btn btn-primary" onclick = "alfredFunction()" data-dismiss = "modal">Save changes</button>
           <script>
-            function addPanelFunction(){
-              var panel1 = document.createElement("div");
-              panel1.innerHTML = '<div class="panel panel-success" style = "margin-bottom: 5px;"><div class="panel-heading">2015-002-Unallowable Cash Disbursements</div><div class="panel-body">We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.</div></div>';
-              var containerDiv = document.getElementById("panelGroup");
-              containerDiv.appendChild(panel1);
+          function alfredFunction() {
+            if(param == 'card-1'){
+              document.getElementById("template").innerHTML = template;
+              document.getElementById('card-input').value='';
             }
+            if(param == 'card-2'){
+              document.getElementById("template2").innerHTML = template;
+              document.getElementById('card-input').value='';
+            }
+          }
           </script>
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>

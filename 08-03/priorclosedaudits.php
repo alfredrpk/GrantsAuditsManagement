@@ -2,13 +2,12 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
-    <title>08-22</title>
+    <title>Assign Reviewer-CityofCharlottsville</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
     <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
     <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
@@ -49,12 +48,13 @@
     });
 </script>
 </head>
-  <body class="container">
-    <div class="row">
+  <body>
     <div id="base" class="">
 
       <div id="u37" class="ax_default box_2">
-        <div id="u37_div" class=""></div>
+        <div id="u37_div" class="">
+          <div id = "u37_text"><p><span id = "reviewbgttxt">REVIEW BUDGET</span></p></div>
+        </div>
       </div>
 
       <!-- nextsteps (Dynamic Panel) -->
@@ -139,37 +139,37 @@
       </div>
 
       <!-- Unnamed (Rectangle) -->
-      <div id="u377" class="ax_default paragraph1">
+      <!-- <div id="u377" class="ax_default paragraph1">
         <div id="u377_div" class=""></div>
         <div id="u377_text" class="text ">
-          <p><span id = "applicantText">City of Charlottesville Public Schools</span></p>
+          <p id = "applicant"><span>City of Charlottesville Public Schools</span></p>
         </div>
-      </div>
+      </div> -->
 
       <!-- Unnamed (Rectangle) -->
-      <div id="u378" class="ax_default paragraph1">
+      <!-- <div id="u378" class="ax_default paragraph1">
         <div id="u378_div" class=""></div>
         <div id="u378_text" class="text ">
           <p><span>400 Main St. , Charlottesville, VA&nbsp; 22908</span></p>
         </div>
-      </div>
+      </div> -->
 
       <!-- Unnamed (Group) -->
       <div id="u379" class="ax_default" data-left="59" data-top="116" data-width="107" data-height="19">
 
         <!-- Unnamed (Rectangle) -->
-        <div id="u380" class="ax_default paragraph1">
+        <!-- <div id="u380" class="ax_default paragraph1">
           <div id="u380_div" class=""></div>
           <div id="u380_text" class="text ">
             <p><span>EIN </span></p>
           </div>
         </div>
-
+ -->
         <!-- Unnamed (Rectangle) -->
         <div id="u381" class="ax_default paragraph1">
           <div id="u381_div" class=""></div>
           <div id="u381_text" class="text ">
-            <p><span>33-1234888</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
@@ -178,53 +178,53 @@
       <div id="u382" class="ax_default" data-left="224" data-top="116" data-width="130" data-height="19">
 
         <!-- Unnamed (Rectangle) -->
-        <div id="u383" class="ax_default paragraph1">
+        <!-- <div id="u383" class="ax_default paragraph1">
           <div id="u383_div" class=""></div>
           <div id="u383_text" class="text ">
             <p><span>DUNS</span></p>
           </div>
         </div>
-
+ -->
         <!-- Unnamed (Rectangle) -->
         <div id="u384" class="ax_default paragraph1">
           <div id="u384_div" class=""></div>
           <div id="u384_text" class="text ">
-            <p><span>88-111-8235</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
 
       <!-- Unnamed (Rectangle) -->
-      <div id="u385" class="ax_default box_3">
+      <!-- <div id="u385" class="ax_default box_3">
         <div id="u385_div" class=""></div>
       </div>
-
+ -->
       <!-- btn-lg (Rectangle) -->
-      <div id="u386" class="ax_default shape" data-label="btn-lg">
-        <span id="newlabel" class="label label-success">Draft MDL</span>
+      <!-- <div id="u386" class="ax_default shape" data-label="btn-lg">
+        <span id="newlabel" class="label label-success">Active</span>
       </div>
-
+ -->
       <!-- Unnamed (Image) -->
-      <div id="u387" class="ax_default image">
+      <!-- <div id="u387" class="ax_default image">
         <img id="u387_img" class="img " src="https://i.imgur.com/QqVdqTF.png"/>
-      </div>
+      </div> -->
 
       <!-- Unnamed (Group) -->
       <div id="u388" class="ax_default" data-left="59" data-top="166" data-width="173" data-height="37">
 
         <!-- Unnamed (Rectangle) -->
-        <div id="u389" class="ax_default paragraph">
+        <!-- <div id="u389" class="ax_default paragraph">
           <div id="u389_div" class=""></div>
           <div id="u389_text" class="text ">
             <p><span>APPLICATION SUBMITTED BY</span></p>
           </div>
         </div>
-
+ -->
         <!-- Unnamed (Rectangle) -->
         <div id="u390" class="ax_default paragraph1">
           <div id="u390_div" class=""></div>
           <div id="u390_text" class="text ">
-            <p><span>Nancy Richards</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
@@ -236,7 +236,7 @@
         <div id="u392" class="ax_default paragraph">
           <div id="u392_div" class=""></div>
           <div id="u392_text" class="text ">
-            <p><span>EMAIL</span></p>
+            <p><span></span></p>
           </div>
         </div>
 
@@ -244,7 +244,7 @@
         <div id="u393" class="ax_default paragraph1">
           <div id="u393_div" class=""></div>
           <div id="u393_text" class="text ">
-            <p><span>nancy.richards@ccps.gov</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
@@ -256,7 +256,7 @@
         <div id="u395" class="ax_default paragraph1">
           <div id="u395_div" class=""></div>
           <div id="u395_text" class="text ">
-            <p><span>(202) 111 2238</span></p>
+            <p><span></span></p>
           </div>
         </div>
 
@@ -264,7 +264,7 @@
         <div id="u396" class="ax_default paragraph">
           <div id="u396_div" class=""></div>
           <div id="u396_text" class="text ">
-            <p><span>PHONE</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
@@ -276,7 +276,7 @@
         <div id="u398" class="ax_default paragraph">
           <div id="u398_div" class=""></div>
           <div id="u398_text" class="text ">
-            <p><span>FAX</span></p>
+            <p><span></span></p>
           </div>
         </div>
 
@@ -284,7 +284,7 @@
         <div id="u399" class="ax_default paragraph1">
           <div id="u399_div" class=""></div>
           <div id="u399_text" class="text ">
-            <p><span>(202) 111 2248</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
@@ -296,7 +296,7 @@
         <div id="u401" class="ax_default paragraph1">
           <div id="u401_div" class=""></div>
           <div id="u401_text" class="text ">
-            <p><span>GRANT TYPE</span></p>
+            <p><span></span></p>
           </div>
         </div>
 
@@ -304,7 +304,7 @@
         <div id="u402" class="ax_default paragraph1">
           <div id="u402_div" class=""></div>
           <div id="u402_text" class="text ">
-            <p><span>Discretionary</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
@@ -316,7 +316,7 @@
         <div id="u404" class="ax_default paragraph1">
           <div id="u404_div" class=""></div>
           <div id="u404_text" class="text ">
-            <p><span>DATE APPLIED</span></p>
+            <p><span></span></p>
           </div>
         </div>
 
@@ -324,46 +324,37 @@
         <div id="u405" class="ax_default paragraph1">
           <div id="u405_div" class=""></div>
           <div id="u405_text" class="text ">
-            <p><span>05/18/2018</span></p>
+            <p><span></span></p>
           </div>
         </div>
       </div>
 
       <!-- Unnamed (Rectangle) -->
-      <div id="u406" class="ax_default box_3">
+     <!--  <div id="u406" class="ax_default box_3">
         <div id="u406_div" class=""></div>
-      </div>
+      </div> -->
 
       <!-- Unnamed (Rectangle) -->
-      <div id="u407" class="ax_default box_3">
+      <!-- <div id="u407" class="ax_default box_3">
         <div id="u407_div" class=""></div>
-      </div>
+      </div> -->
 
-      <div id="u408" class="dropdown">
-    <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Select Action
-    <ul class="dropdown-menu">
-      <li><a href="#">Send to Grant Recipient</a></li>
-      <li><a href="#">Sent to OMB Designated Source</a></li>
-    </ul>
-  </div>
-
-      <a  id="u409" onclick="newColor('green');" class="ax_default shape btn-primary" style='width:0px;'>
-        <div id="u409_div" class=""></div>
-        <div id="u409_text" class="text ">
-          <p id="approve">Approve</p>
+      <!-- btn-primary (Rectangle) -->
+      <a onclick=redirectFunction() id="u408" class="ax_default shape btn-primary btn" />
+        <div id="u408_div" class=""></div>
+        <div id="u408_text" class="text ">
+          <p><span>Close</span></p>
         </div>
       </a>
 
-      <script type="text/javascript">
-        var buttonidEL= document.getElementById("u409_div");
-        function newColor(newC) {
-        buttonidEL.style.backgroundColor = newC;
-        buttonidEL.style.border = newC;
-        document.getElementById("approve").textContent = "Approved";
+      <script>
+        function redirectFunction() {
+          window.location.href = "../dashboard1/grants-initial.html" + queryString;
+          //THIS MIGHT CHANGE IN DYNAMICS
         }
       </script>
 
-      <span class="glyphicon glyphicon-floppy-disk" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
+          <span class="glyphicon glyphicon-floppy-disk btn" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
 
       <!-- Unnamed (Header-Grants) -->
 
@@ -422,93 +413,16 @@
       <div id="u419" class="ax_default label">
         <div id="u419_div" class=""></div>
         <div id="u419_text" class="text ">
-          <p><span>Audits</span></p>
+          <p><span>Grants</span></p>
         </div>
       </div>
 
-
-      <div class = "row">
-        <table class = "table table-striped" id="tbl">
-          <thead style = "font-size: 15px">
-            <tr>
-              <td>Finding</td>
-              <td>Current Corrective Plan</td>
-              <td>Due Date</td>
-              <td>Issues</td>
-              <td>Closure of Suspension</td>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>
-                During the course of the auditing procedures over the combined financials statements, we proposed and posted several journal entries that resulted in a material change in financial statements.
-              </td>
-              <td>
-                Management should routinely review financial statements for accuracy and document a better control process for doing so. Staff responsible for the preparation of financial statements should have adequate technical knowledge of Generally Accepting Accounting Standards and how to apply themto the internal procedures for preparing financial statements.
-              </td>
-              <td>
-                01/01/2019
-              </td>
-              <td>
-                None
-              </td>
-              <td>
-                <span class="glyphicon glyphicon-check" style="color: green"></span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                Management failed to file annual single audit reporting package to the Federal Audit Clearing House prior to the March 31, 2015 deadline for the year ended June 30, 2014.
-              </td>
-              <td>
-                We recommend that Management implement policies and procedures that would require monthly financial statements to be prepared within a month following the month end. We further recommend that Management complete a formal annual financial statement closing process immediately following the year end so that audit procedures can be performed more timely.
-              </td>
-              <td>
-                01/01/2019
-              </td>
-              <td>
-                None
-              </td>
-              <td>
-                <span class="glyphicon glyphicon-check" style="color: green"></span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                Management inadvertently borrowed funds from HUD project homes to fund operating expenses of other projects and general operating expenses.
-              </td>
-              <td>
-                Management refrain from disbursing funds for purposes other than those approved by HUD. It is also recommend that the Organization increase its knowledge of applicable compliance requirements and implement internal controls that will detect and prevent unallowable cash isbursements. It is further recommended that Management consider simplifying their financial processing and reduce the use of intercompany transactions as much as possible.
-              </td>
-              <td>
-                01/01/2019
-              </td>
-              <td>
-                None
-              </td>
-              <td>
-               <span class="glyphicon glyphicon-check" style="color: green"></span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                The Company failed to make the required deposits within 90 days subsequent to the end of the fiscal year into the residual receipts account during the year ended December 31, 2017.
-              </td>
-              <td>
-                Make required deposit of $1,702 by November 9, 2017. In subsequent yers, management will confirm the required residul receipt deposit is made within 90 days after fiscal year end.
-              </td>
-              <td>
-                01/01/2019
-              </td>
-              <td>
-                None
-              </td>
-              <td>
-               <span class="glyphicon glyphicon-check" style="color: green"></span>
-              </td>
-            </tr>
-          </tbody>
-        </table>
+      <!-- Unnamed (Rectangle) -->
+      <div id="u420" class="ax_default label">
+        <div id="u420_div" class=""></div>
+        <div id="u420_text" class="text ">
+          <p><span>Audits</span></p>
+        </div>
       </div>
 
       <!-- Unnamed (Shape) -->
@@ -528,7 +442,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u429" class="ax_default image">
-        <img id="u429_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u429_img" class="img " src="pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -709,6 +623,79 @@
           <img id="u456_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/grants-initial/u190.png?token=186190e197f53450f965cfd2a6bd5b85c7871291557ef27ea830e9c92c15796d"/>
         </div>
 
+        <script>
+      function searchFunction() {
+        // Declare variables
+        var x = document.getElementById("tbl");
+        var y = document.getElementById("tbl2");
+        var z = document.getElementById("tbl3");
+          if (window.getComputedStyle(x).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              }
+              else {
+                tr[i].style.display = "none";
+              }
+            }
+          }
+          }
+          if (window.getComputedStyle(y).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl2");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              }
+              else {
+                tr[i].style.display = "none";
+              }
+            }
+          }
+          }
+          if (window.getComputedStyle(z).display !== "none"){
+          var input, filter, table, tr, td, i, txtValue;
+          input = document.getElementById("myInput");
+          filter = input.value.toUpperCase();
+          table = document.getElementById("tbl3");
+          tr = table.getElementsByTagName("tr");
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[0];
+            if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                tr[i].style.display = "";
+                tr[0].style.display = "";
+              }
+              else {
+                tr[i].style.display = "none";
+              }
+            }
+          }
+          }
+      }
+
+    </script>
+
         <!-- ddn (Dynamic Panel) -->
         <div id="u457" class="ax_default" data-label="ddn">
           <div id="u457_state0" class="panel_state" data-label="State1" style="">
@@ -800,33 +787,294 @@
             </div>
           </div>
         </div>
+        <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
+      <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
         <!-- Unnamed (Rectangle) -->
         <div id="u469" class="ax_default box_2">
           <div id="u469_div" class=""></div>
         </div>
       </div>
+      <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1)">Back</a>
+<table class = "table table-striped" id="tbl">
+      <thead style="font-size: 15px;"
+        <tr>
+          <td width="30%"> Applicant ▼</td>
+          <td width = "15%">Number of Findings</td>
+          <td width = "15%">Corrective Action</td>
+          <td width = "15%">Issue Status</td>
+          <td width = "15%">Due Date</td>
+          <td style="padding-right: 60px;">Closed<input type="checkbox" onchange="checkAll(this)" name = "chk[]" /><span id = "smallText">(Select All)</span></td>
+        </tr>
+      </thead>
+      <div id = 'scrollbody'>
+        <tbody>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Fairfax County Public Schools
+            </td>
+            <td>
+              JH1234882
+            </td>
+            <td>
+              39
+            </td>
+            <td>
+              39
+            </td>
+            <td>
+              42,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              Howard County Public Schools
+            </td>
+            <td>
+              JH1234884
+            </td>
+            <td>
+              48
+            </td>
+            <td>
+              48
+            </td>
+            <td>
+              52,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+           <td>
+              Loudoun County Public Schools
+            </td>
+            <td>
+              JH1234885
+            </td>
+            <td>
+              45
+            </td>
+            <td>
+              45
+            </td>
+            <td>
+              72,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              City of Charlottesville Public Schools
+            </td>
+            <td>
+              JH1234880
+            </td>
+            <td>
+              43
+            </td>
+            <td>
+              54
+            </td>
+            <td>
+              62,000.00
+            </td>
+            <td>
+              <input type="checkbox" />
+            </td>
+          </tr>
+        </tbody>
+      </div>
+    </table>
+    <script>
+      function checkAll(ele) {
+       var checkboxes = document.getElementsByTagName('input');
+       if (ele.checked) {
+         for (var i = 0; i < checkboxes.length; i++) {
+           if (checkboxes[i].type == 'checkbox') {
+             checkboxes[i].checked = true;
+           }
+         }
+       } else {
+         for (var i = 0; i < checkboxes.length; i++) {
+           console.log(i)
+           if (checkboxes[i].type == 'checkbox') {
+             checkboxes[i].checked = false;
+           }
+         }
+       }
+     }
+   </script>
+    <style>
+      table {
+        border-collapse: collapse;
+        width: 100%;
+      }
 
+      th, td {
+        text-align: left;
+        padding: 13px;
+      }
+
+      tr:nth-child(odd) {background-color: #f2f2f2;}
+    </style>
+      <!-- Unnamed (Rectangle) -->
       <div id="u517" class="ax_default paragraph1">
         <div id="u517_div" class=""></div>
         <div id="u517_text" class="text ">
-          <p><span style="font-size: 12px;">DISALLOWANCE COST</span><br><span>$47,000.00</span></p>
+          <p><span>Applications: <strong>10<strong></span></p>
         </div>
       </div>
 
-      <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1)">Back</a>
-
       <!-- Unnamed (Rectangle) -->
-      <div id="u518" class="ax_default label">
+      <div id="u518" class="ax_default label btn">
         <div id="u518_div" class=""></div>
         <div id="u518_text" class="text ">
-          <p><span>Cancel</span></p>
-        </div>
-      </div>
-
-      <!-- Unnamed (Rectangle) -->
-      <div id="u470" class="ax_default label">
-        <div id="u470_div" class=""></div>
-        <div id="u470_text" class="text ">
           <p><span>Cancel</span></p>
         </div>
       </div>
@@ -856,6 +1104,19 @@
         </div>
       </div>
 
+
+      <!-- Unnamed (Footer) -->
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u524" class="ax_default box_2">
+        <img id="u524_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/log_in/u35.png?token=e7566ee3f3db586cbdd8108584ae7748c1409d88cde651657116b8f51fd3c80b"/>
+      </div>
+
+      <!-- Unnamed (Rectangle) -->
+      <div id="u525" class="ax_default box_2">
+        <div id="u525_div" class=""></div>
+      </div>
+
       <!-- selected-tooltip2 (Group) -->
       <div id="u526" class="ax_default ax_default_hidden" data-label="selected-tooltip2" style="display:none; visibility: hidden" data-left="0" data-top="0" data-width="0" data-height="0">
 
@@ -874,37 +1135,7 @@
       </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
-  <div class="container">
-          <p><pre id="fill">
-Recipient Name: <input type="text" name="Recipient Name">
-
-
-Recipient fiscal or calendar year: <input type="text" name="Recipient fiscal or calendar year">
-
-
-We have reviewed the single audit reports of the (recipient name) for the fiscal year ending <input type="text" name="Recipient fiscal or calendar year">. We performed our review in accordance with the requirements of §200.331of the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, found at 2 CFR Part 200, as applicable.
-
-Include this statement if a revised SEFA was requested:
-
-A revised Schedule of Expenditures of Federal Awards (SEFA) was requested and received on (mm/dd/yy) in compliance with OAM 30.40.00 PR section .108(g). Revisions to the SEFA were requested because (list reasons for revision).
-
-OR,
-
-include this paragraph if the subrecipient had a federal program audit finding where your agency was the contributing agency or an audit finding relating to multiple federal programs:
-
-The recipient’s single audit include the following federal program audit findings and the corrective actions that need to be taken. (Summarize the items in this paragraph, including CFDA# and program title.) We are issuing this management decision to (recipient name) on (date of letter) in compliance with 2 CFR §200.331.
-
-Signature of Monitoring Agency Staff Typed/printed agency reviewer name & title section name, agency name
-
-cc: All Other Contributing Agencies and their agency contact’s name
-          </pre></p>
-  </div>
-
-  <div class="footer navbar-fixed-bottom">
-        <div id="u525_div" class=""></div>
-      </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   </body>
 </html>

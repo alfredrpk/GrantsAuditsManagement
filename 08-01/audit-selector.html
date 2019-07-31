@@ -111,25 +111,14 @@
         </div>
       </div>
     </div>
-    <table id = 'headingtbl2'>
-      <thead id = 'heading'>
+    <table id = 'tbl2' class='table table-striped'>
+      <thead style="font-size: 15px;">
         <tr>
           <td colspan = "5" style="padding-right: 350px;">Auditee ▼</td>
           <td style="padding-right: 100px;">State</td>
           <td colspan = "2" style="padding-right: 100px;">Auditee EIN</td>
           <td colspan = "2" style="padding-right: 100px;">Assigned On</td>
           <td colspan = "2" style="padding-right: 100px;">Assigned By</td>
-        </tr>
-      </thead>
-    </table>
-    <table id = 'tbl2' cellspacing="40">
-      <thead id = 'heading'>
-        <tr>
-          <td colspan = "5" style="padding-right: 440px;"></td>
-          <td style="padding-right: 145px;"></td>
-          <td colspan = "2" style="padding-right: 200px;"></td>
-          <td colspan = "2" style="padding-right: 215px;"></td>
-          <td colspan = "2" style="padding-right: 200px;"></td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -200,14 +189,14 @@
         </tr>
       </thead>
     </table>
-    <table id = 'tbl3' cellspacing="40">
-      <thead id = 'heading'>
+    <table id = 'tbl3' class='table table-striped'>
+      <thead style="font-size: 15px;">
         <tr>
-          <td colspan = "5" style="padding-right: 440px;"></td>
-          <td style="padding-right: 145px;"></td>
-          <td colspan = "2" style="padding-right: 200px;"></td>
-          <td colspan = "2" style="padding-right: 215px;"></td>
-          <td colspan = "2" style="padding-right: 200px;"></td>
+          <td colspan = "5" style="padding-right: 350px;">Auditee ▼</td>
+          <td style="padding-right: 100px;">State</td>
+          <td colspan = "2" style="padding-right: 100px;">Auditee EIN</td>
+          <td colspan = "2" style="padding-right: 100px;">Assigned On</td>
+          <td colspan = "2" style="padding-right: 100px;">Assigned By</td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -461,7 +450,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u163" class="ax_default image">
-        <img id="u163_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u163_img" class="img " src="pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -1273,8 +1262,8 @@
       <div class='row' style='height:30px;'></div>
       <div class='row'>
         <div class='col table-responsive'>
-          <table id = 'tbl' class='table'>
-            <thead id = 'heading'>
+          <table id = 'tbl' class='table table-striped'>
+            <thead style="font-size: 15px;">
               <tr>
                 <td scope="col">Applicant ▼</td>
                 <td scope="col">Grantee EIN</td>
@@ -1475,11 +1464,9 @@
       <div class='row'>
         <div class='col'>
         <span class="btn glyphicon glyphicon-floppy-disk float-right" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
-        <div id="u518" class="btn float-right">
-          <div id="u518_text" class="text ">
-            <p><span>Cancel</span></p>
-          </div>
-        </div>
+        <button type = "button" class = "btn btn-primary float-right" id = "cancelbtn">
+          Cancel
+        </button>
         </div>
       </div>
     </div>

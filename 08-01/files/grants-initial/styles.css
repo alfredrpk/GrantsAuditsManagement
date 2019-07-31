@@ -32,6 +32,35 @@ tbody tr:hover {
     background-color: rgba(201, 228, 252) !important;
   }
 
+  .table-striped > tbody > tr:nth-child(even) > td,
+  .table-striped > thead > tr > td
+  {
+      background-color: #f9f9f9;
+  }
+
+  .table-striped > tbody > tr:nth-child(odd) > td
+  {
+      background-color: white;
+  }
+
+  .table-striped> tbody > tr {
+    font-size: 12px;
+  }
+
+  #cancelbtn {
+    position: relative;
+    /*left: 675px;*/
+    background-color: white;
+    border: white;
+    color: rgba(0, 112, 210, 1);
+    font-family: 'Segoe UI';
+    top: 7px;
+  }
+  #savebutton {
+    position: relative;
+    font-size: 24px;
+  }
+
 #base {
   position:absolute;
   z-index:0;

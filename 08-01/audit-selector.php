@@ -248,7 +248,7 @@ $stmt = sqlsrv_query($conn, $sql);
             </td>
             <td>
               33-1234888
-            </td>
+            </td>``
             <td colspan = "2">
               10/06/2018
             </td>

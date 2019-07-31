@@ -248,7 +248,7 @@ $stmt = sqlsrv_query($conn, $sql);
             </td>
             <td>
               33-1234888
-            </td>``
+            </td>
             <td colspan = "2">
               10/06/2018
             </td>
@@ -672,7 +672,7 @@ $stmt = sqlsrv_query($conn, $sql);
 
       <!-- Unnamed (Shape) -->
       <div id="u190" class="ax_default icon">
-        <img id="u190_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/grants-initial/u190.png?token=d93039283d35d813d8bf8f72586e0024f6f074205dd27fe06709a22bcf18cbf0"/>
+        <img id="u190_img" class="img " src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png"/>
       </div>
 
       <!-- ddn (Dynamic Panel) -->

@@ -21,7 +21,7 @@ body {
 
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #bbbbbb; 
+    background: #bbbbbb;
     border-radius: 10px;
   }
 
@@ -42,10 +42,24 @@ body {
   top: 400px;
 }
 
+.table-striped > tbody > tr:nth-child(even) > td,
+.table-striped > thead > tr > td
+{
+    background-color: #f9f9f9;
+}
+
+.table-striped > tbody > tr:nth-child(odd) > td
+{
+    background-color: white;
+}
+
+.table-striped> tbody > tr {
+  font-size: 12px;
+}
 /*#headingtbl {
   margin: auto;
   margin-left: -30px;
-  top: 480px; 
+  top: 480px;
   width: 100%;
   height: 100%;
   position: relative;
@@ -55,7 +69,7 @@ body {
   border-radius: 20px 20px 0px 0px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   z-index: 2;
   display: block;
 }*/
@@ -72,7 +86,7 @@ body {
   border-radius: 0px 0px 20px 20px;
   white-space: nowrap;
   display:block;
-  overflow: hidden; 
+  overflow: hidden;
   width: 100%;
   z-index: 1;
   display: block;
@@ -85,7 +99,7 @@ body {
   #headingtbl2 {
   margin: auto;
   margin-left: -30px;
-  top: 480px; 
+  top: 480px;
   width: 100%;
   height: 100%;
   position: relative;
@@ -95,7 +109,7 @@ body {
   border-radius: 20px 20px 0px 0px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   width: 100%;
   z-index: 2;
   display:none;
@@ -114,7 +128,7 @@ body {
   border-radius: 0px 0px 20px 20px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   width: 100%;
   z-index: 1;
   display:none;
@@ -123,7 +137,7 @@ body {
 #headingtbl3 {
   margin: auto;
   margin-left: -30px;
-  top: 480px; 
+  top: 480px;
   width: 100%;
   height: 100%;
   position: relative;
@@ -133,7 +147,7 @@ body {
   border-radius: 20px 20px 0px 0px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   width: 100%;
   z-index: 2;
   display:none;
@@ -152,7 +166,7 @@ body {
   border-radius: 0px 0px 20px 20px;
   white-space: nowrap;
   display:block;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   width: 100%;
   z-index: 1;
   display:none;
@@ -5543,4 +5557,3 @@ body {
   overflow:hidden;
   background-image:url('https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif');
 }
-

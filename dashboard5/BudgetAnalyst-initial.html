@@ -32,7 +32,7 @@
     $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
     $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
   </script>
-  
+
   <script>
     $(document).ready(function(){
       $("iframe").each(function( index ) {
@@ -117,8 +117,9 @@
     </div>
     <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
     <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
-    <table id = 'headingtbl'>
-      <thead id = 'heading'>
+
+    <table id = 'tbl' class="table table-striped" cellspacing="40">
+      <thead style="font-size: 15px;">
         <tr>
           <td colspan = "5" style="padding-right: 250px;">Applicant ▼</td>
           <td style="padding-right: 75px;">Submitted by</td>
@@ -126,18 +127,6 @@
           <td colspan = "2" style="padding-right: 75px;">Risk Evaluation</td>
           <td colspan = "2" style="padding-right: 75px;">Not Qualified</td>
           <td style="padding-right: 120px;">Potential Award</td>
-        </tr>
-      </thead>
-    </table>
-    <table id = 'tbl' cellspacing="40">
-      <thead id = 'heading'>
-        <tr>
-          <td colspan = "5" style="padding-right: 360px;"></td>
-          <td style="padding-right: 190px;"></td>
-          <td colspan = "2" style="padding-right: 240px;"></td>
-          <td colspan = "2" style="padding-right: 205px;"></td>
-          <td colspan = "2" style="padding-right: 195px;"></td>
-          <td style="padding-right: 140px;"></td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -944,7 +933,7 @@
   <body>
     <script>
       function searchFunction() {
-        // Declare variables 
+        // Declare variables
         var x = document.getElementById("tbl");
         var y = document.getElementById("tbl2");
         var z = document.getElementById("tbl3");
@@ -962,11 +951,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
           if (window.getComputedStyle(y).display !== "none"){
@@ -983,11 +972,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
           if (window.getComputedStyle(z).display !== "none"){
@@ -1004,11 +993,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
       }
@@ -1120,7 +1109,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u163" class="ax_default image">
-        <img id="u163_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u163_img" class="img " src="pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -1396,7 +1385,7 @@
           <div id="u203_div" class=""></div>
         </div>
       </div>
-      
+
       <!-- Audits-list (Dynamic Panel) -->
       <div id="u204" class="ax_default ax_default_hidden" data-label="Audits-list" style="display:none; visibility: hidden">
         <div id="u204_state0" class="panel_state" data-label="State1" style="">
@@ -1412,7 +1401,7 @@
           </div>
         </div>
       </div>
-    
+
       <!-- monitor-list (Dynamic Panel) -->
       <div id="u250" class="ax_default ax_default_hidden" data-label="monitor-list" style="display:none; visibility: hidden">
         <div id="u250_state0" class="panel_state" data-label="State1" style="">
@@ -1425,7 +1414,7 @@
                 <p><span style="font-family:'Segoe UI';font-weight:400;">Potential Awards:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:600;">06</span></p>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>
@@ -1901,5 +1890,3 @@
     </div>
   </body>
   </html>
-
-

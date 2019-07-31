@@ -354,7 +354,7 @@
         }
       </script>
 
-          <span class="glyphicon glyphicon-floppy-disk btn" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span> 
+          <span class="glyphicon glyphicon-floppy-disk btn" id="savebutton" style="color: rgba(0, 112, 210, 1);"></span>
 
       <!-- Unnamed (Header-Grants) -->
 
@@ -442,7 +442,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u429" class="ax_default image">
-        <img id="u429_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u429_img" class="img " src="pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -625,7 +625,7 @@
 
         <script>
       function searchFunction() {
-        // Declare variables 
+        // Declare variables
         var x = document.getElementById("tbl");
         var y = document.getElementById("tbl2");
         var z = document.getElementById("tbl3");
@@ -643,11 +643,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
           if (window.getComputedStyle(y).display !== "none"){
@@ -664,11 +664,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
           if (window.getComputedStyle(z).display !== "none"){
@@ -685,11 +685,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
       }
@@ -795,27 +795,15 @@
         </div>
       </div>
       <a class="btn btn-primary" href="#" role="button" id = 'backbtn' style = "background-color: rgba(0, 112, 210, 1)">Back</a>
-      <table id = 'headingtbl'>
-      <thead id = 'heading'>
+<table class = "table table-striped" id="tbl">
+      <thead style="font-size: 15px;"
         <tr>
-          <td style="padding-right: 180px;"> Applicant ▼</td>
-          <td style="padding-right: 80px;">Number of Findings</td>
-          <td style="padding-right: 75px;">Corrective Action</td>
-          <td style="padding-right: 60px;">Issue Status</td>
-          <td style = "padding-right: 60px;">Due Date</td>
-          <td style = "padding-right: 150px;">Closed<input type="checkbox" onchange="checkAll(this)" name = "chk[]" /><span id = "smallText">(Select All)</span></td>
-        </tr>
-      </thead>
-    </table>
-<table id = 'tbl'>
-      <thead id = 'heading'>
-        <tr>
-          <td style="padding-right: 300px;"></td>
-          <td style="padding-right: 220px;"></td>
-          <td style="padding-right: 200px;"></td>
-          <td style="padding-right: 160px;"></td>
-          <td style="padding-right: 250px;"></td>
-          <td style="padding-right: 260px;"></td>
+          <td width="30%"> Applicant ▼</td>
+          <td width = "15%">Number of Findings</td>
+          <td width = "15%">Corrective Action</td>
+          <td width = "15%">Issue Status</td>
+          <td width = "15%">Due Date</td>
+          <td style="padding-right: 60px;">Closed<input type="checkbox" onchange="checkAll(this)" name = "chk[]" /><span id = "smallText">(Select All)</span></td>
         </tr>
       </thead>
       <div id = 'scrollbody'>

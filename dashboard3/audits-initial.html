@@ -31,7 +31,7 @@
     $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
     $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
   </script>
-  
+
   <script>
     $(document).ready(function(){
       $("iframe").each(function( index ) {
@@ -116,27 +116,16 @@
     </div>
     <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
     <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
-    <table id = 'headingtbl'>
-      <thead id = 'heading'>
+
+    <table id = 'tbl' cellspacing="40" class="table table-striped">
+      <thead style="font-size: 15px;">
         <tr>
           <td colspan = "5" style="padding-right: 230px;">Grantee Name</td>
 <!--           <td style="padding-right: 100px;">State</td> -->
           <td colspan = "2" style="padding-right: 50px;">Grantee EIN</td>
           <td colspan = "2" style="padding-right: 60px;">Grantee City/State</td>
           <td colspan = "2" style="padding-right: 60px;">FAC Accepted Date ▼</td>
-          <td style="padding-right: 80px;">Prior Year Finding</td>
-        </tr>
-      </thead>
-    </table>
-    <table id = 'tbl' cellspacing="40">
-      <thead id = 'heading'>
-        <tr>
-          <td colspan = "5" style="padding-right: 370px;"></td>
-         <!--  <td style="padding-right: 220px;"></td> -->
-          <td colspan = "2" style="padding-right: 170px;"></td>
-          <td colspan = "2" style="padding-right: 230px;"></td>
-          <td colspan = "2" style="padding-right: 280px;"></td>
-          <td style="padding-right: 145px;"></td>
+          <td style="padding-right: 135px;">Prior Year Finding</td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -182,7 +171,7 @@
             <td colspan = "2">
               33-1234888
             </td>
-            <td colspan = "2">  
+            <td colspan = "2">
               Richmond, VA
             </td>
             <td colspan = "2">
@@ -227,7 +216,7 @@
               33-1234888
             </td>
             <td colspan = "2">
-              10/06/2018 
+              10/06/2018
             </td>
             <td colspan = "2">
               Jacqueline Bowman
@@ -305,7 +294,7 @@
               33-1234888
             </td>
             <td colspan = "2">
-              10/06/2018 
+              10/06/2018
             </td>
             <td colspan = "2">
               Jacqueline Bowman
@@ -372,7 +361,7 @@
   <body>
     <script>
       function searchFunction() {
-        // Declare variables 
+        // Declare variables
         var x = document.getElementById("tbl");
         var y = document.getElementById("tbl2");
         var z = document.getElementById("tbl3");
@@ -390,11 +379,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
           if (window.getComputedStyle(y).display !== "none"){
@@ -411,11 +400,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
           if (window.getComputedStyle(z).display !== "none"){
@@ -432,11 +421,11 @@
               if (txtValue.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
                 tr[0].style.display = "";
-              } 
+              }
               else {
                 tr[i].style.display = "none";
               }
-            } 
+            }
           }
           }
       }
@@ -563,7 +552,7 @@
 
       <!-- Unnamed (Image) -->
       <div id="u163" class="ax_default image">
-        <img id="u163_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+        <img id="u163_img" class="img " src="pfp.png"/>
       </div>
 
       <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -845,7 +834,7 @@
           <div id="u203_div" class=""></div>
         </div>
       </div>
-      
+
       <!-- Audits-list (Dynamic Panel) -->
       <div id="u204" class="ax_default ax_default_hidden" data-label="Audits-list" style="display:none; visibility: hidden">
         <div id="u204_state0" class="panel_state" data-label="State1" style="">
@@ -861,7 +850,7 @@
           </div>
         </div>
       </div>
-    
+
       <!-- monitor-list (Dynamic Panel) -->
       <div id="u250" class="ax_default ax_default_hidden" data-label="monitor-list" style="display:none; visibility: hidden">
         <div id="u250_state0" class="panel_state" data-label="State1" style="">
@@ -874,7 +863,7 @@
                 <p><span style="font-family:'Segoe UI';font-weight:400;">Audits for CFDA# 98.102:</span><span style="font-family:'Segoe UI Light', 'Segoe UI Regular', 'Segoe UI';font-weight:300;"> </span><span style="font-family:'Segoe UI Semibold', 'Segoe UI Regular', 'Segoe UI';font-weight:600;">15</span></p>
               </div>
             </div>
-            
+
           </div>
         </div>
       </div>
@@ -1351,5 +1340,3 @@
 
   </body>
   </html>
-
-

@@ -595,7 +595,7 @@ $(document).ready(function(){
 
     <!-- Unnamed (Image) -->
     <div id="u429" class="ax_default image">
-      <img id="u429_img" class="img " src="https://centennial-tech-test.microsoftcrmportals.com/grants-initial/pfp.png"/>
+      <img id="u429_img" class="img " src="pfp.png"/>
     </div>
 
     <!-- GrantsMenuDP (Dynamic Panel) -->
@@ -773,7 +773,7 @@ $(document).ready(function(){
 
       <!-- Unnamed (Shape) -->
       <div id="u456" class="ax_default icon">
-        <img id="u456_img" class="img " src="https://d1icd6shlvmxi6.cloudfront.net/gsc/UQDAEN/33/ae/d1/33aed17b5236419da26af94a7ebc08c4/images/grants-initial/u190.png?token=186190e197f53450f965cfd2a6bd5b85c7871291557ef27ea830e9c92c15796d"/>
+        <img id="u456_img" class="img " src="https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png"/>
       </div>
 
       <!-- ddn (Dynamic Panel) -->

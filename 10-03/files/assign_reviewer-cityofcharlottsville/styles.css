@@ -162,6 +162,20 @@ body {
   width:1200px;
   height:265px;
 }
+
+#u169 {
+  border-width:0px;
+  position:absolute;
+  left:236px;
+  top:67px;
+  width:100px;
+  height:35px;
+  overflow:hidden;
+  background-color:rgba(255, 255, 255, 0);
+  background-image:url('https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif');
+  font-family: Segoe UI
+}
+
 #headingtbl {
   margin: auto;
   margin-left: -30px;
@@ -2007,7 +2021,7 @@ body {
   width:42px;
   height:19px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 0);
+  background-color:rgba(255, 255, 255, 0)
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;

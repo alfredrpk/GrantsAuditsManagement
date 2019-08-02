@@ -12,6 +12,19 @@ body {
   overflow-x: hidden;
 }
 
+#u169 {
+  border-width:0px;
+  position:absolute;
+  left:236px;
+  top:67px;
+  width:100px;
+  height:35px;
+  overflow:hidden;
+  background-color:rgba(225, 243, 248, 0.298039215686275);
+  background-image:url('https://d1h0x9w88ijkiq.cloudfront.net/3372/images/transparent.gif');
+  font-family: Segoe UI
+}
+
   /* width */
   ::-webkit-scrollbar {
     width: 10px;
@@ -1779,7 +1792,6 @@ body {
   width:98px;
   height:35px;
   background:inherit;
-  background-color:rgba(225, 243, 248, 0.298039215686275);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;

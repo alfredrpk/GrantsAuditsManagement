@@ -1164,6 +1164,7 @@ var urlParams = new URLSearchParams(window.location.search);
 var currentLink = document.URL;
 
 myApplicant = urlParams.get('para1');
+if(myApplicant.length > 52) myApplicant = myApplicant.substring(0,52) + "...";
 myGranteeEIN = urlParams.get('para2');
 document.getElementById("applicantText").innerHTML = myApplicant + "&nbsp;&nbsp;<span id=\"newlabel\" class=\"label label-success\">Initial Audit</span>";
 document.getElementById("einText").innerHTML = myGranteeEIN;

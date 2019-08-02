@@ -25,7 +25,7 @@ $connectionInfo = array("UID" => "DevAdmin@grantsaudits", "pwd" => "{CentennialT
 $serverName = "tcp:grantsaudits.database.windows.net,1433";
 $conn = sqlsrv_connect($serverName, $connectionInfo);
 
-$sql = "SELECT TOP 10 AUDITEENAME, EIN, STATE, DUNS, AUDITEEDATESIGNED, AUDITEECONTACT, MULTIPLEEINS FROM dbo.GEN";
+$sql = "SELECT TOP 50 AUDITEENAME, EIN, STATE, DUNS, AUDITEEDATESIGNED, AUDITEECONTACT, MULTIPLEEINS FROM dbo.GEN";
 $stmt = sqlsrv_query($conn, $sql);
 
 ?>
@@ -166,15 +166,14 @@ $stmt = sqlsrv_query($conn, $sql);
     </div>
     <input type ="text"; id = "myInput", onkeyup = "searchFunction()"placeholder = " Search" style = "color: rgb(128,128,128)">
     <img id = "icon" src = "https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png" style = "width:15px;height:15px">
-    <table id = 'tbl' cellspacing="40" class="table table-striped">
+    <table id = 'tbl' class="table table-striped">
       <thead style="font-size: 15px;">
         <tr>
-          <td colspan = "5" style="padding-right: 350px;">Applicant ▼</td>
-          <td style="padding-right: 100px;">State</td>
-          <td colspan = "2" style="padding-right: 100px;">EIN</td>
-          <td colspan = "2" style="padding-right: 100px;">DUNS</td>
-          <td colspan = "2" style="padding-right: 100px;">Grant Type</td>
-          <td style="padding-right: 80px;">Status</td>
+          <td width="30%">Auditee ▼</td>
+          <td width="15%">Auditee EIN</td>
+          <td width="10%">Assigned On</td>
+          <td width="10%">Assigned By</td>
+          <td width="10%">Status</td>
         </tr>
       </thead>
       <div id = 'scrollbody'>
@@ -188,8 +187,6 @@ $stmt = sqlsrv_query($conn, $sql);
               <tr>
               <td>'.$row["AUDITEENAME"].'</td>
               <td>'.$row["EIN"].'</td>
-              <td>'.$row["STATE"].'</td>
-              <td>'.$row["DUNS"].'</td>
               <td>'.date_format($row["AUDITEEDATESIGNED"], 'Y-m-d').'</td>
               <td>'.$row["AUDITEECONTACT"].'</td>
               <td>'.$row["MULTIPLEEINS"].'</td>
@@ -219,7 +216,15 @@ $stmt = sqlsrv_query($conn, $sql);
           console.log(queryString);
           console.log(applicant);
           console.log(granteeEIN);
-          window.location.href = "../08-02/InitialAudit.php" + queryString;
+          $tds = $(this).closest("tr").find("td:nth-child(5)");
+          status = $tds.text();
+          console.log(status);
+          if (status == '0') {
+            window.location.href = "../08-02/InitialAudit.php" + queryString;
+          }
+          else {
+            window.location.href = "../08-07/draftMDL.php" + queryString;
+          }
         });
     </script>
     </table>

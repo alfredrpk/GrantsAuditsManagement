@@ -56,7 +56,6 @@ body {
 .table-striped> tbody > tr {
   font-size: 12px;
 }
-<<<<<<< HEAD
 /*#headingtbl {
   margin: auto;
   margin-left: -30px;
@@ -74,9 +73,6 @@ body {
   z-index: 2;
   display: block;
 }*/
-=======
-
->>>>>>> 7b29dc6bc2c4ae5ee8abf5b7b54961d4a1df6021
 #tbl {
   margin: auto;
   margin-left: -30px;

@@ -24,12 +24,12 @@ body {
   border-radius: 10px;
 }
 
-tbody tr:hover {
-    background-color: rgba(201, 228, 252) !important;
+tbody > tr:hover {
+    background-color: rgb(201, 228, 252) !important;
   }
 
-  tbody tr.clicked {
-    background-color: rgba(201, 228, 252) !important;
+  tbody > tr:clicked {
+    background-color: rgb(201, 228, 252) !important;
   }
 
   .table-striped > tbody > tr:nth-child(even) > td,

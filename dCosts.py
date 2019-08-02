@@ -1,7 +1,7 @@
 import sys
 import os
 from tika import parser
-os.chdir('C:/Users/Alfred/Downloads/pdfs')
+os.chdir('pdfs')
 try:
 	filename = sys.argv[1]
 except IndexError as error:

@@ -25,7 +25,7 @@ $connectionInfo = array("UID" => "DevAdmin@grantsaudits", "pwd" => "{CentennialT
 $serverName = "tcp:grantsaudits.database.windows.net,1433";
 $conn = sqlsrv_connect($serverName, $connectionInfo);
 
-$sql = "SELECT TOP 10 AUDITEENAME, EIN, STATE, DUNS, AUDITEEDATESIGNED, AUDITEECONTACT, MULTIPLEEINS FROM dbo.GEN";
+$sql = "SELECT TOP 50 AUDITEENAME, EIN, STATE, DUNS, AUDITEEDATESIGNED, AUDITEECONTACT, MULTIPLEEINS FROM dbo.GEN";
 $stmt = sqlsrv_query($conn, $sql);
 
 ?>

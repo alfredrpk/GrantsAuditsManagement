@@ -1,0 +1,4119 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a.00 - Final Signed Report (University of Oklahoma - AUP AUP 2018 [6/30/2018] (In Process))
+
+
+ 
+
+eidebailly.com 
+
+Financial Statements and  
+Reports Required by Uniform Guidance 
+June 30, 2018 
+
+Norman Independent School District 
+No. 29 
+
+
+
+ 
+
+ 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Table of Contents 
+June 30, 2018 
+
+ 
+
+Independent Auditor’s Report ............................................................................................................................... 1 
+
+Management's Discussion and Analysis (Unaudited)............................................................................................. 4 
+
+Basic Financial Statements 
+
+Government-wide Financial Statements 
+
+Statement of Net Position............................................................................................................................ 12 
+Statement of Activities ................................................................................................................................ 13 
+
+Fund Financial Statements 
+
+Balance Sheet - Governmental Funds .......................................................................................................... 14 
+Statement of Revenues, Expenditures, and Changes in Fund Balances – Governmental Funds ..................... 15 
+Reconciliation of Statement of Revenues, Expenditures, and Changes in Fund Balances – Governmental 
+
+Funds.................................................................................................................................................. 16 
+Notes to Financial Statements .........................................................................................................................17 
+
+Required Supplementary Information 
+
+Budgetary Comparison Schedule – General Fund (Unaudited) ........................................................................37 
+Notes to Budgetary Comparison Schedule – General Fund ..............................................................................38 
+Schedule of District’s Proportionate Share of the Net Pension Liability for Oklahoma Teachers Retirement 
+System ...........................................................................................................................................................39 
+Schedule of District’s Contributions to Oklahoma Teachers Retirement System - Pension...............................40 
+Schedule of District’s Proportionate Share of the Net OPEB Liability (Asset) for Oklahoma Teachers 
+Retirement System..........................................................................................................................................41 
+Schedule of District’s Contributions to Oklahoma Teachers Retirement System - OPEB .................................42 
+
+Other Supplementary Information 
+
+Combining NonMajor Fund Financial Statements 
+Combining Balance Sheet - Other Governmental Funds .............................................................................. 43 
+Combining Statement of Revenues, Expenditures, and Changes in Fund Balances – Other 
+
+Governmental Funds ........................................................................................................................... 44 
+Combining Balance Sheet – Capital Project Funds ...................................................................................... 45 
+Combining Statement of Revenues, Expenditures, and Changes in Fund Balances – Capital Project 
+
+Funds.................................................................................................................................................. 46 
+Budgetary Comparison Schedule – Building Fund (Unaudited) .......................................................................47 
+Budgetary Comparison Schedule – Child Nutrition (Unaudited)......................................................................48 
+Combining Schedule of Changes in Assets and Liabilities – All Activity Funds ..............................................49 
+Schedule of Statutory, Fidelity, and Honesty Bonds (Unaudited) .....................................................................54 
+Schedule of Expenditures of Federal Awards ..................................................................................................55 
+Notes to Schedule of Expenditures of Federal Awards ....................................................................................58 
+
+Independent Auditor’s Report on Internal Control over Financial Reporting and on Compliance and Other 
+Matters Based on an Audit of Financial Statements Performed in Accordance with Government 
+Auditing Standards ..................................................................................................................................... 59 
+
+Independent Auditor’s Report on Compliance for Each Major Federal Program and Report on Internal 
+Control Over Compliance Required by the Uniform Guidance .................................................................... 61 
+
+Schedule of Findings and Questioned Costs ........................................................................................................ 63 
+
+Schedule of Accountant’s Professional liability insurance Affidavit .................................................................... 66 
+
+
+
+ 
+
+What inspires you, inspires us. | eidebailly.com 
+ 
+
+ 621 N. Robinson Ave., Ste. 200  |  Oklahoma City, OK 73102-6232  |  T 405.594.2000  |  F 405.594.2053  |  EOE 1 
+
+ 
+ 
+
+ 
+
+ 
+
+Independent Auditor’s Report 
+ 
+ 
+To the Board of Education 
+Norman Independent School District No. 29 
+Norman, Oklahoma  
+ 
+ 
+We have audited the accompanying financial statements of the governmental activities, each major fund 
+and the aggregate remaining fund information of Norman Independent School District No. 29 (the 
+District) as of and for the year ended June 30, 2018 and the related notes to the financial statements, 
+which collectively comprise the District’s basic financial statements as listed in the table of contents.  
+ 
+Management’s Responsibility for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes 
+the design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+ 
+Auditor’s Responsibility 
+Our responsibility is to express opinions on these financial statements based on our audit. We conducted 
+our audit in accordance with auditing standards generally accepted in the United States of America and 
+the standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States. Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free from material misstatement. 
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements. The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. 
+In making those risk assessments, the auditor considers internal control relevant to the entity’s preparation 
+and fair presentation of the financial statements in order to design audit procedures that are appropriate in 
+the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s 
+internal control. Accordingly, we express no such opinion. An audit also includes evaluating the 
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates 
+made by management, as well as evaluating the overall presentation of the financial statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinions. 
+ 
+Opinions 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+respective financial position of the governmental activities, each major fund and the aggregate remaining 
+fund information of the Norman Independent School District No. 29, as of June 30, 2018, and the 
+respective changes in financial position for the year then ended in conformity with accounting principles 
+generally accepted in the United States of America.
+
+
+
+ 
+
+ 2 
+
+Emphasis of Matter 
+ 
+
+Implementation of GASB No. 75 
+
+As discussed in Notes 1 and 6 to the financial statements, the District has adopted the provisions of 
+GASB Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits Other Than 
+Pensions, which had no net impact on beginning net position. Our opinion is not modified with respect to 
+this matter. 
+ 
+Other Matters 
+
+ 
+
+Required Supplementary Information 
+Accounting principles generally accepted in the United States of America require that the management’s 
+discussion and analysis, budgetary comparison schedule – General Fund, the schedule of District’s 
+proportionate share of the net pension liability, the schedule of District’s contributions - pension, the 
+schedule of District’s proportionate share of the net OPEB liability (asset), and the schedule of District’s 
+contributions - OPEB on pages 4 through 11 and 34 through 39 be presented to supplement the basic 
+financial statements. Such information, although not a part of the basic financial statements, is required by 
+the Governmental Accounting Standards Board, who considers it to be an essential part of financial 
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical 
+context. We have applied certain limited procedures to the required supplementary information in 
+accordance with auditing standards generally accepted in the United States of America, which consisted 
+of inquiries of management about the methods of preparing the information and comparing the 
+information for consistency with management’s responses to our inquiries, the basic financial statements, 
+and other knowledge we obtained during our audit of the basic financial statements. We do not express an 
+opinion or provide any assurance on the information because the limited procedures do not provide us 
+with sufficient evidence to express an opinion or provide any assurance. 
+ 
+Other Information 
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively 
+comprise the District’s basic financial statements.  The combining nonmajor fund financial statements; 
+the budgetary comparison schedule – Building Fund; the budgetary comparison schedule – Child 
+Nutrition Fund; the combining schedule of changes in assets and liabilities – all activity funds; the 
+schedule of statutory, fidelity, and honesty bonds; and the schedule of accountants’ professional liability 
+insurance affidavit are presented for purposes of additional analysis and are not a required part of the 
+basic financial statements. The accompanying schedule of expenditures of federal awards is presented for 
+purposes of additional analysis as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, 
+Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, and 
+is also not a required part of the financial statements. 
+ 
+The combining nonmajor fund financial statements, the combining schedule of changes in assets and 
+liabilities – all activity funds, and the schedule of expenditures of federal awards are the responsibility of 
+management and were derived from and relate directly to the underlying accounting and other records 
+used to prepare the basic financial statements. Such information has been subjected to the auditing 
+procedures applied in the audit of the basic financial statements and certain additional procedures, 
+including comparing and reconciling such information directly to the underlying accounting and other 
+records used to prepare the basic financial statements or to the basic financial statements themselves, and 
+other additional procedures in accordance with auditing standards generally accepted in the United States 
+of America. In our opinion, the combining nonmajor fund financial statements, the combining schedule of 
+changes in assets and liabilities – all activity funds, and the schedule of expenditures of federal awards are 
+fairly stated, in all material respects, in relation to the basic financial statements as a whole. 
+ 
+
+
+
+ 
+
+ 3 
+
+The budgetary comparison schedule – Building Fund; budgetary comparison schedule – Child Nutrition 
+Fund; the schedule of statutory, fidelity and honesty bonds; and the schedule of accountants’ professional 
+liability insurance affidavit have not been subjected to the auditing procedures applied in the audit of the 
+basic financial statements and, accordingly, we do not express an opinion or provide any assurance on 
+them. 
+ 
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards, we have also issued our report dated January 11, 
+2019 on our consideration of the District’s internal control over financial reporting and on our tests of its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other 
+matters. The purpose of that report is solely to describe the scope of our testing of internal control over 
+financial reporting and compliance and the results of that testing, and not to provide an opinion on the 
+effectiveness of the District's internal control over financial reporting or on compliance.  That report is an 
+integral part of an audit performed in accordance with Government Auditing Standards in considering the 
+District’s internal control over financial reporting and compliance. 
+ 
+ 
+
+ 
+ 
+Oklahoma City, Oklahoma 
+January 11, 2019 
+ 
+
+
+
+ 
+
+  4 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+This section of Norman Independent School District’s (NISD or the District) annual financial report presents our 
+discussion and analysis of the District’s financial performance during the fiscal year that ended on June 30, 2018.  
+Please read it in conjunction with the District’s financial statements, which immediately follow this section. 
+ 
+These statements reflect the implementation of GASB statements 68 and 71 all addressing the accounting and 
+presentation of pension plans which impacts the district-wide financial statements but not the fund financial 
+statements for both years presented.  For the District, this includes the District’s portion of the unfunded liability 
+of the Oklahoma Teachers Retirement System (OTRS) to the district-wide financial statements.  While the 
+implementation of these standards have had a significant impact on the statements by decreasing net position, 
+management does not believe that it indicates a true negative impact on the financial condition of the institution. 
+ 
+The District adopted GASB Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits 
+Other Than Pensions (GASB 75).   GASB 75 was issued in June 2015 and replaces the requirements of 
+Statements No. 45, Accounting and Financial Reporting by Employers for Postemployment Benefits Other Than 
+Pensions, and No. 57, OPEB Measurements by Agent Employers and Agent Multiple-Employer Plans, for OPEB. 
+The Statement establishes standards for recognizing and measuring liabilities, deferred outflows of resources, 
+deferred inflows of resources, and expense/expenditures. The provisions of GASB No. 75 are effective for fiscal 
+years beginning after June 15, 2017. The adoption of GASB No. 75 resulted in no change to net position as of 
+July 1, 2017. 
+ 
+FINANCIAL HIGHLIGHTS 
+ 
+
+• The District’s financial status increased by approximately $3.9 million from last year.  Total net position 
+increased approximately 12 percent over the course of the year.  
+
+ 
+
+− Overall revenues were $146.7 million and overall expenses were $142.8 million.  
+
+− The District’s portion of the net pension liability decreased by $24.3 million due to a smaller overall 
+pension liability for Oklahoma Teachers Retirement System.   
+
+ 
+OVERVIEW OF THE FINANCIAL STATEMENTS 
+
+ 
+This annual report consists of three parts -- management’s discussion and analysis (this section), the basic 
+financial statements, and supplementary information (required and other).  The basic financial statements include 
+two kinds of statements that present different views of the District: 
+ 
+
+• The first two statements are district-wide financial statements that provide both short-term and long-term 
+information about the District’s overall financial status. 
+
+ 
+
+• The remaining statements are fund financial statements that focus on individual parts of the District, reporting 
+the District’s operation in more detail than the district-wide statements. 
+
+ 
+
+• The governmental funds statements tell how basic services like regular and special education were financed in 
+the short term as well as what remains for future spending. 
+
+ 
+The financial statements also include notes that explain some of the information in the statements and provide 
+more detailed data.  The statements are followed by a section of supplementary information (required and 
+other) that further explains and supports the financial statements with a comparison of the District’s budget 
+for the year. 
+
+ 
+
+
+
+ 
+
+  5 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+ 
+ 
+
+Figure A-1 
+
+Major Features of District-Wide and Fund Financial Statements 
+
+ 
+  District-wide  Fund Financial Statements  
+
+  Statements    Governmental Funds   
+
+         
+
+Scope  Entire district (except  The activities of the district that are not proprietary  
+
+  fiduciary funds)  or fiduciary, such as special education and building 
+
+     Maintenance    
+
+         
+
+Required financial 1) Statement of net position 1) Balance Sheet   
+
+  statements  2) Statement of activities  2) Statement of revenues, expenditures, 
+
+     and changes in fund balances  
+
+         
+
+Accounting basis and Accrual accounting and  Modified accrual accounting and current financial 
+
+ measurement focus economic resources focus resources focus   
+
+          
+
+Type of asset/liability All assets and liabilities,  Generally assets expected to be used up and 
+
+  information  both financial and capital,   liabilities that come due during the year or soon 
+
+  short-term and long-term  thereafter; no capital assets or long-term  
+
+     liabilities included   
+
+         
+
+Type of inflow/outflow All revenues and expenses Revenues for which cash is received during or 
+
+  information  during year, regardless of  soon after the end of the year; expenditures when 
+
+  when cash is received or paid goods or services have been received and the 
+
+     related liability is due and payable  
+
+ 
+
+ 
+Figure A-1 summarizes the major features of the District’s financial statements.  The remainder of this overview 
+section of management’s discussion and analysis highlights the structure and contents of each of the statements. 
+ 
+District-wide Statements 
+
+ 
+The district-wide statements report information about the District as a whole using accounting methods similar to 
+those used by private-sector companies.  The statement of net position includes all of the District’s assets and 
+liabilities.  All of the current year’s revenues and expenses are accounted for in the statement of activities 
+regardless of when cash is received or paid.  As stated above, the district-wide statements were significantly 
+impacted by the implementation of new standards related to recording the District’s portion of the net pension 
+liability.   
+ 
+The two district-wide statements report the District’s net position and how they have changed.  Net position – the 
+difference between the District’s assets plus deferred outflows of resources and liabilities plus deferred inflows of 
+resources – is one way to measure the District’s financial health or position. 
+ 
+
+• Over time, increases or decreases in the District’s net position are an indicator of whether its financial 
+position is improving or deteriorating, respectively. 
+ 
+
+• To assess the overall health of the District, you need to consider additional non-financial factors such as 
+changes in the District’s property tax base and the condition of school buildings and other facilities. 
+
+
+
+ 
+
+  6 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+ 
+In the district-wide financial statements, the District’s activities are categorized as governmental activities. 
+ 
+
+• Governmental activities – The District’s basic services are included here, such as regular and special 
+education, transportation, and administration.  Property taxes and state aid formula finance most of these 
+activities. 
+
+ 
+
+Fund Financial Statements 
+
+ 
+The fund financial statements provide more detailed information about the District’s funds, focusing on its most 
+significant or “major” funds – not the District as a whole.  Funds are accounting devices the District uses to keep 
+track of specific sources of funding and spending on particular programs: 
+ 
+
+• Some funds are required by State law and by bond covenants. 
+ 
+
+• The District establishes other funds to control and manage money for particular purposes (like repaying its 
+long-term debts) or to show that it is properly using certain revenues. 
+
+ 
+The District’s basic services are included in governmental funds, which generally focus on 1) how cash and other 
+financial assets that can readily be converted to cash flow in and out and 2) the balances left at year-end that are 
+available for spending.  Consequently, the governmental funds statements provide a detailed short-term view that 
+helps you determine whether there are more or fewer financial resources that can be spent in the near future to 
+finance the District’s programs.  Because this information does not encompass the additional long-term focus of 
+the district-wide statements, we provide additional information with the governmental funds statements that 
+explain the relationship (or differences) between them. 
+ 
+
+ 
+
+
+
+ 
+
+  7 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+
+   
+   FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE 
+
+ 
+Table A-1 
+
+Norman Public School’s Net Position 
+(in millions of dollars) 
+
+ 
+ 
+
+FY2018 FY2017
+Assets
+
+Current and other assets 58.0$                    58.2$                
+Capital assets 228.1                    232.0                
+
+Total assets 286.1                    290.2                
+
+Deferred outflows of resources - pensions/OPEB 24.6                      39.3                  
+
+Liabilities
+Current and other liabilities 9.0                        7.9                    
+Long term debt, including current maturities 143.6                    154.3                
+Net pension liability 106.5                    130.8                
+
+Total liabilities 259.1                    293.0                
+
+Deferred inflows of resources - pensions/OPEB 14.2                      3.0                    
+
+Net position
+Net investment in capital assets 91.3                      86.1                  
+Restricted 29.7                      29.9                  
+Unrestricted (83.6)                    (82.5)                
+
+37.4$                    33.5$                
+
+ 
+Net Position.   
+
+ 
+
+As a result of the pension standards reflected in both fiscal years presented, the District’s unrestricted net position 
+is in a deficit position, increasing by $1.1 million in FY18.  (See Table A-1).  Again, management does not 
+believe that this indicates a true negative impact on the financial condition of the institution.   
+   
+
+
+
+ 
+
+  8 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+ 
+The District’s change in financial position is the product of many factors.  A growth during the year in taxes had a 
+favorable impact on net position.  Other notable factors were the slight decrease in Federal and state grants and 
+State entitlement payments to school districts increased.  
+ 
+
+Table A-2 
+
+Changes in Norman Public School’s Net Position 
+
+(in millions of dollars) 
+ 
+
+FY2018 FY2017
+Revenues
+
+Program Revenues
+Charges for services 6.1$                      6.3$                  
+Federal and state grants 16.5                      16.6                  
+
+General revenues
+Property taxes 62.9                      61.2                  
+Other taxes 13.6                      13.1                  
+State entitlement 46.8                      45.0                  
+Other   0.8                        0.3                    
+
+Total revenues 146.7                    142.5                
+
+Expenses
+Program expenses
+
+Instruction 72.7                      72.1                  
+Support services 52.4                      46.3                  
+Non-instruction 8.8                        20.5                  
+Interest on long-term debt 1.4                        1.0                    
+Depreciation - unallocated 7.5                        7.1                    
+
+Total expenses 142.8                    147.0                
+
+Increase (Decrease) in net position 3.9$                      (4.5)$                
+
+ 
+Changes in net position.  The District’s total revenues increased $4.2 million to $146.7 million.  (See Table A-2) 
+Property taxes and state entitlement funds accounted for most of the District’s revenue, with each contributing 
+about 75 cents of every dollar raised.  Another 11.2 percent came from state and federal aid for specific programs, 
+and the remainder from fees charged for services and miscellaneous sources. Total revenues surpassed expenses, 
+increasing net position by $3.9 million. 
+ 
+The total cost of all programs and services decreased by $4.2 million between the two years.  The District’s 
+expenses are predominantly related to educating and caring for students (80-90 percent). The purely 
+administrative activities of the District accounted for less than 1 percent of total costs.   
+
+
+
+ 
+
+  9 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+ 
+The most significant contributors to the fluctuation in net position were the funds used to purchase or build capital 
+assets, and also the funds necessary for repayment of principal on long-term debt issues.  Repayments on long-
+term debt this year were larger than debt issued in FY18.  The net pension liability and the related deferred 
+inflows and outflows of resources also created significant fluctuations largely due to actuarial factors related to 
+the liability.   
+
+ 
+FINANCIAL ANALYSIS OF THE DISTRICT’S FUNDS 
+ 
+As the District completed the year, its governmental funds reported combined fund balances of $44.1 million, 
+compared to last year’s ending fund balances of $46.2 million.  In comparison to FY17’s net increase in fund 
+balance of $0.5 million, this year’s decrease was $2.1 million largely due to the variance in bond proceeds in 
+FY18 in comparison to FY17.     
+  
+General Fund Budgetary Highlights 
+ 
+At the beginning of the 2018 fiscal year, the District’s State Entitlement funds (the State Aid Formula funds) were 
+increased by approximately $640,000 from the previous fiscal year.  This was due to legislation enacted to 
+generate additional revenue enhancements such as cigarette fees, tax on vehicle purchases, and elimination of 
+some gross production tax breaks and rebates.  
+ 
+This initial allocation in State Aid was increased by $1,065,000 in January, when the mid-term adjustments were 
+made by the State Department of Education.  Our District’s first nine weeks student enrollment increased by 191 
+students from the prior year.  Also, our District reported higher student counts in the weighted categories, thus 
+providing a 528 overall student growth in the State Aid funding formula for the District. 
+ 
+
+• Due to the Supreme Court striking down the cigarette fee passed as unconstitutional, a $215 million budget 
+hole was created in the State budget.  As a result, our district State Aid was reduced $361,000 in March. 
+
+   
+
+• After failing to approve several comprehensive revenue proposals, lawmakers used some $170 million in one-
+time revenues to help fill the budget hole while also cutting some state agency budgets by 2 percent for the 
+four remaining months of 2018. 
+ 
+
+• Actual revenues were higher than expected at mid-year, due largely to a high collection rate of property tax 
+revenues.  Also, County 4-mill ad valorem revenue, school land earnings, and motor vehicle collections 
+revenue increased. 
+
+ 
+
+• The actual expenditures were below budget, due primarily to the shifting of expenses to other funds and by 
+expenditure budgets that remained unspent at June 30, 2018. 
+ 
+
+ 
+ 
+ 
+
+
+
+ 
+
+  10 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+ 
+
+CAPITAL ASSET AND DEBT ADMINISTRATION 
+
+ 
+
+Capital Assets 
+
+ 
+
+By the end of 2018, the District had invested nearly $8 million in a broad range of capital assets, including new 
+classroom additions, athletic facilities, computer and audiovisual equipment, and building improvements.   
+ 
+The District anticipates spending approximately $4 million for capital projects in 2019, with some of the major 
+projects as follows: 
+ 
+
+ 
+
+• $500,000 to finalize renovations at the two high schools 
+
+ 
+
+• $2,500,000 for various elementary and middle school site improvements 
+
+ 
+See additional information regarding Capital Assets in Note 3 to the Notes to the Financial Statements.   
+
+ 
+Long-term Debt 
+
+ 
+At year-end the District had $143.6 million in total long-term debt outstanding (including compensated absences).  
+This is a decrease from last year’s amount of $154.3 million.   
+ 
+
+• The District continued to pay down its debt, retiring $22 million of outstanding bonds.  
+ 
+
+• $29,480,000 in new debt was issued during the year. 
+ 
+In February 2014, the District patrons voted on and approved five-year bond issue.  This issue, for $126 million, 
+is funded with lease revenue bonds.  General obligation bonds will be sold for five years, to make the annual lease 
+revenue payments required. The bonds will be issued in a timely manner over five years to match current millage 
+rates to assure citizens will not face any additional taxes. 
+ 
+See additional information regarding Long-term Debt in Note 4 to the Notes to the Financial Statements.   
+
+
+
+ 
+
+  11 
+
+Norman Public Schools 
+Cleveland County, Oklahoma 
+
+Management’s Discussion and Analysis (Unaudited) 
+June 30, 2018 
+
+ 
+ 
+FACTORS BEARING ON THE DISTRICT’S FUTURE 
+ 
+At the time these financial statements were prepared and audited, the District was aware of the following existing 
+circumstances that could significantly affect its financial health in the future:  
+ 
+
+• Even though the legislature provided a slight increase to State funding for education going into 2018, state aid 
+funding for public schools remained $179 million below 2008 levels, while enrollment increased by over 
+50,000 students. 
+
+ 
+
+• Education funding hasn’t kept pace with skyrocketing healthcare costs, increasing enrollment or the growth in 
+student needs. 
+
+ 
+
+• Oklahoma’s neighboring states invest substantially more in common education on a per-student basis. Other 
+states in our region reached Oklahoma’s current level of per student education investment a decade ago. 
+
+ 
+
+• Oklahoma educators reached a breaking point in April 2018, and held a walkout at the Capitol, demanding 
+increased pay for salaries and for operational expenditures.  After two weeks, lawmakers passed legislation 
+that promised to increase certified and support salaries beginning in 2019. 
+
+ 
+
+• The funding approved by lawmakers for education is just a start and doesn’t come close to fully funding 
+education.  There is widespread agreement that lawmakers must do more to fund our schools and provide 
+teachers and other employees a fair and competitive salary. 
+
+ 
+
+• Oklahoma’s historic teacher shortage will continue to grow without a long-term vision and funding plan for 
+education that’s focused on providing a high-quality education for every child. 
+
+ 
+CONTACTING THE DISTRICT’S FINANCIAL MANAGEMENT 
+
+ 
+This financial report is designated to provide our citizens, taxpayers, customers, and investors and creditors with a 
+general overview of the District’s finances and to demonstrate the District’s accountability for the money it 
+receives.  If you have questions about this report or need additional financial information, contact the Chief 
+Financial Officer’s Office, Norman Public School District, 131 South Flood, Norman, OK  73069. 
+
+
+
+ 
+
+See Accompanying Notes to Financial Statements  12 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Statement of Net Position 
+June 30, 2018 
+
+ 
+ 
+
+Governmental
+Activities
+
+Assets
+Cash 47,799,011$     
+Property taxes receivable (net) 5,535,801         
+Due from other governments 2,935,688         
+Other receivables 908,885            
+Inventories 151,551            
+Net OPEB asset 717,757
+Nondepreciated capital assets 23,768,289       
+Depreciated capital assets, net of depreciation 204,344,404     
+
+Total Assets 286,161,386     
+
+Deferred Outflows of Resources
+Deferred outflows related to OPEB 109,299
+Deferred outflows related to pensions 24,518,976       
+
+Total Deferred Outflows of Resources 24,628,275       
+
+Liabilities
+Accounts payable and other current liabilities 8,926,737         
+Unavailable revenue 112,497            
+Long-term obligations
+
+Due within one year 47,256,329       
+Due beyond one year 96,309,546       
+Net pension liability 106,571,969     
+
+Total Liabilities 259,177,078     
+
+Deferred Inflows of Resources
+Deferred inflows related to OPEB 586,563
+Deferred inflows related to pensions 13,658,295       
+
+Total Deferred Outflows of Resources 14,244,858       
+
+Net Position (Deficit)
+Net investment in capital assets 91,274,815       
+Restricted for:
+
+Debt service 23,750,490       
+
+School organizations 2,049,612         
+Child nutrition 1,062,760         
+Buildings 2,575,233         
+OPEB 240,493            
+
+Unrestricted (deficit) (83,585,678)      
+
+Total Net Position 37,367,725$     
+
+ 
+
+
+
+ 
+
+See Accompanying Notes to Financial Statements 13 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Statement of Activities 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Net (Expense)
+Changes in
+
+Net Position
+Operating Total
+
+Charges for Grants and Governmental
+Functions/Programs Expenses Services Contributions Activities
+
+Governmental Activities:
+Instruction 72,661,345$    142,546$         10,923,522$    (61,595,277)$     
+Support services 52,420,541 2,919,021        2,017,668        (47,483,852)       
+Non-instruction services 8,759,853 3,059,329        3,523,535        (2,176,989)         
+
+Interest on long-term debt 1,440,676        -                       -                       (1,440,676)         
+Depreciation - unallocated 7,512,549        -                       -                       (7,512,549)         
+
+Total school district 142,794,964$  6,120,896$      16,464,725$    (120,209,343)$   
+
+General Revenues:
+Taxes
+
+Property taxes, levied for general purposes 34,468,641        
+Property taxes, levied for building purposes 4,918,873          
+Property taxes, levied for debt service 23,516,318        
+General taxes 13,596,139        
+
+State aid - formula grants 46,846,630        
+Investment earnings 755,273             
+
+Total General Revenues 124,101,874      
+
+Change in net position 3,892,531          
+
+Net position - beginning 33,475,194$      
+
+Net position - ending 37,367,725$      
+
+Program Revenues
+
+
+
+ 
+
+See Accompanying Notes to Financial Statements 14 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Balance Sheet – Governmental Funds and  
+Reconciliation to Statement of Net Position 
+
+June 30, 2018 
+
+ 
+ 
+
+Other Total
+General Debt Service 2018 Governmental Governmental
+
+Assets Fund Fund Bond Fund Funds Funds
+
+Pooled Cash and Investments 11,384,039$ 23,600,853$    5,211,321$        7,602,798$      47,799,011$    
+Property Taxes Receivable, net 2,385,078     2,817,285        -                         333,438           5,535,801        
+Due from Other Governments 2,935,688     -                       -                         -                       2,935,688        
+Other Receivables 844,328        -                       -                         64,557             908,885           
+Inventories - Supplies, Materials 151,551        -                       -                         -                       151,551           
+
+ 
+Total Assets 17,700,684$ 26,418,138$    5,211,321$        8,000,793$      57,330,936$    
+
+  
+Liabilities, Deferred Inflows of Resources, 
+
+and Fund Balances
+
+Liabilities
+Accounts Payable and Accrued Liabilities 7,561,477$   -$                     20,789$             373,661$         7,955,927$      
+Unearned Revenue -                    -                       -                         98,660             98,660             
+
+Total Liabilities 7,561,477     -                       20,789               472,321           8,054,587        
+
+Deferred Inflows of Resources
+Unavailable revenue - taxes 2,198,609     2,667,648        -                         300,671           5,166,928        
+
+Total Deferred Inflows of Resources 2,198,609     2,667,648        -                         300,671           5,166,928        
+
+Fund Balances
+Nonspendable 151,551        -                       -                         -                       151,551           
+Restricted 361,068        23,750,490      5,190,532 7,227,801        36,529,891      
+Unassigned 7,427,979     -                       -                         -                       7,427,979        
+
+Fund Balances, End of Year 7,940,598     23,750,490      5,190,532          7,227,801        44,109,421      
+
+Total Liabilities, Deferred Inflows of Resources,
+ and Fund Balances 17,700,684$ 26,418,138$    5,211,321$        8,000,793$      
+
+Amounts reported for governmental activities in the statement of net position are different because:
+Capital assets used in governmental activities are not financial resources and therefore are not reported as assets 
+in governmental funds. The cost of the assets is $337,662,883 and the accumulated depreciation is $109,550,190. 228,112,693    
+
+Property taxes receivable will be collected next year, but are not available soon enough to pay for the current
+period's expenditures, and therefore are not reported in the funds. 5,153,091        
+
+Deferred outflows/inflows of resources related to the net pension liability are not are not current financial resources
+and are not recorded in the fund financial statements but are recorded in the governmental activities.  
+
+Deferred outflows of resources 24,628,275$    
+Deferred inflows of resources (14,244,858)     10,383,417      
+
+Long-term liabilities are not due and payable in the current period and, therefore, are not reported
+as liabilities in the funds. Long-term liabilities at year-end consist of:
+
+Bonds Payable (including premiums) 87,028,585$    
+Long-term Revenue Lease Payable 55,120,000      
+
+Net Pension Liability 106,571,969    
+Net OPEB Asset (717,757)          
+
+Accrued Interest on Bonds 970,810           
+Compensated Absences 1,417,290        (250,390,897)   
+
+Total Net Position - Governmental Activities 37,367,725$    
+
+
+
+ 
+
+See Accompanying Notes to Financial Statements 15 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Statement of Revenues, Expenditures, and Changes in Fund Balances – Governmental Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Other Total
+General Debt Service 2018 Governmental Governmental
+
+Fund Fund Bond Fund Funds Funds
+Revenues:
+
+Property Taxes 34,292,887$    23,394,696$    -$                     5,002,295$      62,689,878$    
+Interest 113,169           326,548 178,210 137,346           755,273           
+County Revenue 3,906,254        -                       -                       -                       3,906,254        
+State Revenue 56,314,771      2                      -                       50,997             56,365,770      
+Federal Revenue 7,250,518        -                       -                       3,477,873        10,728,391      
+Other 2,517,600        26,042             -                       4,886,469        7,430,111        
+
+Total Revenues 104,395,199    23,747,288      178,210           13,554,980      141,875,677    
+
+Expenditures
+     Instruction 66,042,420      -                       16,183 3,068,132        69,126,735      
+     Support services 38,528,550      -                       26,525 12,046,649      50,601,724      
+     Non-instruction services 5,202               -                       -                       5,701,458        5,706,660        
+Capital Outlays 67,482             -                       24,629,415 348,612           25,045,509      
+Other Outlays 73,437             128,988           -                       -                       202,425           
+Debt Service
+
+Judgments -                       3,450               -                       -                       3,450               
+     Interest PaidInterest paid -                       1,545,770        -                       -                       1,545,770        
+     Principal RetirementPrincipal retirement -                       22,015,000      -                       -                       22,015,000      
+
+Total Expenditures 104,717,091    23,693,208      24,672,123      21,164,851      174,247,273    
+
+Excess (Deficiency) of Revenues 
+over (under) Expenditures (321,892)          54,080             (24,493,913)     (7,609,871)       (32,371,596)     
+
+Other Financing Sources (Uses)
+Transfers In 2,320 -                       -                       653,048           655,368           
+Transfers Out -                       (653,048)          -                       (2,320)              (655,368)          
+Premium on Bonds -                       786,526           -                       -                       786,526           
+Proceeds from Bonds -                       -                       29,480,000 -                       29,480,000      
+
+Total Other Financing Sources (Uses) 2,320               133,478           29,480,000      650,728           30,266,526      
+
+Net Change in Fund Balances (319,572)          187,558           4,986,087        (6,959,143)       (2,105,070)       
+
+Beginning Fund Balances 8,260,170        23,562,932      204,445 14,186,944      46,214,491      
+
+Ending Fund Balances 7,940,598$      23,750,490$    5,190,532$      7,227,801$      44,109,421$    
+
+ 
+
+
+
+ 
+
+See Notes to Financial Statements   16 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Reconciliation of Statement of Revenues, Expenditures, and Changes in Fund Balances – Governmental Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+Total net changes in fund balances - governmental funds (2,105,070)$      
+
+The change in net position reported in the statement of activities is different because:
+
+Capital asset additions 3,616,790$        
+Depreciation (7,512,549)         (3,895,759)        
+
+322,456            
+
+21,592              
+
+Debt issued (29,480,000)$     
+Debt repaid 40,595,000        11,115,000       
+
+Changes in net pension liabilities are not recorded in the fund financial statements but is recorded in the statement of activities. 24,261,916       
+
+Changes in net OPEB asset are not recorded in the fund financial statements but is recorded in the statement of activities. 717,757            
+
+Deferred outflows of resources (14,659,936)$     
+Deferred inflows of resources (11,207,437)       (25,867,373)      
+
+(442,153)           
+
+(235,835)           
+
+Change in net position of governmental activities 3,892,531$       
+
+Bond premiums are shown as a liability on the statement of net position and as revenue in the governmental fund. The bond premium is 
+
+amortized against interest expense using the effective interest method.
+
+Interest on long-term debt in the statement of activities differs from the amount reported in the governmental funds because interest is 
+
+recorded as an expenditure in the funds when it is due, and thus requires the use of current financial resources when paid. In the 
+
+statement of activities, however, interest expense is recognized as the interest accrued, regardless of when it is due.
+
+Capital outlays to purchase or build capital assets are reported in governmental funds as expenditures. However, for governmental 
+
+activities those costs are shown in the statement allocated over their estimated useful lives as annual depreciation expenses in the 
+
+statement of activities. This is the amount by which depreciation exceeds capital outlays during the period.
+
+Because some property taxes will not be collected for several months after the District's fiscal year ends, they are not considered as 
+
+"available" revenues in the governmental funds and are, instead counted as unavailable revenues. They are, however, recorded as 
+
+revenues in the statement of activities.
+
+In the statement of activities, compensated absences are measured by the amounts earned during the year. In the governmental funds, 
+
+however, expenditures for these items are measured by the amount of financial resources used (essentially the amounts actually paid). 
+
+This year, vacation and sick leave used exceeded amounts earned.
+
+Long term debt, such as bond proceeds, are reported as financing sources in governmental funds and thus contribute to the change in 
+
+fund balance. In the statement of net position, however issuing debt increases long-term liabilities and does not affect the statement of 
+
+activities. Similarly, repayment of principal is an expenditure in the governmental funds but reduces the liability in the statement of net 
+
+position.
+
+Changes in deferred outflows/inflows of resources related to the net pension liability are not current financial resources and are not 
+
+recorded in the fund financial statements but are recorded in the governmental activities.  
+
+
+
+ 
+
+17 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+
+Note 1 -  Summary of Significant Accounting Policies 
+ 
+The Norman Independent School District No. 29 (the District) is a corporate body for public purposes created 
+under Title 70 of the Oklahoma Statutes and accordingly is a separate entity for operating and financial reporting 
+purposes. The District is part of the public school system of Oklahoma under the general direction and control of 
+the State Board of Education and is financially dependent on the State of Oklahoma for support.  The general 
+operating authority for the public school system is the Oklahoma School Code contained in Title 70 of the 
+Oklahoma Statutes. 
+ 
+The District’s financial statements are prepared in accordance with generally accepted accounting principles 
+promulgated by the Governmental Accounting Standards Board (GASB). 
+ 
+The Reporting Entity - The governing body of the District is the Board of Education composed of elected 
+members. The appointed superintendent is the executive officer of the District.  There are no component units 
+included within the reporting entity. 
+ 
+Basic Financial Statements – Government-Wide Statements - The District’s basic financial statements include 
+both government-wide (reporting the District as a whole) and fund financial statements (reporting the District’s 
+major funds). Both the government-wide and fund financial statements categorize primary activities as either 
+governmental.  Governmental Activities include programs primarily supported by taxes, State aid, grants and 
+other intergovernmental revenue.  
+ 
+In the government-wide Statement of Net Position, the District’s governmental activities are reported on a full 
+accrual, economic resource basis, which recognizes all long-term assets and receivables as well as long-term debt 
+and obligations.  These statements also recognize deferred outflows of resources and deferred inflows of 
+resources.  The District’s net position are reported in three parts – net investment in capital assets; restricted net 
+position; and unrestricted net position.  
+ 
+The government-wide Statement of Activities reports both the gross and net cost of each of the District’s 
+programs and functions. The functions are also supported by general government revenues. The Statement of 
+Activities reduces gross expenses (including depreciation) by related program revenues, operating and capital 
+grants. Direct expenses are those that are clearly identifiable with a specific function.  Program revenues must be 
+directly associated with the function.  Charges for services include charges and fees to students, or customers who 
+purchase, use or directly benefit from the goods, services, or privileges provided by a given function. Operating 
+grants include operating-specific and discretionary (either operating or capital) grants while the capital grants 
+column reflects capital-specific grants.  
+ 
+All interfund transactions are eliminated in the district-wide statements. 
+ 
+The net costs are normally covered by general revenue (property taxes, State and Federal aid, other taxes etc.). 
+ 
+The government-wide focus is more on the sustainability of the District as an entity and the change in the 
+District’s net position resulting from the current year’s activities. Major individual governmental funds are 
+reported in separate columns in the fund financial statements.  
+  
+
+
+
+ 
+
+18 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Basic Financial Statements – Fund Financial Statements - Governmental fund financial statements are 
+reported using the current financial resources measurement focus and the modified accrual basis of accounting. 
+With this measurement focus, only current assets, current liabilities, deferred inflows of resources, and fund 
+balances are included on the balance sheet. The fund financial statements provide reports on the financial 
+condition and results of operations of governmental fund categories.  
+  
+The District reports the following major governmental funds: 
+ 
+
+• General Fund is the primary operating fund of the District. It is used to account for all financial resources 
+except those required to be accounted for in another fund. 
+
+ 
+
+• Debt Service Fund is used to account for the accumulation of funds for the periodic payment of principal and 
+interest on general long-term debt. 
+
+ 
+
+• 2018 Bond Fund is used to account for the financial resources to be used for the acquisition or construction 
+of major capital facilities as approved by the voters for the 2018 bond issue. 
+
+ 
+Additionally, the District reports the following fund types included in the Other Governmental Funds column: 
+  
+Governmental Funds: 
+
+1. Special Revenue Funds – The District accounts for resources restricted for specific purposes by the 
+District or a grantor in a special revenue fund.  
+
+2. Capital Project Funds – The proceeds from long-term financing and revenues and expenditures related to 
+authorized construction and other capital asset acquisitions are accounted for in a capital projects fund. 
+
+ 
+Basis of Accounting - Basis of accounting refers to when revenues and expenditures are recognized in the 
+accounts and reported in the financial statements. It relates to the timing of the measurements made regardless of 
+the measurement focus applied. 
+ 
+Accrual: The government-wide financial statements are presented on the accrual basis of accounting. Revenues 
+are recognized when earned and expenses are recognized when a liability is incurred. Property taxes are 
+recognized as revenue in the year in which they are levied. Grants and similar items are recognized as revenue as 
+soon as all eligibility requirements imposed by the provider have been met. 
+ 
+Modified Accrual: The funds’ financial statements are presented on the modified accrual basis of accounting. 
+Under modified accrual basis of accounting, revenues are recorded when susceptible to accrual; i.e. both 
+measurable and available. “Available” means collectible within the current period or within 60 days after year 
+end. Expenditures are generally recognized under the modified accrual basis of accounting when the related 
+liability is incurred. The exception to this general rule is that principal and interest on general obligation long-
+term debt, if any, is recognized when due. 
+
+
+
+ 
+
+19 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Inventories - Inventories in the general fund consist of expendable supplies held for the District’s use and are 
+carried at cost using the first-in, first-out method. Inventories are accounted for using the consumption method 
+where materials and supplies are recorded as an expenditure when used rather than when purchased. 
+ 
+On the government-wide financial statements, United States Department of Agriculture (USDA) food 
+commodities are recorded as revenue at fair value at the date of receipt and as an expense when used. USDA food 
+commodities are not reported in the governmental funds.  
+ 
+Capital Assets - Capital assets purchased with an original cost of $2,500 or more are reported at historical cost or 
+acquisition value on the date of donation if acquired by gift. Additions, improvements and other capital outlays 
+that significantly extend the useful life of an asset are capitalized. Other costs incurred for repairs and 
+maintenance are expensed as incurred. Depreciation on all assets is provided on the straight-line basis over the 
+following estimated useful lives: 
+ 
+ School Buildings   50 years 
+ Site Improvements   20 years 
+ Portable Classrooms   25 years 
+ Kitchen Equipment   15 years 
+ Business Machines and Computers   5 years 
+ Licensed Vehicles     8 years 
+ Audio Visual Equipment,  
+
+Musical Instruments  10 years 
+ 
+Compensated Absences - Certified District employees earn sick leave starting the first day of the school year, as 
+defined for each individual. Support personnel are eligible for paid sick leave benefits after 90 days. Sick leave is 
+accrued at different rates depending on number of contract days worked. Unused sick leave is cumulative up to 
+185 days. Upon termination, resignation, retirement or death, unused sick leave is reimbursable up to a maximum 
+of 120 days at rates varying from $5 per day for the first 30 days to $25 per day for the last 20 days.  Vacation 
+days accrue by month only after the completion of the full month. The rate of accrual is based on the number of 
+contract days an employee works. Vacation may be accumulated up to 80 days. Reimbursement for unused 
+vacation is paid at 100% of the employee's current rate of pay. 
+ 
+Deferred Outflows/Inflows of Resources – Deferred outflows represent a consumption of net position that 
+applies to a future period(s) and so they will not be recognized as an outflow of resources (expense) until then.  
+The District’s deferred outflows of resources were comprised of statutorily required pension contributions, 
+changes in actuarial assumptions, and changes in proportion that are applicable to future reporting periods. 
+ 
+Deferred inflows are the acquisition of net position by the District that is applicable to a future reporting period.  
+The District’s deferred inflows of resources were comprised of amounts recognized as receivables but not 
+revenues in the governmental funds because the revenue recognition criteria (availability) has not been met and, at 
+the government-wide level, changes in net pension liability and the net OPEB asset related to experience that are 
+applicable to future reporting periods. 
+ 
+
+
+
+ 
+
+20 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Budgets and Budgetary Accounting - The District is required by state law to prepare an annual budget. The 
+District by resolution of the Board of Education has adopted the School District Budget Act. This act requires that 
+within the thirty-day period preceding the beginning of each fiscal year, a budget shall be approved by the 
+governing body. The original budget is to be amended after the June financial activity has been recorded, the 
+annual allocations have been released, and the property tax valuations have been certified for all affected counties 
+within the district. 
+ 
+A budget is legally adopted by the Board of Education for the General Fund and Special Revenue Funds that 
+includes revenues and expenditures.  
+ 
+Deposits - The District considers all cash on hand, demand deposits, money market checking and certificates of 
+deposit, held at an individual bank which are subject to early withdrawal penalties no matter what the maturity 
+period, to be cash.  All short-term cash surpluses are maintained in a cash pool, the earnings from which are 
+allocated to each fund based on month-end deposit balances. State statues require collateral for deposits in excess 
+of insured amounts. The collateral’s market value must exceed the insured deposit. 
+ 
+Property Tax Revenues - The District is authorized by state law to levy property taxes which consist of 
+advalorem taxes on real and personal property within the District. The County Assessor, upon receipt of the 
+certification of tax levies from the county excise board, extends the tax levies on the tax roll for submission to the 
+county treasurer prior to October 1. The county treasurer must commence tax collection within fifteen days of 
+receipt of the tax rolls. The first half of taxes are due prior to January 1. The second half is due prior to April 1. 
+ 
+If the first payment is not made timely, the entire tax becomes due and payable on January 1. Second half taxes 
+become delinquent on April 1 of the year following the year of assessment. If not paid by the following October 
+1, the property is offered for sale for the amount of taxes due. The owner has two years to redeem the property by 
+paying the taxes and penalty owed. If at the end of two years the owner has not done so, the purchaser is issued a 
+deed to the property. 
+ 
+Property taxes receivable by the District include uncollected taxes assessed in prior years. Delinquent property tax 
+receivable is recognized as revenue in the government-wide financial statements. Only the portion of the property 
+taxes receivable that meets the revenue recognition criteria is reported as revenue in the fund financial statements. 
+No provision has been made for uncollectible amounts because uncollectible amounts are considered 
+insignificant. 
+ 
+State Revenues - Revenues from state sources for current operations are primarily governed by the state aid 
+formula under the provisions of Article XVIII, Title 70, Oklahoma Statutes. The State Board of Education 
+administers the allocation of state aid funds to school districts based on information accumulated from the 
+districts. Approximately 40% of the District’s revenue comes from state sources. 
+ 
+After review and verification of reports and supporting documentation, the State Department of Education may 
+adjust subsequent fiscal period allocations of money for prior year errors disclosed by review. Normally, such 
+adjustments are treated as reductions or additions of revenue of the year when the adjustment is made. 
+ 
+The District receives revenue from the state to administer certain categorical educational programs. State Board of 
+Education rules require that revenue earmarked for these programs be expended only for the programs for which 
+the money is provided and require that the money not expended as of the close of the fiscal year be carried 
+forward into the following year to be expended for the same categorical programs. The State Department of 
+Education requires that categorical educational program revenues be accounted for in the general fund. 
+
+
+
+ 
+
+21 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Interfund Transfers - During the course of normal operations, the District has transactions between funds 
+including expenditures and transfers of resources to provide services, purchase assets and service debt. 
+Transactions that are normal and recurring between funds are recorded as transfers. 
+ 
+Bond Premium - Bond premiums are deferred and amortized over the life of the bonds using the effective 
+interest method. 
+ 
+Pensions - For purposes of measuring the net pension liability, deferred outflows of resources and deferred 
+inflows of resources related to pensions, and pension expense, information about the fiduciary net position of the 
+Oklahoma Teachers Retirement System (OTRS) and additions to/deductions from OTRS’s fiduciary net position 
+have been determined on the same basis as they are reported by OTRS. For this purpose, benefit payments 
+(including refunds of employee contributions) are recognized when due and payable in accordance with the 
+benefit terms. Investments are reported at fair value. 
+ 
+OPEB - For purposes of measuring the net OPEB asset, deferred outflows of resources and deferred inflows of 
+resources related to OPEB, and OPEB expense, information about the fiduciary net position of the Oklahoma 
+Teachers Retirement System (OTRS) and additions to/deductions from OTRS’s fiduciary net position have been 
+determined on the same basis as they are reported by OTRS. For this purpose, benefit payments (including 
+refunds of employee contributions) are recognized when due and payable in accordance with the benefit terms. 
+Investments are reported at fair value. 
+ 
+Net Position and Fund Balance - District-Wide Financial Statements – When the District incurs an expense for 
+which it may use either restricted or unrestricted net position, it uses restricted net position first unless 
+unrestricted net position will have to be returned because they were not used.  
+  
+Net position on the Statement of Net Position include the following: 
+ 
+
+Net investment in Capital Assets - The component of net position that reports the difference between 
+capital assets less both the accumulated depreciation and the outstanding balance of debt, including 
+premiums and discounts, excluding unspent proceeds, that is directly attributable to the acquisition, 
+construction or improvement of these capital assets. 
+ 
+Restricted for Debt Service - The component of net position that reports the amount of funds restricted for 
+payment of principal and interest on debt. This amount is restricted by enabling legislation and debt 
+covenants. 
+ 
+Restricted for Buildings - The component of net position that reports the excess of property taxes and 
+other revenue collected in excess of expenses for operation of the District’s buildings. This amount is 
+restricted by enabling legislation. 
+ 
+Restricted for School Organizations - The component of net position that reports the assets restricted for 
+use by student organizations and extracurricular activities. This amount is restricted by regulations of the 
+Oklahoma State Department of Education. 
+ 
+Restricted for Child Nutrition - The component of net position that reports the assets restricted for use by 
+Child Nutrition program. 
+
+ 
+ 
+
+
+
+ 
+
+22 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+
+Restricted for OPEB – The component of net position that reports the net OPEB asset restricted for other 
+post-employment benefits and deferred outflows of resources, netted against its related deferred inflows 
+of resources. 
+ 
+Unrestricted – The difference between the sum of assets and deferred outflows of resources and the sum 
+of liabilities and deferred inflows of resources that is not reported as restricted for any particular purpose. 
+
+ 
+Governmental Fund Financial Statements – The District follows Governmental Accounting Standards Board 
+Statement No. 54, Fund Balance Reporting and Governmental Fund Types, which defines how fund balances of 
+the governmental funds are presented in the financial statements. The governmental fund financial statements 
+present fund balances based on classifications that comprise a hierarchy that is based primarily on the extent to 
+which the District is bound to honor constraints on the specific purposes for which amounts in the respective 
+governmental funds can be spent. The classifications used in the governmental fund financial statements are as 
+follows: 
+
+Nonspendable: This classification includes amounts that cannot be spent because they are either (a) not in 
+spendable form or (b) are legally or contractually required to be maintained intact. The District has classified 
+inventory as being nonspendable as these items are not expected to be converted to cash or are not expected to 
+be converted to cash within the next year. 
+
+Restricted: This classification includes amounts for which constraints have been placed on the use of the 
+resources either (a) externally imposed by creditors (such as through a debt covenant), grantors, contributors, 
+or laws or regulations of other governments, or (b) imposed by law through constitutional provisions or 
+enabling legislation. The District has classified school construction and building maintenance expenditures as 
+being restricted because their use is restricted by state statute or legislation regarding use of expenditures. 
+Debt service resources are to be used for future servicing of the debt and are restricted through debt 
+covenants. Food service resources are to be used for the District’s child nutrition program and are restricted 
+through federal and state regulations.  The District has classified school program activities, miscellaneous site 
+grants and grant carryover as being restricted because their use is imposed by the Oklahoma State Department 
+of Education or other authority regarding use of expenditures.  Other purposes are restricted for insurance 
+purposes and scholarship purposes from contributors. 
+
+Committed: This classification includes amounts that can be used only for specific purposes pursuant to 
+constraints imposed by formal action of the Board of Education. These amounts cannot be used for any other 
+purpose unless the Board of Education removes or changes the specified use by taking the same type of action 
+(resolution) that was employed when the funds were initially committed. This classification also includes 
+contractual obligations to the extent that existing resources have been specifically committed for use in 
+satisfying those contractual requirements. There were no committed balances as of June 30, 2018. 
+ 
+Assigned: This classification includes amounts that are constrained by the District’s intent to be used for a 
+specific purpose but are neither restricted nor committed. This intent can be expressed by the Board of 
+Education or through the Board of Education delegating this responsibility to management through the 
+budgetary process. The District has no assigned funds as of June 30, 2018. 
+ 
+
+
+
+ 
+
+23 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Unassigned: This classification includes the residual fund balance for the General Fund. The unassigned 
+classification would also include any negative residual fund balance of any other governmental fund that cannot 
+be eliminated by offsetting of assigned fund balance amounts. The District has not established a formal 
+stabilization arrangement regarding minimum funding requirements. The Board of Education, however, has made 
+it a goal to achieve and maintain a minimum fund balance of 5% in the general fund of the current year total 
+revenue collections as well as a minimum fund balance in the building fund of 35% of the current year total 
+revenue collections.  
+ 
+As of June 30, 2018, fund balances are comprised of the following: 
+ 
+
+Other Total
+General Debt Service 2018 Governmental Governmental
+
+Fund Fund Bond Fund Funds Funds
+
+Fund balances:
+Nonspendable
+
+Inventory 151,551$        -$                  -$                  -$                  151,551$           
+
+Restricted for:
+School construction -                     -                    5,190,532      1,090,985      6,281,517          
+Building maintenance -                     -                    -                    2,575,233      2,575,233          
+Debt service reserve -                     23,750,490 -                    -                    23,750,490        
+School programs -                     -                    -                    2,049,612      2,049,612          
+Food services -                     -                    -                    1,062,760      1,062,760          
+Insurance purposes -                     -                    -                    426,377         426,377             
+Gifts from donors -                     -                    -                    22,834           22,834               
+Miscellaneous site grants and 
+
+Astellas grant carryover 199,662          -                    -                    -                    199,662             
+Federal and state grants carryover 161,406          -                    -                    -                    161,406             
+
+Total restricted 361,068          23,750,490   5,190,532      7,227,801      36,529,891        
+
+Unassigned 7,427,979 -                    -                    -                    7,427,979          
+
+   Total fund balances 7,940,598$     23,750,490$ 5,190,532$    7,227,801$    44,109,421$      
+
+ 
+The District would typically use restricted fund balances first, followed by committed resources, and then 
+assigned resources, as appropriate opportunities arise, but reserves the right to selectively spend unassigned 
+resources first to defer the use of these other classified funds. 
+ 
+New Accounting Pronouncement - The District adopted GASB Statement No. 75, Accounting and Financial 
+Reporting for Postemployment Benefits Other Than Pensions (GASB 75).   GASB 75 was issued in June 2015 
+and replaces the requirements of Statements No. 45, Accounting and Financial Reporting by Employers for 
+Postemployment Benefits Other Than Pensions, and No. 57, OPEB Measurements by Agent Employers and Agent 
+Multiple-Employer Plans, for OPEB. The Statement establishes standards for recognizing and measuring 
+liabilities, deferred outflows of resources, deferred inflows of resources, and expense/expenditures. The 
+provisions of GASB No. 75 are effective for fiscal years beginning after June 15, 2017. The adoption of GASB 
+No. 75 resulted in no change to net position as of July 1, 2017. 
+
+
+
+ 
+
+24 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+
+Note 2 -  Cash  
+ 
+Deposits - At June 30, 2018, the bank balance of deposits and cash pools was $55,609,188. Custodial credit risk 
+is the risk that in the event of a bank failure, the District’s deposits may not be returned to it. State statutes require 
+collateral for amounts in excess of federally insured amounts. The deposit policy for custodial credit risk requires 
+compliance with the provisions of state law. The bank balance was completely covered by federal depository 
+insurance and by collateral held by the District’s third-party agent in the District’s name. 
+ 
+Interest Rate Risk – The District does not have a formal policy that limits investment maturities as a means of 
+managing its exposure to fair value losses from increasing interest rates. 
+ 
+
+Note 3 -  Capital Assets  
+ 
+Capital asset activity for the year ended June 30, 2018, was as follows: 
+
+ 
+Beginning Ending
+Balances Increases Decreases Balances
+
+Capital Assets not being depreciated:
+Land 3,024,091$         82,808$           -$                     3,106,899$       
+Construction in Progress 73,652,645         910,970           53,902,225      20,661,390       
+
+Total capital assets not being depreciated 76,676,736         993,778           53,902,225      23,768,289       
+
+Capital Assets being depreciated:
+     Buildings 109,690,920       -                       -                       109,690,920     
+     Improvements 134,023,494       53,948,255      -                       187,971,749     
+     Furniture and Equipment 3,662,884           172,273           -                       3,835,157         
+     Musical Instruments 235,419              19,228             -                       254,647            
+     Computers 594,575              32,350             -                       626,925            
+     Vehicles 9,360,559           2,353,131        198,494           11,515,196       
+
+        Total capital assets being depreciated 257,567,851       56,525,237      198,494           313,894,594     
+
+Less accumulated depreciation for:
+     Buildings 62,192,318         1,977,548        -                       64,169,866       
+     Improvements 30,175,476         4,605,864        -                       34,781,340       
+     Furniture and Equipment 2,230,473           210,674           -                       2,441,147         
+     Musical Instruments 731,363              13,128             -                       744,491            
+     Computers 427,911              45,700             -                       473,611            
+     Vehicles 6,478,594           659,635           198,494           6,939,735         
+
+        Less total accumulated depreciation 102,236,135       7,512,549        198,494           109,550,190     
+
+        Total capital assets being depreciated, net 155,331,716       49,012,688      -                       204,344,404     
+
+        Governmental activity capital assets, net 232,008,452$     50,006,466$    53,902,225$    228,112,693$   
+
+Depreciation is not allocated by function in the statement of activities.   
+ 
+ 
+ 
+
+
+
+ 
+
+25 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+
+Note 4 -  Long-term Liabilities 
+ 
+The long-term liability balances and activity for the year were as follows: 
+ 
+
+Amounts Due
+Beginning Additions Reductions Ending Balance Within 1 Year
+
+Bonds Payable 77,470,000$    29,480,000$    (22,015,000)$   84,935,000$    22,120,000$    
+Bond Premium 1,651,432        786,526           (344,373)          2,093,585        534,039           
+Compensated Absences 1,438,882        583,343           (604,935)          1,417,290        1,417,290        
+Lease Revenue Payable 73,700,000      -                       (18,580,000)     55,120,000      23,185,000      
+
+Total governmental activity
+ long-term liabilities 154,260,314$  30,849,869$    (41,544,308)$   143,565,875$  47,256,329$    
+
+Bonds payable at June 30, 2018 are composed of the following individual general obligation bond issues: 
+ 
+
+Original Issue 
+
+Amount
+
+Annual 
+
+Installment Maturity Date Interest Rate
+
+Outstanding 
+
+Amount at     
+
+June 30, 2018
+
+28,780,000$    7,195,000$      3/1/2019 1-2% 7,195,000$      
+2,000,000        500,000           5/1/2019 1-2% 500,000           
+8,000,000        2,000,000        3/1/2020 1.25 - 2% 4,000,000        
+
+23,760,000      5,940,000        3/1/2021 .05-3% 17,820,000      
+25,940,000      6,485,000        3/1/2022 2-3% 25,940,000      
+29,480,000      7,370,000        * 3/1/2023 2-3% 29,480,000      
+
+84,935,000$    
+  * First payment due March 1, 2020  
+
+Payments on bonds are made by the debt service fund with property taxes. Compensated absences are generally 
+liquidated by the general fund. 
+ 
+The annual requirements to amortize all bond debt outstanding as of June 30, 2018 including interest payments 
+are as follows: 
+ 
+
+2019 22,120,000$    2,081,400$      24,201,400$   
+
+2020 21,795,000      1,656,500        23,451,500     
+
+2021 19,795,000      1,171,200        20,966,200     
+
+2022 13,855,000      636,750           14,491,750     
+
+2023 7,370,000        221,100           7,591,100       
+
+84,935,000$    5,766,950$      90,701,950$   
+
+Period Ending 
+
+June 30 Principal Interest
+
+Total Debt 
+
+Service
+
+
+
+ 
+
+26 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+State statutes prohibit the District from becoming indebted in an amount exceeding the revenue to be received for 
+any fiscal year without approval by the District's voters. Bond issues have been approved by the voters and issued 
+by the District for various capital improvements. These bonds are required to be fully paid serially within 25 years 
+from the date of issue. General obligation bonded debt of the District is limited by state law to 10% of the 
+assessed valuation of the District. The legal debt limit for general obligation bonds at June 30, 2018 is 
+approximately $96.1 million.  
+ 
+Proceeds of general obligation bond issues are recorded in the capital project funds and at least 85% of the 
+proceeds are restricted to the use for which they were approved in the bond elections.   
+ 
+See additional discussion of lease revenue payable at Note 11.   
+ 
+ 
+
+Note 5 -  Employee Retirement System 
+ 
+
+Plan Description - The District contributes to the state-administered Oklahoma Teachers' Retirement System 
+("the System" or “OTRS”), a cost-sharing, multiple-employer public employee retirement plan (the Plan). The 
+System is administered by a board of trustees. OTRS provides retirement, disability and death benefits to plan 
+members and beneficiaries. Oklahoma State Statute 70, Article 17 assigns the authority to establish and amend 
+benefit provisions to the OTRS Board of Trustees. Detailed information about the pension plan’s fiduciary net 
+position is available in the separately issued financial report of the System; which can be located at 
+www.ok.gov/OTRS. 
+ 
+Policy - Under the System, contributions are made by the District, the State of Oklahoma, and the participating 
+employees. Participation is required for all teachers and other certified employees and is optional for all other 
+regular employees of public educational institutions who work at least 20 hours per week. 
+ 
+Contributions - The contribution rates for the District and its employees, which are not actuarially determined, 
+are established by statute and applied to the employee's earnings, plus employer-paid fringe benefits. The District 
+was required by statute to contribute 9.5% of applicable compensation for the year ended June 30, 2018. Plan 
+members are required to contribute 7% of their annual covered salary. The District pays full-time employees’ 
+contribution as allowed by statute. A portion of the contributions received by OTRS are allocated to the 
+Supplemental Health Insurance program; see Note 6.  Contributions to the pension plan from the District were 
+$6,883,569 for the year ended June 30, 2018.  The State of Oklahoma also made on-behalf contributions to 
+OTRS, of which $4,489,362 was recognized by the District; these on-behalf payments did not meet the criteria of 
+a special funding situation. 
+
+
+
+ 
+
+27 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Benefits - Benefit provisions include: 
+
+ 
+• Members become 100% vested in retirement benefits earned to date after five years of credited Oklahoma 
+
+service. Members who joined the System on June 30, 1992 or prior are eligible to retire at maximum 
+benefits when age and years of creditable service total 80. Members joining the System after June 30, 
+1992 are eligible for maximum benefits when their age and years of creditable service total 90. Members 
+whose age and service do not equal the eligible limit may receive reduced benefits as early as age 55, and 
+at age 62 receive unreduced benefits based on their years of service. The maximum retirement benefit is 
+equal to 2% of final compensation for each year of credited service. 
+
+ 
+• Final compensation for members who joined the System prior to July 1, 1992 is defined as the average 
+
+salary for the three highest years of compensation. Final compensation for members joining the System 
+after June 30, 1992 is defined as the average of the highest five consecutive years of annual compensation 
+in which contributions have been made. The final average compensation is limited for service credit 
+accumulated prior to July 1, 1995 to $40,000 or $25,000, depending on the member’s election. Monthly 
+benefits are 1/12 of this amount. Service credits accumulated after June 30, 1995 are calculated based on 
+each member’s final average compensation, except for certain employees of the two comprehensive 
+universities.  
+ 
+
+• Upon the death of a member who has not yet retired, the designated beneficiary shall receive the 
+member’s total contributions plus 100% of interest earned through the end of the fiscal year, with interest 
+rates varying based on time of service. A surviving spouse of a qualified member may elect to receive, in 
+lieu of the aforementioned benefits, the retirement benefit the member was entitled to at the time of death 
+as provided under the Joint Survivor Benefit Option. 
+
+ 
+• Upon the death of a retired member, the System will pay $5,000 to the designated beneficiary, in addition 
+
+to the benefits provided for the retirement option selected by the member.  
+ 
+• A member is eligible for disability benefits after ten years of credited Oklahoma service. The disability 
+
+benefit is equal to 2% of final average compensation for the applicable years of credited service. 
+ 
+
+• Upon separation from OTRS, members’ contributions are refundable with interest based on certain 
+restrictions provided in the plan, or by the IRC. 
+
+ 
+• Members may elect to make additional contributions to a tax-sheltered annuity program up to the 
+
+exclusion allowance provided under the IRC under Code Section 403(b). 
+ 
+
+ 
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of 
+
+Resources Related to Pensions - At June 30, 2018, the District reported a liability of $106,571,969 for its 
+proportionate share of the net pension liability. The net pension liability was measured as of June 30, 2017, and 
+the total pension liability used to calculate the net pension liability was determined by an actuarial valuation as of 
+June 30, 2017. The District’s proportion of the net pension liability was based on the District’s contributions 
+received by the pension plan relative to the total contributions received by pension plan for all participating 
+employers as of June 30, 2017.  Based upon this information, the District’s proportion was 1.6095%, an increase 
+of 0.0418% from the proportion at June 30, 2016. 
+ 
+
+ 
+
+
+
+ 
+
+28 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+For the year ended June 30, 2018, the District recognized pension expense of $12,396,550 in compensation and 
+benefits expense.  At June 30, 2018, the District reported deferred outflows of resources and deferred inflows of 
+resources related to pensions from the following sources: 
+
+ 
+
+Deferred Outflows 
+
+of Resources
+
+Deferred Inflows of 
+
+Resources
+Differences between expected and actual 
+
+experience -$                        7,275,952$            
+
+Changes of assumptions 12,647,163             6,370,673              
+
+Net difference between projected and actual 
+
+earnings on pension plan investments 1,514,875               -                         
+
+Changes in District's proportionate share of 
+
+contributions 3,473,369               -                         
+
+Differences between District contributions 
+
+and proportionate share of contributions -                          11,670                   
+
+District contributions subsequent to the 
+
+measurement date 6,883,569               -                         
+Total 24,518,976$           13,658,295$          
+
+ 
+ 
+The $6,883,569 reported as deferred outflows of resources related to pensions resulting from District 
+contributions subsequent to the measurement date will be recognized as a reduction of the net pension liability in 
+the year ended June 30, 2019.   
+ 
+Other than contributions provided subsequent to the measurement date, deferred outflows of resources and 
+deferred inflows of resources related to pensions will be recognized in pension expense as follows: 
+
+ 
+
+ 
+
+Year ended June 30:
+
+2019 (89,397)$                 
+
+2020 5,149,696               
+
+2021 3,060,495               
+
+2022 (2,977,637)              
+
+2023 (1,166,045)              
+
+Total 3,977,112$             
+
+ 
+ 
+  
+ 
+ 
+
+
+
+ 
+
+29 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Actuarial Assumptions - The total pension liability as of June 30, 2018, was determined based on an actuarial 
+valuation prepared as of June 30, 2017 using the following actuarial assumptions:  
+ 
+
+• Actuarial Cost Method - Entry Age Normal 
+
+• Inflation – 2.50% 
+
+• Future Ad Hoc Cost-of-living increases – None 
+
+• Salary Increases - Composed of 3.25% wage inflation, including 2.50% price inflation, plus a service-
+related component ranging from 0.00% to 8.00% based on years of service. 
+
+• Investment Rate of Return – 7.50% 
+• Retirement Age - Experience-based table of rates based on age, service, and gender. Adopted by the Board 
+
+in May 2015 in conjunction with the five-year experience study for the period ending June 30, 2014. 
+
+• Mortality Rates after Retirement- Males: RP-2000 Combined Healthy Mortality Table for males with White 
+Collar Adjustments. Generational mortality improvements in accordance with Scale  BB from the table’s 
+base year of 2000. Females: GRS Southwest Region Teacher Mortality Table, scaled 105%. Generational 
+mortality improvements in accordance with Scale BB from the table’s base year of 2012. 
+
+• Mortality Rates for Active Members - RP-2000 Employee Mortality tables, with male rates multiplied by 
+60% and female rates multiplied by 50%. 
+
+ 
+The actuarial assumptions used in the July 01, 2017, valuation were based on the results of an actuarial experience 
+study for the period from Fiscal Year 2010 to Fiscal Year 2014. 
+ 
+The target asset allocation and best estimates of arithmetic expected real rates of return for each major asset class 
+as of June 30, 2017 are summarized in the following table: 
+ 
+
+Asset Class
+
+Target Asset
+
+     Allocation     
+
+Long-Term Expected Real
+
+ Rate of Return 
+
+Domestic Equity 38.5% 7.5%
+
+International Equity 19.0% 8.5%
+
+Fixed Income 23.5% 2.5%
+
+Real Estate** 9.0% 4.5%
+
+Alternative Assets 10.0% 6.1%
+
+Total 100.00%
+
+** The Real Estate total expected return is a combination of US Direct Real Estate (unlevered) 
+
+and US Value added Real Estate (unlevered)  
+
+
+
+ 
+
+30 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Discount Rate - A single discount rate of 7.5% was used to measure the total pension liability as of June 30, 
+2017. Based on the stated assumptions and the projection of cash flows, the pension plan’s fiduciary net position 
+and future contributions were projected to be available to finance all projected future benefit payments of current 
+plan members. Therefore, the long-term expected rate of return on pension plan investments was applied to all 
+periods of projected benefit payments to determine the total pension liability. The projection of cash flows used to 
+determine this single discount rate assumed that plan member and employer contributions will be made at the 
+current statutory levels and remain a level percentage of payrolls. The projection of cash flows also assumed that 
+the State’s contribution plus the matching contributions will remain a constant percent of projected member 
+payroll based on the past five years of actual contributions. 
+ 
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate - The following presents the net 
+pension liability of the employers calculated using the discount rate of 7.5%, as well as what the Plan's net 
+pension liability would be if it were calculated using a discount rate that is 1-percentage point lower (6.5%) or 1-
+percentage-point higher (8.5%) than the current rate: 
+ 
+
+1% Decrease Current Discount 1% Increase
+
+(6.5%) Rate (7.5%) (8.5%)
+
+Employers' net pension liability 152,150,863$             106,571,969$                       73,292,689$                        
+
+ 
+ 
+Pension plan fiduciary net position - Detailed information about the pension plan’s fiduciary net position is 
+available in the separately issued financial report of the OTRS; which can be located at www.ok.gov/OTRS. 
+ 
+ 
+
+Note 6 -  Other Post-Employment Benefits (OPEB) 
+ 
+Plan description - The District as the employer, participates in the Supplemental Health Insurance Program—a 
+cost-sharing multiple-employer defined benefit OPEB plan administered by the Oklahoma Teachers Retirement 
+System (OTRS). Title 74 O. S. Sec. 1316.3 defines the health insurance benefits. The authority to establish and 
+amend benefit provisions rests with the State Legislature. OTRS issues a publicly available financial report that 
+can be obtained at www.ok.gov/OTRS. 
+
+ 
+Benefits provided - OTRS pays a medical insurance supplement to eligible members who elect to continue their 
+employer provided health insurance. The supplement payment is between $100 and $105 per month, remitted to 
+the Oklahoma Management Enterprise Services Employees Group Insurance Division, provided the member has 
+ten (10) years of Oklahoma service prior to retirement. 
+ 
+
+
+
+ 
+
+31 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+Contributions - Employer and employee contributions are made based upon the TRS Plan provisions contained 
+in Title 70, as amended. However, the statutes do not specify or identify any particular contribution source to pay 
+the health insurance subsidy. Based on the contribution requirements of Title 70 employers and employees 
+contribute a single amount based on a single contribution rate as described in Note 5; from this amount OTRS 
+allocates a portion of the contributions to the supplemental health insurance program.  The cost of the 
+supplemental health insurance program averages 1.5% of normal cost, as determined by an actuarial valuation. 
+Contributions allocated to the OPEB plan from the District were $109,299. 
+ 
+OPEB Liabilities (Assets), OPEB Expense (Benefit), and Deferred Outflows of Resources and Deferred 
+
+Inflows of Resources Related to OPEB – At June 30, 2018, the District reported an asset of $717,757 for its 
+proportionate share of the net OPEB asset. The net OPEB asset was measured as of June 30, 2017, and the total 
+OPEB asset used to calculate the net OPEB asset was determined by an actuarial valuation as of June 30, 2017. 
+The District’s proportion of the net OPEB asset was based on the District’s contributions received by the OPEB 
+plan relative to the total contributions received by the OPEB plan for all participating employers as of June 30, 
+2017.  Based upon this information, the District’s proportion was 1.6095% percent. 
+ 
+For the year ended June 30, 2018, the District recognized OPEB benefit of ($26,620).  At June 30, 2018, the 
+District reported deferred outflows of resources and deferred inflows of resources related to OPEB from the 
+following sources: 
+
+Deferred Outflows 
+
+of Resources
+
+Deferred Inflows of 
+
+Resources
+
+Differences between expected and 
+
+actual experience -$                        192,653$               
+
+Net difference between projected and 
+
+actual earnings on OPEB plan 
+
+investments -                          393,693                 
+
+Differences between District 
+
+contributions and proportionate share of 
+
+contributions -                          217                        
+
+District contributions subsequent to the 
+
+measurement date 109,299                  -                         
+Total 109,299$                586,563$               
+
+ 
+ 
+
+
+
+ 
+
+32 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+The $109,299 reported as deferred outflows of resources related to OPEB resulting from District contributions 
+subsequent to the measurement date will be recognized as a reduction of the net OPEB liability (asset) in the year 
+ended June 30, 2019. Other amounts reported as deferred outflows of resources and deferred inflows of resources 
+related to OPEB will be recognized in OPEB expense (benefit) as follows: 
+ 
+
+Year ended June 30:
+
+2019 (134,140)$               
+
+2020 (134,140)                 
+
+2021 (134,140)                 
+
+2022 (134,140)                 
+
+2023 (35,717)                   
+
+Thereafter (14,286)                   
+
+Total (586,563)$               
+
+ 
+Actuarial Assumptions- The total OPEB liability (asset) as of June 30, 2017, was determined based on an 
+actuarial valuation prepared as of June 30, 2017 using the following actuarial assumptions:  
+ 
+
+• Actuarial Cost Method - Entry Age  
+
+• Inflation - 2.50%  
+
+• Future Ad Hoc Cost-of-living Increases - None 
+
+• Salary Increases - Composed of 3.25% inflation, including 2.50% price inflation, plus a service-
+related component ranging from 0.00% to 8% based on years of service.  
+
+• Investment Rate of Return – 7.50%  
+
+• Retirement Age - Experience-based table of rates based on age, service, and gender. Adopted by the 
+Board in May 2015 in conjunction with the five year experience study for the period ending June 30, 
+2014.  
+
+• Mortality Rates after Retirement – Males: RP-2000 Combined Mortality Table for males with White 
+Collar Adjustments.  Generational mortality improvements in accordance with Scale BB from table’s 
+base year of 2000.  Females: GRS Southwest Region Teacher Mortality Table, scaled at 105%.  
+Generational mortality improvements in accordance with Scale BB from the table’s base year of 
+2012. 
+
+• Mortality Rates for Active Members – RP – 2000 Employer Mortality tables, with male rates 
+multiplied by 60% and female rates multiplied by 50%. 
+
+• Health care trend rate – not applicable as the benefit provided is a set dollar amount not impacted by 
+health care costs.   
+
+ 
+
+
+
+ 
+
+33 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+The target asset allocation and best estimates of arithmetic expected real rates of return for each major asset class 
+as of June 30, 2017 are summarized in the following table: 
+ 
+
+Asset Class
+
+Target Asset
+
+     Allocation     
+
+Long-Term Expected Real
+
+ Rate of Return 
+
+Domestic Equity 38.5% 7.5%
+
+International Equity 19.0% 8.5%
+
+Fixed Income 23.5% 2.5%
+
+Real Estate** 9.0% 4.5%
+
+Alternative Assets 10.0% 6.1%
+
+Total 100.00%
+
+** The Real Estate total expected return is a combination of US Direct Real Estate (unlevered) 
+and US Value added Real Estate (unlevered)  
+
+ 
+Discount Rate- A single discount rate of 7.50% was used to measure the total OPEB liability (asset) as of  June 
+30, 2017.  This single discount rate was based solely on the expected rate of return on OPEB plan investments of 
+7.50%. Based on the stated assumptions and the projection of cash flows, the OPEB plan’s fiduciary net position 
+and future contributions were projected to be available to finance all projected future benefit payments of current 
+plan members. Therefore, the long-term expected rate of return on OPEB plan investments was applied to all 
+periods of projected benefit payments to determine the total OPEB liability (asset). The projection of cash flows 
+used to determine this single discount rate assumed that plan member and employer contributions will be made at 
+the current statutory levels and remain a level percentage of payrolls. The projection of cash flows also assumed 
+that the State’s contribution plus the matching contributions will remain a constant percent of projected member 
+payroll based on the past five years of actual contributions. 
+ 
+Sensitivity of the Net OPEB Liability (Asset) to Changes in the Discount Rate-The following presents the net 
+OPEB liability (asset) of the employer calculated using the discount rate of 7.5%, as well as what the Plan's net 
+OPEB liability (asset) would be if it were calculated using a discount rate that is 1-percentage point lower (6.5%) 
+or 1-percentage-point higher (8.5%) than the current rate: 
+ 
+
+I% Decrease Current Discount I% Increase
+
+(6.5%) Rate (7.5%) (8.5%)
+
+Employers' net opeb liability (asset) (30,044)$                        (717,757)$                                 (1,305,740)$                             
+
+ 
+OPEB plan fiduciary net position - Detailed information about the OPEB plan’s fiduciary net position is 
+available in the separately issued financial report of the OTRS; which can be located at www.ok.gov/OTRS . 
+ 
+ 
+
+Note 7 -  Risk Management 
+ 
+The District is exposed to various risks of loss related to torts; theft of, damage to and destruction of assets; errors 
+and omissions and natural disasters for which the District carries commercial insurance. There have been no 
+significant reductions in coverage from the prior year and settlements have not exceeded coverage in the past 
+three years. 
+ 
+ 
+
+
+
+ 
+
+34 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+
+ 
+Note 8 -  Operating Leases  
+ 
+The District has leases with vendors for the use of copier machines and postal equipment at District locations. The 
+postal equipment lease is renewable at the District’s option for one year increments through June 30, 2018.  The 
+total lease expense paid by the District for the year ended June 30, 2018 on these leases was approximately 
+$160,000. 
+ 
+ 
+
+Note 9 -  Disaggregation of Payable Balances 
+ 
+
+Salaries and Accrued Total
+Governmental Activities: Vendors Benefits Interest Payables
+
+General and other governmental funds 1,208,630$      6,747,297$    -$                    7,955,927$    
+Reconciliation of balances in fund financials
+
+ to government-wide statements -                       -                    970,810 970,810         
+
+Total governmental activities 1,208,630$      6,747,297$    970,810$         8,926,737$    
+
+ 
+ 
+
+Note 10 -  Schedule of Transfers  
+ 
+The transfers for the year ended June 30, 2018 are as follows: 
+ 
+
+Amount
+
+Debt Service Fund Building Fund 653,048$         Intrafund Transfer
+Student Activity Fund General Fund 2,320               Operating Transfer
+
+Total Transfers between Funds 655,368$         
+
+Nature of
+Transfer From Transfer To Transfer
+
+ 
+Transfers are used for (1) reimbursement of funds collected by one fund that are accounted for in another fund 
+and (2) return of funds in excess of budgetary requirements. 
+
+ 
+ 
+
+
+
+ 
+
+35 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+
+ 
+Note 11 -  Contingencies and Commitments 
+ 
+Amounts received or receivable from grantor agencies are subject to audit and adjustment by grantor agencies. 
+Any disallowed claims, including amounts already collected, may constitute a liability of the applicable funds. 
+The amount, if any, of expenditures which may be disallowed by the grantor cannot be determined at this time 
+although the District expects such amounts, if any, to be immaterial. 
+ 
+The District is a defendant in various lawsuits. Although the outcome of these lawsuits is not presently 
+determinable, the District believes the resolution of these matters will not have a material adverse effect on the 
+financial condition of the District. Should a judgment be awarded against the District, it would be levied through 
+the District’s sinking fund over a three-year period pursuant to state law. 
+ 
+The District has outstanding construction commitments of approximately $610,000 as of June 30, 2018. 
+ 
+During the year ended June 30, 2018, the District did not reduce insurance coverage from coverage levels in place 
+as of June 30, 2017. No settlements have exceeded coverage levels in place during 2018. 
+ 
+ 
+
+Note 12 -  Sublease Agreement 
+ 
+The District entered into a sublease agreement in 2014 with the Cleveland County Education Facilities Authority 
+(the Authority) in which the Authority advanced $91,850,000 in educational facilities lease revenue bonds, Series 
+2014 (lease revenue bonds), to the District for the acquisition and construction of buildings, improvements, and 
+furniture and equipment.  
+ 
+The following schedule presents the payment activity of the lease revenue bonds per the agreement: 
+ 
+
+Principal Coupon Interest Total
+Date Payments Rate Payments Payments
+
+7/1/2018 23,185,000$            5.00% 2,176,375$         25,361,375$      
+7/1/2019 31,935,000              5.00% 798,375              32,733,375        
+
+55,120,000$            2,974,750$         58,094,750$      
+
+ 
+ 
+
+
+
+ 
+
+36 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+
+ 
+ 
+The trustee bank holds the cash and makes payments after authorization from the District. 
+ 
+The District will use future general obligation bonds for repayment of the lease revenue bonds to the Authority, 
+estimated as follows: 
+
+Estimated
+General Obligation
+
+Date Bonds to be Issued
+
+7/1/2018 25,480,000$            
+7/1/2019 32,820,000              
+
+58,300,000$            
+
+ 
+Annual fees, which vary annually by approximately $31,000 to $97,000, will be an estimated total of $120,000.  
+ 
+Upon payment of the lease purchase acquisition payments, legal title will go to the District for all construction, 
+acquisition and renovations completed with the revenue lease bonds. The estimated capitalizable sublease activity 
+of $77,904,411 has been included on the statement of net position as capital assets and a long-term lease.  
+Capitalized interest relating to construction projects is also included with capital assets as such interest is incurred. 
+ 
+Lease bond revenue projects in process at June 30, 2018 totaled approximately $13 million. 
+
+
+
+ 
+
+eidebailly.com 
+
+Financial Statements 
+Required Supplementary Information 
+June 30, 2018 
+
+Norman Independent School District 
+No. 29
+
+
+
+ 
+
+37 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Budgetary Comparison Schedule – General Fund (Unaudited) 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Actual
+Amounts Original
+
+Original   Final GAAP Basis to Final Final to Actual
+
+Budgetary Fund Balance, July 1 6,773,138$      8,260,168$      8,260,170$      1,487,030$      2$                    
+
+Resources (inflows)
+Property Taxes 34,052,306      34,702,000      34,292,887      649,694           (409,113)          
+Interest 20,020             32,058             113,169           12,038             81,111             
+County Revenue 3,800,000        3,858,000        3,906,254        58,000             48,254             
+State Revenue 52,381,910      56,084,819      56,314,771      3,702,909        229,952           
+Federal Revenue 8,252,847        8,297,636        7,250,518        44,789             (1,047,118)       
+Other 1,761,550        2,812,851        2,519,920        1,051,301        (292,931)          
+
+Amounts Available for Appropriation 107,041,771    114,047,532    112,657,689    7,005,761        (1,389,843)       
+
+Charges to Appropriations (outflows)
+Instruction 65,361,291      66,798,637      66,042,420      (1,437,346)       756,217           
+Support Services 37,326,885      38,786,522      38,528,550      (1,459,637)       257,972           
+Non-instruction Services 8,597               7,864               5,202               733                  2,662               
+Capital Outlays 144,702           276,840           67,482             (132,138)          209,358           
+Other Outlays 178,083           136,125           73,437             41,958             62,688             
+
+Total Charges to Appropriations 103,019,558    106,005,988    104,717,091    (2,986,430)       1,288,897        
+
+Budgetary Fund Balance, June 30 4,022,213$      8,041,544$      7,940,598$      4,019,331$      (100,946)$        
+
+Budgeted Amounts
+Variance with Final Budget
+
+Positive (Negative)
+
+
+
+ 
+
+38 
+
+ 
+Norman Independent School District No. 29 
+
+Cleveland County, Oklahoma 
+Notes to Budgetary Comparison Schedule – General Fund 
+
+Year Ended June 30, 2018 
+
+ 
+ 
+Budgeting – Oklahoma statutes required that the District Board of Education approve a budget within thirty days 
+of the beginning of each fiscal year. The school district’s budget is to contain a budget summary accompanied by 
+a minimum of the following for each fund in tabular form: 
+
+1. Actual revenues and expenditures for the immediate prior fiscal year. 
+2. Revenues and expenditures for the current fiscal year as shown by the budget as amended. 
+3. Estimated revenues and expenditures for the budget year. 
+
+ 
+A public hearing on the proposed budget must be held within forty-five days preceding the beginning of the 
+budgetary year.  
+ 
+The District shall amend the original budget after June 30 of each year after the June financial activity has been 
+recorded, the annual Foundation and Salary Incentive Aid allocation has been released, and the property tax 
+valuations have been certified for all affected counties with the District. 
+
+ 
+
+
+
+ 
+
+39 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of District’s Proportionate Share of the Net Pension Liability  
+for Oklahoma Teachers Retirement System 
+
+Year Ended June 30, 2018 
+
+ 
+ 
+
+2018 2017 2016 2015
+
+District's proportion of the net pension liability 1.6095% 1.5677% 1.5504% 1.5360%
+
+District's proportionate share of the net pension liability 106,571,969$     130,833,885$  94,153,782$    82,635,807$    
+
+District's covered payroll 66,718,456$       64,343,044$    64,127,709$    61,128,259$    
+
+District's proportionate share of the net pension liability as a 
+
+percentage of its covered payroll 160% 203% 147% 135%
+
+Plan fiduciary net position as a percentage of the total pension 69.32% 62.24% 70.31% 72.43%
+
+Notes to Schedule:
+
+Only four fiscal years are presented because 10-year data is not yet available.
+
+The amounts present for each fiscal year were determined as of 6/30
+
+The Plan’s net pension liability increased between 2015 and 2016 due to changes in assumptions adopted by the System's Board.
+The most notable change was the lowering of the System’s discount rate from 8.0% to 7.5%.
+
+ 
+ 
+
+
+
+ 
+
+40 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of District’s Contributions to Oklahoma Teachers Retirement System 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+2018 *2017 2016 2015
+
+Contractually required contribution 6,586,047$       6,586,047$      6,660,331$       6,468,241$     
+
+Contributions in relation to the contractually required contribution 6,586,047         6,586,047        6,660,331         6,468,241       
+
+Contribution deficiency (excess) -$                 -$                 -$                  -$                
+
+District's covered payroll 70,488,085$     66,718,456$    64,343,044$     64,127,709$   
+
+Contributions as a percentage of covered payroll 9.34% 9.87% 10.35% 10.09%
+
+Notes to Schedule:
+
+Only four fiscal years are presented because 10-year data is not yet available.
+
+*Amount of contributions reduced by $74,284 due to implementation of GASB Statement No. 75.  Amounts prior to 2017 have not been determined.
+
+ 
+
+
+
+ 
+
+41 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of District’s Proportionate Share of the Net OPEB Liability (Asset) 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+2018
+
+District's proportion of the net OPEB liability 
+
+(asset) 1.6095%
+
+District's proportionate share of the net OPEB 
+
+liability (asset) (717,757)$         
+
+District's covered payroll 66,718,456$     
+
+District's proportionate share of the net OPEB 
+
+liability (asset) as a percentage of its covered 
+
+payroll -1.08%
+
+Plan fiduciary net position as a percentage of the 
+
+total OPEB liability (asset) 110.40%
+
+*The amounts present for each fiscal year were determined as of 6/30
+
+Notes to Schedule:
+
+Only the current and prior fiscal year is presented because 10-year data is not yet available.
+
+ 
+ 
+
+
+
+ 
+
+42 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of District’s Contributions to Oklahoma Teachers Retirement System - OPEB 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+2018 2017
+
+Contractually required contribution 109,299$          104,574$           
+
+Contribuions in relation to the 
+
+contractually required contribution 109,299            104,574             
+
+Contribution deficiency (excess) -$                  -$                   
+
+District's covered payroll 70,488,085$     66,718,456$      
+
+Contribuions as a percentage of covered 
+
+payroll 0.16% 0.16%
+
+Notes to Schedule:
+
+Only the current  and prior fiscal year is presented because 10-year data is not yet available.
+
+ 
+ 
+
+
+
+ 
+
+eidebailly.com 
+
+Financial Statements 
+Other Supplementary Information 
+June 30, 2018 
+
+Norman Independent School District 
+No. 29 
+ 
+
+
+
+ 
+
+43 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Balance Sheet – Other Governmental Funds 
+June 30, 2018 
+
+ 
+Student Workers' Casualty/ Total Capital
+
+Building Fund Child Nutrition Gifts Activity Compensation Insurance Project Funds Total
+
+Assets
+
+Pooled Cash and Investments 2,723,167$   1,183,034$      22,834$       2,130,514$      37,943$           388,434$         1,116,872$      7,602,798$      
+Property Taxes Receivable, Net 333,438 -                       -                   -                       -                       -                       -                       333,438           
+Other Receivables 2,771 61,497 -                   289 -                       -                       -                       64,557             
+
+Total Assets 3,059,376$   1,244,531$      22,834$       2,130,803$      37,943$           388,434$         1,116,872$      8,000,793$      
+
+Liabilities, Deferred Inflows of Resources, 
+and Fund Balances
+
+Liabilities
+Accounts Payable and Accrued Liabilities 183,472$      83,111$           -$                 81,191$           -$                     -$                     25,887$           373,661$         
+Unearned Revenue -                    98,660 -                   -                       -                       -                       -                       98,660             
+
+Total Liabilities 183,472        181,771           -                   81,191             -                       -                       25,887             472,321           
+
+Deferred Inflows of Resources:
+Unavailable revenue - taxes 300,671        -                       -                   -                       -                       -                       -                       300,671           
+
+Total Deferred Inflow 
+of Resources 300,671        -                       -                   -                       -                       -                       -                       300,671           
+
+Fund Balances
+Restricted 2,575,233 1,062,760 22,834         2,049,612        37,943             388,434           1,090,985        7,227,801        
+
+Fund Balances, End of Year 2,575,233     1,062,760        22,834         2,049,612        37,943             388,434           1,090,985        7,227,801        
+
+Total Liabilities, Deferred Inflows
+of Resources, and Fund Balances 3,059,376$   1,244,531$      22,834$       2,130,803$      37,943$           388,434$         1,116,872$      8,000,793$      
+
+ 
+ 
+ 
+
+
+
+ 
+
+44 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Statement of Revenues, Expenditures, and Changes in Fund Balances – Other Governmental Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Total Total Other
+Building Child Student Workers' Casualty/ Capital Governmental
+
+Fund Nutrition Gifts Activity Compensation Insurance Project Funds Funds
+Revenues 
+
+Property Taxes 5,002,295$      -$                     -$                     -$                     -$                    -$                     -$                     5,002,295$      
+Interest 48,701             10,776             365 27,829             489                 5,854 43,332 137,346           
+State Revenue -                       50,997             -                       -                       -                      -                       -                       50,997             
+Federal Revenue -                       3,477,873        -                       -                       -                      -                       -                       3,477,873        
+Other 965 1,575,746        14,373             3,176,611 -                      118,774 -                       4,886,469        
+
+Total Revenues 5,051,961        5,115,392        14,738             3,204,440        489                 124,628           43,332             13,554,980      
+
+Expenditures
+  Instruction 23,895             -                       -                       931,885           -                      106,245           2,006,107        3,068,132        
+  Support Services 6,250,849 -                       21,406 1,629,495        -                      -                       4,144,899        12,046,649      
+  Non-Instruction Services -                       5,142,966 -                       546,066           -                      -                       12,426             5,701,458        
+Capital Outlays 93,818 6,128 -                       10,749             -                      -                       237,917           348,612           
+
+Total Expenditures 6,368,562        5,149,094        21,406             3,118,195        -                      106,245           6,401,349        21,164,851      
+
+Excess (Deficiency) of Revenues 
+over Expenditures (1,316,601)       (33,702)            (6,668)              86,245             489                 18,383             (6,358,017)       (7,609,871)       
+
+Other Financing Sources (Uses)
+Transfers In 653,048           -                       -                       -                       -                      -                       -                       653,048           
+Transfers Out -                       -                       -                       (2,320)              -                      -                       -                       (2,320)              
+
+Total Other Financing Sources (Uses) 653,048           -                       -                       (2,320)              -                      -                       -                       650,728           
+
+Net Change in Fund Balances (663,553)          (33,702)            (6,668)              83,925             489                 18,383             (6,358,017)       (6,959,143)       
+
+Beginning Fund Balances 3,238,786        1,096,462        29,502             1,965,687        37,454            370,051           7,449,002        14,186,944      
+
+Ending Fund Balances 2,575,233$      1,062,760$      22,834$           2,049,612$      37,943$          388,434$         1,090,985$      7,227,801$      
+
+
+
+ 
+
+45 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Balance Sheet – Capital Project Funds 
+June 30, 2018 
+
+ 
+ 
+
+Total Capital
+2009 Bond 2010 Bond 2011 Bond 2012 Bond 2013 Bond 2014 Bond 2015 Bond 2016 Bond 2017 Bond Project
+
+Fund Fund Fund Fund Fund Fund Fund Fund Fund Funds
+
+Assets
+
+Pooled Cash and Investments 98,806$          593$               19,776$          7,591$            30,184$          454,179$        22,122$          91,716$          391,905$        1,116,872$     
+Other Receivables and Assets -                     -                     -                     -                     -                     -                     -                     -                     -                     -                     
+
+Total Assets 98,806$          593$               19,776$          7,591$            30,184$          454,179$        22,122$          91,716$          391,905$        1,116,872$     
+
+Liabilities, Deferred Inflows 
+
+of Resources, and Fund Balances
+Accounts Payable -$                   -$                   -$                   -$                   -$                   939$               -$                   3,654$            21,294$          25,887$          
+
+Total Liabilities -                     -                     -                     -                     -                     939                 -                     3,654              21,294            25,887            
+
+Fund Balances
+Restricted 98,806            593                 19,776            7,591              30,184            453,240          22,122            88,062            370,611          1,090,985       
+
+Fund Balances, End of Year 98,806            593                 19,776            7,591              30,184            453,240          22,122            88,062            370,611          1,090,985       
+
+Total Liabilities, Deferred Inflows
+of Resources, and Fund Balances 98,806$          593$               19,776$          7,591$            30,184$          454,179$        22,122$          91,716$          391,905$        1,116,872$     
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+46 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Statement of Revenues, Expenditures, and Changes in Fund Balances – Capital Project Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Total Capital
+2009 Bond 2010 Bond 2011 Bond 2012 Bond 2013 Bond 2014 Bond 2015 Bond 2016 Bond 2017 Bond Project
+
+Fund Fund Fund Fund Fund Fund Fund Fund Fund Funds
+Revenues 
+
+Interest 1,276$             593$                255$                106$                421$                7,841$             3,971$             10,432$           18,437$           43,332$           
+
+Total Revenues 1,276               593                  255                  106                  421                  7,841               3,971               10,432             18,437             43,332             
+
+Expenditures
+  Instruction -                       119,549           -                       -                       3,740 19,972             -                       234,793           1,628,053        2,006,107        
+  Support Services -                       -                       -                       -                       7,049 510,969           537,956 861,996           2,226,929        4,144,899        
+  Non-Instruction Services -                       -                       -                       -                       -                       12,426             -                       -                       -                       12,426             
+Capital Outlays -                       -                       -                       -                       3,876               217,937           -                       5,421               10,683             237,917           
+
+Total Expenditures -                       119,549           -                       -                       14,665             761,304           537,956           1,102,210        3,865,665        6,401,349        
+
+Net Change in Fund Balances 1,276               (118,956)          255                  106                  (14,244)            (753,463)          (533,985)          (1,091,778)       (3,847,228)       (6,358,017)      
+
+Beginning Fund Balances 97,530 119,549 19,521 7,485 44,428 1,206,703 556,107 1,179,840 4,217,839 7,449,002        
+
+Ending Fund Balances 98,806$           593$                19,776$           7,591$             30,184$           453,240$         22,122$           88,062$           370,611$         1,090,985$      
+
+
+
+ 
+
+47 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Budgetary Comparison Schedule – Building Fund (Unaudited) 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Actual
+Amounts Original Final
+
+Original   Final GAAP  to Final to Actual
+
+Budgetary Fund Balance, July 1 2,854,374$      3,238,788$      3,238,786$      384,414$         (2)$                   
+
+Resources (inflows)
+Property Taxes 4,922,246        4,968,250        5,002,295        46,004             34,045             
+Interest 4,000               23,000             48,701             19,000             25,701             
+Other 60,000             239,201           654,013           179,201           414,812           
+
+Amounts Available for Appropriation 7,840,620        8,469,239        8,943,795        628,619           474,556           
+
+Charges to Appropriations (outflows)
+
+Instruction -                       23,895             23,895             (23,895)            -                       
+Support Services 4,525,019        6,217,452        6,250,849        (1,692,433)       (33,397)            
+Capital Outlays 152,658           99,818             93,818             52,840             6,000               
+
+Total Charges to Appropriations 4,677,677        6,341,165        6,368,562        (1,663,488)       (27,397)            
+
+Budgetary Fund Balance, June 30 3,162,943$      2,128,074$      2,575,233$      (1,034,869)$     447,159$         
+
+Budgeted Amounts
+Variance with Final Budget
+
+Positive (Negative)
+
+
+
+ 
+
+48 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Budgetary Comparison Schedule – Child Nutrition (Unaudited) 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Actual
+Amounts Original Final
+
+Original   Final GAAP Basis to Final to Actual
+
+Budgetary Fund Balance, July 1 838,045$         1,096,462$      1,096,462$      258,417$         -$                     
+
+Resources (inflows)
+Interest 20                    2,700               10,776             2,680               8,076               
+Local Revenue 1,570,000        1,721,000        1,575,746        151,000           (145,254)          
+State Revenue 54,000             50,997             50,997             (3,003)              -                       
+Federal Revenue 3,500,000        3,538,094        3,477,873        38,094             (60,221)            
+
+Amounts Available for Appropriation 5,962,065        6,409,253        6,211,854        447,188           (197,399)          
+
+Charges to Appropriations (outflows)
+Non-instruction services 5,300,000        5,279,157        5,142,966        20,843             136,191           
+
+Capital Outlays -                       -                       6,128               -                       (6,128)              
+
+Total Charges to Appropriations 5,300,000        5,279,157        5,149,094        20,843             136,191           
+
+Budgetary Fund Balance, June 30 662,065$         1,130,096$      1,062,760$      468,031$         (67,336)$          
+
+Budgeted Amounts
+Variance with Final Budget
+
+Positive (Negative)
+
+
+
+ 
+
+49 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Schedule of Changes in Assets and Liabilities – All Activity Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Ending Ending
+Balance Balance
+As of Total Total As of
+
+Activities June 30, 2017 Receipts Disbursements June 30, 2018
+
+Assets
+
+Football 52,546$           101,806$          127,994$         26,358$           
+Boys Basketball 9,578               46,129              42,220             13,487             
+Girls Basketball 6,830               21,275              26,968             1,137               
+Boys Swimming 763                  9,516                6,028               4,251               
+Baseball 9,963               19,156              23,494             5,625               
+FastPitch Softball 14,432             29,398              38,633             5,197               
+Wrestling 2,101               13,706              15,217             590                  
+Boys Tennis 1,000               5,555                6,293               262                  
+Girls Tennis 689                  7,523                7,724               488                  
+Slowpitch Softball 1,143               8,493                9,636               -                       
+Girls Cross Country 3,523               4,319                6,943               899                  
+Boys Golf 7,638               15,419              22,638             419                  
+Boys Cross Country 2,521               7,764                9,717               568                  
+Boys Soccer 2,275               18,023              18,964             1,334               
+Volleyball 16,350             33,628              38,804             11,174             
+Boys Track 12,725             22,352              32,336             2,741               
+Girls Track 5,850               17,275              13,662             9,463               
+General Athletics 91,000             136,762            111,602           116,160           
+ASCE 3,220               53,277              53,296             3,201               
+Girls Golf 7,193               8,306                14,611             888                  
+Girls Soccer 12,637             14,535              18,572             8,600               
+Girls Swimming 717                  1,625                637                  1,705               
+AP Tests 56,885             128,166            67,683             117,368           
+Art 44,570             8,984                13,283             40,271             
+Art in Education -                       689                   689                  -                       
+Coke 201,984           175,750            160,798           216,936           
+Band 27,574             133,728            140,429           20,873             
+Ice Cream Machine 25,854             65,003              47,650             43,207             
+Save Darfur Club 22                    -                        -                       22                    
+Consumer Education 28                    -                        -                       28                    
+Cheerleaders 15,851             42,720              43,300             15,271             
+Business 115                  -                        -                       115                  
+Link Crew-North -                       1,762                1,602               160                  
+Freshmen 2,977               -                        -                       2,977               
+Ag Ed (FFA) 30,627             36,521              31,732             35,416             
+Camp Turning Point 8,363               5,820                4,776               9,407               
+Clearing Account 50                    4,731                4,758               23                    
+Book Club 58                    230                   -                       288                  
+Book Fair 13,520             17,647              22,398             8,769               
+Drama Club 18,037             1,930                6,441               13,526             
+Drug Free/Chemical Depend 1,141               -                        -                       1,141               
+Black Stud Assoc/Stomp 604                  160                   515                  249                  
+Pack Shack/Link Crew 54,813             105,951            119,656           41,108             
+OK Youth and Government -                       3,086                2,295               791                  
+English 124                  861                   985                  -                       
+Environmental Club 283                  -                        -                       283                  
+Transition Program 604                  2,243                2,295               552                  
+Equip/Repair/Furn 229                  -                        -                       229                  
+Explo 482                  -                        -                       482                  
+
+
+
+ 
+
+50 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Schedule of Changes in Assets and Liabilities – All Activity Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Assets Ending Ending
+Balance Balance
+As of Total Total As of
+
+June 30, 2017 Receipts Disbursements June 30, 2018
+
+Enrichment 244$                1,000$              426$                818$                
+Faculty Services 2,001               4,000                4,836               1,165               
+African Amer Assoc 717                  513                   565                  665                  
+Field Trips 36,402             81,335              68,173             49,564             
+Parking Decals 3,532               23,149              16,593             10,088             
+G.E.M.S. 7,151               3,077                6,303               3,925               
+Foreign Language-All 629                  234                   39                    824                  
+French 965                  486                   470                  981                  
+General 237,342           231,663            236,833           232,172           
+Ecology Club 169                  46                     -                       215                  
+Gifted and Talented 2,435               6,995                8,072               1,358               
+Sophomore 5,340               855                   1,285               4,910               
+5th Grade 4,339               29,545              29,488             4,396               
+Junior 9,739               1,639                1,447               9,931               
+6th Grade 1,192               4,348                5,260               280                  
+7th Grade 4,047               (621)                  2,793               633                  
+8th Grade 10,162             7,983                7,646               10,499             
+Grants 2                      -                        -                       2                      
+FACS 3,349               1,576                2,051               2,874               
+Senior 4,892               3,764                5,769               2,887               
+Honor Society 10,022             4,434                5,101               9,355               
+DECA 6,895               106,533            100,161           13,267             
+Instrumental Music 61,431             314,885            317,888           58,428             
+Indigent Student Fund 29                    -                        -                       29                    
+Athletic Trainer 11,964             5,830                8,384               9,410               
+Independent Living 250                  1,500                -                       1,750               
+Spud-North 27,640             211,864            221,249           18,255             
+Leadership Council 11,332             23,691              19,497             15,526             
+
+Latin 3,419               2,794                2,319               3,894               
+Cultural Diversity 734                  151                   -                       885                  
+Library/Media Center 46,657             84,989              68,832             62,814             
+Computers 42                    -                        -                       42                    
+FCCLA 2,471               2,656                1,952               3,175               
+Natl Art Honor Society 266                  -                        -                       266                  
+Modern Dance Club 12,775             25,762              26,317             12,220             
+Misc Transaction 1,873               (98)                    -                       1,775               
+Model United Nations 618                  1,065                1,615               68                    
+Mu Alpha Theta 1,579               2,529                2,394               1,714               
+Music/Drumline 17,813             57,384              53,898             21,299             
+Newspaper/Journalism 4,483               800                   1,583               3,700               
+Parenting 78                    13                     13                    78                    
+Orchestra 42,300             28,955              27,808             43,447             
+NBR Donation 584                  -                        -                       584                  
+Office 1,291               -                        234                  1,057               
+Memorial Fund 181                  -                        -                       181                  
+Poms 1,660               27,384              29,042             2                      
+Physical Education 1,760               1,713                1,610               1,863               
+Prof Leave/Development 14,208             3,175                5,315               12,068             
+
+
+
+ 
+
+51 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Schedule of Changes in Assets and Liabilities – All Activity Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+Assets Ending Ending
+
+Balance Balance
+As of Total Total As of
+
+June 30, 2017 Receipts Disbursements June 30, 2018
+
+Partners-In-Ed 553$                368$                 -$                     921$                
+PTA-Student 29,719             54,410              61,414             22,715             
+Native American Club 3,968               928                   684                  4,212               
+Donations 10,456             1,036                1,513               9,979               
+Outdoor Classroom 1,092               -                        -                       1,092               
+Global Awareness 279                  -                        -                       279                  
+Service Learning 3,200               3,298                -                       6,498               
+Renaissance Program 971                  -                        -                       971                  
+Principal 647                  2,500                1,051               2,096               
+PSAT/Guidance Serv 1,073               165                   56                    1,182               
+Prom 28,502             35,087              27,192             36,397             
+Psychology 204                  -                        -                       204                  
+Spanish Nat Honor Society 564                  163                   -                       727                  
+Model Congress 506                  325                   504                  327                  
+School Climate 18,757             -                        4,109               14,648             
+Recycling 228                  -                        -                       228                  
+Resource Center Material (5,530)              5,262                5,240               (5,508)              
+Fundraiser 18,421             47,809              44,655             21,575             
+Orange Thumb 484                  -                        -                       484                  
+Sat School/Student Int 20                    56                     56                    20                    
+SADD 120                  -                        -                       120                  
+Science 571                  1,676                1,655               592                  
+Social Studies 891                  (891)                  -                       -                       
+TAPP 517                  200                   -                       717                  
+Spanish 1,274               1,424                1,658               1,040               
+Speech 24,963             35,384              35,164             25,183             
+Special Ed/Spec Athletes 8,873               9,737                9,207               9,403               
+Fine Arts 73,469             9,862                7,525               75,806             
+Student Council/Congress 25,626             63,514              64,946             24,194             
+Store-School 4                      -                        -                       4                      
+Special Education 1,361               610                   1,329               642                  
+Musicals 11,512             (646)                  4,112               6,754               
+Rotary Inter-ACT 824                  155                   27                    952                  
+Key Club 2,532               152                   153                  2,531               
+6th Grade Books 886                  -                        -                       886                  
+Theater Art 3,526               7,235                3,975               6,786               
+Technology 14,811             239                   2,938               12,112             
+Vocal Music 29,657             110,825            104,962           35,520             
+Teen Volun/Parent Outreach 1,698               1,010                808                  1,900               
+VRC-Video Resource Center 6,164               1,390                1,404               6,150               
+PR Fund 79                    -                        -                       79                    
+Yearbook 93,033             53,442              41,769             104,706           
+Vegetarian Club 106                  300                   -                       406                  
+Elem Music/Art 2,941               4,257                4,725               2,473               
+Wildcat Memories 100                  -                        -                       100                  
+Stand For Silence 5                      -                        -                       5                      
+Interior Design 100                  -                        -                       100                  
+Young Democrats 1,080               -                        -                       1,080               
+
+
+
+ 
+
+52 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Schedule of Changes in Assets and Liabilities – All Activity Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+Assets Ending Ending
+
+Balance Balance
+As of Total Total As of
+
+June 30, 2017 Receipts Disbursements June 30, 2018
+
+Clusters/GT 450$                750$                 -$                     1,200$             
+Botball 13,986             23,012              11,710             25,288             
+First Grade -                       232                   232                  -                       
+Student Assistance Fund 343                  3,118                2,800               661                  
+Sewing 226                  -                        -                       226                  
+Administration 74,483             22,653              -                       97,136             
+Sociology 301                  -                        -                       301                  
+WOW 18,832             (8,235)               4,407               6,190               
+Anthology 1,772               4,927                3,393               3,306               
+Academic Teams 5,099               11,153              13,013             3,239               
+Republican Club 299                  752                   714                  337                  
+Third Grade 124                  -                        -                       124                  
+North-H.O.P.E. -                       598                   598                  -                       
+Dumbledore's Army 735                  -                        -                       735                  
+Transition Center 61                    -                        -                       61                    
+Pre Engineering 1,837               7,280                4,490               4,627               
+Shakespeare 50                    (50)                    -                       -                       
+Quidditch Club 135                  -                        -                       135                  
+Chinese Club -                       568                   45                    523                  
+Logo Royalties 6,696               1,047                -                       7,743               
+Risk Factor Survey 1                      530                   531                  -                       
+FCCLA 1,080               1,352                2,156               276                  
+NHS Instrument Fund 1,375               (1,375)               -                       -                       
+Art Club 80                    -                        -                       80                    
+Step Dance Team 1,166               251                   334                  1,083               
+Made 1,031               -                        -                       1,031               
+Ilearn Fluently 4                      -                        -                       4                      
+Vanderburg Donations 20                    -                        -                       20                    
+Tech Now 567                  -                        -                       567                  
+Lock In 1,362               1,154                415                  2,101               
+Young Adult Book Club 34                    -                        -                       34                    
+Music Club 260                  -                        -                       260                  
+Future City/History Day 55                    50                     90                    15                    
+
+Tabletop Gaming Assoc 2,641               60                     -                       2,701               
+
+Hildebrand Scholarship 1,025               -                        -                       1,025               
+
+Big Brothers/Big Sisters 184                  -                        -                       184                  
+Autism 225                  -                        -                       225                  
+Tracks 72                    -                        -                       72                    
+Fundraiser 788                  5,332                5,301               819                  
+Autism -                       10                     196                  (186)                 
+Trust Club 450                  -                        -                       450                  
+Avid -                       636                   636                  -                       
+Timberwolf Pantry 1,391               250                   88                    1,553               
+Garden Club 501                  969                   597                  873                  
+German Club 1,244               2,356                2,597               1,003               
+Norman Arts Council 3,401               -                        -                       3,401               
+Class of 66 Scholarship 1,750               -                        -                       1,750               
+Triathlon Club 358                  2,000                220                  2,138                
+
+
+
+ 
+
+53 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Combining Schedule of Changes in Assets and Liabilities – All Activity Funds 
+Year Ended June 30, 2018 
+
+ 
+ 
+Assets Ending Ending
+
+Balance Balance
+As of Total Total As of
+
+June 30, 2017 Receipts Disbursements June 30, 2018
+
+Sports Marketing 3,021$             714$                 -$                     3,735$             
+Literacy Magazine 347                  889                   660                  576                  
+6th Grade Lightning Thief 994                  887                   -                       1,881               
+Watch Dogs 223                  1,500                1,413               310                  
+After School Detention 933                  -                        34                    899                  
+Anime/Cosplay Club 21                    -                        -                       21                    
+Counselor Donation 993                  50                     -                       1,043               
+Joe Lawson Memorial 1,150               -                        -                       1,150               
+Coins for Cowboys -                       -                        -                       -                       
+Tiger Fuel 2,005               840                   1,790               1,055               
+Capstone -                       216                   203                  13                    
+Student Store 176                  -                        -                       176                  
+Irving Edition -                       3,274                2,343               931                  
+Teacher Lounge -                       1,410                1,052               358                  
+North Place Student Store -                       1,094                1,094               -                       
+Tigers Helping Tigers -                       4,408                631                  3,777               
+Christians on Campus -                       500                   351                  149                  
+Breakfast Club -                       230                   -                       230                  
+CASP Fall Break Camp -                       7,085                7,085               -                       
+Anti Bullying Club -                       122                   -                       122                  
+Technology Student Assoc -                       2,650                2,415               235                  
+NHS Rocketry -                       20                     -                       20                    
+Feminism Club -                       460                   375                  85                    
+Ritchey Revocable Trust -                       969                   900                  69                    
+Ethics Club -                       200                   -                       200                  
+Teacher Support -                       600                   -                       600                  
+Summer Band Camp -                       2,240 2,240 -                       
+
+Total assets 1,965,687$      3,204,440$       3,120,515$      2,049,612$      
+
+Liabilities
+
+Due to Student Groups 1,965,687$      3,204,440$       3,120,515$      2,049,612$      
+
+Total liabilities 1,965,687$      3,204,440$       3,120,515$      2,049,612$      
+
+ 
+ 
+
+Note 1 -  Basis of Presentation 
+ 
+
+The above schedule and format is required by the Oklahoma State Department of Education and is not intended to 
+represent a financial statement in accordance with generally accepted accounting principles. 
+ 
+ 
+
+
+
+ 
+
+54 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of Statutory, Fidelity, and Honesty Bonds (Unaudited) 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+NAME TYPE COMPANY BOND # AMOUNT BEG 
+DATE 
+
+END 
+DATE 
+
+Dr. Nick 
+Migliorino 
+
+Public Official 
+Bond 
+
+Travelers 
+Casualty and 
+Surety Company 
+
+106784796 $100,000  7/1/17 6/30/18 
+
+Brenda R. 
+Burkett 
+
+Public Official 
+Bond 
+
+Travelers 
+Casualty and 
+Surety Company 
+
+105306354 $100,000  9/16/17 9/15/18 
+
+Janine Anne 
+Warren 
+
+Public Official 
+Bond 
+
+Hartford Fire 
+Insurance 
+Company 
+
+38BSBCJ1584 $100,000  7/21/09 
+ 
+
+Until 
+cancelled 
+
+Norman Public 
+Schools 
+
+Commercial 
+Crime Policy 
+
+St Paul Travelers 104343265 $100,000  7/1/04 Until 
+cancelled 
+
+ 
+
+
+
+ 
+
+55 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of Expenditures of Federal Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Deferred Deferred
+Pass-Through Revenue Revenue
+
+Grantor's (Accounts (Accounts
+Federal Grantor/Pass-Through Grantor/ Federal CFDA  Project Receivable) Federal Grant Federal Grant Receivable)
+Program Title Number Number June 30, 2017 Receipts Expenditures June 30, 2018
+
+U.S. Department of Education
+Direct Programs
+
+Indian Education, Grants to Local Educational Agencies 84.060 561 (180,870)$        324,940$         353,311$         (209,241)$        
+
+Passed Through Oklahoma Department of Career and Technology Education
+Vocational Education - Basic Grant to States 84.048 421, 424, 426 (61,627)            203,042           244,111           (102,696)          
+
+Passed Through Oklahoma State Department of Education
+Title I, Improving Basic Programs 84.010 511 (770,863)          1,804,523        2,226,763        (1,193,103)       
+
+Title I, School Improvement 84.010 515 (9,377)              9,377               -                       -                       
+Title I, Part A Neglected 84.010 518 (28,148)            102,844           101,669           (26,973)            
+
+Title I Cluster (808,388)          1,916,744        2,328,432        (1,220,076)       
+
+Special Education - Grants to States 84.027 613, 621, 625 (750,619)          2,976,962        3,198,331        (971,988)          
+Special Education - Preschool Grants 84.173 641, 642 (17,263)            61,968             67,043             (22,338)            
+
+Special Education Cluster (767,882)          3,038,930        3,265,374        (994,326)          
+
+Title II, Part A Teacher and Principal Training 
+and Recruiting Fund 84.367 541 (71,836)            245,371           379,524           (205,989)          
+
+Title II, Part A, Technical Assistance Allocation 84.367 543 (2,064)              2,064               -                       -                       
+(73,900)            247,435           379,524           (205,989)          
+
+
+
+ 
+
+56 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of Expenditures of Federal Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Deferred Deferred
+Pass-Through Revenue Revenue
+
+Grantor's (Accounts (Accounts
+Federal Grantor/Pass-Through Grantor/ Federal CFDA  Project Receivable) Federal Grant Federal Grant Receivable)
+Program Title Number Number June 30, 2017 Receipts Expenditures June 30, 2018
+
+Title III Part A English Language Acquisition 84.365 571, 572 (17,906)$          78,752$           81,400$           (20,554)$          
+
+Adult Basic Education 84.002 731, 733 (52,066)            100,606           81,186             (32,646)            
+
+Title I Neglected/Delinquent 84.013 532 (121,836)          259,287           195,542           (58,091)            
+
+Jobs Training-OJT 84.126 456 -                       43,688             48,315             (4,627)              
+
+Total U.S. Department of Education (2,084,475)       6,213,424        6,977,195        (2,848,246)       
+
+U.S. Department of the Interior
+Passed through the Oklahoma State Department of Education
+
+Indian Education - Assistance to Schools
+Johnson O'Malley Program 15.130 563 (5,900)              36,595             30,695             -                       
+
+Total U.S. Department of the Interior (5,900)              36,595             30,695             -                       
+
+U.S. Department of Health and Human Services
+Passed through the Oklahoma State Department of Health
+
+Projects of Regional and National Significance
+Discretionary Grants 93.243 771, 772 (49,766)            212,381           242,626           (80,011)            
+
+Total U.S. Department of Health and Human Services (49,766)            212,381           242,626           (80,011)            
+
+ 
+ 
+
+
+
+ 
+
+57 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma 
+
+Schedule of Expenditures of Federal Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Deferred Deferred
+Pass-Through Revenue Revenue
+
+Grantor's (Accounts (Accounts
+Federal Grantor/Pass-Through Grantor/ Federal CFDA  Project Receivable) Federal Grant Federal Grant Receivable)
+Program Title Number Number June 30, 2017 Receipts Expenditures June 30, 2018
+
+U.S. Department of Agriculture
+Passed through the Oklahoma State Department of Education
+
+Child Nutrition Cluster
+Breakfast Program - cash assistance 10.553 764 -                       749,621           749,621           -                       
+Lunch Program - cash assistance 10.555 763 -                       2,632,129        2,632,129        -                       
+Lunch Program- commodities 10.555 763 -                       360,849           360,849           -                       
+Summer Food Service - cash assistance 10.559 766 -                       90,224             90,224             -                       
+
+Child Nutrition Cluster -                       3,832,823        3,832,823        -                       
+
+National School Lunch Equipment Assistance 10.579 791 -                       5,899               5,899               -                       
+
+Total U.S. Department of Agriculture -                       3,838,722        3,838,722        -                       
+
+Total (2,140,141)$     10,301,122$    11,089,238$    (2,928,257)$     
+
+ 
+
+
+
+ 
+
+58 
+
+Norman Independent School District No. 29 
+Cleveland County, Oklahoma  
+
+Notes to Schedule of Expenditures of Federal Awards 
+Year Ended June 30, 2018 
+
+ 
+
+ 
+Note A – Basis of Presentation 
+
+ 
+
+The accompanying schedule of expenditures of federal awards includes the federal grant activity of the Norman 
+Independent School District No. 29 (the District), and is presented on the modified accrual basis of accounting. 
+The information in this schedule is presented in accordance with the requirements of the Uniform Guidance. The 
+District received federal awards both directly from federal agencies and indirectly through pass-through entities. 
+No federal financial assistance has been provided to a subrecipient.   
+ 
+ 
+Note B – Significant Accounting Policies 
+ 
+
+Governmental fund types account for the District’s federal grant activity. Therefore, expenditures in the schedule 
+of expenditures of federal awards are recognized on the modified accrual basis – when they become a demand on 
+current available financial resources. The District’s summary of significant accounting policies is presented in 
+Note 1 in the District’s basic financial statements. 
+ 
+The District has not elected to use the 10% de minimis cost rate.   
+ 
+ 
+Note C — Food Donation 
+ 
+
+Nonmonetary assistance is reported in the Schedule at the fair market value of the commodities received and 
+disbursed. At June 30, 2018, the District had food commodities totaling $151,551 in inventory. 
+
+
+
+ 
+
+What inspires you, inspires us. | eidebailly.com 
+ 
+
+ 621 N. Robinson Ave., Ste. 200  |  Oklahoma City, OK 73102-6232  |  T 405.594.2000  |  F 405.594.2053  |  EOE 59 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Independent Auditor’s Report on Internal Control over Financial Reporting and on 
+
+Compliance and Other Matters Based on an Audit of Financial Statements 
+Performed in Accordance with Government Auditing Standards 
+
+ 
+ 
+ 
+ 
+To the Board of Education 
+Norman Independent School District No. 29 
+Norman, Oklahoma  
+ 
+We have audited, in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States, the financial statements of the governmental 
+activities, each major fund, and the aggregate remaining fund information of Norman Independent School 
+District No. 29 (the District) as of and for the year ended June 30, 2018, and the related notes to the 
+financial statements, which collectively comprise Norman Independent School District No. 29’s basic 
+financial statements, and have issued our report thereon dated January 11, 2019.   
+ 
+Internal Control Over Financial Reporting  
+
+ 
+In planning and performing our audit of the financial statements, we considered the District's internal 
+control over financial reporting (internal control) to determine the audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinions on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of the District’s internal control. Accordingly, we 
+do not express an opinion on the effectiveness of the District’s internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a combination 
+of deficiencies, in internal control, such that there is a reasonable possibility that a material misstatement 
+of the entity’s financial statements will not be prevented, or detected and corrected on a timely basis.  A 
+significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less 
+severe than a material weakness, yet important enough to merit attention by those charged with 
+governance.  
+ 
+Our consideration of internal control over financial reporting was for the limited purpose described in the 
+first paragraph of this section and was not designed to identify all deficiencies in internal control over 
+financial reporting that might be material weaknesses or significant deficiencies. Given these limitations, 
+during our audit we did not identify any deficiencies in internal control that we consider to be material 
+weaknesses. However, material weaknesses may exist that have not been identified. 
+
+
+
+ 
+
+  60 
+
+Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the District's financial statements are free from 
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on the 
+determination of financial statement amounts. However, providing an opinion on compliance with those 
+provisions was not an objective of our audit, and accordingly, we do not express such an opinion. The 
+results of our tests disclosed no instances of noncompliance or other matters that are required to be 
+reported under Government Auditing Standards.  
+ 
+Purpose of this Report 
+
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal 
+control or on compliance. This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the entity’s internal control and compliance. Accordingly, 
+this communication is not suitable for any other purpose. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Oklahoma City, Oklahoma 
+January 11, 2019 
+ 
+ 
+
+
+
+ 
+ 
+
+What inspires you, inspires us. | eidebailly.com 
+ 
+
+ 621 N. Robinson Ave., Ste. 200  |  Oklahoma City, OK 73102-6232  |  T 405.594.2000  |  F 405.594.2053  |  EOE 61 
+
+ 
+ 
+
+ 
+
+ 
+
+Independent Auditor’s Report on Compliance for Each Major Federal Program 
+and Report on Internal Control Over Compliance Required by the Uniform 
+
+Guidance 
+
+ 
+ 
+To the Board of Education 
+Norman Independent School District No. 29 
+Norman, Oklahoma: 
+ 
+ 
+Report on Compliance for Each Major Federal Program 
+We have audited Norman Independent School District No. 29’s compliance with the types of compliance 
+requirements described in the OMB Compliance Supplement that could have a direct and material effect 
+on each of Norman Independent School District No. 29’s major federal programs for the year ended June 
+30, 2018. Norman Independent School District No. 29’s major federal programs are identified in the 
+summary of auditor’s results section of the accompanying schedule of findings and questioned costs. 
+ 
+Management’s Responsibility  
+
+Management is responsible for compliance with federal statutes, regulations, and the terms and conditions 
+of its federal awards applicable to its federal programs.  
+ 
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on the compliance for each of Norman Independent School 
+District No. 29’s major federal programs based on our audit of the types of compliance requirements 
+referred to above. We conducted our audit of compliance in accordance with auditing standards generally 
+accepted in the United States of America; the standards applicable to financial audits contained in 
+Government Auditing Standards, issued by the Comptroller General of the United States; and the audit 
+requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance).  Those 
+standards and the Uniform Guidance require that we plan and perform the audit to obtain reasonable 
+assurance about whether noncompliance with the compliance requirements referred to above that could 
+have a direct and material effect on a major federal program occurred. An audit includes examining, on a 
+test basis, evidence about Norman Independent School District No. 29’s compliance with those 
+requirements and performing such other procedures as we considered necessary in the circumstances.   
+ 
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major 
+federal program. However, our audit does not provide a legal determination of Norman Independent 
+School District No. 29’s compliance. 
+ 
+Opinion on Each Major Federal Program 
+
+In our opinion, Norman Independent School District No. 29 complied, in all material respects, with the 
+compliance requirements referred to above that could have a direct and material effect of each of its major 
+Federal programs for the year ended June 30, 2018. 
+
+
+
+ 
+
+  62 
+
+Report on Internal Control over Compliance 
+Management of Norman Independent School District No. 29  is responsible for establishing and 
+maintaining effective internal control over compliance with the compliance requirements referred to 
+above. In planning and performing our audit of compliance, we considered Norman Independent School 
+District No. 29’s internal control over compliance with the types of requirements that could have a direct 
+and material effect on each major federal program to determine the auditing procedures that are 
+appropriate in the circumstances for the purpose of expressing an opinion on compliance for each major 
+federal program and to test and report on internal control over compliance in accordance with the 
+Uniform Guidance, but not for the purpose of expressing an opinion on the effectiveness of internal 
+control over compliance. Accordingly, we do not express an opinion on the effectiveness of the Norman 
+Independent School District No. 29’s internal control over compliance.  
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a 
+deficiency, or a combination of deficiencies, in internal control over compliance, such that there is a 
+reasonable possibility that material noncompliance with a compliance requirement will not be prevented, 
+or detected and corrected, on a timely basis. A significant deficiency in internal control over compliance 
+is a deficiency, or a combination of deficiencies, in internal control over compliance with a type of 
+compliance requirement of a federal program that is less severe than a material weakness in internal 
+control over compliance, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control that might be 
+material weaknesses or significant deficiencies. We did not identify any deficiencies in internal control 
+over compliance that we consider to be material weaknesses. However, material weaknesses may exist 
+that have not been identified. 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of the 
+Uniform Guidance. Accordingly, this report is not suitable for any other purpose.  
+  
+ 
+
+ 
+Oklahoma City, Oklahoma 
+January 11, 2019
+
+
+
+ 
+
+63 
+
+Norman Independent School District No. 29  
+Cleveland County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Section I – Summary of Auditor’s Results 
+
+ 
+
+Financial Statements
+Type of auditor's report issued Unmodified
+
+Internal control over financial reporting:
+Material weaknesses identified No
+Significant deficiencies identified not
+
+considered to be material weaknesses None reported
+
+Noncompliance material to financial statements noted? No
+
+Federal Awards
+Internal control over major programs:
+
+Material weaknesses identified No
+Significant deficiencies identified not
+
+considered to be material weaknesses No
+
+Type of auditor's report issued on compliance for
+major programs Unmodified
+
+Any audit findings disclosed that are required to be
+reported in accordance with Uniform Guidance
+2 CFR 200.516: No
+
+Identification of major programs:
+
+Name of Federal Program or Cluster CFDA number
+
+Title I, Grants to Local Educational Agencies 84.010
+
+10.555, 10.553,
+Child Nutrition Cluster 10.559
+
+Dollar threshold used to distinguish
+between Type A and Type B programs 750,000$    
+
+Auditee qualified as low-risk auditee No
+
+ 
+ 
+ 
+
+
+
+ 
+
+64 
+
+Norman Independent School District No. 29  
+Cleveland County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Section II – Financial Statement Findings 
+
+ 
+ 
+None 
+
+
+
+ 
+
+65 
+
+Norman Independent School District No. 29  
+Cleveland County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+Section III – Federal Award Findings and Questioned Costs 
+
+ 
+None. 
+
+
+
+
+
+Mission: To prepare and inspire all students to achieve their full potential 
+
+Values: Integrity | Inclusiveness | Collaboration | Optimism 
+
+        
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Management’s Response to Auditor’s Findings:  
+Summary Schedule of Prior Audit Findings and  
+Corrective Action Plan 
+June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prepared by Management of  
+
+Norman Independent School District No. 29 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Mission: To prepare and inspire all students to achieve their full potential 
+
+Values: Integrity | Inclusiveness | Collaboration | Optimism 
+
+ 
+
+Summary Schedule of Prior Audit Findings 
+
+ 
+
+ 
+Financial Statements 
+
+ 
+
+Finding 2017-A 
+
+ 
+
+Finding Summary: Eide Bailly LLP prepared our government-wide financial statements and accompanying notes 
+
+to the financial statements.   
+
+ 
+
+Status:  Not repeated in FY2018.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+Finding 2017-B 
+
+ 
+
+Finding Summary:  Eide Bailly LLP proposed material audit adjustments that were the result of the District not 
+
+recording the adjustments for the pension standard (GASB 68).   
+
+ 
+
+Status:  Not repeated in FY2018.   
+
+ 
+
+ 
+
+Single Audit  
+
+ 
+
+Finding 2017-001 
+
+Federal Agency Name: Department of Education 
+
+Program Name:  Title I, Grants to Local Education Agencies 
+
+CFDA #84.010 
+ 
+
+ 
+
+Finding Summary:   Non-Federal entities must implement proper internal controls to ensure compliance with 
+
+documentation of employee time and effort regulations including 2 CFR section 200.430(i)(1)(vii).  The current 
+
+control structure requires a semi-annual certification form by both the employee and their supervisor if they work 
+
+on any federal programs.      
+
+ 
+The District did appear to have a control in place to obtain these certification forms from District employees.  
+
+However, some of the employees in the sample had variances in the certification percentages on the forms and the 
+
+actual amounts charged to the federal program.     
+
+ 
+
+ 
+
+Status:  Corrected in FY2018 and not a repeat finding.   
+
+ 
+
+ 
+
+
+
+

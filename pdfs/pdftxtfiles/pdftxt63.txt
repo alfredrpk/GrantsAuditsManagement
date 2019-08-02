@@ -1,0 +1,2709 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO.  I-5
+TULSA COUNTY, OKLAHOMA
+
+FINANCIAL STATEMENTS
+AND REPORTS OF INDEPENDENT AUDITORS
+
+JUNE 30, 2018
+
+Audited by
+
+SANDERS, BLEDSOE & HEWETT
+CERTIFIED PUBLIC ACCOUNTANTS, LLP
+
+BROKEN ARROW, OK
+
+
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5
+TULSA COUNTY, OKLAHOMA
+SCHOOL DISTRICT OFFICIALS
+
+JUNE 30, 2018
+
+BOARD OF EDUCATION
+
+President
+
+Ron Barber
+
+Vice-President
+
+Chuck Forbes
+
+Members
+
+Tracy Kennedy
+
+Terry Keeling
+
+Melissa Abdo
+
+Clerk of Board
+
+Kim Bourke
+
+SUPERINTENDENT OF SCHOOLS
+
+Dr. Stacey Butterfield
+
+CHIEF FINANCIAL OFFICER/
+TREASURER
+
+Cody Way
+
+www.jenksps.org
+
+
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5
+TULSA COUNTY, OKLAHOMA
+
+JUNE 30, 2018
+
+TABLE OF CONTENTS
+
+Page
+
+Independent Auditor’s Report 1
+
+Management’s Discussion and Analysis 3
+
+Government-Wide Financial Statements:
+
+Statement of Net Position 7
+
+Statement of Activities 8
+
+Fund Financial Statements:
+
+Statement of Assets, Liabilities and Cash Fund Balances
+– Governmental Funds 9
+
+Statement of Revenues, Expenditures and Changes in Cash
+Fund Balances – Governmental Funds 10
+
+Reconciliation of the Statement of Revenues, Expenditures
+and Changes in Fund Balances of Governmental Funds
+to the Statement of Activities 11
+
+Statement of Fiduciary Net Position 12
+
+Notes to Financial Statements 13
+
+Required Supplementary Information:
+
+Budgetary Comparison Schedule – General Fund 32
+
+Budgetary Comparison Schedule – Building Fund 33
+
+Budgetary Comparison Schedule – Child Nutrition Fund 34
+
+Budgetary Comparison Schedule – Sinking Fund 35
+
+Budgetary Comparison Schedule – Bond Funds 36
+
+Other Supplementary Information:
+
+Combining Statement of Assets, Liabilities and Fund Balance
+– All Capital Projects Funds – Regulatory Basis 37
+
+
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5
+TULSA COUNTY, OKLAHOMA
+
+JUNE 30, 2018
+
+Page
+
+Combining Statement of Revenues Collected, Expenditures and
+Changes in Cash Fund Balances – All Capital Projects Funds
+– Regulatory Basis 38
+
+Combining Statement of Assets, Liabilities and Fund Balance
+– All Fiduciary Fund Types – Regulatory Basis 39
+
+Combining Statement of Revenues Collected, Expenditures and
+Changes in Cash Fund Balances – Expendable Trust Fund Types -
+– Regulatory Basis 40
+
+Combining Statement of Changes in Assets and Liabilities
+– Agency Funds – Regulatory Basis 41
+
+Supporting Schedules and Reports Required by Government Auditing Standards:
+
+Schedule of Expenditures of Federal Awards – Regulatory Basis 46
+
+Independent Auditor’s Report on Internal Control over Financial
+Reporting and on Compliance and Other Matters Based
+on an Audit of Financial Statements - Regulatory Basis –
+Performed in Accordance with Government Auditing Standards 48
+
+Independent Auditor’s Report on Compliance with Requirements
+Applicable to each Major Program and Internal Control over
+Compliance in Accordance with Uniform Guidance 50
+
+Disposition of Prior Year’s Significant Deficiencies and
+Material Instances of Non-Compliance 52
+
+Schedule of Findings and Responses 53
+
+Schedule of Statutory, Fidelity and Honesty Bonds 54
+
+Schedule of Accountant’s Professional Liability Insurance Affidavit 55
+
+
+
+1
+
+INDEPENDENT AUDITOR’S REPORT
+
+The Honorable Board of Education
+Jenks School District Number I-5
+Jenks, Tulsa County, Oklahoma
+
+Report on the Financial Statements
+
+We have audited the accompanying combined fund type and account group financial statements – regulatory basis of the Jenks
+School District Number I-5, Jenks, Tulsa County, Oklahoma (the District), as of and for the year ended June 30, 2018, and the
+related notes to the financial statements, which collectively comprise the District’s basic financial statements as listed in the
+table of contents.
+
+Management’s Responsibility for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with financial
+reporting provisions of the Oklahoma State Department of Education to meet financial reporting requirements of the State of
+Oklahoma; this includes determining that the regulatory basis of accounting is an acceptable basis for the preparation of the
+financial statements in the circumstances.  Management is also responsible for the design, implementation, and maintenance of
+internal control relevant to the preparation and fair presentation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+
+Auditor’s Responsibility
+
+Our responsibility is to express an opinion on these financial statements based on our audit.  We conducted our audit in
+accordance with auditing standards generally accepted in the United States of America, and the standards applicable to
+financial audits contained in Government Auditing Standards, issued by the Comptroller General of the United States.  Those
+standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are
+free from material misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial
+statements.  The procedures selected depend on the auditor’s judgment, including the assessment of the risks of material
+misstatement of the financial statements, whether due to fraud or error.  In making those risk assessments, the auditor considers
+internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of
+the entity’s internal control.  Accordingly, we express no such opinion.  An audit also includes evaluating the appropriateness
+of accounting policies used and the reasonableness of significant accounting estimates made by management, as well as
+evaluating the overall presentation of the financial statements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions.
+
+Basis for Adverse Opinion on U.S. Generally Accepted Accounting Principles
+
+As discussed in Note 1, the financial statements are prepared by the District, on the basis of the financial reporting provisions
+of the Oklahoma State Department of Education, which is a basis of accounting other than accounting principles generally
+accepted in the United States of America, to comply with the requirements of the Oklahoma State Department of Education.
+The effects on the financial statements of the variances between the regulatory basis of accounting described in Note 1 and
+accounting principles generally accepted in the United States of America, although not reasonable determined, are presumed to
+be material.
+
+
+
+2
+
+Adverse Opinion on U.S. Generally Accepted Accounting Principles
+
+In our opinion, because the significance of the matter discussed in the “Basis for Adverse Opinion on U.S. Generally Accepted
+Accounting Principles” paragraph, the financial statements referred to in the first paragraph do not present fairly, in accordance
+with accounting principles generally accepted in the United States of America, the financial position of the District as of June
+30, 2018, the changes in its financial position, or, where applicable, its cash flows for the year then ended.
+
+Unmodified Opinion on Regulatory Basis of Accounting
+
+In our opinion, the financial statements referred to in the first paragraph present fairly, in all material respects, the assets,
+liabilities and fund balance arising from regulatory basis transactions of each fund type and account group of the District, as of
+June 30, 2018, and the revenues collected and expenditures paid and encumbered for the year then ended on the regulatory
+basis of accounting described in Note 1.
+
+Other Matters
+
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively comprise the
+District’s basic financial statements.  The combining statements – regulatory basis, are presented for purposes of additional
+analysis and are not a required part of the basic financial statements.  The schedule of expenditures of federal awards is
+presented for purposes of additional analysis as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform
+Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, and is also not a required part of
+the basic financial statements.
+
+The combining statements – regulatory basis and the schedule of expenditures of federal awards are the responsibility of
+management and were derived from and relate directly to the underlying accounting and other records used to prepare the basic
+financial statements.  Such information has been subjected to the auditing procedures applied in the audit of the basic financial
+statements and certain additional procedures, including comparing and reconciling such information directly to the underlying
+accounting and other records used to prepare the basic financial statements or to the basic financial statements themselves, and
+other additional procedures in accordance with auditing standards generally accepted in the United States of America.  In our
+opinion, the combining statements – regulatory basis and the schedule of expenditures of federal awards are fairly stated in all
+material respects in relation to the basic financial statements as a whole.
+
+The management’s discussion and analysis and the budgetary comparison information on pages 3 through 6 and 32 through
+36, respectively, are not a required part of the basic financial statements but are supplementary information required by
+accounting principles generally accepted in the United States. We have applied certain limited procedures, which consisted
+principally of inquiries of management regarding the methods of measurement and presentation of the required supplementary
+information. However, we did not audit the information and express no opinion on it.
+
+Other Reporting required by Government Auditing Standards
+
+In accordance with Government Auditing Standards, we have also issued our report dated January 8, 2019 on our consideration
+of the District’s internal control over financial reporting and on our tests of its compliance with certain provisions of laws,
+regulations, contracts and grant agreements and other matters.  The purpose of that report is to describe the scope of our testing
+of internal control over financial reporting and compliance and the results of that testing, and not to provide an opinion on the
+internal control over financial reporting or on compliance.  That report is an integral part of an audit performed in accordance
+with Government Auditing Standards in considering the District’s internal control over financial reporting and compliance.
+
+Sanders, Bledsoe & Hewett
+Certified Public Accountants, LLP
+
+January 8, 2019
+
+
+
+3
+
+Independent School District No. 5 Tulsa County, Oklahoma
+Jenks Public Schools
+
+Management’s Discussion and Analysis
+Fiscal Year Ending June 30, 2018
+
+Jenks Public Schools provides this discussion and analysis of the District’s financial activities for fiscal year (FY)
+ending June 30, 2018.  The intent of this narrative overview is to look at the District’s financial performance as a
+whole. Readers are encouraged to consider the notes to the basic financial statements to enhance their
+understanding of Jenks Schools' financial performance.  This is the 15th year the District has prepared financial
+statements following Governmental Accounting Standards Board (GASB) Statement No. 34 presentation.
+
+Fund Financial Statements
+
+This annual report consists of a series of financial statements.  The governmental-wide statements include the
+Statement of Net Assets and Statement of Activities, which provide information about the activities of the entire
+District, presenting both an aggregate view of the District’s finances and a long-term view of those finances.  The
+District uses many funds to account for a multitude of financial transactions.  A fund is a grouping of related
+accounts that is used to maintain control over resources that have been segregated for specific activities or
+objectives.  The District uses fund accounting to ensure and demonstrate compliance with financial-related legal
+requirements.  The fund financial statements focus on the individual segments of the District’s operations in
+more detail than government-wide financial statements.  Because the focus of District funds is narrower than that
+of the government-wide financial statements, it is useful to compare the information presented for District funds
+with similar information presented for District activities in the government-wide financial statement.  Both the
+District’s fund balance statement and the District’s fund statement of revenues, expenditures, and changes in
+fund balance provide a reconciliation to facilitate this comparison between funds and activities of each.
+
+Funds are classified into three categories:  governmental, proprietary, and fiduciary with each category divided
+into separate “fund types.”  Governmental funds include General Fund, Building Fund, Child Nutrition Fund,
+Sinking Fund, and Bond Fund. The District did not operate any proprietary funds, which use the same basis of
+accounting as “business-type” activities in the private sector.  Fiduciary funds are used to account for assets held
+on behalf of outside parties, including other governments, or on behalf of other funds within the District, and
+include, but are not limited to, PTAG (Parent/Teacher Association Group), Booster Clubs, Arbitrage, Workers
+Compensation, School Student Activity Groups, and Community Education.
+
+General Fund Highlights
+
+The General Fund is the largest single governmental fund and comprises 69% of the total District revenue. This
+fund represents a majority of the District’s day-to-day operational expenses. At the close of FY 2018, the District
+reported positive cash balances in all funds with the General Fund balance being $6,773,300 which is a
+percentage balance of 8.53% of revenue received for this fund. Per-pupil revenue collections were still below the
+2007-08 funding level from the State of Oklahoma. Oklahoma’s structural budget issues continued to place
+school districts in difficult financial positions. Jenks Public Schools Board of Education and Administration have
+worked diligently to enhance and protect the fund balance reserves in order to address future revenue
+reductions. In 2010, the Board of Education designated 8% as the District’s fund balance goal. To plan for the
+opening of a new elementary school for the first time in 25 years and to deal with ongoing state budget issues,
+the District implemented approximately $6 million in adjustments to the General Fund during the prior three
+years.  After the adjustments were implemented, the District was able to meet its fund balance objective.
+
+Fund Balances
+
+As of the close of FY 2018, the District reported a governmental-wide ending cash fund balance of $56,182,268,
+reflecting a decrease of $2,241,901 or 3.84% in comparison with the prior year. The General Fund’s ending
+balance decreased by $1,048,741 due to increased costs to deal with the district’s increasing enrollment, the
+opening of multiple facilities, and declining state per-pupil collections. Individual fund balances for the Building,
+Child Nutrition, and Sinking Funds decreased in comparison with the prior year. The District’s Bond Funds
+represented the largest cash fund balance increase with a growth of $1,023,966.
+
+
+
+4
+
+Fund Type 2017 Fund Balance 2018 Fund Balance Variance Percent
+
+General $7,822,041 $6,773,300 -$1,048,741 -13.41%
+
+Building $592,080 $403,976 -$188,104 -31.77%
+
+Child Nutrition $1,318,749 $1,035,042 -$283,707 -21.52%
+
+Sinking $15,729,247 $13,931,671 -$1,797,575 -11.43%
+
+Bond $32,926,536 $33,950,502 $1,023,966 3.11%
+
+Other $35,516 $87,776 $52,260 14.72%
+
+Total $58,424,169 $56,182,268 -$2,241,901 -3.84%
+
+Fiscal Year 2017 – 2018 Summary
+
+General Fund revenue collections for the fiscal year ending June 30, 2018, totaled $79,102,149, reflecting a net
+gain of $3,777,682 from the original estimated General Fund revenue projections of $75,324,467 approved and
+adopted by the Board of Education in June 2017. The increase in revenue was a result of growth in the net
+assessed property valuation within the District and increases in the state dedicated collections and state aid
+revenue due to student enrollment growth. District General Fund operating expenses totaled $80,439,815, which
+was an increase of $4,829,634 over the initial adopted budget of $75,610,181. This included salary increases,
+purchases for classroom supplies and equipment, increased operational expenses with the newly opened
+facilities, and additional positions to address the needs of the District’s increasing student enrollment.
+
+The internal controls, policies, and procedures relating to the financial operations of the District remained strong.
+The 2017-18 audit reflects an unqualified opinion issued on the financial statements.  The audit discloses no
+reportable conditions in the internal controls.  The audit notes no reportable instance of noncompliance will be
+reported in accordance with GAGAS. The audit discloses no reportable conditions in the internal controls over
+major federal programs. An unqualified opinion was issued on the compliance of major programs. The audit
+discloses no findings which would require to be reported under OMB Circular A-133 section 510(a). (See page
+52 of audit under the summary of audit results.)
+
+Long Term Debt
+
+General Obligation Bonds: As of June 30, 2018, the District had $90,070,000 in outstanding bonds and notes
+compared to $85,850,000 on June 30, 2017.  During FY 2017-18, the District retired $24,310,000 in bonds
+and/or notes and added $28,530,000 in long-term debt.
+
+Fiscal Year Bonds Issued Outstanding Final Payment
+
+2014 Series $25,000,000 $6,250,000 6-01-19
+
+2015 Series $23,680,000 $11,880,000 6-01-20
+
+2016 Series $24,990,000 $18,750,000 6-01-21
+
+2017 Series $24,660,000 $24,660,000 6-01-22
+
+2018 Series $28,530,000 $28,530,000 6-01-23
+
+Total $126,860,000 $90,070,000
+
+Interest paid on general long-term debt during the fiscal year ending June 30, 2018, totaled $2,025,250.
+
+Lease Revenue Bonds: Initially, the Tulsa County Industrial Authority issued $104,420,000 of Educational
+Facilities Lease Revenue Bonds for Jenks Public Schools to provide funds required for the constructing,
+equipping, repairing and remodeling of school buildings, acquiring school furniture, fixtures, and equipment,
+acquiring and improving school sites for the benefit of Jenks Public Schools.  On July 1, 2009, the District, as
+
+
+
+5
+
+lessor, entered into a ground lease agreement for certain district property, with the Tulsa County Industrial
+Authority.  In addition, the District entered into a sublease, as lessee, with the Tulsa County Industrial Authority.
+The sublease called for eleven (11) annual payments with the initial payment made on September 11, 2010.
+These acquisition payments will be made out of General Obligation bond funds, pursuant to the issuance of
+series bonds in the amount of $153,430,000, voted on and approved by the patrons of Jenks Public Schools on
+December 9, 2008.  Jenks Public Schools will gain ownership to the capital improvements incrementally as each
+payment is made.
+
+As of June 30, 2017, all projects associated with the 2009 Lease Revenue Bond have been completed with a
+total cost of construction of $106,135,259.
+
+On February 10, 2015, voters approved another Educational Facilities Lease Revenue Bond in the amount of
+$83,725,000.  Proceeds associated with this bond were received during FY 2015-16.  Construction projects
+completed during 2017-18 were Northwest Elementary, West Intermediate Expansion, East Intermediate Drive
+Expansion, Central Dining Hall, High School Stadium Classroom and Press Box Renovation, Middle School
+Athletic Field, and High School Renovation Phases II and III.
+
+Capital and Fixed Assets
+
+The District is in its 15th year of tracking all assets of significant value. The District’s fixed asset inventory
+process requires equipment, furniture and fixtures, new construction and remodeled buildings and land be
+updated annually with inventory software monitored through the Purchasing and Warehouse Departments.
+Building structures and improvements are added to the inventory as projects are completed and space is
+occupied.  For the year ending June 30, 2018, capital assets are as follows:
+
+Beginning Increases/Decreases Ending
+
+Capital Assets $321,926,048 $71,051,464 $392,977,512
+
+Depreciation (71,385,810) (10,540,420) (81,926,230)
+
+Total Capital Assets $250,540,238 $60,511,044 $311,051,282
+
+2018-19 Fiscal Year Forecast
+
+The Oklahoma state legislature provided the first tax increase in 28 years.  It was also the largest tax increase in
+state history while providing funding for the largest-ever teacher pay increase. Common Education’s
+appropriation grew by an additional $480 million which included salary increases for certified and support
+personnel along with additional funding for health insurance and instructional materials. With a growing
+statewide student population, increased operational funding to reduce class size will continue to be a request to
+our state leaders. Current statewide collections are above prior year levels.  This will certainly give the
+legislature additional funding to craft the FY 2019-20 budget. Another positive trend is the local net
+assessed valuation (NAV) increased at a rate of 3.43%. Residential housing starts and commercial
+development continue within the Jenks Public School District, and student growth increased by approximately
+336 students for FY 2017-18 and by 180 students for FY 2018-19. Even with these challenges of growing
+enrollment, the District is still projecting an ending cash fund balance of over 8%.
+
+While future state revenue collections look to possibly have stabilized, the patrons of Jenks Public Schools are
+very supportive of the District’s efforts to pass annual bond issues for needs such as classroom space, District-
+wide technology, remodeling and maintenance on existing facilities, district-wide equipment, school safety, as
+well as library books and textbooks for classrooms.
+
+As we move through FY 2018-19, Jenks Public Schools will likely continue to face financial challenges.  The
+District’s Board of Education has placed a very high priority on maintaining the District’s fund balance at a fiscally
+responsible level. Therefore, the General operating budget is continuously monitored to ensure complete
+alignment of expenses with available revenue.   The budget is amended once the District has received the
+following information:
+
+1. An accurate District “Net Assessed Valuation” certified by the Board of Equalization
+2. Certified and audited prior year actual collected revenues
+3. Final Federal grant award notifications for FY 2018-19 programs
+4. Any increased State dedicated revenues
+
+
+
+6
+
+5. October child count conducted by the State regional accreditation officer assigned to our District
+6. Any increase in Flexible Benefit Allowance funding from the State to pass on to employees who
+
+elect to participate in the insurance benefits program
+7. Notification of the District’s mid-year adjusted State Aid allocation funding
+8. Potential actions taken by the Board of Education to increase the General Fund expenditure
+
+budget in the form of salary increases, new positions, and programs
+
+In closing, JPS has the full support of staff members, patrons, parent booster clubs, PTA/PTAGs, the Jenks
+Public Schools Foundation and business partnerships that assist the District through fundraisers, the passage of
+bond issues, and generous donations.  The Board of Education and Administration feel extremely confident and
+take pride in the fact that the District is financially positioned to operate successfully and maintain the high
+standards set forth by our staff and patrons.
+
+Upcoming Oklahoma Legislative Action
+
+Although much progress was made during last Spring’s legislative session with the passage of several measures
+to stabilize funding and provide salary increases for staff members, especially teachers.  Unfortunately, the
+financial decisions of past years’ Oklahoma legislative sessions continue to challenge all Oklahoma school
+districts. With growing enrollment statewide, along with a teacher shortage, class sizes will continue to increase
+without sufficient operational funding to school districts. It is imperative for the legislature to search for solutions
+to increase revenue to fund the State’s core responsibilities.
+
+Jenks Public Schools’ lobbying efforts for this year’s legislative session will specifically focus on legislation that
+identifies a long term plan to increase funding for operational expenditures. We will support initiatives that
+continue to improve teacher pay to help address the statewide teacher shortage and reduce class sizes. The
+state board of equalization has predicted that the legislature will have an additional $612 million in funding to
+craft the state’s budget for FY 2019-20.  It is vital that our elected officials make our students a priority when
+making funding decisions.
+
+District Cash Management Program
+
+The District’s cash management program involves such factors as legal authorizations from the Board of
+Education, liquidity requirements or cash flow needs, and interest rate trends.  The District is required to invest
+all available monies in interest-bearing accounts or investment instruments that are authorized under State
+Statutes.  These accounts must be fully protected through FDIC insurance and/or pledged collateral from the
+participating institution.  The District uses a “pooled resources” concept, pooling together all the separate funds,
+for purchasing investments to take advantage of the higher interest rates available when investing larger
+amounts of money.
+
+By Oklahoma statute, school districts can only invest in instruments backed by the full faith and credit of the
+federal government. Interest earned from the district’s investment practices continues to be a General Fund
+revenue stream. However, current market conditions have taken its toll on interesting earnings.  In FY 2008-09,
+the District receipted $2,176,000 in interest earnings, as compared to the FY 2016-17 total return on investments
+of $377,095. Interest earnings did increase for FY 2017-18 as rates increased on District deposits.  The District
+earned $600,592 in interest for FY 2017-18, an increase of $223,497 from the prior year. JPS will continue to
+utilize investment strategies and best practices to maximize the return on our investments even in today’s
+recovering market.
+
+Contacting the School District’s Financial Management
+
+This financial report is designed to provide patrons, taxpayers, and creditors with a general overview of the
+Jenks School District’s finances and to show the District’s accountability for the public funding it receives.  If you
+have further questions or comments about this report or need additional financial information, please contact the
+Finance and Business Services Department at Jenks Public Schools, 205 East B Street, Jenks, Oklahoma
+74037. We can be reached by phone at (918) 299-4415, extension 2463.
+
+Cody Way
+Chief Financial Officer
+Jenks Public School
+
+
+
+Prior Year
+Governmental (Memorandum
+
+Activities Only)
+ASSETS
+Current assets:
+
+Cash 6,848,234$ 7,967,408
+Investments 58,432,610 59,179,599
+
+Total current assets 65,280,844 67,147,007
+
+Non-current assets:
+Capital assets, net of accumulated depreciation 311,051,282 250,540,238
+
+TOTAL ASSETS 376,332,126$ 317,687,245
+
+LIABILITIES
+Current liabilities:
+    Warrants payable 1,581,011$ 2,073,826
+    Encumbrances 7,517,565 6,649,012
+
+Total current liabilities 9,098,576 8,722,838
+
+Non-current liabilities:
+General obligation bonds payable 90,070,000 85,850,000
+ Capital Leases 0 734,220
+   Total non-current liabilities 90,070,000 86,584,220
+
+Total Liabilities 99,168,576 95,307,058
+
+NET POSITION
+Invested in capital assets, net of related debt 220,981,282 163,956,018
+Restricted for debt service 12,474,254 12,355,983
+Restricted for other funds 35,477,296 34,872,881
+Unassigned 8,230,717 11,195,305
+
+Total Net Position 277,163,550 222,380,187
+
+TOTAL LIABILITIES AND NET POSITION 376,332,126$ 317,687,246
+
+The accompanying notes are an integral part of these financial statements.
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+STATEMENT OF NET POSITION
+
+JUNE 30, 2018
+
+7
+
+
+
+Operating
+Charges for Grants and
+
+Functions/Programs Expenses Services Contributions TOTAL
+
+Instruction 49,347,397$ 2,698,295 (46,649,102)
+Support services 40,551,202 3,340,986 925,017 (36,285,200)
+Non-instruction services 8,108,329 1,967,031 2,346,783 (3,794,515)
+Facilities acquisition and construction services 18,994,637 (18,994,637)
+Other outlays 609,684 288,944 (320,740)
+Interest paid on long-term debt 2,025,250 (2,025,250)
+Depreciation - unallocated 12,317,663 (12,317,663)
+
+Total governmental activities 131,954,163 5,308,017 6,259,039 (120,387,107)
+
+General revenues-
+Taxes-
+
+Property taxes, levied for general purposes 33,325,019
+Property taxes, levied for debt services 24,523,107
+
+Investment earnings 628,631
+Other local revenue 3,190,672
+County revenue 3,124,016
+State aid - formula grants 30,662,672
+Dedicated state revenue 6,361,589
+
+Special items-
+    Change in capital assets 73,226,528
+
+Adjustments to prior year encumbrances 128,236
+
+Total general revenues and special items 175,170,470
+
+Change in net position 54,783,363
+
+Net position, beginning of period 222,380,187
+
+Net position, end of period 277,163,550$
+
+The accompanying notes are an integral part of these financial statements.
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+STATEMENT OF ACTIVITIES
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+8
+
+
+
+Other
+General Building Child Nutrition Sinking Bond Governmental
+
+Fund Fund Fund Fund Funds Funds TOTAL
+ASSETS
+
+Cash 2,458,496$ 675,819 1,120,512 50 2,150,519 5,090,591 11,495,988
+Investments 12,510,859 13,931,621 31,990,130 58,432,610
+
+Total Assets 14,969,355$ 675,819 1,120,512 13,931,671 34,140,649 5,090,591 69,928,598
+
+LIABILITIES AND FUND BALANCES
+
+Liabilities:
+   Warrants payable 979,669$ 19,634 36,500 190,147 355,061 1,581,011
+   Encumbrances 7,216,387 252,209 48,970 7,517,565
+   Funds held for school operations 4,647,754 4,647,754
+      Total Liabilities 8,196,055 271,843 85,470 0 190,147 5,002,815 13,746,331
+
+Fund Balances:
+Ristricted for-
+
+Retirement of long-term debt 12,474,254 12,474,254
+Other funds 403,976 1,035,042 33,950,502 87,776 35,477,296
+
+Unassignged
+Unassigned, reported in-
+
+General fund 6,773,300 6,773,300
+Sinking fund 1,457,417 1,457,417
+
+Total Fund Balances 6,773,300 403,976 1,035,042 13,931,671 33,950,502 87,776 56,182,268
+
+Total Liabilities and Fund Balances 14,969,355$ 675,819 1,120,512 13,931,671 34,140,649 5,090,591
+
+Amounts reported for governmental activities in the statement of assets, liabilities, and net position are different because:
+Capital assets used in governmental activities are not financial resources and therefore,
+
+are not reported as assets in governmental funds. The cost of the assets is $392,977,512.43
+and the accumulated depreciation is ($81,926,230.48) 311,051,282
+
+Long-term liabilities, including bonds payable, are not due and payable in the current period and
+therefore are not reported as liabilities in the funds. Long-term liabilities at year end consist of:
+
+General obligation bonds payable (90,070,000)
+
+Net Position of Governmental Activities 277,163,550$
+
+The accompanying notes are an integral part of these financial statements.
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+STATEMENT OF ASSETS, LIABILITIES AND CASH FUND BALANCES -
+
+GOVERNMENTAL FUNDS
+JUNE 30, 2018
+
+9
+
+
+
+
+
+Net change in fund balances - governmental funds (2,241,901)$
+
+Amounts reported for governmental activities in the statement of revenues, expenditures, and
+changes in net position are different because:
+
+Capital outlays to purchase or build capital assets are reported in governmental funds as expenditures.
+However, for governmental activities those costs are shown in the statement and allocated
+over their estimated useful lives as annual depreciation expenses in the statement of revenues,
+expenditures, and changes in net assets. This is the amount by which depreciation exceeds
+capital outlays in the period.
+
+Net Capital outlay expenditures 72,983,463
+Depreciation expense (12,317,663)
+Adjustment to beginning balance of capital assets (net of
+accumulated depreciation) for assets purchased prior period 579,465 61,245,265
+
+Some of the capital assets acquired this year were financed with general obligation bonds. The amount
+financed by the bonds is reported in the governmental funds as a source of financing. On the other
+hand, the proceeds from the bonds are not revenues in the statement of revenues, expenditures,
+and changes in net assets but rather constitute long-term liabilities in the statement of assets, liabilities,
+and net position. (28,530,000)
+
+Repayment of bond principal is an expenditure in the governmental funds, but it reduces long-term
+liabilities in the statement of assets, liabilities, and net assets and does not affect the statement of
+revenues, expenditures, and changes in net position. 24,310,000
+
+Changes in net position of governmental activities 54,783,363$
+
+The accompanying notes are an integral part of these financial statements.
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+RECONCILIATION OF THE STATEMENT OF REVENUES, EXPENDITURES AND CHANGES
+IN FUND BALANCES OF GOVERNMENTAL FUNDS TO THE STATEMENT OF ACTIVITIES
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+11
+
+
+
+AGENCY FUNDS
+SCHOOL
+ACTIVITY
+FUNDS
+
+ASSETS
+
+Cash 4,647,754$
+
+Total Assets 4,647,754$
+
+LIABILITIES AND NET POSITION
+
+Liabilities:
+Funds held for school organizations:
+
+Student activity funds 3,038,452$
+Community education programs 1,609,302
+
+ Total Liabilities and Net Position 4,647,754$
+
+The accompanying notes are an integral part of these financial statements.
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+STATEMENT OF FIDUCIARY NET POSITION -
+
+REGULATORY BASIS
+JUNE 30, 2018
+
+12
+
+
+
+13
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+The accompanying financial statements of the Jenks Public Schools Independent District,
+No. I-5 (the “District”), have been prepared in conformity with another comprehensive basis
+of accounting prescribed by the Oklahoma State Department of Education as authorized by
+Oklahoma Statutes. Accordingly, the accompanying financial statements are not intended to
+present financial positon and results of operations in conformity with the accounting
+principles generally accepted in the United States of America. The District’s accounting
+policies are described in the following notes that are an integral part of the District’s financial
+statements.
+
+A. Reporting Entity
+
+The District is a corporate body for public purposes created under Title 70 of the Oklahoma
+Statutes and accordingly is a separate entity for operating and financial reporting purposes.
+The District is part of the public school system of Oklahoma under the general direction and
+control of the State Board of Education and is financially dependent on State of Oklahoma
+support.  The general operating authority for the public school system is the Oklahoma
+School Code contained in Title 70, Oklahoma Statutes.
+
+The governing body of the District is the Board of Education composed of five elected
+members.  The appointed superintendent is the executive officer of the District. The Board,
+constituting an on-going entity, is the level of government, which has governance
+responsibilities over all activities, related to public elementary and secondary school
+education within the jurisdiction of the local independent school district. The District
+receives funding from local, state and federal government sources and must comply with the
+requirements of these funding source entities. However, the District is not included in any
+other governmental “reporting entity” as defined in Section 2100, Codification of
+Governmental Accounting and Financial Reporting Standards, since Board members are
+elected by the public and have decision making authority, the power to designate
+management, the responsibility to significantly influence operations and primary
+accountability for fiscal matters.
+
+In evaluating how to define the District, for financial reporting purposes, management has
+considered all potential component units. The decision to include a potential component unit
+in the reporting entity was made by applying the criteria established by the Governmental
+Accounting Standards Board (GASB).  The basic – but not the only – criterion for including
+a potential component unit within the reporting entity is the governing body’s ability to
+exercise oversight responsibility.  The most significant manifestation of this ability is
+financial interdependency.  Other manifestations of the ability to exercise oversight
+responsibility include, but are not limited to, the selection of governing authority, the
+designation of management, the ability to significantly influence operations and
+accountability for fiscal matters.  A second criterion used in evaluating potential component
+units is the scope of public service.  Application of this criterion involves considering
+
+
+
+14
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+A. Reporting Entity – cont’d
+
+whether the activity benefits the District and/or its citizens, or whether the activity is
+conducted within the geographic boundaries of the District and is generally available to its
+patrons.  A third criterion used to evaluate potential component units for inclusion or
+exclusion from the reporting entity is the existence of special financing relationships,
+regardless of whether the District is able to exercise oversight responsibilities.  Based upon
+the application of these criteria, there are no potential component units included in the
+District’s reporting entity.
+
+B. Measurement Focus
+
+The government-wide financial statements (i.e., the statement of net position and the
+statement of activities) report information on all of the non-fiduciary activities of the primary
+government. Governmental activities are normally supported by taxes and intergovernmental
+revenues.
+
+The statement of net position reports the District’s financial and capital resources. Liabilities
+are segregated between current (due within one year) and long-term.
+
+The statement of activities demonstrates the degree to which the direct expenses of a given
+functions or segments are offset by program revenues. Direct expenses are those that are
+clearly identifiable with a specific function. Program revenues include 1) tuition or fees paid
+by students or citizens of the District and 2) grants and contributions that are restricted to
+meeting the operational or capital requirements of a particular function. Taxes and other
+items, including state aid, that are not properly included among program revenues are
+reported as general revenues.
+
+Funds are classified into three categories:  Governmental, proprietary and fiduciary.  Each
+category, in turn, is divided into separate “fund types.”
+
+Governmental Fund Types
+
+Governmental funds are used to account for all or most of a government’s general activities,
+including the collection and disbursement of earmarked monies (special revenue funds), the
+acquisition or construction of general fixed assets (capital projects funds), and the servicing
+of general long-term debt (debt service funds).
+
+General Fund – The general fund is used to account for all financial transactions except those
+required to be accounted for in another fund. Major revenue sources include state and local
+property taxes and state funding under the Foundation and Incentive Aid Program.
+
+
+
+15
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+B. Measurement Focus - cont’d
+
+Expenditures include all costs associated with the daily operations of the schools except for
+programs funded for building repairs and maintenance, school construction and debt service
+on bonds and other long-term debt.  The general fund includes federal and state restricted
+monies that must be expended for specific programs.
+
+Special Revenue Funds – Special revenue funds include the District’s building and co-op
+funds.  For statutory reporting purposes, the child nutrition fund is classified as a special
+revenue fund in the other supplementary information, but is otherwise defined as a
+proprietary fund type.
+
+Building Fund – The building fund consists mainly of monies derived from property
+taxes levied for the purpose of erecting, remodeling, repairing, or maintaining school
+buildings and for purchasing furniture, equipment and computer software to be used
+on or for school district property, for paying energy and utility costs, for purchasing
+telecommunications services, for paying fire and casualty insurance premiums for
+school facilities, for purchasing security systems, and for paying salaries of security
+personnel.
+
+Co-op Fund - The co-op fund is established when the boards of education of two or
+more school districts enter into cooperative agreements and maintain joint programs.
+The revenues necessary to operate a cooperative program can come from federal,
+state, or local sources, including the individual contributions of participating school
+districts.  The expenditures for this fund would consist of those necessary to operate
+and maintain the joint programs.
+
+Debt Service Fund – The debt service fund is the District’s sinking fund and is used to
+account for the accumulation of financial resources for the payment of general long-term
+(including judgments) debt principal, interest and related costs. The primary revenue sources
+are local property taxes levied specifically for debt service and interest earnings from
+temporary investments.
+
+Capital Projects Fund – The capital projects fund is the District’s bond funds and are used to
+account for the proceeds of bond sales to be used exclusively for acquiring school sites,
+constructing and equipping new school facilities, renovating existing facilities and acquiring
+transportation equipment.
+
+Proprietary Fund Types
+
+Proprietary funds are used to account for “business-type” activities similar to those found in
+the private sector, where the determination of net income is necessary or useful to sound
+
+
+
+16
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+B. Measurement Focus - cont’d
+
+financial administration.  Goods or services from such activities can be provided either to
+outside parties or to other departments or agencies primarily within the District.  The District
+maintained the child nutrition fund as a proprietary fund in the 2016-17 fiscal year, but
+classified the child nutrition fund as a special revenue fund in the other supplementary
+information for statutory reporting purposes.
+
+Child Nutrition Fund - The child nutrition fund consists of monies derived from
+federal and state financial assistance and food sales.  This fund is used to account for
+the various nutrition programs provided to students.
+
+Fiduciary Fund Types
+
+Fiduciary funds are used to account for assets held on behalf of outside parties, including
+other governments, or on behalf of other funds within the District.  The terms “non-
+expendable” and “expendable” refer to whether or not the District is under an obligation to
+maintain the trust principal.  Agency funds generally are used to account for assets that the
+District holds on behalf of others as their agent and do not involve measurement of results of
+operation.
+
+Expendable Trust Funds – Expendable trust funds include the gifts and endowments fund,
+medical insurance fund, arbitrage fund, workers compensation fund and the sick leave
+liability fund.
+
+PTAG Gifts and Endowments Fund and M. Green Endowment Fund – These funds
+receive their assets by way of philanthropic foundations, individuals, or private
+organizations for which no repayment or special service to the contributor is
+expected. This fund is used to promote the general welfare of the District.
+
+Medical Insurance Fund – The medical insurance fund accounts for revenues and
+expenditures for all types of self-funded medical insurance coverage.
+
+Arbitrage Fund – The arbitrage fund is used to accumulate the earnings of certain
+bond issues to which the Internal Revenue Service arbitrage rules apply. These funds
+will either be retained or transferred to the Internal Revenue Service, depending on
+future financial events and computations.
+
+Workers Compensation Fund – The workers compensation fund accounts for
+revenues and expenditures for workers compensation claims.
+
+
+
+17
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+B. Measurement Focus - cont’d
+
+Insurance Recovery Fund – The insurance recovery fund is established to account for
+receipts and expenditures for all types of insurance coverage and major
+reimbursements and reserves for property.
+
+Agency Fund – The agency fund is the school activities fund and community education,
+which is used to account for monies collected principally through the fundraising efforts of
+students and District-sponsored groups.  The administration is responsible, under the
+authority of the Board, for collecting, disbursing and accounting for these activity funds.
+
+Memorandum Only - Total Column
+
+The total column on the combined financial statements – regulatory basis is captioned
+“memorandum only” to indicate that it is presented only to facilitate financial analysis.  Data
+in this column does not present financial position or results of operations in conformity  with
+accounting  principles generally accepted in the United States.  Neither is such data
+comparable to a consolidation.  Interfund eliminations have not been made in the aggregation
+of this data.
+
+C. Basis of Accounting and Presentation
+
+Basis of accounting refers to when revenues and expenditures are recognized in the accounts
+and reports in the financial statements.  Basis of accounting relates to the timing of the
+measurements made, regardless of the measurement focus applied.
+
+The District prepares its financial statements in a presentation format that is, in substance, the
+format established by GASB Statement No. 34, Basic Financial Statements – Management’s
+Discussion and Analysis for State and Local Governments. All presentations are shown by
+fund.
+
+As to the basis of accounting, the basic financial statements are essentially prepared on the
+basis of cash receipts and disbursements modified as required by the regulations of the
+Oklahoma State Department of Education as follows:
+
+ Encumbrances represented by purchase orders, contracts and other commitments for
+the expenditure of monies are recorded as expenditures when approved.
+
+ Warrants payable are recorded as liabilities when issued.
+ Investments are recorded as assets when purchased.
+ Inventories of school supplies are recorded as expenditures and not assets.
+
+
+
+18
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+C. Basis of Accounting and Presentation
+
+ Capital assets reported in the governmental-wide statements are recorded when
+acquired and depreciated over their useful lives.
+
+ Long-term debt reported in the government-wide statements are recorded when
+incurred.
+
+ Compensated absences are recorded as an expenditure and liability when the
+obligation is paid.
+
+This regulatory basis of accounting differs from accounting principles generally accepted in
+the United States of America, which require revenues to be recognized when they become
+available and measurable, or when they are earned, and expenditures or expenses to be
+recognized when the related liabilities are incurred for governmental fund types.
+
+D. Budgets and Budgetary Accounting
+
+The District is required by state law to prepare an annual budget. A preliminary budget must
+be submitted to the Board of Education by December 31, for the fiscal year beginning the
+following July 1.  If the preliminary budget requires an additional levy, the District must hold
+an election on the first Tuesday in February to approve the levy. If the preliminary budget
+does not require an additional levy, it becomes the legal budget.  If an election is held and the
+taxes are approved, then the preliminary budget becomes the legal budget.  If voters reject the
+additional taxes, the District must adopt a budget within the approved tax rate.
+
+A budget is legally adopted by the Board of Education for all funds (with the exception of the
+trust and agency funds) that includes revenues and expenditures.
+
+The District prepares its budget in accordance with the Oklahoma School District Budget
+Act.  The District’s final amended budget for the 2017-18 fiscal year was $143,219,663.
+
+Encumbrances represent commitments related to unperformed contracts for goods or
+services.  Encumbrance accounting – under which purchase orders and other commitments of
+resources are recorded as expenditures of the applicable fund – is utilized in all governmental
+funds of the District.  Unencumbered appropriations lapse at the end of each fiscal year.
+While the Debt Service Fund is a governmental fund, a comparison of budget to actual
+schedule is presented in the financial statements, although the board can exercise no control
+of the revenue sources for this fund (except interest earnings), and no control over its
+expenditures.
+
+
+
+19
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+E. Assets, Liabilities and Fund Equity
+
+Cash and cash equivalents – The District considers all cash on hand, demand deposit
+accounts, and highly liquid investments, with an original maturity of three months or less
+when purchased, to be cash and cash equivalents.
+
+Investments – The District considers investments of direct obligations of the United States
+government and agencies, certificates of deposits, savings accounts or savings certificates
+with maturities of greater than three months. All investments are recorded at cost, which
+approximates market value.
+
+Inventories – The value of consumable inventories is not reported on the combined financial
+statements. At June 30, 2018, the District maintained $302,967 of consumable inventories.
+This inventory is held in the District’s main warehouse and child nutrition warehouse.
+
+Capital Assets – The capital assets acquired prior to June 30, 2001 are valued at appraisal
+using standard or normal costing. Fixed assets acquired after June 30, 2001 are valued at
+historical (actual) cost.
+
+Depreciation of all exhaustible capital assets is charged as an expense against their
+operations. Depreciation has been provided using the straight-line method over the following
+estimated useful lives:
+
+Useful Life Capitalization Threshold
+
+Buildings and structures 10-50 $  2,500
+Improvements 10-50     2,500
+Equipment  5-40        300
+Furniture and fixtures  5-10     2,500
+
+The schedule below shows total fixed assets, and includes accumulated depreciation as a
+memorandum item for information.
+
+The capital assets for the year ended June 30, 2018 are as follows:
+
+Beginning Ending
+Balance Increases Decreases Balance
+
+Capital assets 318,635,503$ 72,983,463 (1,358,546) 390,260,420
+
+Less:
+ Accumulated Depr. (68,250,021) (12,317,663) 1,358,546 (79,209,138)
+
+Total Capital Assets 250,385,482$ 60,665,800 0 311,051,282
+
+
+
+20
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+E. Assets, Liabilities and Fund Equity – cont’d
+
+Warrants Payable – Warrants are issued to meet the obligations for goods and services
+provided to the District.  The District recognizes a liability for the amount of outstanding
+warrants that have yet to be redeemed by the District’s treasurer.
+
+Encumbrances – Encumbrances represent commitments related to purchase orders, contracts,
+other commitments for expenditures or resources, and goods or services received by the
+District for which a warrant has not been issued.  An expenditure is recorded and a liability is
+recognized for outstanding encumbrances at year end in accordance with the regulatory basis
+of accounting. While the regulatory basis that is used for the Debt Service Fund approximates
+full accrual accounting, the accruals recorded are reported to meet regulatory requirements,
+as opposed to the requirements of generally accepted accounting principles.
+
+Compensated Absences –The District’s policies regarding accumulated unpaid leave applies
+only to unused vacation and accumulated sick leave and personal days for employees upon
+retirement only.  The government-wide financial statements do not include any liability for
+any rights to receive vacation, sick leave, or other employee benefits.  As of June 30, 2018,
+the amount estimated as employee leave liability was $1,973,999.
+
+Funds Held for School Organizations – Funds held for school organizations represent the
+funds received or collected from students or other cocurricular and extracurricular activities
+conducted in the District, control over which is exercised by the board of education.  These
+funds are credited to the account maintained for the benefit of each particular activity within
+the school activity fund.
+
+Long-Term Debt – Long-term debt is recognized as a liability of a governmental fund when
+due, or when resources have been accumulated in the debt service fund for payment early in
+the following year.  For other long-term obligations, only that portion expected to be financed
+from expendable available financial resources is reported as a fund liability of a
+governmental fund.  The remaining portion of such obligations is reported in the general
+long-term debt account group.
+
+Fund Balance – In the fund financial statements, governmental funds report the hierarchy of
+fund balances. The hierarchy is based primarily on the degree of spending constraints placed
+upon use of resources for specific purposes versus availability of appropriation. An important
+distinction that is made in reporting fund balance is between amounts that are considered
+nonspendable (i.e., fund balance associated with assets that are not in spendable form, such
+as inventories or prepaid items, long-term portions of loans and notes receivable, or items
+that are legally required to be maintained intact (such as the corpus of a permanent fund)) and
+those that are spendable (such as fund balance associated with cash, investments or
+receivables).
+
+
+
+21
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+E. Assets, Liabilities and Fund Equity – cont’d
+
+Amounts in the spendable fund balance category are further classified as restricted,
+committed, assigned or unassigned, as appropriate.
+
+Restricted fund balance represents amounts that are constrained either externally by
+creditors (such as debt covenants), grantors, contributors or laws or regulations of other
+governments; or by law, through constitutional provisions or enabling legislation.
+
+Committed fund balance represents amounts that are useable only for specific purposes
+by formal action of the government’s highest level of decision-making authority. Such
+amounts are not subject to legal enforceability (like restricted amounts), but cannot be
+used for any other purpose unless the government removes or changes the limitation by
+taking action similar to that which imposed the commitment.
+
+Assigned fund balance represents amounts that are intended to be used for specific
+purposes, but are neither restricted nor committed. Intent is expressed by the governing
+body itself, or a subordinated high-level body or official who the governing body has
+delegated the authority to assign amounts to be used for specific purposes. Assigned fund
+balances include all remaining spendable amounts (except negative balances) that are
+reported in governmental funds other than the general fund, that are neither restricted nor
+committed, and amounts in the general fund that are intended to be used for specific
+purposes in accordance with the provisions of the standard.
+
+Unassigned fund balance is the residual classification for the general fund. It represents
+the amounts that have not been assigned to other funds, and that have not been restricted,
+committed, or assigned to specific purposes within the general fund.
+
+F. Revenue and Expenditures
+
+Local Revenues – Revenue from local sources is the money generated from within the
+boundaries of the District and available to the District for its use.  The District is authorized
+by state law to levy property taxes which consist of ad valorem taxes on real and personal
+property within the District.  These property taxes are distributed to the District’s general,
+building and sinking funds based on the levies approved for each fund.  The County
+Assessor, upon receipt of the certification of tax levies from the county excise board, extends
+the tax levies on the tax rolls for submission to the county treasurer prior to October 1.  The
+county treasurer must commence tax collection within fifteen days of receipt of the tax rolls.
+The first half of taxes is due prior to January 1.  The second half is due prior to April 1. If the
+first payment is not made in a timely manner, the entire tax becomes due and payable on
+January 2.  Second half taxes become delinquent on April 1, of  the  year following   the year
+of  assessment.   If   not paid by the following October 1, the property is offered for sale for
+
+
+
+22
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+F. Revenue and Expenditures – cont’d
+
+the amount of taxes due.  The owner has two years to redeem the property by paying the
+taxes and penalty owed.  If at the end of two years the owner has not done so, the purchaser is
+issued a deed to the property. Other local sources of revenues include tuition, fees, rentals,
+disposals, commissions and reimbursements.
+
+Intermediate Revenues - Revenue from intermediate sources is the amount of money from
+funds collected by an intermediate administrative unit, or a political subdivision between the
+District and the state, and distributed to Districts in amounts that differ in proportion to those
+which are collected within such systems.
+
+State Revenues – Revenues from state sources for current operations are primarily governed
+by the state aid formula under the provisions of Article XVIII, Title 70, Oklahoma Statutes.
+The State Board of Education administers the allocation of state aid funds to school districts
+based on information accumulated from the Districts.
+
+After review and verification of reports and supporting documentation, the State Department
+of Education may adjust subsequent fiscal period allocations of money for prior year errors
+disclosed by review.  Normally, such adjustments are treated as reductions from or additions
+to the revenue of the year when the adjustment is made.
+
+The District receives revenue from the state to administer certain categorical educational
+programs. State Board of Education rules require that revenue earmarked for these programs
+be expended only for the program  for which the money is provided and require that the
+money not expended as of the close of the fiscal year be carried forward into the following
+year to be expended for the same categorical programs.  The State Department of Education
+requires that categorical educational program revenues be accounted for in the general fund.
+
+Federal Revenues – Federal revenues consist of revenues from the federal government in the
+form of operating grants or entitlements.  An operating grant is a contribution to be used for a
+specific purpose, activity or facility. A grant may be received either directly from the federal
+government or indirectly as a passthrough from another government, such as the state.
+Entitlement is the amount of payment to which the District is entitled pursuant to an
+allocation formula contained in applicable statutes. The majority of the federal revenues
+received by the District are apportioned to the general fund. The District maintains a
+separate child nutrition fund and the federal revenues received for the child nutrition
+programs are apportioned there.
+
+
+
+23
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+F. Revenue and Expenditures – cont’d
+
+Non-Monetary Transactions – The District receives commodities form the U.S. Department
+of Agriculture. The value of these commodities has been included in the Schedule of
+Expenditures of Federal Awards; however, they have not been included in the financial
+statements as either revenue or expense since they are not reported under the regulatory basis
+of accounting.
+
+Interest Earnings – Represent compensation for the use of financial sources over a period of
+time.
+
+Non-Revenue Receipts – Non-revenue receipts represent receipts deposited into a fund that
+are not new revenues to the District, but the return of assets.
+
+Instruction Expenditures – Instruction expenditures include the activities dealing directly
+with the interaction between teachers and students. Teaching may be provided for students in
+a school classroom, in another location, such as a home or hospital, and in other learning
+situations, such as those involving cocurricular activities.  It may also be provided through
+some other approved medium, such as television, radio, telephone and correspondence.
+Included here are the activities of teacher assistants of any type (clerks, graders, teaching
+machines, etc.) which assist in the instructional process. The activities of tutors, translators
+and interpreters would be recorded here. Department chairpersons who teach for any portion
+of time are included here.  Tuition/transfer fees paid to other LEAs would be included here.
+
+Support Services Expenditures – Support services expenditures provide administrative,
+technical (such as guidance and health) and logistical support to facilitate  and  enhance
+instruction.  These  services exist as adjuncts for fulfilling the objectives of instruction,
+community services and enterprise programs, rather than as entities within themselves.
+
+Operation of Non-Instructional Services Expenditures – Activities concerned with providing
+non-instructional services to students, staff or the community.
+
+Facilities Acquisition and Construction Services Expenditures – Consists of activities
+involved with the acquisition of land and buildings; remodeling buildings; the construction of
+buildings and additions to buildings; initial installation or extension of service systems and
+other built-in equipment; and improvements to sites.
+
+Other Outlays Expenditures – A number of outlays of governmental funds are not properly
+classified as expenditures, but still require budgetary or accounting control. These are
+classified as Other Outlays. These include debt service payments (principal and interest).
+
+
+
+24
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – cont’d
+
+F. Revenue and Expenditures – cont’d
+
+Other Uses Expenditures – This includes scholarships provided by private gifts and
+endowments; student aid and staff awards supported by outside revenue sources (i.e.,
+foundations).  Also, expenditures for self-funded employee benefit programs administered
+either by the District or a third party administrator.
+
+Repayment Expenditures – Repayment expenditures represent checks/warrants issued to
+outside agencies for refund or restricted revenue previously received for overpayment, non-
+qualified expenditures and other refunds to be repaid from District funds.
+
+Interfund Transactions – Quasi-external transactions are accounted for as revenues,
+expenditures or expenses.  Transactions that constitute reimbursements to a fund or
+expenditures/expenses initially made from it that are properly applicable to another fund, are
+recorded as expenditures/expenses in the fund that is reimbursed.
+
+All other interfund transactions, except quasi-external transactions and reimbursements, are
+reported as transfers.  Nonrecurring or nonroutine permanent transfers of equity are reported
+as residual equity transfers.  All other interfund transfers are reported as operating transfers.
+
+2. CASH AND INVESTMENTS
+
+Custodial Credit Risk – Custodial credit risk is the risk that in the event of a bank failure, the
+District’s deposits may not be returned to the District. The District’s cash deposits and
+investments at June 30, 2018, were $70,048,907, at financial institutions, and were
+completely insured or collateralized by federal depository insurance, direct obligations of the
+U.S. Government, or securities held by the District or by its agent in the District’s name.
+
+Investment Interest Rate Risk – Interest rate risk is the risk that changes in interest rates will
+adversely affect the fair market value of an investment. Due to the required liquidity for those
+investments, these funds have no defined maturity dates. The District does not have a formal
+policy that limits investment maturities as a means of managing its exposure to fair value
+losses from increasing interest rates.
+
+Investment Credit risk – Credit risk is the risk that the issuer or other counterparty to an
+investment will not fulfill its obligations. The District does not have a formal policy limiting
+its investment choices, other than the limitation of state law as follows:
+
+ Direct obligations of the U.S. Government, its agencies and instrument to which the full
+faith and credit of the U.S. Government is pledged, or obligations to the payment of
+which the full faith and credit of the State is pledged.
+
+
+
+25
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+2.   CASH AND INVESTMENTS – cont’d
+
+ Certificates of deposit or savings accounts that are either insured or secured with
+acceptable collateral with in-state financial institutions, and fully insured certificates of
+deposit or savings accounts in out-of-state financial institutions.
+
+ With certain limitation, negotiable certificates of deposit, prime bankers acceptances,
+prime commercial paper and repurchase agreements with certain limitations.
+
+ County, municipal or school district tax supported debt obligations, bond or revenue
+anticipation notes, money judgments, or bond or revenue anticipation  notes of public
+trusts whose beneficiary is a county, municipality or school district.
+
+ Notes or bonds secured by mortgage or trust deed insured by the Federal Housing
+Administrator and debentures issued by the Federal Housing Administrator, and in
+obligations of the National Mortgage Association.
+
+ Money market funds regulated by the SEC and in which investments consist of the
+investments mentioned in the previous bullet items.
+
+Concentration of Investment Credit Risk – The District places no limit on the amount it may
+invest in any one issuer.
+
+3. INTERFUND RECEIVABLES AND PAYABLES
+
+There were no interfund receivables or payables at June 30, 2018.
+
+4. GENERAL LONG-TERM DEBT
+
+State statutes prohibit the District from becoming indebted in an amount exceeding the
+revenue to be received for any fiscal year without approval by the District’s voters.  Bond
+issues have been approved by the voters and issued by the District for various capital
+improvements.  These bonds are required to be fully paid serially within 25 years of the date
+of issue.
+
+General long-term debt of the District consists of building bonds payable and transportation
+bonds payable. Debt service requirements for bonds and judgments are payable solely from
+the fund balance and the future revenues of the debt service fund.
+
+
+
+26
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+4.   GENERAL LONG-TERM DEBT – cont’d
+
+The following is a summary of the long-term debt transactions of the District for the year
+ended June 30, 2018:
+
+Bonds Capital
+Payable Leases Total
+
+Balance, July 1, 2017 85,850,000$ 734,220 86,584,220
+Additions 28,530,000 0 28,530,000
+Retirements (24,310,000) (734,220) (25,044,220)
+
+Balance, June 30, 2018 90,070,000$ 0 90,070,000
+
+A brief description of the outstanding long-term debt at June 30, 2018, is set forth below:
+Amount
+
+Outstanding
+General Obligation Bonds:
+
+Combined Purpose Bonds, Series 2014, original issue
+$25,000,000, interest rate of 2.00%, due in
+annual installments of $6,250,000, final
+payment of $6,250,000 due 6-01-19 $ 6,250,000
+
+Combined Purpose Bonds, Series 2015, original issue
+$23,680,000, interest rate of 2.00%, due in
+annual installments of $5,900,000, final
+payment of $5,980,000 due 6-01-20 11,880,000
+
+Combined Purpose Bonds, Series 2016, original issue
+$24,990,000, interest rate of 2.00%, due in
+annual installments of $6,250,000, final
+payment of $6,250,000 due 6-01-21 18,750,000
+
+Combined Purpose Bonds, Series 2017, original issue
+$24,660,000, interest rate of 2.00-4.00%, due in
+annual installments of $6,165,000, final
+payment of $6,165,000 due 6-01-22 24,660,000
+
+
+
+27
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+4.   GENERAL LONG-TERM DEBT – cont’d
+Amount
+
+Outstanding
+
+Combined Purpose Bonds, Series 2018, original issue
+$28,530,000, interest rate of 3.00-3.125%, due in
+annual installments of $7,000,000, final
+payment of $7,530,000 due 6-01-23 $ 28,530,000
+
+Total Long-Term Debt $ 90,070,000
+
+The annual debt service requirements for retirement of bond principal, capital lease principal
+and payment of interest are as follows:
+
+Year Ending
+June 30 Principal Interest Total
+
+2019 24,565,000$ 2,413,113 26,978,113
+2020 25,395,000 1,860,163 27,255,163
+2021 19,415,000 1,282,263 20,697,263
+2022 13,165,000 691,913 13,856,913
+2023 7,530,000 235,313 7,765,313
+
+Total 90,070,000$ 6,482,765 96,552,765
+
+Interest paid on general long-term debt during the 2017-18 fiscal year totaled $2,042,097.
+
+5.   EMPLOYEE RETIREMENT SYSTEM
+
+Description of Plan
+
+The District participates in the state-administered Oklahoma Teachers’ Retirement System,
+which is a cost sharing, multiple-employer defined benefit public employee retirement
+system  (PERS), which  is administered  by the Board  of  Trustees  of  the Oklahoma
+Teachers’ Retirement System (the “System”).  The System provides retirement and disability
+benefits, annual cost-of-living adjustments, and death benefits to plan members  and
+beneficiaries.   Title  70  Section  17  of the Oklahoma Statutes establishes benefit provisions
+and may be amended only through legislative action.  The Oklahoma Teachers’ Retirement
+
+
+
+28
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+5.   EMPLOYEE RETIREMENT SYSTEM – cont’d
+
+System issues a publicly available financial report that includes financial statements and
+required supplementary information for the System.  That report may be obtained by writing
+to the Oklahoma Teachers’ Retirement System, P.O. Box 53624, Oklahoma City, OK 73152,
+or by calling 405-521-2387.
+
+Basis of Accounting
+
+The System’s financial statements are prepared using the cash basis of accounting, except for
+accruals of interest income.  Plan member contributions are recognized in the period in which
+the contributions are made.  Benefits and refunds are recognized when paid.  The pension
+benefit obligation is a standardized disclosure measure of the present value of pension
+benefits.  This pension valuation method reflects the present value of estimated pension
+benefits that will be paid in future years as a result of  employee  services  performed  to  date
+and is adjusted for the  effect of projected salary increases.  There are no actuarial valuations
+performed on individual school districts.  The System has an under-funded pension benefit
+obligation as determined as part of the latest actuarial valuation.
+
+Funding Policy
+
+The District, the State of Oklahoma, and the participating employee make contributions.  The
+contribution rates for the District and its employees are established by and may be amended
+by Oklahoma Statutes.  The rates are not actuarially determined.  The rates are applied to the
+employee’s earnings plus employer-paid fringe benefits.  The required contribution for the
+participating members is 7.0% of compensation. Contributions received by the System from
+the State of Oklahoma are used to offset required employer contributions by the local school
+district.  For the 2017-18 fiscal year, the District contributed 9.5% and the State of Oklahoma
+contributed the remaining amount during the year.  The District is allowed by Oklahoma
+Teachers’ Retirement System to make the required contributions on behalf of the
+participating members.  In addition, if a member’s salary is paid in part by federal or private
+funds, the contribution on that portion of the salary paid by those funds must be matched by
+the District at 7.80%.
+
+Annual Pension Cost
+
+The District’s total contributions for 2018, 2017 and 2016 were $7,554,193, $7,095,095 and
+$7,116,241, respectively. Ten-year historical trend information is presented in the Teacher’s
+Retirement System of Oklahoma Annual Report for the year ended June 30, 2018. This
+information is useful in assessing the pension plan’s accumulation of sufficient assets to pay
+pension benefits as they become due.  Please visit www.ok.gov/TRS for all plan information.
+
+
+
+29
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+5.   EMPLOYEE RETIREMENT SYSTEM – cont’d
+
+GASB Statement 68 became effective for fiscal years beginning after June 15, 2014, and
+significantly changes pension accounting and financial reporting for governmental employers
+who participate in a pension plan, such as the System, and who prepare published financial
+statements on an accrual basis using Generally Accepted Accounting Principles. Since the
+District does not prepare and present their financial statements on an accrual basis, the net
+pension amount is not required to be presented on the audited financial statements. The
+amount of calculated pension liability for the District at June 30, 2017 (the latest information
+available) was $66,688,905.
+
+6.   LEASE REVENUE BONDS
+
+Series 2009
+
+On July 1, 2009, the Tulsa County Industrial Authority issued $104,420,000 of Educational
+Facilities Lease Revenue Bonds (Jenks Public School Project) Series 2009, to provide funds
+required for the constructing, equipping, repairing and remodeling  school  buildings,
+acquiring school furniture, fixtures and equipment and acquiring  and improving  school
+sites  for  the  benefit  of  the Jenks School District. Also on July 1, 2009, the District, as
+lessor, entered into a ground lease agreement, for certain district property, with the Tulsa
+County Industrial Authority. In addition, the District entered into a sublease, as lessee, with
+the Tulsa County Industrial Authority.  The sublease calls for eleven (11) annual payments
+starting September 1, 2010.  These payments will be made out of bond funds, pursuant to the
+issuance of series bonds in the amount of $153,430,000, on December 9, 2008.  Jenks Public
+Schools will gain ownership to the capital improvements incrementally as each payment is
+made.
+
+As of June 30, 2018, approximately $106,135,259 has been paid out for construction costs
+and all projects associated with these revenue bonds are complete.
+
+The future lease payments will be as follows:
+
+Fiscal Year Payment
+
+2018-19 12,180,000$
+2019-20 12,180,000
+
+Total Obligation 24,360,000$
+
+
+
+30
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+6.   LEASE REVENUE BONDS – cont’d
+
+Series 2015
+
+On September 1, 2015, the Tulsa County Industrial Authority issued $83,725,000 of
+Educational Facilities Lease Revenue Bonds (Jenks Public School Project) Series 2015, to
+provide funds required for the constructing, equipping, repairing and remodeling school
+buildings,  acquiring school furniture, fixtures and equipment and acquiring  and  improving
+school  sites  for  the  benefit  of  the Jenks School District. Also on September 1, 2015, the
+District, as lessor, entered into a ground lease agreement, for certain district property, with
+the Tulsa County Industrial Authority. In addition, the District entered into a sublease, as
+lessee, with the Tulsa County Industrial Authority.  The sublease calls for eleven (11) annual
+payments starting September 1, 2016.  These payments will be made out of bond funds,
+pursuant to the issuance of series bonds in the amount of $120,453,405, passed by voters of
+the District on February 10, 2015.  Jenks Public Schools will gain ownership to the capital
+improvements incrementally as each payment is made.
+
+As of June 30, 2018, approximately $75,185,029 has been paid out for construction costs.
+
+The future lease payments will be as follows:
+
+7.  RISK MANAGEMENT
+
+Risk Management
+
+The District is exposed to various risks of loss related to torts; theft of, damage to and
+destruction of assets; errors and omissions; injuries to employees; or acts of God.  The
+District purchases commercial insurance to cover these risks, including general and auto
+liability, property damage, and public officials liability.  Settled claims resulting from risks
+have not exceeded the commercial insurance coverage in any of the past three fiscal years.
+
+Fiscal Year Payment
+
+2018-19 2,347,650$
+2019-20 2,637,360
+2020-21 2,932,065
+2021-22 15,399,585
+2022-23 15,704,280
+
+Thereafter 65,904,030
+
+Total Obligation 104,924,970$
+
+
+
+31
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+NOTES TO THE FINANCIAL STATEMENTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+8.   CONTINGENCIES
+
+Federal Grants
+
+Amounts received or receivable from grantor agencies are subject to audit and adjustments
+by grantor agencies.  Any disallowed claims, including amounts already collected, may
+constitute a liability of the applicable funds.  The amount, if any, of expenditures which may
+be disallowed by the grantor cannot be determined at this time, although the District expects
+such amounts to be immaterial.
+
+Schedule of Expenditure of Federal Awards
+
+The schedule shows the federal awards received and expended by the District during the
+2017-18 fiscal year. The revised Uniform Guidance Audits of States, Local Governments and
+Non-Profit Organizations, established uniform audit requirements for nonfederal entities
+which expended more than $750,000 in federal awards.
+
+Litigation
+
+At the date of the audit report, January 8, 2019, school officials are not aware of any pending
+or threatened litigation, claims or assessments or unasserted claims or assessments against the
+District.
+
+
+
+Prior Year
+Actual (Memorandum
+
+Original Final Amounts Only)
+Revenues Collected:
+   Local sources 30,465,261$ 31,061,608 31,180,650 29,718,523
+   Intermediate sources 2,997,100 3,104,915 3,124,016 2,970,073
+   State sources 34,342,544 36,825,841 36,980,587 35,486,167
+   Federal sources 3,809,304 4,139,993 3,912,305 3,852,133
+   Interest earnings 335,296 578,849 600,592 377,095
+   Non-revenue receipts 3,374,962 3,201,836 3,303,999 3,186,116
+       Total revenues collected 75,324,467 78,913,042 79,102,149 75,590,108
+
+Expenditures:
+   Instruction 45,959,955 49,192,599 48,280,974 45,178,730
+   Support services 26,374,941 27,963,373 28,768,130 26,262,471
+   Operation of non-instructional services 3,140,285 3,180,285 3,289,938 3,140,284
+   Other outlays:
+      Private nonprofit schools 135,000 135,000 93,530 131,134
+      Correcting entry 7,243 1,884
+      Total expenditures 75,610,181 80,471,257 80,439,815 74,714,501
+
+Excess of revenues collected
+   over (under) expenditures before
+   other financing sources (uses) (285,714) (1,558,215) (1,337,666) 875,606
+
+Other financing sources (uses):
+   Operating transfers in (out) 150,000 173,118 238,365
+   Adjustments  to prior year encumbrances 35,714 115,806 115,807 35,702
+       Total other financing sources (uses) 35,714 265,806 288,924 274,067
+
+Excess of revenues collected over (under)
+   expenditures (250,000) (1,292,409) (1,048,741) 1,149,673
+
+Cash fund balance, beginning of year 6,787,787 7,822,041 7,822,041 6,672,368
+
+Cash fund balance, end of year 6,537,787$ 6,529,632 6,773,300 7,822,041
+
+Budgeted Amounts
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+BUDGETARY COMPARISON SCHEDULE -
+
+GENERAL FUND
+FOR THE YEAR ENDED JUNE 30, 2018
+
+32
+
+
+
+Prior Year
+Actual (Memorandum
+
+Original Final Amounts Only)
+Revenues Collected:
+   Local sources 4,005,100$ 4,196,641 4,163,273 4,013,482
+   Interest earnings 457 465 2,479 507
+   Non-revenue receipts 195,000 197,000 30,000
+       Total revenues collected 4,200,557 4,394,106 4,195,752 4,013,989
+
+Expenditures:
+   Instruction 6,500 6,500 453 2,418
+   Support services 4,470,135 4,447,538 4,271,670 4,278,659
+   Operations of non-instructional services 71,200
+   Facilities acquisition and construction services 10,630
+   Other outlays:
+     Correcting entry 30,000
+      Total expenditures 4,476,635 4,454,038 4,383,953 4,281,077
+
+Excess of revenues collected
+   over (under) expenditures before
+   other financing sources (uses) (276,078) (59,932) (188,202) (267,088)
+
+Other financing sources (uses):
+   Adjustments  to prior year encumbrances 25,223 25,223 98 27,223
+
+Excess of revenues collected over (under)
+   expenditures (250,855) (34,709) (188,104) (239,865)
+
+Cash fund balance, beginning of year 592,080 592,080 592,080 831,946
+
+Cash fund balance, end of year 341,225$ 557,371 403,976 592,080
+
+Budgeted Amounts
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+BUDGETARY COMPARISON SCHEDULE -
+
+BUILDING FUND
+FOR THE YEAR ENDED JUNE 30, 2018
+
+33
+
+
+
+Prior Year
+Actual (Memorandum
+
+Original Final Amounts Only)
+Revenues Collected:
+   Local sources 1,965,654$ 1,969,344 1,967,031 1,855,829
+   State sources 325,000 325,000 43,674 246,231
+   Federal sources 2,237,927 2,237,927 2,346,734 2,218,891
+   Interest earnings 1,059 6,236 10,840 1,965
+   Non-revenue receipts 3,000 3,000 5,294 2,768
+       Total revenues collected 4,532,640 4,541,507 4,373,573 4,325,684
+
+Expenditures:
+   Operation of non-instructional services 4,516,996 4,786,935 4,657,655 4,275,429
+   Other outlays:
+      Reimbursement 3,000 3,000 4,002 4,854
+      Correcting entry 1,794 4,940
+   Other uses 1,052
+        Total expenditures 4,519,996 4,789,935 4,664,502 4,285,223
+
+Excess of revenues collected
+   over (under) expenditures before
+   other financing sources (uses) 12,644 (248,428) (290,929) 40,461
+
+Other financing sources (uses):
+   Adjustments  to prior year encumbrances 2,000 2,000 7,222 287
+
+Total other financing sources (uses) 2,000 2,000 7,222 287
+
+Excess of revenues collected over (under)
+   expenditures 14,644 (246,428) (283,707) 40,748
+
+Cash fund balance, beginning of year 1,213,916 1,318,749 1,318,749 1,278,001
+
+Cash fund balance, end of year 1,228,560$ 1,072,321 1,035,042 1,318,749
+
+Budgeted Amounts
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+BUDGETARY COMPARISON SCHEDULE -
+
+CHILD NUTRITION FUND
+FOR THE YEAR ENDED JUNE 30, 2018
+
+34
+
+
+
+Prior Year
+Actual (Memorandum
+
+Original Final Amounts Only)
+Revenues Collected:
+   Local sources 25,608,468$ 25,608,468 24,523,107 25,042,660
+   Interest earnings 14,568 15,584
+   Non-revenue receipts 500,000 500,000 1,619,114
+       Total revenues collected 26,108,468 26,108,468 24,537,675 26,677,358
+
+Requirements:
+   Judgments 1,205,835
+   Bonds 23,508,550 23,508,550 24,310,000 23,710,000
+   Coupons 2,025,250 2,025,250 2,025,250 1,810,800
+      Total expenditures 25,533,800 25,533,800 26,335,250 26,726,635
+
+Excess of revenue collected
+   over (under) expenditures 574,668 574,668 (1,797,575) (49,278)
+   before other financing sources
+
+Other financing sources (uses):
+   Operating transers in (out) 1,205,835
+     Total other financing sources 0 0 0 1,205,835
+
+Excess of revenue collected
+   over (under) expenditures 574,668 574,668 (1,797,575) 1,156,558
+
+Cash fund balance, beginning of year 14,047,137 14,047,137 15,729,247 14,572,689
+
+Cash fund balance, end of year 14,621,805$ 14,621,805 13,931,671 15,729,247
+
+Budgeted Amounts
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+BUDGETARY COMPARISON SCHEDULE -
+
+SINKING FUND
+FOR THE YEAR ENDED JUNE 30, 2018
+
+35
+
+
+
+Prior Year
+Actual (Memorandum
+
+Original Final Amounts Only)
+Revenues collected:
+   Local collections $ 2,382
+   Non revenue receipts 1,693
+       Total revenues 0 0 4,075 0
+
+Expenditures:
+   Instruction 1,054,845 1,054,845 592,180 1,356,832
+   Support services 7,125,689 7,125,689 7,168,564 6,426,465
+   Operation non-instructional  services 87,078 87,078 89,536
+   Facilities acquisition & construction services 19,085,173 19,085,173 19,663,245 15,933,590
+   Other Outlays - Correcting Entry 1,693
+       Total expenditures 27,352,785 27,352,785 27,515,218 23,716,887
+
+Excess of revenues collected over (under)
+   expenditures before other financing sources (27,352,785) (27,352,785) (27,511,144) (23,716,887)
+
+Other financing sources (uses):
+   Adjustments to prior year encumbrances 5,110 301
+   Operating transfers in (out) (1,205,835)
+   Bond sale proceeds 24,660,000 24,660,000 28,530,000 24,660,000
+     Total other financing sources 24,660,000 24,660,000 28,535,110 23,454,465
+
+Excess of revenues collected and other financing
+   sources over (under) expenditures and other
+   financing sources (uses) (2,692,785) (2,692,785) 1,023,966 (262,421)
+
+Cash fund balance, beginning of year 30,322,270 30,322,270 32,926,536 33,188,957
+
+Cash fund balance, end of year 27,629,485$ 27,629,485 33,950,502 32,926,536
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+
+Budgeted Amounts
+
+BUDGETARY COMPARISON SCHEDULE -
+BOND FUNDS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+36
+
+
+
+2014 2015 2016 2017 2018
+GEN. OBLIG. GEN. OBLIG. GEN. OBLIG. GEN. OBLIG. GEN. OBLIG.
+BOND FUND BOND FUND BOND FUND BOND FUND BOND FUND TOTAL
+
+ASSETS
+
+Cash and Investments 113,024$ 775,238 1,139,043 3,619,549 28,493,794 34,140,649
+
+Total Assets 113,024$ 775,238 1,139,043 3,619,549 28,493,794 34,140,649
+
+LIABILITIES AND FUND BALANCE
+
+Liabilities:
+   Warrants payable 8,741$ 58,630 43,793 78,984 0 190,147
+
+Fund Balance:
+   Restricted 104,283 716,609 1,095,251 3,540,566 28,493,794 33,950,502
+
+Total Liabilities and Fund Balance 113,024$ 775,238 1,139,043 3,619,549 28,493,794 34,140,649
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCE -
+
+ALL CAPITAL PROJECTS FUNDS - REGULATORY BASIS
+JUNE 30, 2018
+
+37
+
+
+
+2013 2014 2015 2016 2017 2018
+BUILDING GEN. OBLIG. GEN. OBLIG. GEN. OBLIG. GEN. OBLIG. GEN. OBLIG.
+
+BOND FUND BOND FUND BOND FUND BOND FUND BOND FUND BOND FUND TOTAL
+
+Revenues Collected:
+   Local sources $ 2,382 2,382
+   Non-revenue receipts 1,016 261 416 1,693
+      Total Revenue 0 0 3,398 261 416 0 4,075
+
+Expenditures:
+   Instruction 12,810 30,287 207,430 91,941 249,713 592,180
+   Support services 282,101 755,981 773,271 1,193,262 4,127,743 36,206 7,168,564
+   Operation non-instructional services 86,078 3,459 89,536
+   Facilities acquisition and const. services 60,918 59,248 2,878,942 16,664,136 19,663,245
+   Other Outlays - Correcting Entry 1,016 261 416 1,692
+       Total expenditures 294,911 847,186 1,127,042 4,167,865 21,042,008 36,206 27,515,218
+
+Excess of revenues collected over (under)
+  expenditures before other financing
+  sources (uses) (294,911) (847,186) (1,123,644) (4,167,604) (21,041,592) (36,206) (27,511,143)
+
+Other financing sources (uses):
+    Adjustments to prior year encumbrances 4,921 189 5,110
+    Bond sale proceeds 28,530,000 28,530,000
+       Total other financing sources (uses) 0 4,921 0 189 0 28,530,000 28,535,110
+
+Excess of revenues collected and other financing
+   sources over (under) expenditures and
+   other financing uses (294,911) (842,265) (1,123,644) (4,167,415) (21,041,592) 28,493,794 1,023,966
+
+Cash fund balances, beginning of year 294,911 946,548 1,840,253 5,262,666 24,582,158 0 32,926,536
+
+Cash fund balances, end of year $                 0 104,283 716,609 1,095,251 3,540,566 28,493,794 33,950,502
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND CHANGES
+
+ IN CASH FUND BALANCES - ALL CAPITAL PROJECTS FUNDS - REGULATORY BASIS
+FOR THE YEAR ENDED JUNE 30, 2018
+
+38
+
+
+
+AGENCY FUNDS
+
+SCHOOL
+GIFTS ARBITRAGE ACTIVITY
+FUND FUND FUNDS TOTAL
+
+ASSETS
+
+Cash & Investments 407,168$ 35,669 4,647,754 5,090,591
+
+Total Assets 407,168$ 35,669 4,647,754 5,090,591
+
+LIABILITIES AND FUND BALANCE
+
+Liabilities:
+Warrants payable 355,061$ 355,061
+Funds held for school organizations:
+
+Student activity funds 3,038,452 3,038,452
+Community education programs 1,609,302 1,609,302
+
+ Total liabilities 355,061 0 4,647,754 5,002,815
+
+Fund Balances:
+   Restricted 52,107 35,669 0 87,776
+
+Total Liabilities and Fund Balance 407,168$ 35,669 4,647,754 5,090,591
+
+ EXPENDABLE TRUST FUNDS
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCE -
+
+ALL FIDUCIARY FUND TYPES - REGULATORY BASIS
+JUNE 30, 2018
+
+39
+
+
+
+GIFTS WORKERS ARBITRAGE
+FUND  COMP. FUND FUND TOTAL
+
+Revenues Collected:
+   Local sources 525,897$ 643,489 1,169,386
+   Interest earnings 153 153
+       Total revenues collected 525,897 643,489 153 1,169,539
+
+Expenditures:
+    Instruction 473,790 473,790
+   Support services 342,838 342,838
+   Other uses (worker's comp claims) 127,533 127,533
+        Total expenditures 473,790 470,371 0 944,161
+
+Excess of revenues collected over
+   (under) expenditures before other
+    financing sources (uses) 52,107 173,118 153 225,378
+
+Other financing sources (uses):
+   Transfers in (out) 0 (173,118) 0 (173,118)
+
+Excess of revenues collected over
+   (under) expenditures 52,107 0 153 52,260
+
+Cash fund balances, beginning of year 0 0 35,516 35,516
+
+Cash fund balances, end of year 52,107$ 0 35,669 87,776
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES AND CHANGES
+
+IN CASH FUND BALANCES - ALL EXPENDABLE TRUST FUNDS - REGULATORY BASIS
+FOR THE YEAR ENDED JUNE 30, 2018
+
+EXPENDABLE TRUST FUNDS
+
+40
+
+
+
+BALANCE NET BALANCE
+7-01-17 ADDITIONS TRANSFERS DEDUCTIONS 6-30-18
+
+ASSETS
+
+Cash & Investments 4,499,932$ 9,785,687 0 9,637,865 4,647,754
+
+LIABILITIES
+
+Funds held for school organizations:
+Student Activity Funds:
+
+Administration:
+     Coca-Cola Exclusivity 338,116$ 43,588 (42,672) 76,138 262,895
+     Vending Commission 5,809 13,770 0 0 19,578
+     Administrative Vending 280 0 2,274 2,469 85
+     Maintenance Vending 1,530 0 466 1,184 812
+     Transportation Vending 2,703 100 1,259 729 3,333
+     Employee Insurance 572 18,506 0 19,053 24
+     Student Assistance 8,599 2,297 0 14 10,882
+     Pom & Cheer Mem. Scholarship 113 0 (113) 0 0
+     JPS Health & Fitness 44,017 8,415 (15,000) 0 37,432
+     ESY 85 0 0 33 52
+     Employee Recognition 4,572 7,895 23,000 33,279 2,187
+     Staff Development 1,311 492 268 279 1,791
+     RCK Account 15,952 9,610 (12,665) 745 12,152
+     Jenks/Union Elem. Writers 4,399 75 75 589 3,960
+     Print Shop 10,238 25,195 (11,197) 15,028 9,208
+     H.S. Parking 30,230 47,125 (30,000) 17,829 29,526
+     Orchestra Maintenance 17,766 13,037 635 3,113 28,325
+     S.S.A.F.E 483 7,493 (18) 6,480 1,477
+     Chromebook Insurance 229,160 144,541 (49,970) 79,362 244,369
+     Administrative Hospitality 370 780 (25) 1,080 45
+     General Properties 0 52,162 507,519 559,681 0
+     Activiy Interest Account 12,651 35,537 0 0 48,188
+         Sub-total 728,956$ 430,616 373,835 817,084 716,323
+
+Athletics:
+     Athletics 204,034$ 390,189 18,804 419,305 193,721
+     Summer Athletics 189,808 131,335 (73,400) 38,744 208,999
+     Vending Commission 3,048 0 0 0 3,048
+     Pom Concessions 1,012 35,148 (19,459) 15,700 1,002
+     Wrestling Booster Club 8,243 20,033 0 15,895 12,381
+     Football Booster Club 141,369 154,857 (57,962) 99,111 139,152
+     Basketball  Booster Club 19,727 79,819 (19,025) 46,273 34,248
+     Pom General Fund 38,703 53,540 39,248 96,398 35,094
+     JV Pom Booster Club 8,855 64,812 (9,897) 46,028 17,742
+     Summer Baseball 32,663 30,329 (9,490) 16,840 36,662
+     8th Grade Pom 12,663 54,154 (28,115) 34,891 3,810
+     Cross Country Booster Club 17,257 6,735 0 8,703 15,289
+     HS Baseball Booster Club 38,034 89,011 (12,022) 62,812 52,211
+     Girls Softball Booster Club 19,524 19,534 20 22,078 17,001
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES -
+
+AGENCY FUNDS - REGULATORY BASIS
+FOR THE YEAR ENDED JUNE 30, 2018
+
+41
+
+
+
+BALANCE NET BALANCE
+7-01-17 ADDITIONS TRANSFERS DEDUCTIONS 6-30-18
+
+Athletics: (cont'd)
+     Track Booster Club 7,862$ 16,165 (1,763) 16,330 5,935
+     JHS Cheerleader Booster Club 26,980 87,961 (46,974) 41,790 26,177
+     Boys Soccer Booster Club 12,773 37,604 (1,400) 39,922 9,055
+     Girls Soccer Booster Club 10,410 27,014 (942) 21,239 15,243
+     Freshman Pom 8,554 71,916 (26,329) 40,064 14,078
+     Swim Booster Club 40,977 45,227 684 42,366 44,521
+     Jenks Tennis Booster Club 20,537 17,582 (4,940) 20,586 12,593
+     Athletic Training Booster Club 19,612 15,000 (7,500) 7,732 19,380
+     Girls Golf Booster Club 11,774 17,054 (18) 16,441 12,369
+     Volleyball Booster Club 19,124 26,615 (200) 34,920 10,620
+     Jenks Cheer General Fund 19,604 82,469 19,143 90,649 30,567
+     Boys Golf Booster Club 10,230 10,575 (18) 17,775 3,011
+     Varsity Pom Booster Club 12,125 95,291 (2,651) 92,844 11,920
+         Sub-total 955,502$ 1,679,967 (244,207) 1,405,435 985,827
+
+East Elementary:
+     Vending Commission 1,318$ 0 324 45 1,597
+     General Administrative 58,071 48,103 (4,480) 54,185 47,509
+     School Store 1,428 1,001 0 590 1,839
+     Rentie Grove 2,058 0 0 0 2,058
+     Playground Development 22,061 0 0 0 22,061
+         Sub-total 84,936$ 49,104 (4,156) 54,820 75,064
+
+Southeast Elementary:
+     Vending Commission 451$ 0 211 0 662
+     General Administrative 16,739 44,266 (650) 30,048 30,306
+         Sub-total 17,190$ 44,266 (439) 30,048 30,968
+
+West Elementary:
+     General Administrative 86,955$ 55,932 36,305 70,158 109,034
+     PTAG 104,341 131,419 (38,197) 116,763 80,801
+         Sub-total 191,296$ 187,352 (1,892) 186,921 189,835
+
+Northwest Elementary:
+     General Administrative 10,000$ 6,510 4,501 15,682 5,329
+     PTAG 14,750 77,973 (3,210) 61,061 28,451
+         Sub-total 24,750$ 84,483 1,291 76,743 33,780
+
+East Intermediate:
+     Vending Commission 1,730$ 0 66 0 1,796
+     PTAG 52,142 51,956 (16,295) 31,114 56,689
+     General Administrative 59,704 146,400 1,696 133,891 73,910
+         Sub-total 113,576$ 198,356 (14,533) 165,005 132,394
+
+West Intermediate:
+     Vending Commission 2,845$ 0 225 0 3,069
+     PTAG 30,916 78,797 (10,248) 60,025 39,440
+     General Administrative 66,235 41,275 10,526 47,025 71,011
+     West Enviromental School 19,671 41,115 (959) 36,835 22,991
+         Sub-total 119,666$ 161,188 (457) 143,885 136,512
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES -
+
+AGENCY FUNDS - REGULATORY BASIS
+FOR THE YEAR ENDED JUNE 30, 2018
+
+42
+
+
+
+BALANCE NET BALANCE
+7-01-17 ADDITIONS TRANSFERS DEDUCTIONS 6-30-18
+
+Jenks Middle School:
+     Vocal Music 3,552$ 25,803 (742) 23,160 5,454
+     JMS Global 695 142,029 166 142,256 634
+     Spanish NJHS 401 0 0 293 108
+     Leadership 2,511 13,257 0 13,111 2,657
+     JMS Band 18,129 34,482 1,369 34,152 19,827
+     JMS Drama 195 6,259 28 5,243 1,239
+     NJHS 2,734 7,678 0 9,152 1,261
+     JMS Art 9,905 6,659 119 7,045 9,638
+     JMS STEM 11,169 5,899 (989) 12,884 3,194
+     Library 2,493 13,460 (73) 10,810 5,070
+     General Admistrative 73,071 75,796 (10,241) 45,772 92,854
+     Publications 5,276 19,561 (7,205) 14,062 3,570
+         Sub-total 130,129$ 350,884 (17,568) 317,938 145,507
+
+Freshman Academy:
+     Vending Commission 4,330$ 0 4,051 4,207 4,173
+     FA Habitat Space 386 0 0 0 386
+     Freshman Class 30 2,250 (1,174) 1,106 0
+     General Administrative 36,297 33,193 (7,217) 45,389 16,884
+         Sub-total 41,042$ 35,443 (4,340) 50,702 21,443
+
+High School:
+     Vending commission 9,906$ 37 8,691 13,365 5,269
+     Band Vending Commission 71 0 0 0 71
+     Vocal Music - Musical 15,827 53,584 1,770 60,450 10,731
+     Work Adjustment Training 9,065 0 0 0 9,065
+     US First 8,971 26,556 15 17,632 17,911
+     Earl Pregler Memorial Scholorship 80 0 (80) 0 0
+     Academic Team 1,169 0 0 225 944
+     FFA Alumni 73 0 0 0 73
+     Vocal Music Booster Club 42,051 24,513 15,128 52,781 28,911
+     Engineering Club 664 0 0 0 664
+     Trojan Leadership Conference 266 4,300 0 4,115 451
+     Trojan Torch 137 321 0 289 169
+     Science Olympiad 608 1,273 357 886 1,352
+     Class of 2013 Reunion 5,000 0 0 0 5,000
+     Jenks HS AVID 5 3,056 0 2,951 110
+     FCA 3,700 0 1,000 506 4,193
+     China Cultural Exchange 18,997 19,000 0 31,145 6,852
+     Basketball Spirit Committee 743 0 0 0 743
+     Odyssey of the Mind 2,092 5,501 0 6,101 1,492
+     SWAT 75 0 0 0 75
+     JHS PTAG 10,092 23,103 (18,385) 4,632 10,178
+     JHS PTAG Care & Concern 1,771 2,350 0 3,312 809
+     SuperFans 317 820 525 1,128 535
+     French club 501 1,218 0 1,562 157
+     Ted Westhusing memorial 2,926 0 74 1,000 2,000
+     Club Earth 2,210 0 (525) 292 1,394
+     Latin club 1,963 3,384 0 4,089 1,258
+     I can work program 1,442 526 25 905 1,087
+     Band 8,524 1,932 2,446 7,213 5,689
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES -
+
+AGENCY FUNDS - REGULATORY BASIS
+
+43
+
+
+
+BALANCE NET BALANCE
+7-01-17 ADDITIONS TRANSFERS DEDUCTIONS 6-30-18
+
+High School: (cont'd)
+     Special Olympics 2,174$ 3,119 1,180 4,755 1,719
+     Fashion Club 371 0 0 0 371
+     Mu Alpha Theta 704 365 (279) 285 505
+     Class of 2010 Reunion 2,507 0 0 0 2,507
+     Chinese Club 1,856 2,820 0 1,100 3,576
+     Yearbook 18,142 67,870 1,749 57,634 30,128
+     Orchestra Parents Club 24,518 40,752 89 46,984 18,375
+     Art Club 2,459 8,252 0 5,698 5,013
+     Trojan Link 528 765 0 865 428
+     Class of 2012 Reunion 1,001 0 0 0 1,001
+     Diamond Dolls 12 0 (12) 0 0
+     DECA 14,925 44,575 297 45,940 13,857
+     FFA 4,402 102,772 (77) 97,761 9,337
+     Classroom Volunteers 385 0 0 130 255
+     German Club 298 2,489 0 2,340 447
+     History Club 340 1,308 0 1,030 618
+     Junior Class 5,750 14,627 (15,272) 2,923 2,182
+     Key Club 6,988 19,279 (15) 20,936 5,316
+     Math Club 654 5,460 185 3,538 2,761
+     Competitive Speech/Debate 2,944 8,697 2,592 13,788 445
+     National Honor Society 2,395 2,765 0 3,837 1,323
+     Senior Class 7,846 34,631 21,700 38,717 25,459
+     Pre-Med Society 8,856 3,235 44 1,786 10,348
+     Spanish Club 244 940 0 1,064 120
+     Sophmore Class 4,207 4,133 (5,280) 1,986 1,074
+     Class of 2011 Reunion 2,506 0 0 0 2,506
+     HS Football Spirit Committee 910 0 0 0 910
+     Student Council 18,016 37,370 (531) 36,485 18,370
+     Drama Club 15,759 51,321 1,689 51,028 17,741
+     FCCLA 657 13,668 0 12,868 1,458
+     Judy & J Sanders Scholorship Fund 20,601 0 0 2,000 18,601
+     General Administrative 16,709 85,513 (33,449) 56,276 12,497
+     PAC - Student Support Service 15 0 (15) 0 0
+     Library 9,319 9,026 (297) 8,533 9,515
+     Class of 2008 Reunion 2,025 0 0 2,000 25
+     Native American Club 1,196 2,964 0 2,688 1,473
+     Forensics Booster Club 5,726 3,630 (359) 7,313 1,685
+     Vocal Music 34,530 279,647 (11,000) 283,200 19,978
+     JHS Multicultural Club 1,168 1,713 0 2,550 332
+     STEM 3,978 5,605 817 2,419 7,981
+     Spanish Honor Society 930 4,228 0 3,983 1,175
+     HS graduation party 16,116 37,108 2,500 42,130 13,594
+     Class of 2014 Reunion 1,000 0 0 0 1,000
+     American Sign Language 1,953 4,627 (27) 4,660 1,894
+     Jenks Band Parents Concessions 32,804 84,167 (62,381) 34,145 20,445
+     TV Studio 6,014 1,993 0 97 7,910
+     Jenks Band Parents 115,979 615,294 (4,347) 583,936 142,990
+     Art Honor Society 2,089 691 (9) 0 2,771
+         Sub-total 573,753$ 1,778,895 (89,468) 1,703,984 559,196
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES -
+
+AGENCY FUNDS - REGULATORY BASIS
+FOR THE YEAR ENDED JUNE 30, 2018
+
+44
+
+
+
+BALANCE NET BALANCE
+7-01-17 ADDITIONS TRANSFERS DEDUCTIONS 6-30-18
+
+Alternative Center:
+     Alternative Center Student Account 12,641$ 10,384 727 15,562 8,190
+     Vending Commission 4,239 0 1,207 2,034 3,412
+         Sub-total 16,880$ 10,384 1,933 17,595 11,603
+
+Total Activity Funds 2,997,676$ 5,010,936 0 4,970,160 3,038,452
+
+Community Education 1,502,256$ 4,774,751 0 4,667,705 1,609,302
+
+Total Liabilities 4,499,932$ 9,785,687 0 9,637,865 4,647,754
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES -
+
+AGENCY FUNDS - REGULATORY BASIS
+FOR THE YEAR ENDED JUNE 30, 2018
+
+45
+
+
+
+
+
+
+
+48
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL
+
+STATEMENTS PERFORMED IN ACCORDANCE WITH
+GOVERNMENT AUDITING STANDARDS
+
+The Honorable Board of Education
+Jenks School District Number I-5
+Jenks, Tulsa County, Oklahoma
+
+We have audited in accordance with auditing standards generally accepted in the United States of America and the
+standards applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller General of
+the United States, the accompanying fund type and account group financial statements – regulatory basis within the
+combined financial statements of the Jenks School District Number I-5, Jenks, Tulsa County, Oklahoma (District), as of
+and for the year ended June 30, 2018, and the related notes to the financial statements, which collectively comprise the
+District’s basic financial statements, and have issued our report thereon dated January 8, 2019, which was adverse with
+respect to the presentation of the financial statements in conformity with accounting principles generally accepted in the
+United States because the presentation followed the regulatory basis of accounting for Oklahoma school districts and did
+not conform to the presentation requirements of the Governmental Accounting Standards Board. However, our report was
+unmodified with respect to the presentation of financial statement on the regulatory basis of accounting authorized by the
+Oklahoma State Board of Education.
+
+Internal Control Over Financial Reporting
+
+In planning and performing our audit of the financial statements, we considered the District’s internal control over financia l
+reporting (internal control) to determine the audit procedures that are appropriate in the circumstances for the purpose of
+expressing our opinions on the financial statements, but not for the purpose of expressing an opinion on the effectiveness of
+District’s internal control.  Accordingly, we do not express an opinion on the effectiveness of District’s internal control.
+
+A deficiency in internal control exists when the design or operation of a control does not allow management or employees,
+in the normal course of performing their assigned functions, to prevent, or detect and correct, misstatements on a timely
+basis.  A material weakness is a deficiency, or a combination of deficiencies, in internal control, such that there is a
+reasonable possibility that a material misstatement of the entity’s financial statements will not be prevented, or detected and
+corrected on a timely basis.  A significant deficiency is a deficiency, or a combination of deficiencies, in internal control
+that is less severe than a material weakness, yet important enough to merit attention by those charged with governance.
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and was not
+designed to identify all deficiencies in internal control that might be material weaknesses or, significant deficiencies.  Given
+these limitations, during our audit we did not identify any deficiencies in internal control that we consider to be material
+weaknesses.  However, material weaknesses may exist that have not been identified.
+
+
+
+49
+
+Compliance and Other Matters
+
+As part of obtaining reasonable assurance about whether the District’s financial statements are free of material
+misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and grant
+agreements, non-compliance with which could have a direct and material effect on the determination of financial statements
+amounts.  However, providing an opinion on compliance with those provisions was not an objective of our audit, and
+accordingly, we do not express such an opinion.  The results of our tests disclosed no instances of noncompliance or other
+matters that are required to be reported under Government Auditing Standards.
+
+Purpose of this Report
+
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the results of
+that testing, and not to provide an opinion on the effectiveness of the entity’s internal control or on compliance.  This report
+is an integral part of an audit performed in accordance with Government Auditing Standards in considering the entity’s
+internal control and compliance.  Accordingly, this communication is not suitable for any other purpose.
+
+Sanders, Bledsoe & Hewett
+Certified Public Accountants, LLP
+
+January 8, 2019
+
+
+
+50
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND ON
+INTERNAL CONTROL OVER COMPLIANCE REQUIRED
+
+BY THE UNIFORM GUIDANCE
+
+The Honorable Board of Education
+Jenks School District Number I-5
+Jenks, Tulsa County, Oklahoma
+
+Report on Compliance for Each Major Federal Program
+
+We have audited Jenks School District Number I-5, Jenks, Tulsa County, Oklahoma (District)’s, compliance with the types
+of compliance requirements described in the OMB Compliance Supplement that could have a direct and material effect on
+each of the District’s major federal programs for the year ended June 30, 2018.  The District’s major federal programs are
+identified in the summary of auditor’s results section of the accompanying schedule of findings and questioned costs.
+
+Management’s Responsibility
+
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and grants applicable to its
+federal programs.
+
+Auditor’s Responsibility
+
+Our responsibility is to express an opinion on compliance for each of the District’s major federal programs based on our
+audit of the types of compliance requirements referred to above.  We conducted our audit of compliance in accordance with
+auditing standards generally accepted in the United States of America; the standards applicable to financial audits contained
+in Government Auditing Standards, issued by the Comptroller General of the United States, and the audit requirements of
+Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit
+Requirements for Federal Awards (Uniform Guidance). Those standards and Uniform Guidance require that we plan and
+perform the audit to obtain reasonable assurance about whether noncompliance with the types of compliance requirements
+referred to above that could have a direct and material effect on a major federal program occurred.  An audit includes
+examining, on a test basis, evidence about the District’s compliance with those requirements and performing such other
+procedures as we considered necessary in the circumstances.
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal program.
+However, our audit does not provide a legal determination of the District’s compliance.
+
+Opinion on Each Major Federal Program
+
+In our opinion. the District, complied, in all material respects with the types of compliance requirements referred to above
+that could have a direct and material effect on each of its major federal programs for the year ended June 30, 2018.
+
+
+
+51
+
+Report on Internal Control Over Compliance
+
+Management of the District, is responsible for establishing and maintaining effective internal control over compliance with
+the types of compliance requirements referred to above.  In planning and performing our audit of compliance, we
+considered the District’s internal control over compliance with the types of requirements that could have a direct and
+material effect on each major federal program to determine the auditing procedures that are appropriate in the
+circumstances for the purpose of expressing an opinion on compliance for each major federal program and to test and report
+on internal control over compliance in accordance with Uniform Guidance, but not for the purpose of expressing an opinion
+on the effectiveness of internal control over compliance.  Accordingly, we do not express an opinion on the effectiveness of
+the District’s internal control over compliance.
+
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance does not
+allow management or employees, in the normal course of performing their assigned functions to prevent or detect and
+correct, noncompliance with a type of compliance requirement of a federal program on a timely basis.  A material weakness
+in internal control over compliance is a deficiency, or combination of deficiencies, in internal control over compliance, such
+that there is a reasonable possibility that material noncompliance with a type of compliance requirement of a federal
+program will not be prevented, or defected and corrected, on a timely basis.  A significant deficiency in internal control over
+compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with a type of compliance
+requirement of a federal program that is less severe than a material weakness in internal control over compliance, yet
+important enough to merit attention by those charged with governance.
+
+Our consideration of internal control over compliance was the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control over compliance that might be material
+weaknesses or significant deficiencies.  We did not identify any deficiencies in internal control over compliance that we
+consider to be material weaknesses.  However, material weaknesses may exist that have not been identified.
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of internal
+control over compliance and the results of that testing based on the requirements of the Uniform Guidance.  Accordingly,
+this report is not suitable for any other purpose.
+
+Sanders, Bledsoe & Hewett
+Certified Public Accountants, LLP
+
+January 8, 2019
+
+
+
+52
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+DISPOSITION OF PRIOR YEAR’S SIGNIFICANT DEFICIENCIES AND
+
+MATERIAL INSTANCES OF NON-COMPLIANCE
+JUNE 30, 2018
+
+There were no prior year significant deficiencies.
+
+
+
+53
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+SCHEDULE OF FINDINGS AND RESPONSES
+
+JUNE 30, 2018
+
+Section 1 – Summary of Auditor’s Results:
+
+1. An adverse opinion was issued on the combined financial statements in conformity
+with generally accepted accounting principles, and an unmodified opinion was issued
+with respect to the presentation of financial statement on the regulatory basis of
+accounting authorized by the Oklahoma State Board of Education.
+
+2. The audit disclosed no significant deficiencies in the internal controls.
+
+3. The audit disclosed no instances of noncompliance with state laws and regulations.
+
+4. The audit disclosed no significant deficiencies in the internal controls over major
+programs.
+
+5. An unmodified opinion report was issued on the compliance of major programs.
+
+6. The audit disclosed no findings that were required to be reported under Uniform
+Guidance.
+
+7. Programs determined to be major are the Child Nutrition Programs (10.553, 10.555,
+10.559), which were clustered in determination, and the Title I Programs (84.010),
+which was not clustered.
+
+8. The dollar threshold used to determine between Type A and Type B programs was
+$750,000.
+
+9. The auditee was determined not to be a low-risk auditee.
+
+Section 2 – Findings relating to the financial statements required to be reported in
+accordance with GAGAS:
+
+NONE
+
+Section 3 – Findings and questioned costs for federal awards:
+
+NONE
+
+
+
+POSITION BOND COVERAGE
+BONDING COMPANY COVERED NUMBER AMOUNT EFFECTIVE DATES
+
+RLI Indemnity Company CFO/Treasurer LSM0477915 300,000$ 1/28/18 - 1/28/19
+RLI Indemnity Company Superintendent LSM0623643 300,000 7/1/17-7/1/18
+RLI Indemnity Company Assistant Treasurer LSM0623617 300,000 7/18/17 - 7/18/18
+RLI Indemnity Company Minutes/Board Clerk LSM0902571 10,000 7/1/17 - 7/1/18
+RLI Indemnity Company Deputy Minutes/Board Clerk LSM0741686 10,000 5/13/18 - 5/13/19
+RLI Indemnity Company Encumbrance Clerk LSM0902572 10,000 7/1/17 - 7/1/18
+RLI Indemnity Company Blanket Public Official Position Bond: LSM0638136 272,000 7/1/17 - 7/1/18
+
+Activity Fund Custodian
+Asst Dir of Child Nutrition
+Activity Fund Courier
+Teller Community Ed
+Child Nutrition Clk/Enc Clk
+Cafeteria Site Managers
+Child Nutrition Director
+
+    Activity Fund Clerk
+   Cafeteria Mang Level 2
+
+JENKS INDEPENDENT SCHOOL DISTRICT NO. I-5, TULSA COUNTY
+STATEMENT OF STATUTORY, FIDELITY AND HONESTY BONDS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+54
+
+
+
+
+	1 Cover sheets.pdf
+	2 -  Independent Auditor's Report-2018.pdf
+	3 - MDA FY 2017-18.pdf
+	3t - Statement of Net Position FY18.pdf
+	3u - Statement of Activities FY18.pdf
+	3v - Governmental Funds Balance Sheet FY18.pdf
+	3x - Reconciliation of governmental funds FY18.pdf
+	3y - All fiduciary funds - balance sheet FY18.pdf
+	4 - Notes To Combine Financial Statements  2018.pdf
+	5a - Budget to Actual - GF FY18.pdf
+	5c - Budget to Actual - BF FY18.pdf
+	5d - Budget to Actual - CNF FY18.pdf
+	5e - Budget to Actual-Sinking FY18.pdf
+	5f - Budget to Actual - Bond Funds FY18.pdf
+	6b - All capital projects - balance sheet FY18.pdf
+	6c - All capital projects funds - income statements FY18.pdf
+	6d - All fiduciary funds - balance sheet FY18.pdf
+	6e - All fiduciary revenue funds - income statements FY18.pdf
+	6f - Agency fund - balance sheet FY18.pdf
+	7  Report on Internal control and compliance  in accordance with GAS-2018.pdf
+	7a - Report on Compliance for each Major prog and IC by uniform guidance 2018.pdf
+	8 - Disposition - prior year reportable conditions.pdf
+	9 - Schedule of findings and responses.pdf
+	10 - Surety bond coverage schedule FY 18.pdf
+	10a- Insur and Ltr.pdf
+

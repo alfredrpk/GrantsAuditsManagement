@@ -1,0 +1,3901 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANNUAL FINANCIAL REPORT 
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+1PITTSBURG COUNTY, OKLAHOMA 
+
+JULY 1; 2017 TO JUNE 30, 2018 
+I 
+
+AUDITED BY 
+
+KERRY JOHN PATTEN, C.P.A. 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+SCHOOL DISTRICT OFFICIALS 
+JUNE 30, 2018 
+
+President 
+
+Vice-President 
+
+Clerk 
+
+Member 
+
+Member 
+
+Board of Education 
+
+Victor Wheeler 
+
+Shelli Colbert 
+
+Mike Sossamon 
+
+Cameron Fields 
+
+Joy Tribbey 
+
+Superintendent of Schools 
+
+Randy Hughes 
+
+School District Treasurer 
+
+Chad Gragg 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+JUNE 30, 2018 
+
+TABLE OF CONTENTS 
+
+Report of Independent Auditor .................................................................................................
+............. .. 
+
+Combined Financial Statements 
+
+Combined Statement of Assets, Liabilities and Fund Balances -
+
+Page 
+
+All Fund Types and Account Groups - Regulatory Basis.........................................................
+ 3 
+
+Combined Statement of Revenues Collected, Expenditures Paid 
+and Changes in Fund Balances - All Governmental Fund Types 
+
+Regulatory Basis .. . . .. .. .. .. .. . . .. . . . . . .. . .. . .. . .. .. .. . . . .. . . . . . . ... . .. . . . . . . . . . . . . . . . . .. .. .. . . .. . .. . . . . .. . . . . . ... . . . .. .. .. . ... .. .. . .. .
+ 4 
+
+Combined Statement of Revenues Collected, Expenditures Paid 
+and Changes in Fund Balances - Budget and Actual - Regulatory Basis 
+
+General Fund and Special Revenue Fund ...............................................................................
+ 5 
+
+Notes to the Financial Statements ...........................................................................................
+............... 6 
+
+Combining Financial Statements 
+
+Combining Statement of Assets, Liabilities and Fund 
+Balances -All Special Revenue Funds - Regulatory Basis .............................. ,.....................
+
+ 17 
+
+Combining Statement of Revenues Collected, Expenditures Paid 
+and Changes in Fund Balances - All Special Revenue Funds 
+Regulatory Basis . .... ... .. .. ... . . . .. . . . . .. .. .. .. .. . . . . .. .. . .. .. .. ... ... . .. . . .. . . . . . . . . . . . .. .. .. .. . .. .. . .. . . . . . . . .. .. . .. .. . . . .. . . ... .. .. 
+
+18 
+
+Combining Statement of Assets, Liabilities and Fund 
+Balances - Capital Project Fund - Regulatory Basis ...............................................................
+
+ 19 
+
+Combining Statement of Revenues Collected, Expenditures Paid 
+and Changes in Fund Balances - Capital Project Fund - Regulatory Basis....................... 
+
+20 
+
+Combining Statement of Assets, Liabilities and Fund Balances -
+All Fiduciary Funds - Regulatory Basis ....................................................................................
+
+ 21 
+
+Combining Statement of Revenues Collected, Expenditures Paid 
+and Changes in Fund Balances - Fiduciary Fund 
+Regulatory Basis .. ... .. .. .. . . .. .. . . . . . .. . . .. .. .. .. . . . . .. . . . .. . . ..... .. . ... .. .. . .. . . . ... . . .. .. .. . . . .. . . . . . .. .. ..... . .. .. . .. . . .. .. ... .. .. 
+
+22 
+
+Supplemental Information 
+
+Budgetary Comparison Schedule - Regulatory Basis 
+Building Fund........................................................................................................
+
+. 23 
+
+Budgetary Comparison Schedule - Regulatory Basis 
+Child Nutrition Fund................................................................................................
+
+. 24 
+
+Budgetary Comparison Schedule - Regulatory Basis 
+Co-op Fund..........................................................................................................
+
+. 25 
+
+Budgetary Comparison Schedule - Regulatory Basis 
+Municipal Levy Fund.............................................................................................. 
+
+26 
+
+Schedule of Expenditures of Federal Awards .........................................................................
+....... 27 
+
+Notes to the Schedule of Expenditures of Federal Awards 
+30 
+
+(continued) 
+
+
+
+School Activity Fund - Receipts, Transfers, Disbursements 
+and Sub-account Balances ........................................................................................................ 31 
+
+Reports Required by Government Auditing Standards 
+
+Independent Auditor's Report on Internal Control over Financial Reporting and on Compliance 
+
+and Other Matters Based on an Audit of Financial Statements Performed in Accordance 
+
+With Government Auditing Standards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35 
+
+Independent Auditor's Report on Compliance for Each Major Federal Program; Report on 
+
+Internal Control Over Compliance; And Report on the Schedule of Expenditures of Federal 
+
+Awards Required by OMB Uniform Guidance.................................................................. 37 
+
+Schedule of Findings and Questioned Costs .......................................................................................... 39 
+
+Summary of Prior Audit Findings .. . .. .. .. . . . . . . . ... . . . .. .. .. .. . . .. . .. . . . .. . . . . . . . . . .. . . . . . .. .. .. .. .. . .. . ... .. .. . .. . . .. .. .. . . . . . . .. . .. . . ...... 40 
+
+Schedule of Comments . .. . .. . .. . . .. . . . . . . .. . . . .. . . . . . .. .. . . . . . .. .. .. . . . . .. . . .. . . . . .. .. . . . . .. .. .. . .. . .. . .. . . . .. . . . . . .. . . . . . . ... .. .. . . .. .. .. . .. . .. . 41 
+
+Schedule of Accountant's Professional Liability Insurance Affidavit ................................... .................... 42 
+
+
+
+KERRY JOHN PATIEN, C.P.A. 
+2101 N. Willow Ave. 
+Broken Arrow, OK 74012 
+Phone Number (918) 250-8838 
+FAX Number (918) 250-9853 
+
+The Honorable Board of Education 
+McAlester School District No. 1-80 
+Pittsburg County, Oklahoma 
+
+Report on Financial Statements 
+
+Independent Auditor's Report 
+
+I have audited the accompanying combined fund type and account group financial statements - regulatory 
+basis of the McAlester School District No. 1-80, Pittsburg County, Oklahoma, as of and for the year ended 
+June 30, 2018, and the related notes to the financial statements, as listed in the table of contents. 
+
+Management's Responsibility for the Financial Statements 
+
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with financial reporting provisions prescribed or permitted by the Oklahoma State Department 
+of Education. Management is also responsible for the design, implementation, and maintenance of internal 
+control relevant to the preparation and fair presentation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+
+Auditor's Responsibility 
+
+My responsibility is to express an opinion on these financial statements based on my audit. I conducted 
+my audit in accordance with auditing standards generally accepted in the United States of America and the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States. Those standards require that I plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free from material misstatement. 
+
+An audit involves performing procedures to obtain audit evidence about the amount and disclosures in the 
+financial statements. The procedures selected depend on the auditor's judgment, including the 
+assessment of risks of material misstatement of the financial statements, whether due to fraud or error. In 
+making those risk assessments, the auditor considers internal control relevant to the entity's preparation 
+and fair presentation of the financial statements in order to design· audit procedures that are appropriate in 
+the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's 
+internal control. Accordingly, I express no such opinion. An audit also includes evaluating the 
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates 
+made by management, as well as evaluating the overall presentation of the financial statements. 
+
+I believe that the audit evid~nce I have obtained is sufficient and appropriate to provide a basis for my audit 
+opinion. · 
+
+Basis for Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+
+As discussed in Note 1 (C) to the financial statements, the financial statements are prepared by the 
+McAlester School District No. 1-80, Pittsburg County, Oklahoma, on the basis of the financial reporting 
+provisions of the Oklahoma State Department of Education, which a basis of accounting other than 
+accounting principles generally accepted in the United States of America 
+
+The effects on the financial statements of the variances between the regulatory basis of accounting 
+described in Note 1 (C) and accounting principles generally accepted in the United States of America, 
+although not reasonably determinable, are presumed to be material. 
+
+1 
+
+
+
+Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+
+In my opinion, because of the significance of the matter discussed in the "Basis for Adverse Opinion on 
+U.S. Generally Accepted Accounting Principles" paragraphs, the financial statements referred to in the first 
+paragraph do not present fairly, in accordance with accounting principles generally accepted in the United 
+States of America, the financial position of McAlester School District No. 1-80, Pittsburg County, Oklahoma 
+as of June 30, 2018, or the revenues, expenses, and changes in financial position for the year then ended. 
+
+Basis for Qualified Opinion on Regulatory Basis of Accounting 
+
+The financial statements referred to in the first paragraph do not include the general fixed asset account 
+group, which is a departure from the regulatory basis of accounting prescribed or permitted by the 
+Oklahoma State Department of Education. The amount that should be recorded in the general fixed asset 
+account group is not known. 
+
+Qualified Opinion on Regulatory Basis of Accounting 
+
+In my opinion, except for the effects of the matter described in the "Basis for Qualified Opinion on 
+Regulatory Basis of Accounting" paragraph, the financial statements referred to in the first paragraph 
+present fairly, in all material respects, the assets, liabilities, and fund balances arising from regulatory basis 
+transactions of each fund type and account group of McAlester School District No. 1-80, Pittsburg County, 
+Oklahoma, as of June 30, 2018, and the revenues collected and expenditures paid and encumbered for 
+the year then ended, on the regulatory basis of accounting described in the Note 1 (C). 
+
+Other Matters 
+Other Information 
+
+My audit was conducted for the purpose of forming opinions on the fund type and account group financial 
+statements within the combined financial statements. The combining fund statements-regulatory basis, 
+and other schedules as listed in the table of contents, under supplementary information, are presented for 
+purposes of additional analysis and are not a required part of the combined financial statements of the 
+District. The Schedule of Expenditures of Federal Awards is presented for purposes of additional analysis 
+as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and/or the Oklahoma State 
+Department of Education, and is also not a required part of the basic financial statements. 
+
+The combining financial statements-regulatory basis, and other schedules as listed in the table of contents, 
+under supplementary information and the Schedule of Expenditures of Federal Awards are the 
+responsibility of management and were derived from and relate directly to the underlying accounting 
+records used to prepare the combined financial statements. Such information has been subjected to the 
+auditing procedures applied in the audit of the fund type and account group financial statements within the 
+combined financial statements, and other additional procedures, including comparing and reconciling such 
+information directly to the underlying accounting and other records used to prepare the combined financial 
+statements, and other additional procedures in accordance with auditing standards generally accepted in 
+the United States of America. In my opinion, the supplementary information including the Schedule of 
+Expenditures of Federal Awards are fairly stated in all material respects in relation to the combined 
+financial statements taken as a whole on the regulatory basis of accounting described in Note 1 (C). 
+
+Other Reporting Required by Government Auditing Standards 
+
+In accordance with Government Auditing Standards, I have also issued my report dated January 8, 2019, 
+on my consideration of McAlester School District No. 1-80, Pittsburg County, Oklahoma's, internal control 
+over financial reporting and on my tests of its compliance with certain provisions of laws, regulations, 
+contracts and grant agreements and other matters. The purpose of that report is to describe the scope of 
+my testing of internal control over financial reporting and compliance and the results of that testing, and not 
+to provide an opinion on the internal control over financial reporting or on compliance. That report is an 
+integral part of an audit performed in accordance with Government Auditing Standards and should be 
+considered in assessing the results of my audit. 
+
+/2''.--~-:::::;i::r:;;;...:;;~~--
+
+Ke~ J:::Z~n, C.P.A. 
+Broken Ar w, OK 
+January 8, 2019 
+
+2 
+
+
+
+COMBINED FINANCIAL STATEMENTS 
+
+
+
+ASSETS 
+
+Cash 
+
+Investments 
+
+Amounts available in debt service fund 
+Amounts to be provided for retirement 
+
+of general long-term debt 
+
+Total assets 
+
+LIABILITIES AND FUND BALANCES 
+
+Liabilities: 
+Outstanding warrants 
+
+Encumbrances 
+
+Due to others 
+Long-term debt: 
+
+Capitalized lease obligations payable 
+
+Bonds payable 
+
+Interest payable 
+
+Total liabilities 
+
+Fund Balances 
+Designated for capital projects 
+
+Designated for debt service 
+
+Cash fund balances 
+
+Total fund balances 
+
+Total liabilities and fund balances 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+COMBINED STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCES 
+
+ALL FUND TYPES AND ACCOUNT GROUPS - REGULATORY BASIS 
+JUNE 30, 2018 
+
+Governmental Fund Types 
+
+Special Capital 
+
+General Revenue Debt Service Projects 
+
+5,568,693.96 $ 2,268,652.17 $ 614,577.23 $ 19,895.15 
+
+510,353.25 
+
+6,079,047.21 $ 2,268,652.17 $ 614,577.23 $ 19,895.15 
+
+2,824,619.07 $ 219,014.12 $ $ 
+
+342,793.34 690,728.62 19,895.15 
+
+3167,412.41 $ 909,742.74 $ $ 19,895.15 
+
+$ $ - $ 
+614,577.23 
+
+2,911,634.80 1,358,909.43 
+
+2,911,634.80 $ 1,358,909.43 $ 614,577.23 $ 
+
+6,079,047.21 $ 2,268,652.17 $ 614,577.23 $ 19,895.15 
+
+The notes to the financial statements are an integral part of this statement. 
+
+3 
+
+Total 
+
+Fiduciary Fund Account (Memorandl 
+Types Groups Only) 
+
+General 
+Trust and Long-term 
+Agency Debt June 30, 20· 
+
+$ 744,941.14 $ $ 9,216,759 
+
+4,500.00 514,853 
+
+614,577.23 614,577 
+
+1,543,027.54 1,543,027 
+
+$ 749,441.14 $ 2,157,604.77 $ 11,889,217 
+
+$ 24,686.07 $ $ 3,068,319 
+1,053,417 
+
+332,604.77 332,604 
+
+1,825,000.00 1,825,000 
+
+$ 24,686.07 $ 2,157,604.77 $ 6,279,341 
+
+$ $ $ 
+
+- 614,577 
+724,755.07 4,995,299 
+
+$ 724,755.07 $ $ 5,609,876 
+
+$ 749,441.14 $ 2,157,604.77 $ 11,889,217 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+COMBINED STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES 
+
+ALL GOVERNMENTAL FUND TYPES - REGULATORY BASIS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+Total 
+
+(Memorandum 
+
+Governmental Fund Types Only) 
+
+Special Capital 
+
+General Revenue Debt Service ~ects June 30, 2018 
+
+Revenues collected: 
+
+Local sources $ 3,731,370.20 $ 1, 122,670.34 $ 677,735.93 $ - $ 6,212,997.03 
+Intermediate sources 681,220.56 14,678,653.16 
+
+State sources 13,690,079.68 307,352.92 - 18,206,296.60 
+Federal sources . 1,589,864.15 2,618,999.85 4,481,606.92 
+
+Non-revenue sources 94,615.17 178,127.75 - 272,742.92 
+
+Total revenues collected $ 19,787, 149.76 $ 4,227,150.86 $ 677,735.93 $ $ 24,692,036.55 
+
+Expenditures paid: 
+
+Instruction $ 12,770,813.39 $ 51,939.47 $ $ $ 12,822,752.86 
+
+Support services 7,169,270.93 788,083.27 256,056.50 8,213,410. 70 
+
+Non~instructional services 3,291.18 2,902,384.61 - 2,905,675.79 
+Capital outlay 427.17 166,643.00 167,070.17 
+
+Other outlays 6,122.39 525.00 6,647.39 
+
+Other uses 
+Repayments 
+Debt service: 
+
+Principal retirement 550,000.00 550,000.00 
+
+Interest 33,687.50 33,687.50 
+
+·Total expenditures paid $ 19,949,925.06 $ 3,909,575.35 $ 583,687.50 $ 256,056.50 $ 24,699,244.41 
+
+Excess of revenues collected over (under) 
+
+expenses paid before adjustments to 
+
+prior year encumbrances $ (162, 775:30) $ 317,575.51 $ 94,048.43 $ (256,056.50) $ (7,207.86) 
+
+Adjustments to prior year encumbrances $ 30,990.26 $ 49,784.35 $ $ $ 80,774.61 
+
+Other financing sources (uses): 
+
+Bond sale proceeds $ $ $ $ $ 
+
+Operating transfers in/( out} 
+
+Bank charges ---·-· -
+
+Total other financing sources (uses) $ $ - $ - $ $ 
+Excess (deficiency) of revenue collected 
+
+over (under) expenditures paid and other 
+
+financing sources (uses) $ (131,785.04) $ 367,359.86 $ 94,048.43 $ (256,056.50) $ 329,623.25 
+
+Fund balances, beginning of year $ 3,043,419.84 $ 991,549.57 $ 520,528.80 $ 256,056.50 $ 4,811,554. 71 
+
+Fund balances, end of year $ 2,911,634.80 $ 1,358,909.43. $ 614,577.23 $ $ 4,885,121.46 
+
+The notes to the financial statements are an integral part of this statement. 
+
+4 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+COMBINED STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES - BUDGET AND ACTUAL 
+
+BUDGETED GOVERNMENTAL FUND TYPES - REGULATORY BASIS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+General Fund Special Revenue Fund 
+
+Original 
+
+Original Budget Final Budget Actual Budget Final Budget Act
+ual 
+
+Revenues collected: 
+
+Local sources $ 3, 120, 117.05 $ 3,120,117.05 $ 
+3,731,370.20 $ 603,665.43 $ 1,045,659.42 $ 1, 122,670.34 
+
+Intermediate sources 597, 112.46 597, 112.46 
+681,220.56 
+
+State sources 13,379,251.90 13,379,251.90 1
+3,690,079.68 251,407.49 251,407.49 307,352.92 
+
+Federal sources 1,950,211.01 1,950,211.01 1
+,589,864.15 1,652,942.34 2,382,302.12 2,618,999.85 
+
+Non-revenue sources 
+94,615.17 178,127.75 
+
+Total revenues collected $ 19,046,692.42 $ ~046,692.42 $ 
+19,787,149.76 $ 2,508,015.26 $ .3,679,369.03 $ 4,227,150.86 
+
+Expenditures paid: 
+
+Instruction $ 14,911,000.59 $ 14,911,000.59 $ 
+12,770,813.39 $ 126,610.48 $ 126,610.48 $ 51,939.47 
+
+Support services 7, 169,270.93 7,169,270.93 7
+, 169,270.93 843,763.24 1,285,757.23 788,083.27 
+
+Non-instructional services 3,291.18 3,291.18 
+3,291.18 2,362,023.11 3,091,382.89 2,902,384.61 
+
+Capital outlay 427.17 427.17 
+427.17 166,643.00 166,643.00 166,643.00 
+
+Other outlays 6,122.39 6,122.39 
+6,122.39 525.00 525.00 525.00 
+
+Other Uses 
+
+Repayment 
+
+Debt service: 
+
+Principal retirement 
+
+Interest 
+
+Total expenditures paid $ 22,090,112.26 $ 22,090,112.26 $ 
+19,949,925.06 $ 3,499,564.83 $ 4,670,918.60 $ 3,909,575.35 
+
+Excess of revenues collected over (under) 
+
+expenses paid before adjustments to prior 
+
+year encumbrances $ (3,043,419.84) $ (3,043,419.84) $ 
+(162,775.30) $ (991,549.57) $ (991,549.57) $ 317,575.51 
+
+Adjustments to prior year encumbrances $ $ $ 
+30,990.26 $ - $ $ 49,784.35 
+
+Other financing sources (uses}: 
+
+Operating transfers in/out $ $ $ 
+$ $ $ 
+
+Bank Charges -·-·--·-
+
+Total other financing sources (uses} $ $ $ 
+$ - $ $ 
+
+Excess (deficiency) of revenue collected 
+
+over (under) expenditures paid and other 
+
+financing sources (uses) $ (3,043,419.84) $ (3,043,419.84) $. (131,78
+5.04) $ (991,549.57) $ (991,549.57) $ 367,359.86 
+
+Fund balance, beginning of year $ 3,043,419.84 $ 3,043,419.84 $ 3;
+043,419.84 $ 991,549.57 $ 991,549.57 $ 991,549.57 
+
+Fund balance, end of year $ $ $ 2
+,911,634.80 $ $ $ 1,358,909.43 
+
+The notes to the financial statements are an integral part of this statement. 
+
+5 
+
+
+
+NOTES TO THE FINANCIAL STATEMENTS 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies 
+
+The accompanying financial statements of the McAlester School District No. 1-80 (the "District
+") conform to 
+
+the regulatory basis of accounting, which is another comprehensive basis of accounting pres
+cribed by the 
+
+Oklahoma State Department of Education and conforms to the system of accounting autho
+rized by the 
+
+State of Oklahoma. Accordingly, the accompanying financial statements are not intende
+d to present 
+
+financial position and results of operations in conformity with accounting principles generally
+ accepted in 
+
+the United States of America. The District's accounting policies are described in the followin
+g notes that 
+
+are an integral part of the District's financial statements. 
+
+A Reporting Entity 
+
+The District is a corporate body for public purposes created under Title 70 of the Oklahoma 
+Statutes and, 
+
+accordingly, is a separate entity for operating and financial reporting purposes. The District 
+is part of the 
+
+public school system of Oklahoma under the general direction and control of the State Board 
+of Education 
+
+and is financially dependent on the State of Oklahoma. The general operating authority f
+or the public 
+
+school system is the Oklahoma School Code contained in Title 70, Oklahoma Statutes. 
+
+The governing body of the District is the Board of Education composed of elected me
+mbers. The 
+
+appointed superintendent is the executive officer of the District 
+
+In evaluating how to define the District, for financial reporting purposes, management has c
+onsidered all 
+
+potential component units. The decision to include a potential component unit in the reportin
+g entity was 
+
+made by applying the criteria established by the Governmental Accounting Standards Board (
+GASB). The 
+
+basic - but not the only - criterion for including a potential component unit within the reporting
+ entity is the 
+
+governing body's ability to exercise oversight responsibility. The most significant manifes
+tation of this 
+
+ability is financial interdependency. Other manifestations of the ability to exercise oversight 
+responsibility 
+
+include, but are not limited to, the selection of governing authority, the designation of mana
+gement, the 
+
+ability to significantly influence operations, and accountability for fiscal matters. A second crit
+erion used in 
+
+evaluating potential component units is the scope of public service. Application of this crite
+rion involves 
+
+considering whether the activity benefits the District and/or its citizens, or whether the activity
+ is conducted 
+
+within the geographic boundaries of the District and is generally available to its patrons. A 
+third criterion 
+
+used to evaluate potential component units for inclusion or exclusion from the reporting 
+entity is the 
+
+existence of special financing relationships, regardless of whether the District is able to exerc
+ise oversight 
+
+responsibilities. Based upon the application of these criteria, there are no potential com
+ponent units 
+
+included in the District's reporting entity. These statements present only the activities of the D
+istrict 
+
+B. Measurement Focus 
+
+The District uses funds and account groups to report on its financial position and the 
+results of its 
+
+operations. Fund accounting is designed to demonstrate legal compliance and to 
+aid financial 
+
+management by segregating transactions related to certain district functions or activities. 
+
+A fund is an independent accounting entity with a self-balancing set of accounts. The accou
+nt groups are 
+
+financial reporting devices designed to provide accountability for certain assets and liabilities
+ that are not 
+
+recorded directly in the funds. 
+
+Funds are classified into three categories: governmental, proprietary and fiduciary. Each cate
+gory, in turn, 
+
+is divided into separate "fund types." The District has the following fund types and account gro
+ups: 
+
+Governmental Funds 
+
+Governmental funds are used to account for all or most of a government's general activities, 
+including the 
+
+collection and disbursement of earmarked monies (special revenue funds), the acquisition or
+ construction 
+
+of general fixed assets (capital project funds), and the servicing of general long-term debt 
+(debt service 
+
+funds). Basis of accounting relates to the timing of the measurements made, regar
+dless of the 
+
+measurement focus applied. All governmental type funds are accounted for using the
+ Regulatory 
+
+(Statutory) basis of accounting. All revenues from all sources, including property taxes, 
+entitlements, 
+
+grants, and shared revenues are recognized when they are received, rather than earned. 
+Expenditures 
+
+are generally recognized when encumbered or reserved, rather than at the time the relat
+ed liability is 
+
+incurred. Unmatured interest for debt service is recognized when due and certain c
+ompensated 
+
+absences and claims and judgments are recognized when the obligations are expected to be 
+liquidated 
+
+6 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Summary of Significant Accounting Policies (continued) 
+
+with expendable, available financial resources. Fiduciary type funds are accounted for using the cash 
+
+basis of accounting. These practices differ from accounting principles generally accepted in the United 
+
+States of America 
+
+General Fund - The general fund is used to account for all financial transactions except those required to 
+
+be accounted for in another fund. Major revenue sources include local property taxes and federal and 
+
+state funding. Expenditures include all costs associated with the daily operations of the schools, except for 
+
+programs funded for building repairs and maintenance, school construction and debt service on bonds and 
+
+other long'.'"term debt. The general fund includes federal and state restricted monies that must be 
+
+expended for specific programs. 
+
+Special Revenue Fund - The special revenue funds are used for proceeds of specific revenue sources that 
+
+are legally restricted to expenditures for specified purposes. 
+
+Building Fund - The building fund consists mainly of monies derived from property taxes levied for the 
+
+purpose of erecting, remodeling, repairing or maintaining school buildings and for purchasing 
+furniture, equipment and computer software to be used on or for technology center property, for 
+
+paying energy and utility costs, for purchasing telecommunications services, for paying fire and 
+
+casualty insurance premiums for center facilities, for purchasing security systems, and for paying 
+salaries of security personnel. 
+
+Co-op Fund - The co-op Fund is established when the boards of education of tWo or more school 
+
+districts enter into cooperative agreements and maintain joint programs. The revenues necessary to 
+operate a cooperative program can come from federal, state, or local sources, including the individual 
+
+contributions of participating school districts. The expenditures for this fund would consist of those 
+necessary to operate and maintain the joint programs. 
+
+Child Nutrition Fund - The child nutrition fund consists of revenues from local collections, state, and 
+federal sources used to benefit the food service program. 
+
+Municipal Tax Lew Fund - In 2003, the City of McAlester passed sales tax measures. A portion of 
+the tax was earmarked for the McAlester School District. The monies received by the District are 
+
+designated for construction, capital expenditures and general facilities repair and maintenance. 
+
+Debt Service Fund - The debt service fund is the District's sinking fund and is used to account for the 
+
+accumulation of financial resources for the payment of general long-term debt principal and interest. The 
+
+primary revenue sources are local property taxes levied specifically for debt service and interest earnings 
+from temporary investments. · 
+
+Capital Projects Fund - The capital projects fund is the District's bond fund and is used to account for the 
+
+proceeds of bond sales to be used exclusively for acquiring school sites, constructing and equipping new 
+
+school facilities, renovating existing facilities and acquiring transportation equipment. 
+
+Fiduciary Funds 
+
+Fiduciary funds are used to account for assets held on behalf of outside parties, including other 
+
+governments or on behalf of other funds within the District. When these assets are held under the terms of 
+
+a trust agreement, trust funds are used for their accounting and reporting. Agency funds generally are 
+
+used to account for assets that the District holds on behalf of others as their agent and do not involve 
+
+measurement of results of operations. 
+
+Expendable Trust Funds - Expendable trust funds typically include the gifts and endowments fund. The 
+
+District maintained a gifts and endowment fund during the 2017-18 fiscal year. · 
+
+Gifts and Endowments Fund - The gifts and endowments fund receives its assets by way of 
+philanthropic foundations, individuals, or private organizations for which no repayment or special 
+
+service to the contributor is expected. This fund is used to promote the general welfare of the District. 
+
+7 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS-,REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Summary of Significant Accounting Policies (continued) 
+
+Agency Funds - The agency fund is the school activities fund, which is used to account for 
+monies, 
+
+collected principally through fundraising efforts of the students and District-sponsored group
+s. The 
+
+administration is responsible, under the authority of the Board, for collecting, disbursin
+g, and 
+
+accounting for these activity funds. 
+
+Account Groups 
+
+Account groups are not funds and consist of a self-balancing set of accounts used only
+ to establish 
+
+accounting control over long-term debt and general fixed assets. 
+
+General Long-Term Debt Account Group - This account group was established to accoun
+t for all 
+
+long-term debt of the District, which is offset by the amount available in the debt service fund 
+and the 
+
+amount to be provided in future years to complete retirement of the debt principal. 
+
+General Fixed Asset Account Group - This account group is used to account for property, pl
+ant, and 
+
+equipment of the school district. The District does not maintain the information necessary to
+ include 
+
+this group in its combined financial statements. 
+
+C. Basis of Accounting and Presentation 
+
+The District prepares its financial statements in a presentation format that is prescribed by th
+e Oklahoma 
+
+State Department of Education. This format is essentially the generally accepted form of
+ presentation 
+
+used by state and local governments prior to the effective date of GASB Statement No. 34, Ba
+sic Financial 
+
+Statements-Management's Discussion and Analysis-for State and Local Governments. 
+This format 
+
+significantly differs from that required by GASB 34. 
+
+The basic financial statements are essentially prepared on a basis of cash receipts and d
+isbursements 
+
+modified as required by the regulations of the Oklahoma State Department of Education
+ (OSDE) as 
+
+follows: 
+• Encumbrances represented by purchase orders, contracts, and other commitments for 
+
+the expenditure of monies and are recorded as expenditures when approved. 
+
+• Investments are recorded as assets when purchased. 
+• Warrants payable are recorded as liabilities when issued. 
+• Long-term debt is recorded when incurred. 
+• Compensated absences are recorded as an expenditure when the obligation is paid. 
+
+• Fixed assets are recorded in the General Fixed Asset Account Group. Fixed assets are
+ not 
+
+depreciated. 
+
+This regulatory basis of accounting differs from accounting principles generally accepted 
+in the United 
+
+States of America, which require revenues to be recognized when they become available and
+ measurable, 
+
+or when they are earned, and expenditures or expenses to be recognized when the related 
+liabilities are 
+
+incurred for governmental fund types; and, when revenues are earned. 
+
+D. Budgets and Budgetary Accounting 
+
+Prior to July 1 each year, the governing board of the school district prepares a verified applica
+tion showing 
+
+the needs of the school district and submits the application to the County Excise Board,
+ who makes 
+
+temporary appropriations for lawful current expenses of the school district. The temporary a
+ppropriations 
+
+are merged with the annual appropriations when the annual budget for the school dist
+rict is finally 
+
+approved. 
+
+Prior to October 1 each year, the school Board of Education must make a financial statement,
+ showing the 
+
+true fiscal condition of the school as of the close of the previous fiscal year ended June 30, a
+long with an 
+
+itemized statement of estimated needs and probable income from all sources for the fiscal yea
+r. 
+
+A budget is legally adopted by the Board of Education for the general fund and special reven
+ue fund(s) of 
+
+the school district. 
+
+8 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Summary of Significant Accounting Policies (continued) 
+
+Encumbrances represent commitments to unperformed contracts for goods or service
+s. Encumbrance 
+
+accounting - under which purchase orders and other commitments of resources 
+are recorded as 
+
+expenditures of the applicable fund - is utilized in all governmental funds of the District. 
+Under Oklahoma 
+
+Law, unencumbered appropriations lapse at the end of the year. 
+
+E. Assets, Liabilities and Fund Equity 
+
+Memorandum Only - Total Column 
+
+The total column on the general purpose financial statements is captioned "memorandum
+ only" to indicate 
+
+that it is presented only to facilitate financial analysis. Data in this column does not
+ present financial 
+
+position, results of operations or cash flows in conformity with generally accepted acco
+unting principles. 
+
+Neither is such data comparable to a consolidation. lnterfund eliminations have not b
+een made on the 
+
+aggregation of this data. 
+
+Cash - Cash consists of currency and checks on hand, demand deposit accounts, with
+ banks and other 
+
+financial institutions. 
+
+Investments - State statutes govern the District's investment policy. Permissible inv
+estments include 
+
+direct obligations of the United States Government and Agencies; certificates of depos
+it of savings and 
+
+loan associations, and bank and trust companies; and savings accounts or savings cert
+ificates of savings 
+
+and loan associations, and trust companies. Collateral is required for demand deposits 
+and certificates of 
+
+deposit for all amounts not covered by federal deposit insurance. Investments are stated 
+at cost. 
+
+Inventories - Inventories consist of minimal amounts of expendable supplies held for c
+onsumption. The 
+
+value of consumable inventories at year-end is not material to the District's financial state
+ments. The costs 
+
+of inventories are recorded as expenditures when encumbered and purchased; r
+ather than when 
+
+consumed. 
+
+Compensated Absences - Vested or accumulated vacation leave that is expected to 
+be liquidated with 
+
+expendable, available financial resources is reported as expenditure and a fun
+d liability of the 
+
+governmental fund that will pay it. There are no amounts of vested or accumulated vaca
+tion leave that are 
+
+not expected to be liquidated with expendable, available financial resources. 
+
+No liability is recorded for non-vesting accumulating rights to receive such pay benefits 
+
+Fixed Assets - The District has not maintained a record of its general fixed assets, an
+d, accordingly, a 
+
+General Fixed Asset Account Group is not included in the financial statements. Gen
+eral fixed assets 
+
+purchased are recorded as expenditures in the various funds at the time of purchase. 
+
+Long-Term Debt - Long-term debt is recognized as a liability of a governmental fund w
+hen due or when 
+
+resources have been accumulated in the debt service fund for payment early in the fo
+llowing year. For 
+
+other long-term obligations, only that portion expected to be financed from expendable, 
+available financial 
+
+resources is reported as a fund liability of a governmental fund. The remaining portion o
+f such obligations 
+
+is reported in the general long-term debt account group. 
+
+Cash Fund Balance - Cash fund balance represents the funds not encumbered by purc
+hase order, legal 
+
+contracts, and outstanding warrants. 
+
+F. Revenues, Expenses and Expenditures 
+
+Local Revenues - Revenue from local sources is revenue produced within the scho
+ol district, which 
+
+includes ad valorem taxes. It is available for current educational expenses and fo
+r other purposes 
+
+authorized by the school board. 
+
+9 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Summary of Significant Accounting Policies (continued) 
+
+The District is authorized by state law to levy property taxes, which consist of ad valorem taxe
+s on real and 
+
+personal property within the District. The county assessor, upon receipt of the certification
+ of tax levies 
+
+from the County Excise Board, extends the tax levies on the tax roll for submission to the co
+unty treasurer 
+
+prior to October 1. The county treasurer must commence tax collection within fifteen days of
+ receipt of the 
+
+tax rolls. The first half of the tax is due prior to January 1. The second half is due prior to Apr
+il 1. 
+
+If the first payment is not made timely, the entire tax becomes due and payable on January 2
+. Second half 
+
+taxes become delinquent on April 1 of the year following the year of assessment. If taxes a
+re delinquent 
+
+and unpaid for a period of three years or more the real estate may be sold for such taxes. 
+
+Intermediate Revenues - Revenue from intermediate sources is revenue from funds co
+llected by an 
+
+intermediate administrative unit or political sub-division, such as a county or municipality, and
+ redistributed 
+
+to the school district. 
+
+State Revenues - Revenue from state sources for current operations are primarily governe
+d by the state 
+
+aid formula under the provisions of Article XVIII, Title 70, Oklahoma Statutes. The S
+tate Board of 
+
+Education administers the allocation of state aid funds to school districts based o
+n information 
+
+accumulated from the districts. 
+
+After review and verification of reports and supporting documentation, the State Departmen
+t of Education 
+
+may adjust subsequent fiscal period allocations of money for prior year errors disclose
+d by review. 
+
+Normally, such adjustments are treated as reductions or additions of revenue of the ye
+ar when the 
+
+adjustment is made. 
+
+The District receives revenue from the state to administer certain categorical educational pro
+grams. State 
+
+Board of Education rules require that revenue earmarked for these programs be expende
+d only for the 
+
+program for which the money is provided. These rules also require that the money not expen
+ded, as of the 
+
+close of the fiscal year, be carried forward into the following year to be expended for the sam
+e categorical 
+
+programs. The State Department of Education requires that categorical educational program
+ revenues be 
+
+accounted for in the general fund. 
+
+Federal Revenues - Revenue from Federal sources is money originating from the Federal go
+vernment and 
+
+made available to the school district either as direct grants or under various programs passe
+d-through the 
+
+State Department of Education and other State agencies. 
+
+The Federal government also makes payments to school districts whose revenues are adve
+rsely affected 
+
+by the presence of Federal activities. Although these payments are made in consideration o
+f lost property 
+
+tax revenue, the Oklahoma State Department of Education advocates classifying such
+ amounts as 
+
+revenue from Federal sources. 
+
+Instruction Expenditures - Instruction expenditures include the activities dealing directly with 
+the interaction 
+
+between teachers and students. Teaching may be provided for students in a school classroo
+m, in another 
+
+location, such as a home or hospital, and in other learning situations, such as those involving
+ co-curricular 
+
+activities. It may also be provided through some other approved medium, such as tele
+vision, radio, 
+
+telephone and correspondence. Examples of expenditures that might be included here are th
+e activities of 
+
+teacher assistant of any type (clerks, graders, teaching machines, etc.), which assist in th
+e instructional 
+
+process. The activities of tutors, translators, and interpreters would be recorded here. 
+Department 
+
+chairpersons who teach for any portion of time are included here. Tuition/transfer fees paid 
+to other LEAs 
+
+would be included here. 
+
+Support Services Expenditures - Support services expenditures provide administrative, tech
+nical (such as 
+
+guidance and health) and logistical support to facilitate and enhance instruction. These ser
+vices exist as 
+
+adjuncts for fulfilling the objective of instruction, community services and enterprise program
+s, rather than 
+
+as entitles within them. 
+
+10 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Summary of Significant Accounting Policies (continued) 
+
+Operation of Non-Instructional Services Expenditures - Activities concerned with providing non-
+
+instructional services to students, staff, and the community. 
+
+Facilities Acquisition and Construction Services Expenditures - Consist of activities involved with the 
+
+acquisition of land and buildings; remodeling buildings; the construction of buildings and additions to 
+
+buildings; initial installation or extension of service systems and other built-in equipment; and improvement 
+
+to sites. 
+
+Other Outlays Expenditures - A number of outlays of governmental funds are not properly classified as 
+
+expenditures, but still require budgetary or accounting control. These are classified as Other Outlays. 
+
+These include debt service payments (principal and interest): 
+
+Other Uses Expenditures - This includes scholarships provided by private gifts and endowments; student 
+
+aid and staff awards supported by outside revenue sources (i.e., foundations). Also, expenditures for self-
+
+funded employee benefit programs administered either by the District or a third party administrator. 
+
+Repayment Expenditures - Repayment expenditures represent checks/warrants issued to outside 
+
+agencies for refund or restricted revenue previously received for overpayments, non-qualified 
+
+expenditures, and other refunds to be repaid from District funds. 
+
+lnterfund Transactions - Quasi-external transactions are accounted for as revenues, expenditures or 
+
+expenses. Transactions that constitute reimbursements to a fund or expenditures/expenses initially made 
+
+from it that are properly applicable to another fund, are recorded as expenditures/expenses in the fund that 
+
+is reimbursed. 
+
+All other interfund transactions, except quasi-external transactions and reimbursements, are reported as 
+
+transfers. Nonrecurring or nonroutine permanent transfers of equity are reported as residual equity 
+
+transfers. 
+
+Budgetary Information 
+
+Under current Oklahoma Statutes, a formal Estimate of Needs (Budget) is required for all General and 
+
+Special Revenue funds. Budgets are presented for all funds that include the originally approved budgeted 
+
+appropriations for expenditures and final budgeted appropriations as adjusted for supplemental 
+
+appropriations and approved transfers between budget categories. The annual Estimate of Needs, when 
+
+approved by the Board and subsequently filed with the County Clerk and approved by the County Excise 
+
+Board, becomes the legal budget. Supplemental appropriations, if required, were made during the year 
+
+and are reflected on the budget vs. actual presentations shown included in supporting schedules. 
+
+2. Deposit Categories of Credit Risk 
+
+Collateral is required for demand deposits and certificates of deposit for all amounts not covered by federal 
+
+· deposit insurance. The District's investment policies are governed by state statute. Permissible 
+
+investments include: 
+
+1. Direct obligations of the United States Government to the payment of which the full faith and credit 
+
+of the government is pledged. 
+
+2. Obligations to the payment of which the full faith and credit of the state is pledged. 
+
+3. Certificates of deposits of banks when such certificates of deposits are secured by acceptable 
+
+collateral as in the deposit of other public monies. 
+
+4. Savings accounts or savings certificates of savings and loan associations to the extent that such 
+
+accounts or certificates are fully insured by the Federal Savings and Loan Insurance Corporation. 
+
+11 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Deposit Categories of Credit Risk (continued) 
+
+5. Repurchase agreements that have underlying collateral consisting of those items specified in 
+
+paragraphs 1 and 2 of this section including obligations of the United States, its agencies and 
+
+instrumentalities, and where collateral has been deposited with a trustee of custodian bank in an 
+
+irrevocable trust or escrow account established for such purposes. 
+
+6. County, municipal or school district direct debt obligations for which an ad valorem tax may be 
+
+levied or bond and revenue anticipation notes, money judgments against such county, municipality 
+
+or school district ordered by a court of record or bonds or bond and revenue anticipation notes 
+
+issued by a public trust for which such county, municipality or school district is a beneficiary thereof. 
+
+All collateral pledged to secure public funds shall be valued at no more than market value. 
+
+7. Money market mutual funds regulated by the Securities and Exchange Commission and which 
+
+investments consist of obligations of the United States, its agencies and instrumentalities, and 
+
+investments in those items listed above. 
+
+8. Warrants, bonds or judgments of the school district. 
+
+9. Qualified pooled investment programs, the investments of which consist of those items specified 
+
+above, as well as obligations of the United States agencies and instrumentalities, regardless of the 
+
+size of the district's budget. To be qualified, a pooled investment program for school funds must be 
+
+governed through an lnterlocal cooperative agreement formed pursuant to Title 70 Section 5-117b, 
+
+and the program must competitively select its investment advisors and other professionals. Any 
+
+pooled investment program must be approved by the Board of Education. 
+
+The District's investment policy instructs the treasurer to minimize risks by diversifying the investment 
+
+portfolio; structuring investments so that securities mature in time to meet cash requirements; and by 
+
+investing the full amount of all accounts of the District. 
+
+Custodial Credit Risk: 
+
+Deposits and Investments - The District's demand deposits are required by law to be collateralized by the 
+
+amount that is not federally insured. 
+
+Securities pledged as collateral are held by a third party or Federal Reserve Bank. Joint custody 
+
+safekeeping receipts are held in the name of the depositing institution, but are pledged to the District. The 
+
+security cannot be released, substituted, or sold without the School Treasurer's approval and release of 
+
+the security. 
+
+Certificates of deposit are collateralized at least by the amount not federally insured. As of June 30, 2018, 
+
+the District had no deposits exposed to custodial credit risk. 
+
+The District's investments consist of direct obligations of the U.S. government and agencies' securities. 
+
+Interest Rate Risk: 
+
+Investments are made based upon prevailing market conditions at the time of the transaction with the 
+
+intent to hold the instrument until maturity. However, the District has no formal written policy addressing 
+
+interest rate risk. 
+
+12 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Deposit Categories of Credit Risk (continued) 
+
+Credit Risk: 
+
+· The District has no formal written policy addressing credit risk. 
+
+At June 30, 2018, the District has no investments that are not guaranteed by the full faith and credit of the 
+
+United States Government. 
+
+3. General Long-Term Debt 
+
+State statutes prohibit the District from becoming indebted in an amount exceeding the revenue to be 
+
+received for any fiscal year without approval by the District's voters. Bond issues have been approved by 
+
+the voters and issued by the District for various capital improvements. These bonds are required to be 
+
+fully paid serially within 25 years from the date of issue. 
+
+General long-term debt of the District consists of bonds payable. Debt service requirements for bonds are 
+
+payable solely from fund balance and future revenues of the debt service fund. 
+
+A brief description of the outstanding general obligation bond issues at June 30, 2018, is set forth below: 
+
+General Obligation Building Bonds, Series 2015 
+original issue $2,000,000.00, interest rate 1.5%, with the 
+first payment of $425,000.00 starting Aug. 1, 2017 and 
+annual installments of $525,000.00 thereafter, final payment due 
+August 1, 2020. 
+
+General Obligation Transportation Equipment Bonds, Series 2015, 
+original issue $500,000.00 interest rate average of 1.75% 
+due in an annual installments of $125,000.00, final payment of 
+$125,000.00 due May 1, 2020 
+
+Total Bonds Outstanding 
+
+$ 
+
+Amount 
+Outstanding 
+
+1,575,000.00 
+
+250,000.00 
+
+$ ===1='=, 8=2=5,'==0=00=·=00= 
+
+The annual debt service requirements for retirement of bond principal and payment of interest are as 
+
+follows: 
+
+Year ending 
+June 30, Princi~al Interest Total 
+
+2019 $ 650,000.00 $ 24,687.50 $ 674,687.50 
+2020 650,000.00 14,312.50 664,312.50 
+2021 525,000.00 3,937.50 528,937.50 
+
+Total $ 1,825,000.00 $ 42,937.50 $ 1,867,937.50 
+
+Interest expense incurred on general long-term debt during the current year totaled $33,687.50. 
+
+13 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+General Long-Term Debt (continued) 
+
+The following is a summary of the long-term debt transactions of the District for the year ended June 30, 
+2018: 
+
+Bonds Lease Total 
+Payable Payable Payable 
+
+Balance, July 1, 2017 $ 2,375,000.00 $ - $ 2,375,000.00 
+
+Additions 332,604.77 332,604.77 
+
+Retirements 550,000.00 550,000.00 
+
+1,825,000.00 $ Balance, June 30, 2018 $ 
+==~='=== 
+
+332,604.77 $ 2, 157,604 .. 77 
+
+The school district entered into a lease purchase agreement dated August 15, 2017 with Government 
+Capital Corporation for LED lighting and related equipment. The term of the lease purchase runs to 
+August 15, 2022 with principal and interest payment as follows: 
+
+Year ending 
+June 30, 
+
+2019 
+2020 
+2021 
+2022 
+2023 
+
+Total 
+
+$ 
+
+$ 
+
+Principal 
+66,997.20 $ 
+63,213.32 
+65,293.04 
+67,441.18 
+69,660.03 
+
+332,604.77 $ 
+
+Interest 
+4,954.61 $ 
+8,738.44 
+6,658.77 
+4,510.63 
+2,291.78 
+
+Total 
+71,951.81 
+71,951.81 
+71,951.81 
+71,951.81 
+71,951.81 
+
+27, 157.28 $ 359, 759.05 
+========== 
+
+This lease purchase liability has been reflected in the financial statements under the General Long Term 
+Debt Account Group. 
+
+The district has leasing arrangements covering various school land and equipment which are accounted 
+for as operating leases and hence, the property and equipment do not change ownership. These lease 
+arrangements are as follows: 
+
+On November, 28, 2000, the school district entered into a ninety-nine (99) year lease with the City of 
+McAlester for one dollar. The school district is leasing approximately 7.62 acres for ballfields, stands, 
+concessions, sports buildings and related sports activities to be operated by the school district. The school 
+district is responsible for the maintenance of the ballfields, any equipment, buildings or improvements of 
+the premises and must pay for all utility cost related to the facilities. 
+
+On July, 13, 2015, the school district leased certain premises to the McAlester Building Foundation, Inc. 
+from July 1, 2017 to June 30, 2018 for one dollar. The McAlester Building Foundation, Inc. agreed to 
+improve the building subject to the lease, including storm window placement and heating and air 
+conditioning units. The school district is responsible for all utilities, including electrical service, gas, water, 
+sewer and trash services as well as provide grounds keeping services and janitorial services and 
+maintenance of the common areas of the building. It was also engaged that the Superintendent of Schools 
+and one member of the Board of Education would serve as members of the Board of Directors of the 
+McAlester Building Foundation, Inc. 
+
+On February 11, 2013, the school district leased approximately 2.64 acres of land to the City of McAlester 
+for one dollar for a period of 99 years to be used as a canine recreational park. The City of McAlester has 
+the responsibility for maintenance of the property and any improvements and payment for all utility cost 
+related to the facilities. 
+
+14 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+4. Employee Retirement System · 
+
+Description of Plan 
+
+The District participates in the .state-administrated Teacher's Retirement System of Oklahoma (the 
+
+"system"), which is a cost-sharing multiple-employer public employee retirement system. The supervising 
+
+authority for the management and operation of the System is a 13-member Board of Trustees, which acts 
+
+as a fiduciary for investment of the funds and the application of plan interpretations. The System provides 
+
+retirement and disability benefits, annual cost of living adjustments, death benefits and other benefits to 
+
+plan members and beneficiaries. Oklahoma State Statutes establish benefit provisions and may be 
+
+amended only through legislative action. The District has no responsibility or authority for the operation 
+
+and administration of the system nor has it any liability, except for contribution requirements. The 
+
+Oklahoma Teachers' Retirement System issues a publicly available financial report that includes financial 
+
+statements and required supplementary information for the System. The report may be obtained by writing 
+
+to the Oklahoma Teachers' Retirement System, P.O. Box 53624, Oklahoma City, Oklahoma 73152. 
+
+Basis of Accounting 
+
+The System's financial statements are prepared using the cash basis of accounting, except for accruals of 
+
+interest income. Plan member contributions are recognized in the period in which the contributions are 
+
+made. Benefits and refunds are recognized when paid. The pension benefit obligation is a standardized 
+
+disclosed measure of the present value of pension benefits. This pension valuation method reflects the 
+
+present value of estimated pension benefits that will be paid in future years as a result of employee 
+
+services performed to date and is adjusted for the effect of projected salary increases. There are no 
+
+actuarial valuations performed on individual school districts. The System has an under-funded pension 
+
+benefit obligation as determined as part of the latest actuarial valuation. 
+
+Funding Policy 
+
+The District, the State of Oklahoma, and the participating employee make contributions. The contribution 
+
+rates for the District and its employees are established by and may be amended by Oklahoma Statutes. 
+
+The rates are not actuarially determined. The rates are applied to the employee's earnings plus employer-
+
+paid fringe benefits. The required contribution for the participating members is 7.0% of compensation. 
+
+Additionally, OTRS receives "federal matching contributions" for positions whose funding comes from 
+
+federal sources or certain grants. The District and State are required to contribute 14.0% of applicable 
+
+compensation. Contributions received by the System from the State of Oklahoma are from 3.54% of its 
+
+revenues from sales tax use taxes, corporate income taxes and individual income taxes. The District 
+
+contributed 9.5% and the State of Oklahoma plus the federal contribution contributed the remaining 4.5% 
+
+during this year. The District is allowed by the Oklahoma Teachers' Retirement System to make the 
+
+required contributions on behalf of the participating members. The school is required to pay 16.5% for any 
+
+compensated retired teachers already receiving retirement benefits. 
+
+Annual Pension Cost 
+
+The District's total contribution for 2018, 2017, and 2016 were $2,264,786.30, $2,078,035.49, and 
+
+$2,239,658.15 respectively. The District's total payroll for fiscal year 2017-18 amounted to $13,312, 133.64. 
+
+5. Litigation 
+
+The District is contingently liable for lawsuits and other claims in the ordinary course of its operations. The 
+
+settlement of such contingencies under the budgetary process would require appropriation of revenues yet 
+
+to be realized, and would not materially affect the financial position of the District at June 30, 2018. 
+
+15 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE FINANCIAL STATEMENTS- REGULATORY BASIS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+6. Risk Management 
+
+The District is exposed to various risks of loss related to torts; theft of, damage to and destruction of 
+assets; errors and omissions; injuries to employees; or acts of God. The District purchases commercial 
+insurance to cover these risks including general and auto liability, property damage, and public officials 
+liability. Settled claims resulting from these risks have not exceeded the commercial insurance coverage in 
+any of the past three fiscal years. 
+
+The District is a member of the Oklahoma Public Schools Unemployment Compensation Program. In this 
+program the District is required to contribute 1.6% of its taxable payroll for unemployment insurance. The 
+funds for each District are kept separate and Districts can contribute more than 1.6% of their payroll if they 
+elect to. The money contributed by each District earns interest and is fully insured. If the District has 
+claims in excess of the amount in its account, it will be liable for the excess. 
+
+7. Surety Bonds 
+
+The superintendent is bonded by The Ohio Casualty Insurance Company, bond number 601107913, for 
+the sum of $100,000.00, for the term of July 1, 2017, to July 1, 2018. 
+
+The treasurer/business manager is bonded by The Ohio Casualty Insurance Company, bond number 
+601107914, forthe sum of$100,000.00, forthe term of July 1, 2017, to July 1, 2018. 
+
+The encumbrance clerk is bonded by The Ohio Casualty Insurance Company, bond number 601111691, 
+for the sum of $1,000.00, for the term of October 19, 2017 to October 19, 2018. 
+
+The minutes clerk is bonded by The Ohio Casualty Insurance Company, bond number 601107912 for the 
+sum of $1,000.00, for the term of July 1, 2017, to July 1, 2018. 
+
+The activity fund custodian is bonded by The Western Surety Company, bond number 70749090 for the 
+penal sum of $100,000.00, for the term of July 1, 2017, to July 1, 2018. 
+
+8. Related Entities 
+
+The following entities are separately constituted and, accordingly, their financial position and results of 
+operations have not been presented in the accompanying financial statements. Officers are not appointed 
+by the school board. The school board is not responsible for approving budgets, contracts, key personnel, 
+fiscal matters or day-to-day operations of the booster club. 
+
+Parents Promoting Education Excellence 
+Dugout Club 
+
+16 
+
+
+
+COMBINING FINANCIAL STATEMENTS 
+
+
+
+ASSETS: 
+
+Cash 
+
+Investments 
+
+Total assets 
+
+LIABILITIES AND FUND BALANCES: 
+
+Liabilities: 
+
+Outstanding warrants 
+
+Encumbrances 
+
+Total liabilities 
+
+Fund balances: 
+Cash fund balances 
+
+Total fund balances 
+
+Total liabilities and fund balances 
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCES 
+
+ALL SPECIAL REVENUE FUNDS - REGULATORY BASIS 
+
+JUNE 30, 2018 
+
+Building Fund Coop Fund 
+
+$ 1,280,046.18 $ 99,246.71 $ 
+
+Child Nutrition 
+Fund 
+
+888,362.90 $ 
+
+Municipal Tax 
+Levy Total 
+
+996.38 $ 2,268,652.17 
+
+$ 1,280,046.18 $ 99.246.71 $ 888,362.90 $ 996.38 $ 2,268,652.17 
+===== 
+
+$ 23,267.50 $ 14,842.04 $ 180,904.58 $ - $ 219,014.12 
+
+523,256.49 167,472.13 690,728.62 
+
+$ 546,523.99 $ 14,842.04 $ 348,376.71 $ $ 909,742.74 
+
+$ 733,522.19 $ 84,404.67 $ 539,986.19 $ 996.38 $ 1,358,909.43 
+
+$ 733,522.19 $ 84,404.67 $ 539,986.19 $ 996.38 $ 1,358,909.43 
+
+$ 1,280,046.18 $ 99,246.71 $ 888,362.90 $ 996.38 $ 2,268,652.17 
+
+17 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES PAID AND CHANGES IN FUND
+ BALANCES 
+
+ALL SPECIAL REVENUE FUNDS - REGULATORY BASIS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Child Nutrition Municipal Tax 
+
+Building Fund Coop Fund Fund Levy Total 
+
+Revenues collected: 
+Local sources $ 1,093, 196.10 $ 
+
+29,474.24 $ $ 1, 122,670.34 
+
+Intermediate sources 
+
+State sources 10
+2,563.26 204,789.66 307,352.92 
+
+Federal sources 
+2,618,999.85 2,618,999.85 
+
+Non-revenue sources 
+178,127.75 178,127.75 
+
+Total revenue collected $ _1,093,196.10 $ 102,563.26 $ 
+3,031,391 .50 $ $ 4,227,150.86 
+
+Expenditures paid: 
+Instruction $ $ 51,939.47 $ 
+
+$ $ 51,939.47 
+
+Support services 788,083.27 
+788,083.27 
+
+Non-instructional services 
+2,902,384.61 2,902,384.61 
+
+Capital outlay 166,643.00 
+- 166,643.00 
+
+Other outlays 
+525.00 525.00 
+
+Other uses 
+Repayments 
+Debt service: 
+
+Principal retirement 
+Interest 
+
+Total expenditures paid $ 954,726.27 $ 51,939.47 $ 
+2,902,909.61 $ $ 3,909,575.35 
+
+Excess of revenues collected over (under) 
+
+expenditures paid before adjustments to prior 
+
+year encumbrances $ 138,469.83. $ 50,623.7
+9 $ 128,481.89 $ $ 317,575.51 
+
+Adjustments to prior year encumbrances $ 31,498.15 $ $ 
+18,286.20 $ $ 49,784.35 
+
+Other financing sources (uses): 
+
+Operating transfers in/( out) $ $ $ 
+$ $ 
+
+Bank charges 
+
+Total other financing sources (uses) $ $ $ 
+$ $ 
+
+Excess of revenues collected over (under) 
+
+expenditures paid and other financing sources (uses) $ 169,967.98 $ 50,623.7
+9 $ 146,768.09 $ $ 367,359.86 
+
+Fund balances, beginning of year $ 563,554.21 $ 33,780.88 
+$ 393,218.10 $ 996.38 $ 991,549.57 
+
+Fund balances, end of year $ 733,522.19 $ 84,404
+.67 $ 539,986.19 $ 996.38 $ 1,358,909.43 
+
+18 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1~ao 
+
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCES 
+
+CAPITAL PROJECT FUND - REGULATORY BASIS 
+
+JUNE 30, 2018 
+
+ASSETS 
+
+Assets: 
+
+Cash 
+
+Investments 
+
+Total assets 
+
+LIABILITIES AND FUND BALANCES 
+
+~ 
+
+Liabilities: 
+
+Outstanding warrants 
+
+Encumbrances 
+
+Total liabilities 
+
+Fund balances: 
+
+Designated for capital projects 
+
+Undesignated 
+
+Total fund balances 
+
+Total liabilities and fund balances 
+
+19 
+
+Bond 32 Fund 
+
+$ 19,895.15 
+
+$ 19,895.15 
+
+$ 19,895.15 
+
+$ 19,895.15 
+
+$ 
+
+$ 
+
+$ 19,895.15 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+COMBINING STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES 
+
+CAPITAL PROJECT FUND - REGULATORY BASIS 
+
+Revenues collected: 
+
+Local sources 
+
+Intermediate sources 
+
+State sources 
+
+Federal sources 
+
+Total revenues collected 
+
+Expenditures paid: 
+
+Instruction 
+
+Support services 
+
+Non-instructional services 
+
+Capital outlays 
+
+Other outlays 
+
+Other uses 
+
+Repayments 
+
+Total expenditures paid 
+
+Excess of revenues collected over (under) 
+
+expenditures 
+
+Adjustments to prior year encumbrances 
+
+Other financing sources (uses): 
+
+Bond sale proceeds 
+
+Operating transfers in/(out) 
+
+Bank charges 
+
+Total other financing sources (uses) 
+
+Excess of revenues collected over (under) 
+
+expenditures and other financing sources (uses) 
+
+Fund balances, beginning of year 
+
+Fund balances, end of year 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+20 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+Bond Fund 32 
+
+-----
+
+256,056.50 
+
+256,056.50 
+
+(256,056.50) 
+
+(256,056.50) 
+
+256,056.50 
+-----
+
+===== 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCES 
+
+ALL FIDUCIARY FUNDS - REGULATORY BASIS 
+JUNE 30, 2018 
+
+Expendable 
+Trust Fund Agency Fund 
+
+Gifts & 
+Endowments Activity Fund Total 
+
+ASSETS: 
+
+Cash $ 57,547.11 $ 687,394.03 $ 744,941.14 
+
+Investments - 4,500.00 4,500.00 
+
+Total assets $ 57,547.11 $ 691,894.03 $ 749,441.14 
+
+LIABILITIES AND FUND BALANCES: 
+
+Liabilities: 
+
+Outstanding warrants $ 8,900.00 $ 15,786.07 $ 24,686.07 
+
+Encumbrances 
+
+Total liabilities $ 8,900.00 $ 15,786.07 $ 24,686.07 
+
+Fund balances: 
+Cash fund balances $ 48,647.11 $ 676,107.96 $ 724,755.07 
+
+Total fund balances $ 48,647.11 $ 676,107.96 $ 724,755.07 
+
+Total liabilities and fund balances $ 57,547.11 $ 691,894.03 $ 749,441.14 
+
+21 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+STATEMENT OF REVENUES COLLECTED, EXPENDITURES PAID, AND CHANGES IN FUND BALANCE 
+
+FIDUCIARY FUND TYPE - REGULATORY BASIS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Revenues Collected 
+Interest 
+Donation 
+
+Total 
+
+Expenditures Paid 
+Scholarships 
+
+Total 
+
+Excess of revenues collected over (under) 
+
+expenses paid 
+
+Adjustments to prior year encumbrances 
+
+Excess revenues and other sources over/(under) 
+
+expenditures and other uses 
+
+Fund balance, beginning of year 
+
+Fund balance, end of year 
+
+22 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+Expendable 
+Trust Fund 
+
+Gifts & 
+Endowments 
+
+7,750.00 
+7,750.00 
+
+9,103.00 
+9,103.00 
+
+(1,353.00) 
+
+(1,353.00) 
+
+50,000.11 
+
+48,647.11 
+
+
+
+SUPPLEMENTAL INFORMATION 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+BUDGETARY COMPARISON SCHEDULE· REGULATORY BASIS 
+
+SPECIAL REVENUE FUND 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+BUILDING FUND 
+
+Variance with 
+Final Budget 
+
+Original Favorable 
+
+Budget Final Budget Actual (Unfavorable) 
+
+Revenues collected: 
+
+Local sources $ 
+445,855.65 $ 887,849.64 $ 1,093, 196.10 $ 205,346.46 
+
+Intermediate sources 
+
+State sources 
+
+Federal sources 
+
+Total revenues collected $ ~855.
+65 $ 887,849.64 $ 1,093, 196.10 $ 205,346.46 
+
+Expenditures paid: 
+
+Instruction $ 
+$ $ $ 
+
+Support services 
+842,766.86 1,284, 760.85 788,083.27 496,677.58 
+
+Non-instructional services 
+
+Capital outlay 
+166,643.00 166,643.00 166,643.00 
+
+other Outlays 
+
+Other Uses 
+
+Repayment 
+
+Debt service: 
+
+Principal retirement 
+
+Interest 
+
+Total expenditures $ 1
+,009,409.86 $ 1,451,403.85 $ 954,726.27 $ 496,677.58 
+
+Excess of revenues collected over (under) 
+
+expenditures paid before adjustments to 
+
+prior year encumbrances $ 
+(563,554.21) $ (563,554.21) $ 138,469.83 $ 702,024.04 
+
+Adjustments.to prior year encumbrances 
+$ $ $ 31,498.15 $ 31,498.15 
+
+Other financing sources (uses): 
+
+Operating transfers in/out $ 
+$ $ $ 
+
+Bank charges 
+
+Total other financing sources (uses) $ $
+ $ $ 
+
+Excess of revenues collected over (under) 
+
+expenditures paid and other 
+
+financing sources (uses) $ 
+(563,554.21) $ (563,554.21) $ . 169,967.98 $ 733,522.19 
+
+Fund balances, beginning of year 
+$ 563,554.21 $ 563,554.21 $ 563,554.21 $ 
+
+Fund balance, end of year 
+$ $ $ 733,522.19 $ 733,522.19 
+
+23 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+BUDGETARY COMPARISON SCHEDULE - REGULATORY BASIS 
+
+SPECIAL REVENUE FUND 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+CHILD NUTRITION FUND 
+
+Variance with 
+Final Budget 
+
+Original Favorable 
+
+Budget Final Budget Actual (Unfavorable) 
+
+Revenues collected: 
+
+Local sources $ 15
+7,809.78 $ 157,809.78 $ 29,474.24 $ (128,335.54) 
+
+Intermediate sources 
+
+State sources 
+158,577.89 158,577.89 204,789.66 46,211.77 
+
+Federal sources 
+1,652,942.34 2,382,302.12 2,618,999.85 236,697.73 
+
+Non-revenue sources 
+178,127.75 ~127.75 
+
+Total revenues collected $ 1,969,3
+30.01 $ 2,698,689.79 $ 2,853,263.75 $ _3573.96 
+
+Expenditures paid: 
+
+Instruction $ 
+$ $ $ 
+
+Support services 
+
+Non-instructional services 2,362,023
+.11 3,091,382.89 2,902,384.61 188,998.28 
+
+Capital outlay 
+
+Other Outlays 
+525.00 525.00 525.00 
+
+Other Uses 
+
+Repayment 
+
+Debt service: 
+
+Principal retirement 
+
+Interest 
+
+Total expenditures $ 2,362,5
+48.11 $ 3,091,907.89 $ 2,902,909.61 $ 188,998.28 
+
+Excess of revenues collected over (under) 
+
+expenses paid before adjustments to 
+
+prior year encumbrances $ (393
+,218.10) $ (393,218.10) $ 128,481.89 $ 521,699.99 
+
+Adjustments to prior year encumbrances 
+$ $ $ 18,286.20 $ __ 18_,286.20 
+
+Other financing sources (uses): 
+
+Operating transfers in/out $ 
+$ $ $ 
+
+Bank charges 
+
+Total other financing sources (uses) $ $ 
+$ $ 
+
+Excess of revenues collected over (under) 
+
+expenditures paid and other 
+
+financing sources (uses) $ $ 
+$ 146,768.09 $ ~768.09 
+
+Fund balances, beginning of year $ 393,218
+.10 $ 393,218.10 $ 393,218.10 $ ---
+
+Fund balance, end of year $ 
+$ $ 539,986.19 $ 539,986.19 
+
+24 
+
+
+
+Revenues collected: 
+
+Local sources 
+
+Intermediate sources 
+
+State sources 
+
+Federal sources 
+
+Total revenues collected 
+
+Expenditures paid: 
+
+Instruction 
+
+Support services 
+
+Non-instructional services 
+
+Capital outlay 
+
+other Outlays 
+
+Other Uses 
+
+Repayment 
+
+Debt service: 
+
+Principal retirement 
+
+Interest 
+
+Total expenditures 
+
+Excess of revenues collected over (under) 
+
+expenses paid before adjustments to 
+
+prior year encumbrances 
+
+Adjustments to prior year encumbrances 
+
+Other financing sources (uses): 
+
+Operating transfers in/out 
+
+Bank charges 
+
+Total other financing sources (uses) 
+
+Excess of revenues collected over (under) 
+
+expenditures paid and other 
+
+financing sources (uses) 
+
+Fund balances, beginning of year 
+
+Fund balance, end of year 
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+BUDGETARY COMPARISON SCHEDULE - REGULATORY BASIS 
+
+SPECIAL REVENUE FUND 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Original 
+Budget 
+
+$ 
+
+92,829.60 
+
+$ 92,829.60 
+
+$ 126,610.48 
+
+$ 126,610.48 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+$ (33,780.88) $ 
+
+$ $ 
+
+$ $ 
+
+$ $ 
+
+$ $ 
+
+$ 33,780.88 $ 
+
+$ $ 
+
+25 
+
+COOP FUND 
+
+Variance with 
+Final Budget 
+
+Favorable 
+
+Final Budget Actual (Unfavorable) 
+
+$ $ 
+
+92,829.60 102,563.26 9,733.66 
+
+92,829.60 $ ~563.26 $ 9,733.66 
+
+126,610.48 $ 51,939.47 $ 74,671.01 
+
+126,610.48 $ 51,939.47 $ 74,671.01 
+
+(33,780.88) $ 50,623.79 $ 84,404.67 
+
+$ $ 
+
+$ $ 
+
+$ $ 
+
+$ 50,623.79 $ 50,623.79 
+
+33,780.88 $ 33,780.88 $ 
+
+$ 84,404.67 $ 84,404.67 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+BUDGETARY COMPARISON SCHEDULE - REGULATORY BASIS 
+
+SPECIAL REVENUE FUND 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+MUNICPAL LEVY FUND 
+
+Variance with 
+Final Budget 
+
+Original Favorable 
+
+Budget Final Budget Actual (Unfavorable) 
+
+Revenues collected: 
+
+Local sources $ $ $ 
+$ 
+
+Intermediate sources 
+
+State sources 
+
+Federal sources 
+
+Total revenues collected $ $ $ 
+$ 
+
+Expenditures paid: 
+
+Instruction $ $ $ 
+$ 
+
+Support services 996.38 996.38
+ 996.38 
+
+Non-instructional services 
+
+Capital outlay 
+
+Other Outlays 
+
+Other Uses 
+
+Repayment 
+
+Total expenditures $ 996.38 $ 996.38 $ 
+$ 996.38 
+
+Excess of revenues collected over (under) 
+
+expenses paid before adjustments to 
+
+prior year encumbrances $ (996.38) $ (996.38) $ $
+ 996.38 
+
+Adjustments to prior year encumbrances $ $ 
+$ $ 
+
+Other financing sources (uses): 
+
+Operating transfers in/out $ $ $ 
+$ 
+
+Bank charges 
+
+Total other financing sources (uses) $ $ - $ $ 
+Excess of revenues collected over (under) 
+
+expenditures paid and other 
+
+financing sources (uses) $ (996.38) $ (9
+96.38) $ $ 996.38 
+
+Fund balances, beginning of year $ 996.38 $ 996
+.38 $ 996.38 $ 
+
+Fund balance, end of year $ $ $ 
+996.38 $ 996.38 
+
+26 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+SCHEDULE OF FEDERAL AWARDS EXPENDED 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Federal Grantor/Pass-Through Grantor/ Federal Grantor's Balance at Bal
+ance at 
+
+Program Title CFDA# Number July 1, 2017 Receipts Transfers Expenditu
+res June 30, 2018 
+
+U.S. Del!artment of Education 
+
+. Direct Programs: 
+
+2016-2017 Programs 
+
+Title VI. Indian Education 84.060A S060A 160902 $ (62,712.89) $ 62,712.89 $ $ $ 
+
+Sub-Total $ (62,712.89) $ 62,712.89 $ $ $ 
+
+2017-2018 Programs 
+
+P .L. 87 4 Impact Aid 84.041 S041 B-2018-4080 $ 16,505.54 $ 5,542.04 $ $ 2,780.51 $ 19,267.07 
+
+* Title VI, Indian Education 84.060A S060A170902 100,876.83 202,823.46 (101,94
+6.63) 
+
+Sub-Total $ 16,505.54 $ 106,418.87 $ $ 205,603.97 $ (82,679.56) 
+
+Sub-Total Direct Programs $ (46,207 .35) $ 169,131.76 $ $ 205,603.97 $ (82,679.56) 
+
+Passed-Through State Department of Education 
+
+2016-2017 Programs 
+
+Title I, Basic 84.010 N/A $ (232,334.22) $ 232,334.22 $ $ $ 
+
+IDEA-B Flow Through 84.027 N/A (1,230.90) 1,230.90 
+
+Preschool 84.173 N/A 
+
+Adult-Basic Education 84.002 N/A (72,444.05) 72,444.05 
+
+Sub-Total $ (306,009.17) $ 306,009.17 $ $ $ 
+
+2017-2018 Programs 
+
+Title I, Basic - Note 5 84.010 NIA $ $ 459,718.26 $ $ 770,633.01 $ (310,914.75) 
+
+Title I, Part D Delinquent 84.010 N/A 4,815.84 10,709.63 (5,893.
+79) 
+
+Sub-Total Title I Cluster $ $ 464,534.10 $ $ 781,342.64 $ (316,808.54) 
+
+* IDEA-B Flow Through 84.027 N/A $ $ 423,013.16 $ $ 593,527.63 $ (170,514.47) 
+
+* IDEA-B Flow Through, Discretionary 84.027 N/A 2,317.00 (2,317
+.00) 
+
+*Preschool 84.173 N/A 12,590.34 18,193.89 (5,60
+3.55) 
+
+Sub-Total Special Education Cluster $ $ 435,603.50 $ $ 614,038.52 $ (176, 118.02) 
+
+Title llA Training & Recruitment 84.367 N/A 77,696.48 94,954.40 (17,257.9
+2) 
+
+* Title V, Part B, Rural & Low Income 84.358B N/A 52,944.15 (52,944
+.15) 
+
+Adult Basic Education 84.002 N/A 37,500.70 96,976.14 (59,475.4
+4) 
+
+Sub-Total $ $ 115,197.18 $ $ 244,874.69 $ (129,677.51) 
+
+Sub-Total Passed-Through State 
+Department of Education $ (306,009.17) $ 1,321,343.95 $ $ 1,640,255.85 $ (622,604.07) 
+
+(continued) 
+
+The accompanying notes are an integral part of this schedule 
+
+27 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+SCHEDULE OF FEDERAL AWARDS EXPENDED 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Federal Grantor/Pass-Through Grantor/ Federal Grantor's 
+Balance at Balance at 
+
+Program Title CFDA# Number 
+July 1, 2017 Receipts Transfers Expenditures June 30, 2018 
+
+Passed-Through State Regents of Higher Education 
+
+2017-2018 Programs 
+
+Gear Up 84.334 N/A 
+$ $ 2,700.00 $ $ 9,984.88 $ (7,284.88) 
+
+Sub-Total 
+$ $ 2,700.00 $ $ 9,984.88 $ (7,284.88) 
+
+Sub-Total Passed-Through State 
+
+Regents of Higher Education $ 
+$ 2.700.00 $ $ 9,984.88 $ (7,284.88) 
+
+Passed-Through State Department of Career 
+
+Technology Education 
+
+2016-2017 Programs 
+
+Cart Perkins 84.048 N/A 
+$ (29,505.17) $ 29,505.17 $ $ $ 
+
+Sub-Total 
+$ __ (29,505.17) $ 29,505.17 $ $ $ 
+
+Sub-Total Passed-Through State Department 
+
+of Career Technology Education $ 
+(29,505.17) $ 29,505.17 $ $ $ 
+
+De11artment of Health & Human SeNices 
+
+Passed-Through State Department 
+
+of Rehabilitation SeNices 
+
+2016-2017 Programs 
+
+Job Training - OJT 84.126 N/A 
+$ (3,135.64) $ 3,135.64 $ $ 
+
+Sub-Total $ 
+(3,135.64) $ 3,135.64 $ $ $ 
+
+2017-2018 Programs 
+
+Job Training - OJT 84.126 NIA 
+$ $ 7,540.01 $ 8,547.77 $ (1,007.76) 
+
+Sub-Total $ 
+$ 7,540.01 $ $ 8,547.77 $ (1,007.76) 
+
+Sub-Total Passed-Through Department 
+
+of Health & Human SeNices $ 
+(3,135.64) $ 10,675.65 $ $ 8,547.77 $ (1,007.76) 
+
+U.S. De11artment of Agriculture 
+
+Passed-Through State Department 
+
+of Education: 
+
+Child Nutrttion Cluster: 
+
+Non-Cash Assistance (Commodities): 
+
+National School Lunch Program - Note 4 10.555 N/A $ 
+$ 115,090:20 $ $ 115,090.20 $ 
+
+Non-Cash Assistance Sub-Total $ 
+$ 115,090.20 $ $ 115,090.20 $ 
+
+(continued) 
+
+The accompanying notes are an integral part of this schedule 
+
+28 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+SCHEDULE OF FEDERAL AWARDS EXPENDED 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Federal GrantorlPass-Through Grantorl Federal Grantor's Balance at 
+Balance at 
+
+Program Title CFDA# Number July 1, 2017 Receipts 
+Transfers Expenditures June 30, 2018 
+
+Cash Assistance: 
+School Breakfast Program 10.553 NIA $ $ 542,063.86 $ $ 500,6
+
+71.55 $ 41,392.31 
+
+National School Lunch Program 10.555 NIA 997,285.56 962,873
+.17 34,412.39 
+
+Summer Food Program 10.559 NIA 3,526.02 12,007.65 46,746
+.63 (31,212.96) 
+
+Summer Food Program - Prior Year 10.559 NIA (28,025.16) 44,283.97 
+16,258.81 
+
+Cash Assistance Sub- Total $ (24,499.14) $ 1,595,641.04 $ $ 1,510,291
+.35 $ 60,850.55 
+
+Sub- Total for Child Nutrition Cluster $ (24,499.14) $ 1,710,731.24 $ $ 1,625,381
+.55 $ 60,850.55 
+
+* Child & Adult Care Food 10.558 NIA $ 180,240.69 $ 1,023,358.81 $ $ 942,109.81 $ 
+261,489.69 
+
+Sub-Total $ 180,240.69 $ 1,023,358.81 $ $ 
+942,109.81 $ 261,489.69 
+
+Sub-Total Passed-Through State 
+
+Department of Education $ 155,741.55 $ 2,734,090.05 $ $ 2,567,4
+91.36 $ 322,340.24 
+
+other Federal Assistance 
+
+Passed-Through Pittsburg County 
+
+2016-2017 Programs 
+
+Flood Control 12.112 NIA $ 3,130.25 $ 3,712.61 $ $ $ 
+6,842.86 
+
+Sub-Total $ 3,130.25 $ 3,712.61 $ $ $ 
+6,842.86 
+
+Passed-Through Choctaw Nation 
+
+2016-2017 Programs 
+
+JOM 15.130 NIA $ (38,646.97) $ 38,646.97 $ $ 
+$ 
+
+Sub-Total $ __ (38,646.97) $ 38,646.97 $ $ $ 
+
+2017-2018 Programs 
+
+JOM 15.130 NIA $ $ 14,148.04 $ $ 
+54,891.81 $ (40,743.77) 
+
+Sub-Total $ $ 14,148.04 $ $ 54,89
+1.81 $ (40,743.77) 
+
+Sub-Total Passed-Through Choctaw Nation $ (38,646.97) $ 52,795.01 $ $ 54,891.81 $ 
+(40,743.77) 
+
+TOTAL FEDERAL ASSISTANCE $ (264,632.50) $ 4,323,954.20 $ $ 4,
+486,775.64 $ (425, 136.94) 
+
+* Major Federal Program 
+
+The accompanying notes are an integral part ot"this schedule 
+
+29 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+NOTES TO THE SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. For all federal programs, the District uses the fund types prescribed by the Oklahoma State 
+
+Department of Education and conforms to the system of accounting authorized by the State of 
+
+Oklahoma. General and Child Nutrition Funds are used to account for resources restricted, or 
+
+designated for, specific purposes by a grantor. Federal and state financial assistance generally is 
+
+accounted for in the General and Child Nutrition Fund. 
+
+2. The accounting and financial reporting treatment applied to a fund is determined by its' measurement 
+
+focus. The Governmental Fund types are accounted for using a current financial measurement focus. 
+
+All federal grant funds were accounted for in the General and Child Nutrition Funds. With this 
+
+measurement focus, only current assets and current liabilities and the fund balance are included on the 
+
+balance sheet. Operating statements of these funds present increases and decreases in net current 
+
+assets. 
+
+The Regulatory Basis of Accounting is used for the Governmental Fund types and Agency Funds. 
+
+This basis of accounting recognizes revenue from all sources when they are received. Federal grant 
+
+funds are considered to be recognized when encumbered or reserved to the extent of expenditures 
+
+made under the provisions of the grant. 
+
+3. Positive amounts listed in the either "Balance at July 1, 2017" or "Balance at June 30, 2018" column 
+
+represent funds received by the school and not yet expended or coded to the program. Negative 
+
+amounts represent expenditures which have been claimed, but the revenue not yet collected. 
+
+4. The District received donated foods through the Federal Food Distribution Program (10.555). At June 
+
+30, 2018, the school maintained an immaterial amount of food commodities inventory. Per the 
+
+Regulatory Basis of Accounting, the commodities received and used are not recognized as revenue or 
+
+expenditures in the school's Financial Statements. 
+
+5. The District has not elected to use the 10% de minimis indirect cost rate allowed under the Uniform 
+
+Guidance. 
+
+6. Reconciliation of the Revenue shown on the Schedule of Expenditures of Federal Awards to Statement 
+
+of Revenue, Expenditures and Changes in Fund Balance is as follows: 
+
+Schedule of Expenditures of Federal Awards $ 
+
+Less Commodities 
+
+Total per Schedule of Expenditures of Federal Awards 
+
+Reconciled Balance $ 
+
+Federal Program Revenues: 
+
+General Fund 
+
+Child Nutrition 
+
+Total per Federal Statement of Revenue, Expenditures, 
+
+$ 
+
+And Changes in Fund Balance $ 
+
+30 
+
+Revenue 
+
+4,323,954.20 
+
+(115,090.20) 
+
+4,208,864.00 
+
+1,589,864.15 
+
+2,618,999.85 
+
+4,208,864.00 
+======== 
+
+
+
+McALESTER SCHOOL DISTRICT NO. 1-80 
+
+SCHOOL ACTIVITY FUND 
+
+RECEIPTS, TRANSFERS, DISBURSEMENTS AND SUB-ACCOUNT BALANCES 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Net 
+
+Balance Transfers/ 
+
+Activities 7-1-17 Deposited Adjustments Disbursed 
+
+Edmond Doyle $ 3,658.23 $ 16,732.93 $ $ 15, 111.40 
+
+Edmond Doyle Student Coun• 27.69 33.29 
+
+Edmond Doyle Library 1,134.98 3,458.31. 3,980.01 
+
+Edmond Doyle Faculty 143.45 21.04 72.96 
+
+Emerson 4,163.90 8,068.14 10,281.10 
+
+Emerson Library 188.81 2,324.18 2,375.55 
+
+Emerson Faculty 99.93 396.92 263.65 
+
+William Gay ECC 10,738.75 17,752.15 19,604.96 
+
+William Gay ECC Faculty 655.22 27, 170.48 26,154.16 
+
+Beyond the Bell 30.00 48,203.00 48,203.00 
+
+Jefferson Student 4,236.91 19,653.04 12,289.11 
+
+Jefferson Faculty 868.34 84.04 180.29 
+
+Will Rogers 17,655:71 38,047.29 52,997.03 
+
+Will Rogers-Library 2,369.60 11,910.90 8,472.82 
+
+Will Rogers Faculty 133.07 913.29 80
+0.95 
+
+ED Camp MAC 700.00 581.71 
+
+Athletic Restitution 1,957.08 
+
+Elementary Athletics 3,662.04 172.38 
+
+Athletics-High School 187,968.27 340,847.17 361,69
+2.99. 
+
+Athletics-Puterbaugh 5,747.87 22,365,06 15,51
+5.75 
+
+Puterbaugh Student 11,918.96 5,122.39 11,56
+0.55 
+
+8th Grade Cheerleader 11,661.28 18,027.06 26,69
+0.40 
+
+8th Grade Band 10,424.01 21,376.37 
+21,556.98 
+
+PMS Choir 835.69 2,967.38 2,25
+2.39 
+
+7th Grade Band 12,531.17 19,083.63 
+19,157.25 
+
+PMS Library 608.96 303.39 
+240.82 
+
+PMS Yearbook 2,477.39 5,628.89 4,42
+0.25 
+
+Special Student Fund 2,068.69 309.29 1,31
+4.54 
+
+PMS Student Council 5,728.60 3,780.36 
+
+PMS TSA-Tech Ed 3,098.41 6,481.22 6,52
+0.96 
+
+7th & 8th Football Spec 12,124.71 15,385.41 1
+4,774.76 
+
+Puterbaugh Faculty 189.68 1,171.25 
+841.50 
+
+(continued) 
+
+31 
+
+Balance 
+6-1-18 
+
+$ 5,279.76 
+
+60.98 
+
+613.28 
+
+91.53 
+
+1,950.94 
+
+137.44 
+
+233.20 
+
+8,885.94 
+
+1,671.54 
+
+30.00 
+
+11,600.84 
+
+772.09. 
+
+2,705.97 
+
+5,807.68 
+
+245.41 
+
+118.29 
+
+1,957.08 
+
+3,834.42 
+
+167,122.45 
+
+12,597.18 
+
+5,480.80 
+
+2,997.94 
+
+10,243.40 
+
+1,550.68 
+
+12,457.55 
+
+671.53 
+
+3,686.03 
+
+1,063.44 
+
+9,508.96 
+
+3,058.67 
+
+12,735.36 
+
+519.43 
+
+
+
+McALESTER SCHOOL DISTRICT NO. 1-80 
+
+SCHOOL ACTIVITY FUND 
+
+RECEIPTS, TRANSFERS, DISBURSEMENTS AND SUB-ACCOUNT BALANCES 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Net 
+
+Balance Transfers/ Balance 
+
+Activities 7-1-17 Deposited Adjustments Disbursed 6-1-18 
+
+7th & 8th Volleyball Spec $ . 1,295.61 $ 2,787.38 $ $ 1,019.00 $ 3,063.99 
+
+PMS Native American Club 404.61 1,242.44 1,044.40 602
+.65 
+
+Parker Intermediate 15,077.24 9,248.43 19,555.51 
+4,770.16 
+
+Parker l.C. Library 2,752.84 6,020.38 7,386.12 1,387
+.10 
+
+Parker l.C. Student Council 3,979.89 2,297.76 1,629.52 4,648
+.13 
+
+Parker l.C. Faculty 339.92 995.47 624.05 
+711.34 
+
+6th Grade Band 10,294.02 15,071.73 14,602.72 
+10,763.03 
+
+MSH Academic Team 368.27 1,141.38 1,160.76 
+348.89 
+
+MHS Afro Student Union 234.00 513.38 195.70 
+551.68 
+
+MHSAnnual 81,605.91 30,915.94 35,704.61 
+76,817.24 
+
+MHSArt 1,435.86 412.38 
+1,848.24 
+
+MHS Band Booster Cone 11,454.96 15,639.62 712.79 
+26,381.79 
+
+Band-High School 19,454.99 46,525.88 46,247.63 
+19,733.24 
+
+Band - Jazz 3,177.39 20,872.38 21,036.05 
+3,013.72 
+
+Band - Percussion 32,986.72 4,452.38 33,242.4
+5 4,196.65 
+
+Cherrleaders - Varsity 13,617.61 29,787.04 37,458.4
+7 5,946.18 
+
+MHS Science Buffs 6.80 139.09 55.49 
+90.40 
+
+MHS Choir 6,347.64 2,760.38 4,060.9
+8 5,047.04 
+
+MHS Color Guard 9,009.74 7,898.38 10,883.8
+3 6,024.29 
+
+4-H Club 13.63 139.09 
+152.72 
+
+FCA 430.59 932.38 1
+,029.36 333.61 
+
+FFA 18,722.70 34,663.16 
+36,815.94 16,569.92 
+
+FCC LA 1,167.50 1,132.38 
+170.00 2,129.88 
+
+GSA 113.30 444.38 
+557.68 
+
+Indian Heritage 1,532.62 1,614.44 2,064.7
+2 1,082.34 
+
+M.HS Library 206.30 103.65 
+75.00 234.95 
+
+Montage/Musical 7,140.51 4,589.77 6
+,096,69 5,633.59 
+
+MHS Buffalo Pep-Pers 0.93 
+0.93 
+
+POM - Varsity 5,145.69 10,495.38 6
+,449.44 9,191.63 
+
+PSAT/AP Testing 4,032.62 9,379.29 8
+,434.34 4,977.57 
+
+MHS Service Learning 819.33 384.38 
+933.15 270.56 
+
+MHS Student Council 21,041.94 19,937.27 21,646.7
+9 19,332.42 
+
+MHS Thespain Club 2,765.10 6,622.99 6
+,451.65 2,936.44 
+
+MHS TSA-Tech Ed 1,157.87 1,637.38 
+1,010.00 1,785.25 
+
+TV Production 211.06 513.29 
+468.41 255.94 
+
+Ok-McAlester Promise 70.49 
+70.49 
+
+MHS Student Account 2,691.45 3,580.50 
+4,553.77 .1,718.18 
+
+MHS Faculty 648.19 3,917.90 
+3,481.07 1,085.02 
+
+(continued) 
+
+32 
+
+
+
+McALESTER SCHOOL DISTRICT NO. 1-80 
+
+SCHOOL ACTIVITY FUND 
+
+RECEIPTS, TRANSFERS, DISBURSEMENTS AND SUB-ACCOUNT BALANCES 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Net 
+
+Balance Transfers/ Balance 
+
+Activities 7-1-17 Deposited Adjustments Disbursed 6-1-1
+8 
+
+MHS Homecoming $ 1,725.85 $ 1, 183.29 $ $ 744.49 $ 2, 164.6
+5 
+
+MHS Mock Trail Team 268.63 172.38 180.00 
+261.01 
+
+Key Student 2,026.89 172.38 94.44 
+2, 104.83 
+
+Special Olympics (Distr) 3,235.79 172.38 508.74 
+2,899.43 
+
+Baseball Special 382.63 172.38 
+555.01 
+
+Diamond Dolls (Baseball) 462.23 172.38 166.4
+9 468.12 
+
+Dugout Club Concession 28,956.51 79,776.77 59,258.9
+5 49,474.33 
+
+Softball Booster 1,562.03 4,480.28 3,854.9
+2 2,187.39 
+
+Stadium Vendor 1,014.25 71,989.39 63,1
+81.10 9,822.54 
+
+Boys Track Special 1,030.16 1,557.38 1,2
+65.57 1,321.97 
+
+Soccer 4,621.65 11,990.71 12,
+902.47 3,709.89 
+
+Girls Track Special 2,012.46 522.38 1,0
+65.00 1,469.84 
+
+Cross Country Special 421.43 902.38 2
+99.60 1,024.21 
+
+Basketball Booster 71.17 33.29 
+104.46 
+
+Boys Basketball Pop Fund 8.08 13,604.62 12,6
+09.89 1,002.81 
+
+Girls Basketball Pop Fund 292.21 14, 119.53 
+10,815.77 3,595.97 
+
+Mat Maids (Wrestling) 232.90 139.09 
+371.99 
+
+Wrestling Booster Club 14.24 4,387.39 
+4,278.40 123.23 
+
+Tennis Special 246.30 139.09 
+191.00 194.39 
+
+Varsity Golf 5.50 1,795.18 
+1,549.29 251.39 
+
+Volleyball Special 5,203.32 15,826.88 
+12,670.59 8,359.61 
+
+Children in Need 500.00 500.00 
+456.87 543.13 
+
+Centennial Garden 1,231.11 1,262.80 
+180.00 2,313.91 
+
+Central Office Adm. 2,289.10 2,715.56 
+2,225.18 2,779.48 
+
+Interest Earned 3,029.07 6,625.52 
+3,590.31 6,064.28 
+
+Lost/Damage Textbook 76.00 
+76.00 
+
+General Hospitality 6, 122.20 7,272.55 
+1,924.09 11,470.66 
+
+Central Office Activity 595.08 183.29 
+209.55 568.82 
+
+PDC 2,739.75 15, 128.76 
+12,079.66 5,788.85 
+
+Maintenance 646.19 480.85 
+348.25 778.79 
+
+Special Services Sunshine 125.22 
+125.22 
+
+ACE Advisory Council 1,823.04 1,033.29 
+1,304.88 1,551.45 
+
+Special Events 10,814.58 6,609.79 
+8, 123.70 9,300.67 
+
+Total Activities $ 684,472.81 $ 1,222,497 .66 $ $ 1,
+240,363.45 $ 666,707.02 
+
+33 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+
+SCHOOL ACTIVITY FUND - CENTRAL 
+
+RECEIPTS, TRANSFERS, DISBURSEMENTS AND SUB-ACCOUNT BALANCES 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Net 
+Balance Transfers/ Balance 
+
+Central Activity Funds 7-1-17 Deposited Adjustments Disbursed 6-30-18 
+
+Cultural Enrichment $ 4,500.00 $ $ $ $ 4,500.00 
+
+Extended Day 3.00 4,350.00 4,353.00 
+
+Copier Money 18.60 18.60 
+
+Cultural Enrichment 4,829.75 38.03 25.00 4,842.78 
+
+Interest Earned 0.05 7.68 7.73 
+
+Miscellaneous 1,285.00 1,285.00 
+
+Petty Cash 200.00 200.00 
+
+Property Rental 8,100.00 8,100.00 
+
+Arts In Education 8.45 (0.29) 8.16 
+
+Child Nutrition 178,501.31 178,451.31 50.00 
+
+Total Activites $ 9,341.25 $ 192,500.62 $ (0.29) . $ 192,440.64 $ 9,400.94 
+
+34 
+
+
+
+REPORTS REQUIRED BY GOVERNMENT AUDITING STANDARDS 
+
+
+
+KERRY JOHN PATIEN, C.P.A. 
+2101 N. Willow Ave. 
+Broken Arrow, OK 74012 
+Phone Number (918) 250-8838 
+FAX Number (918) 250-9853 
+
+INDEPENDENT AUDITOR'S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL 
+
+STATEMENTS PERFORMED IN ACCORDANCE WITH 
+GOVERNMENT AUDITING STANDARDS 
+
+The Honorable Board of Education 
+McAlester School District No. 1-80 
+Pittsburg County, Oklahoma 
+
+I have audited, in accordance with auditing standards generally accepted in the United States of America arid 
+the standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States, the accompanying fund type and account group financial statements-
+regulatory basis within the combined financial statements of McAlester School District No. 1-80, Pittsburg 
+County, Oklahoma (District}, as listed in the Table of Contents; as of and for the year ended June 30, 2018, and 
+the related notes to the financial statements, which collectively comprise the District's financial statements, and 
+have issued my report thereon dated January 8, 2019, which was .adverse with respect to the presentation of 
+the financial statements in conformity with accounting principles generally accepted in the United States of 
+America because the presentation followed the regulatory basis of accounting for Oklahoma school districts and 
+did not conform to the presentation requirements of the Governmental Accounting Standards Board. However, 
+my report was qualified for the omission of the general fixed asset account group with respect to the 
+presentation of financial statements on the regulatory basis of accounting authorized by the Oklahoma State 
+Board of Education. 
+
+Internal Control over Financial Reporting 
+
+In planning and performing my audit of the financial statements, I considered the District's internal control over 
+financial reporting (internal control) to determine the audit procedures that are appropriate in the ci.rcumstances 
+for the purpose of expressing my opinions on the financial statements, but not for the purpose of expressing an 
+opinion on the effectiveness of the District's internal control over financial reporting. Accordingly, I do not 
+express an opinion on the effectiveness of the District's internal control.. 
+
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct 
+misstatements on a timely basis. A material weakness is a deficiency, or combination of deficiencies, in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity's financial 
+statements will not be prevented, or detected and corrected on a timely basis. A significant deficiency is a 
+deficiency, or a combination of deficiencies, in internal control that is less severe than a material weakness, yet 
+important enough to merit attention by those charged with governance. 
+
+My consideration of internal control was for the limited purpose described in the first paragraph of this section 
+and was not designed to identify all deficiencies in internal control that might be material weaknesses or 
+significant deficiencies. Given these limitations, during my audit I did not identify any deficiencies in internal 
+control that I consider to be material weaknesses. However, material weaknesses may exist that have not been 
+identified 
+
+35 
+
+
+
+Compliance and Other Matters 
+
+As part of obtaining reasonable assurance about whether the District's financial statements are free of material 
+
+misstatement, I performed tests of its compliance with certain provisions of laws, regulations, contracts and 
+grant agreements, noncompliance with which could have a direct and material effect on the determination of 
+
+financial statement amounts. However, providing an opinion on compliance with those provisions was not an 
+
+objective of my audit, arid accordingly, I do not express such an opinion. The results of my tests disclosed no 
+
+instances of noncompliance or other matters that are required to be reported under Government Auditing 
+
+Standards. However, I noted certain immaterial instances of noncompliance that I have reported to 
+
+management in the "Schedule of Comments" on page 41 of this report. 
+
+Purpose of this Report 
+
+This report is solely to describe the scope of my testing of internal control and compliance and the results of that 
+
+testing, and not to provide an opinion on the effectiveness of the entity's internal control or on compliance. This 
+report is an integral part of an audit performed in accordance with Government Auditing Standards in 
+
+considering the entity's internal control and compliance. Accordingly, this communication is not suitable for any 
+
+other purpose. 
+
+Kerry Joh atten, C.P.A. 
+Broken Arrow, OK 
+January 8, 2019 
+
+36 
+
+
+
+KERRY JOHN PATIEN, C.P.A. 
+2101 N. Willow Ave. 
+Broken Arrow, OK 74012 
+Phone Number (918) 250-8838 
+FAX Number (918) 250-9853 
+
+INDEPENDENT AUDITOR'S REPORT ON COMPLIANCE FOR EACH MAJOR FEDERAL PROGRAM; 
+
+REPORT ON INTERNAL CONTROL OVER COMPLIANCE; AND REPORT ON THE SCHEDULE OF 
+EXPENDITURES OF FEDERAL AWARDS REQUIRED BY THE UNIFORM GUIDANCE 
+
+The Honorable Board of Education 
+McAlester School District No. 1-80 
+Pittsburg County, Oklahoma 
+
+Report on Compliance for Each Major Federal Program 
+
+I have audited the compliance of McAlester School District No. 1-80, Pittsburg County, Oklahoma (District's) 
+
+compliance with the types of compliance requirements described in the U.S. Office of Management and Budget 
+
+(OMB) Compliance Supplement that could have a direct and material effect on each of the District's major 
+federal programs for the year ended June 30, 2018. The District's major federal programs are identified in the 
+
+summary of auditor's results section of the accompanying schedule of findings and questioned costs. 
+
+Management's Responsibility 
+
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and grants 
+
+applicable to its federal programs. 
+
+Auditor's Responsibility 
+
+My responsibility is to express an opinion on compliance for each of the District's major federal programs based 
+
+on my audit of the types of compliance requirements referred to above. I conducted my audit of compliance in 
+
+accordance with auditing standards generally accepted in the United States of America; and the audit · 
+
+requirements of Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Those 
+standards and Uniform Guidance require that I plan and perform the audit to obtain reasonable assurance about 
+
+whether noncompliance with the types of compliance requirements referred to above that could have a direct 
+
+and material effect on a major program occurred. An audit includes examining on a test basis, evidence about 
+
+the District's compliance with those requirements and performing such other procedures as I consider 
+
+necessary in the circumstances. 
+. ' 
+
+I believe that my audit provides a reasonable basis for my opinion on compliance for each major federal 
+
+program. However, my audit does not provide a legal determination of the District's compliance. 
+
+Opinion on Each Major Federal Program 
+
+In my opinion, McAlester School District No. 1-80, Pittsburg County, complied, in all material respects, with the 
+
+types of compliance requirements referred to above that could have a direct and material effect on each of its 
+
+major federal programs for the year ended June 30, 2018. 
+
+37 
+
+
+
+Report on Internal Control Over Compliance 
+
+Management of McAlester School District No. 1-80, Pittsburg County, Oklahoma (District), is responsible for 
+establishing and maintaining effective internal control over compliance with the types of compliance 
+requirements referred to above. In planning and performing my audit of compliance, I considered the District's 
+
+internal control over compliance with the types of requirements that could have a direct and material effect on 
+each major federal program to determine the auditing procedures that are appropriate in the circumstances for 
+the purpose of expressing an opinion on compliance for each major federal program and to test and report on 
+internal control over compliance in accordance with Uniform Guidance, but not for the purpose of expressing an 
+opinion on effectiveness of internal control over compliance. Accordingly, I do not express an opinion on the 
+effectiveness of the District's internal control over compliance. 
+
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a federal 
+program, on a timely basis. A material weakness in internal control over compliance is a deficiency, or 
+
+combination of deficiencies, in internal control over compliance, such that there is a reasonable possibility that 
+material noncompliance with a type of compliance requirement of a federal program will not be prevented, or 
+detected and corrected on, a timely basis. A significant deficiency in internal control over compliance is a 
+deficiency, or a combination of deficiencies, in internal control over compliance with a type of compliance 
+requirement of a federal program that is less severe than a material weakness in internal control over 
+compliance, yet important enough to merit attention by those charged with governance. 
+
+My consideration of internal control over compliance was for the limited purpose described in the first paragraph 
+of this section and was not designed to identify all deficiencies in internal control over compliance that might be 
+material weaknesses or significant deficiencies. I did not identify any deficiencies in internal control over 
+compliance that I considered to be material weaknesses. However, material weaknesses may exist that haven 
+not been identified. 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of my testing of 
+internal control over compliance and the results of that testing based on the requirements of Uniform Guidance. 
+Accordingly, this report is not su· le for any other purpose. 
+
+38 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 80 
+OKLAHOMA COUNTY, OKLAHOMA 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+A SUMMARY OF AUDIT RESULTS 
+
+1. The auditor's report expresses an adverse opinion on the combined financial statements in conformity 
+with generally accepted accounting principles and a qualified opinion for the omission of the general 
+fixed asset account group on the combined financial statements in conformity with a regulatory basis 
+of accounting prescribed by the Oklahoma Department of Education. 
+
+2. There were no audit findings reported of deficiencies in internal control, which the auditor considers to 
+be "significant deficiencies" as defined in A.LC.PA standards. 
+
+3. No instances of noncompliance material to the financial statements of McAlester School District were 
+disclosed in the audit. 
+
+4. There were no audit findings reported of deficiencies in internal control over major programs, which 
+the auditor considers to be "significant deficiencies" as defined by A.LC.PA standards. 
+
+5. The auditor's report on compliance for the major federal award programs for McAlester School 
+District expresses an unmodified opinion. 
+
+6. There were no audit findings relative to major federal award programs for McAlester School District 
+that were required to be reported by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, 
+Uniform Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards 
+(Uniform Guidance). 
+
+7. The programs tested as major programs included: Title VI Indian Education (84.060), Title V Rural 
+and Low Income (84.358), Special Education Cluster: IDEA B Flow Through (84.027), and Preschool 
+(84.173) and Child and Adult Care Food (10.558). 
+
+8. A threshold for distinguishing Types A and B programs was $750,000.00. 
+
+9. McAlester School District did not qualify as a low risk auditee. 
+
+B. FINDINGS - FINANCIAL STATEMENTS AUDIT 
+
+1. No matter were reported. 
+
+C. FINDINGS AND QUESTIONED COSTS - MAJOR FEDERAL AWARD PROGRAMS AUDIT 
+
+1, No matters were reported. 
+
+39 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+SUMMARY OF PRIOR AUDIT FINDINGS 
+JULY 1, 2017 TO JUNE 30, 2018 
+
+McAlester Public Schools is responsible for follow-up and corrective action on all audit findings. The summary 
+
+of Prior Audit Findings is required to present the current year auditor's evaluation of whether the School District 
+
+has taken appropriate corrective action to address findings and recommendations in the prior audit's Schedule 
+
+of Findings and Questioned Costs. 
+
+FINDING 2017-1 
+
+Condition: During FY 2016-17, the School District's cumulative funds received from the National 
+
+School Lunch and Breakfast programs exceeded cumulative reported expenditures for those programs; 
+
+Balance at 
+7/1/2016 
+
+Lunch {Project 763) $ 262,232.87 
+
+Breakfast {Project 764) $ 691,597.65 
+
+Receipts 
+
+$ 1,063,103.04 
+
+$ 544,732.19 
+
+Expenditures 
+
+$ 984,181.03 
+
+$ 495,522.98 
+
+Balance at 
+6/30/2017 
+
+$ 341,154.88 
+
+$ 740,806.86 
+
+Recommendation: The District should ensure expenditures are properly coded in amounts which reflect 
+
+the total amount received or claimed will have corresponding expenditures. 
+
+Current Status: This finding was not repeated again during fiscal year 2018. The Lunch balance 
+
+increased to $375,567.27 at June 30, 2018 and the Breakfast balance increased to $782, 199.17. 
+
+However, the Oklahoma State Department of Education has granted them permission to zero out these 
+
+carryover balances going forward. 
+
+FINDING 2017-2 
+
+Condition:. During 2016-17, the school coded $21,172.00 of school wide property insurance expense to 
+
+National School Lunch Program (Project) 763. This amount represented 10% of the total property 
+
+insurance expenses. The school could not provide a rationale to justify that the method of allocation was in 
+
+reasonable proportion to the total expense. 
+
+Recommendation: The school district should monitor all federal expenditures coded to federal awards 
+
+to ensure they are allowable cost for that program under the Uniform Guidance. 
+
+Current Status: This finding was corrected in the 2017-18 school year. 
+
+40 
+
+
+
+SCHEDULE OF COMMENTS 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+SCHEDULE OF COMMENTS 
+JULY 1, 2017 TO JUNE 30, 2018 
+
+The following conditions, while not representing material weaknesses in the system of internal accounting 
+control, represent areas noted during my review of the school's accounting system in which I feel 
+improvements in the internal control and/or operational efficiency may be attained. I have also noted, as 
+required, any noncompliance with State Department of Education Regulations. 
+
+I. Condition: General Fund purchase order #10 represents a $1 ,988.26 amount paid as a "prepayment" 
+to Oklahoma Turnpike Authority for Pike-pass tolls. The school could not provide information 
+concerning who uses the Pike-passes or specifically what trips the Pike-pass tolls are paying. · 
+
+Recommendation: A record should be maintained by the school district which specifies details of ·. 
+
+usage of prepaid Pike-pass tolls. 
+
+Previous Year's Audit Comments 
+
+There are no Items in the 2016-17 audit report, which have be.en repeated in this report. 
+
+I would like to express my appreciation for the courtesies and cooperation extended to us by school district 
+administrators and employees during the course of this audit. 
+
+41 
+
+
+
+MCALESTER SCHOOL DISTRICT NO. 1-80 
+PITTSBURG COUNTY, OKLAHOMA 
+
+SCHEDULE OF ACCOUNTANT'S PROFESSIONAL LIABILITY INSURANCE AFFIDAVIT 
+JULY 1, 2017 TO JUNE 30, 2018 
+
+State of Oklahoma 
+County of Tulsa 
+
+The undersigned auditing firm of lawful age, being first duly sworn on oath, says that said firm had in full force 
+and effect Accountant's Professional Liability Insurance in accordance with the "Oklahoma Public School Audit 
+Law" at the time of audit contract and during the entire audit engagement with McAlester School District for the 
+audit year 2017-18. 
+
+AMBER M BAILEY 
+Notary Public 
+
+State of Oklahoma 
+Commission # 15006496 
+
+My Commission Expires Jul 17, 2019 
+
+Kerry John Patten, C.P.A. 
+AUDITING FIRM 
+
+BY 
+
+Subscribed and sworn to before me on this 
+
+My commission expires on: 
+
+42 
+
+

@@ -1,0 +1,1312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - Notes & Opinion.docx
+
+
+ROSEBUD GROVE, INC.
+
+Financial Statements and Supplementary Information with Independent Auditors' Reports
+For the Year Ended June 30, 2018
+
+
+
+ROSEBUD GROVE, INC.
+
+CONTENTS
+
+Independent Auditors' Report ....................................................................................... 1-2
+
+Statement of Financial Position ............................................................................... 3
+
+Statement of Activities ....................................................................................... 4
+
+Statement of Cash Flows .................................................................................... 5
+
+Notes to Financial Statements ...................................................................................... 6-9
+
+Supplementary Information:
+
+Supplementary Information Required by HUD ..................................................... 11-18
+
+Schedule of Expenditures of Federal & State Awards ........................................... 19
+
+Report on Internal Control Over Financial Reporting and
+on Compliance and Other Matters Based on an Audit of
+Financial Statements Performed in Accordance with
+Government Auditing Standards ...................................................................... 20-21
+
+Report on Compliance for Each Major Federal Program
+and on Internal Control Over Compliance Required by
+the Uniform Guidance ...................................................................................... 22-23
+
+Schedule of Findings and Questioned Costs .......................................................... 24
+
+Schedule of Prior Audit Findings .......................................................................... 25
+
+Owner’s and Management Company Certifications .............................................. 26
+
+Independent Auditors’Report on Applying Agreed-Upon
+Procedures ........................................................................................................ 27-28
+
+
+
+Russell & Williams CPA’s, P.C.
+
+Casey J. Russell, C.P.A., M.B.A. 2812 NW 57th, Ste. 102 Phone: (405) 607-8743
+Autumn L. Williams, C.P.A., Esq. Oklahoma City, Oklahoma 73112 Fax: (405) 607-8744
+Member AICPA & OSCPA Email: caseycpa@hotmail.com
+
+Page 1
+
+INDEPENDENT AUDITORS’ REPORT
+
+To the Board of Directors
+Rosebud Grove, Inc.
+Hobart, Oklahoma
+
+Report on the Financial Statements
+
+We have audited the accompanying statement of financial position of Rosebud Grove, Inc. (a nonprofit
+organization), HUD Project No.118-HD029, as of June 30, 2018, and the related statements of activities
+and cash flows for the year then ended, and the related notes to the financial statements.
+
+Management’s Responsibility for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America; this includes
+the design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+
+Auditor’s Responsibility
+
+Our responsibility is to express an opinion on these financial statements based on our audit. We
+conducted our audit in accordance with auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards,
+issued by the Comptroller General of the United States. Those standards require that we plan and perform
+the audit to obtain reasonable assurance about whether the financial statements are free of material
+misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in
+the financial statements. The procedures selected depend on the auditor’s judgment, including the
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or error.
+In making those risk assessments, the auditor considers internal control relevant to the entity’s preparation
+and fair presentation of the financial statements in order to design audit procedures that are appropriate in
+the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s
+internal control. Accordingly, we express no such opinion. An audit also includes evaluating the
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates
+made by management, as well as evaluating the overall presentation of the financial statements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinion.
+
+Opinion
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+financial position of Rosebud Grove, Inc. as of June 30, 2018, and the changes in its net assets and its
+
+
+
+Page 2
+
+cash flows for the year then ended in accordance with accounting principles generally accepted in the
+United States of America.
+
+Other Matters
+
+Other Information
+
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a whole.
+The accompanying supplementary information shown on pages 10 to 18 is presented for purposes of
+additional analysis as required by the Consolidated Audit Guide for Audits of HUD Programs issued by
+the U.S. Department of Housing and Urban Development, Office of the Inspector General, and is not a
+required part of the financial statements. The accompanying schedule of expenditures of federal awards,
+as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, is presented for purposes of
+additional analysis and is not a required part of the financial statements. Such information is the
+responsibility of management and was derived from and relates directly to the underlying accounting and
+other records used to prepare the financial statements. The information has been subjected to the auditing
+procedures applied in the audit of the financial statements and certain additional procedures, including
+comparing and reconciling such information directly to the underlying accounting and other records used
+to prepare the financial statements or to the financial statements themselves, and other additional
+procedures in accordance with auditing standards generally accepted in the United States of America. In
+our opinion, the information is fairly stated, in all material respects, in relation to the financial statements
+as a whole.
+
+Other Reporting Required by Government Auditing Standards
+
+In accordance with Government Auditing Standards we have also issued our report dated September 8,
+2018, on our consideration of the internal control over financial reporting of Rosebud Grove, Inc. and on
+our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is to describe the scope of our testing of internal control
+over financial reporting and compliance and the results of that testing and not to provide an opinion on the
+internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the internal control over
+financial reporting and compliance of Rosebud Grove, Inc.
+
+Oklahoma City, Oklahoma
+September 8, 2018
+
+
+
+Rosebud Grove, Inc.
+
+Statement of Financial Position
+
+June 30, 2018
+
+The accompanying notes are an integral part of these financial statements
+Page 3
+
+ASSETS
+
+CURRENT ASSETS
+Cash $ 1,118
+Tenant Accounts Receivable 6
+Accounts Receivable - HUD 534
+Prepaid Expenses 6,817
+
+Total Current Assets 8,475
+
+PROPERTY AND EQUIPMENT
+Land and Buildings 941,131
+Furniture and Equipment 19,293
+Less: Accumulated Depreciation (269,301)
+
+Net Property and Equipment 691,124
+
+OTHER ASSETS
+Tenant Deposits Held in Trust 6,529
+Other Deposits 327
+Restricted Deposit Accounts 20,536
+
+27,392
+
+TOTAL ASSETS $ 726,991
+
+LIABILITIES AND NET ASSETS
+
+CURRENT LIABILITIES
+Accounts Payable and Accrued Liabilities $ 35,154
+
+Total Current Liabilities 35,154
+
+LONG TERM LIABILITIES
+Tenant Security Deposits 3,204
+Mortgage Payables 929,600
+
+Total Long-Term Liabilities 932,804
+
+NET ASSETS
+Unrestricted (240,967)
+
+Total Net Assets (240,967)
+
+TOTAL LIABILITIES AND NET ASSETS $ 726,991
+
+
+
+Rosebud Grove, Inc.
+
+Statement of Activities
+
+For the Year Ended June 30, 2018
+
+The accompanying notes are an integral part of these financial statements
+Page 4
+
+REVENUES
+Net Rental Revenue $ 76,640
+Interest Income 173
+Other Revenue 1,786
+
+Total Revenues 78,599
+
+EXPENSES
+Project Services:
+
+Administration Expenses 44,044
+Utilities Expenses 17,655
+Operating and Maintenance Expenses 22,674
+Taxes and Insurance 73
+Financial Expenses
+Depreciation 25,321
+
+Total Project Expenses 109,766
+
+Net Increase (Decrease) in Net Assets $ (31,167)
+
+Net Assets, Beginning of Year (209,800)
+
+Net Assets, End of Year $ (240,967)
+
+
+
+Rosebud Grove, Inc.
+
+Statement of Cash Flows Data
+
+For the Year Ended June 30, 2018
+
+The accompanying notes are an integral part of these financial statements
+Page 5
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Rental Receipts 76,860
+Interest Income 173
+Other Operating Receipts 1,786
+
+Cash Inflows From Operating Activities 78,819
+
+Administrative (7,070)
+Management Fee (7,435)
+Utilities (17,655)
+Salaries and Wages (31,340)
+Operating and Maintenance (10,934)
+Real Estate Taxes
+Property Insurance
+Miscellaneous Taxes & Insurance (73)
+Tenant Security Deposits (931)
+Interest on Mortgages
+Mortgage Insurance Premium
+
+Cash Outflows From Operating Activities (75,437)
+Net Cash Provided by (Used in) Operating Activities 3,382
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Deposits to Reserve for Replacements and Interest Retained 135
+Withdrawals from Reserve for Replacements 9,531
+Purchase of Fixed Assets (13,925)
+
+Net Cash Provided by (Used in) Investing Activities (4,259)
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Mortgage Principal Payments
+
+Net Cash Provided (Used in) Financing Activities
+
+Net Increase (Decrease) in Cash (876)
+
+Beginning of Period: Cash - Operations 1,994
+
+End of Period: Cash - Operations $ 1,118
+
+Reconciliation of Change in Net Assets to Net Cash Provided
+By Operating Activities:
+
+Increase (Decrease) in Net Assets (31,167)
+
+Adjustments to Reconcile Change in Net Assets to Net Cash Provided
+By Operating Activities:
+
+Depreciation Expense 25,321
+
+Decrease (Increase) in Tenant Accounts Receivable 220
+Decrease (Increase) in Prepaid Expenses (6,625)
+Decrease (Increase) in Tenants Deposits Held in Trust (1,516)
+Decrease (Increase) in Insurance Escrow
+Increase (Decrease) in Accounts Payable 16,565
+Increase (Decrease) in Tenant Security Deposits 585
+Decrease (Increase) in Interest Reduction Payment
+
+Net Cash Provided by (Used in) Operating Activities $ 3,382
+
+
+
+Page 6
+
+ROSEBUD GROVE, INC.
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+NOTE 1- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+ORGANIZATION
+
+Rosebud Grove, Inc. is a non-profit corporation organized to provide affordable, quality housing
+to developmentally disabled adults in the Hobart, Oklahoma area. Rosebud Grove, Inc. operates a 14-unit
+housing projects (group homes) for the developmentally disabled. The apartment complex (14 units) is
+organized under Section 811 of the National Affordable Housing Act. Such projects are regulated by the
+Department of Housing and Urban Development (HUD) as to construction costs, rent charges and
+operating methods. The Section 811 Capital Advance is the only major HUD Program. The Organization
+was incorporated January 5, 2004, but the houses were not occupied until January 2007.
+
+BASIS OF PRESENTATION
+
+The accompanying financial statements have been prepared on the accrual basis of accounting in
+accordance with U.S. generally accepted accounting principles. Rosebud Grove, Inc. reports information
+regarding its financial position and changes in net assets according to three classes of net assets, based on
+the existence or absence of donor-imposed restrictions, as follows:
+
+Unrestricted - expendable amounts available for use without restriction.
+
+Temporarily Restricted - amounts which have been temporarily restricted by donors or grantors
+for specific purposes or time periods.
+
+Permanently Restricted - amounts restricted by donors or grantors to be maintained in perpetuity
+with income generated by such amounts available for expenditure, if applicable.
+
+ESTIMATES
+
+The preparation of financial statements in conformity with U.S. generally accepted accounting
+principles requires management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statement. Actual results could differ from those estimates. It is at least reasonably possible that the
+significant estimates used will change within the next year.
+
+CASH AND CASH EQUIVALENTS
+
+Rosebud Grove, Inc. considers highly liquid investments with original maturities of three months or
+less to be cash equivalents.
+
+
+
+Page 7
+
+PROPERTY AND EQUIPMENT
+
+Purchased assets are recorded at cost, and donated assets are recorded at market value at the time of
+donation. Property and equipment with initial values of $1,000 or more are capitalized and depreciated over
+their estimated useful lives on a straight-line basis.
+
+INCOME TAXES
+
+Rosebud Grove, Inc. is an exempt organization under Internal Revenue Service (IRS) Code Section
+501(c)(3) and is not classified as a private foundation within the meaning of IRS Code Section 509(a).
+Therefore, no provision has been made in the financial statements for income taxes. The Organization is
+subject to review by tax authorities. It is not currently under review. The open years are 2015 through 2018.
+
+CONTRIBUTIONS
+
+Gifts of cash and other assets are reported as restricted support if they are received with donor
+stipulations that limit the use of the donated assets. When a donor restriction expires, temporarily-
+restricted net assets are reclassified to unrestricted net assets and reported in the statement of activities as
+net assets released from restrictions. Rosebud Grove, Inc. reports gifts of land, buildings and equipment as
+unrestricted support unless explicit donor stipulations specify how the donated assets must be used. Gifts
+of long-lived assets with explicit restrictions that specify how the assets are to be used and gifts of cash or
+other assets that must be used to acquire long-lived assets are reported as restricted support.
+
+Contributed materials are recorded at market value at the time of donation, and contributed services
+are recorded at the fair value of the services, provided they meet the following criteria:
+
+ Create or enhance non-financial assets; or
+
+ Require specialized skills, are provided by individuals possessing those skills and would typically
+be purchased if not provided by donation.
+
+NOTE 2 — SIGNIFICANT RISK
+
+Rosebud Grove, Inc. receives a significant amount of its support from the federal and state
+government. A significant reduction in the level of this support, if this were to occur, may have a
+significant adverse effect on South Central Housing Inc.'s programs.
+
+NOTE 3 — SUBSEQUENT EVENTS
+
+Subsequent events have been evaluated through September 8, 2018, which is the date the
+financial statements were available to be issued.
+
+NOTE 4 — HUD PROGRAM FOOTNOTES
+
+The following footnote disclosures are related only to the HUD Project:
+
+(A) DISTRIBUTIONS - The Project's regulatory agreement with HUD stipulates, among other things,
+that the Project will not make distributions of assets or income to any of its officers or directors.
+
+
+
+Page 8
+
+(B) TENANT SECURITY DEPOSITS - Tenant security deposits are held in a separate account in the
+name of the Project. At June 30, 2018, the cash set aside in the separate bank account equals the
+security deposit liability account.
+
+(C) REPLACEMENT RESERVE DEPOSITS - A monthly deposit of $268.75 is required to be paid
+into a separate escrow fund for replacement of major items. Withdrawals from this escrow can be
+made only with HUD approval. The balance in the account at year end 2018 was $20,536.
+
+(D) RESIDUAL RECEIPTS ACCOUNT - Use of the residual receipts account is contingent upon
+HUD's prior written approval. The balance in the account at year end 2018 was $-0-.
+
+(E) PROPERTY AND EQUIPMENT - Property and equipment at June 30, 2018 is summarized as
+follows:
+
+Land $ 14,000
+
+Buildings & Improvements 927,132
+
+Furniture & Fixtures 18,358
+
+Office Equipment 935
+
+Totals $ 960,425
+
+All property and equipment are pledged as collateral for the capital advance (Note F).
+
+(F) CAPITAL ADVANCE - HUD made capital advances of $929,600 to the Corporation during
+2006 to purchase the land and construct the apartment building. This advance is secured by a
+mortgage on all property and all funds received by the Project. The advance bears no interest
+and requires no repayment so long as the housing remains available for no less than forty years
+for very low-income individuals with disabilities.
+
+(G) REGULATORY AGREEMENT - Certain agreements are in effect between the Corporation and
+HUD which regulate the activities of the Project. HUD makes housing assistance payments on
+behalf of qualified individuals and families; these rent supplement payments amounted to
+$26,065 during the year ended June 30, 2018. To ensure the Project remains well maintained and
+managed, HUD imposes certain restrictions upon the Corporation. These restrictions included
+tenant rental charges, maintenance, marketing, accounting and record keeping. The regulatory
+agreement stipulates that the Project will not make distributions of assets or income to any of its
+officers or directors. Under the regulatory agreement, the Project may not increase rents charged
+to tenants without prior HUD approval.
+
+The Project's major HUD program is the Section 811 Capital Advance. The Project's nonmajor
+HUD program is the Section 8 Housing Assistance Payments Program.
+
+(H) MANAGEMENT FEE — Gorman Management Company, Inc. manages the property and
+charges a fee of 9.48% of receipts.
+
+(I) DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS - The carrying
+amounts of cash equals its fair value. It is not practicable to estimate the fair value of the long-
+term debt because of the unique nature of the Project and its dependence on the HUD housing
+assistance payments.
+
+
+
+Page 9
+
+(J) CURRENT VULNERABILITY DUE TO CERTAIN CONCENTRATIONS - The Project's
+sole operating asset is a 14-unit apartment project. The Project's operations are concentrated in
+the multifamily real estate market. In addition, the Project operates in a heavily regulated
+environment. The operations of the Project are subject to the administrative directives, rules
+and regulations of federal, state and local regulatory agencies, including, but not limited to,
+HUD. Such administrative directives, rules and regulations are subject to acts of Congress and
+administrative changes mandated by HUD. Such changes may occur with little notice or
+inadequate funding to pay for the related costs, including the additional administrative burden,
+to comply with changes.
+
+
+
+Supplementary Information
+
+
+
+Rosebud Grove, Inc.
+Project No. 118-HD029
+
+Statement of Financial Position Data
+June 30, 2018
+
+Page 11
+
+CURRENT ASSETS
+1120 Cash in Bank - Operations $ 1,118
+1130 Tenant Accounts Receivable 6
+1135 Accounts Receivable - HUD 534
+1600 Deposits Receivable 327
+1200 Prepaid Expenses 6,817
+1100T Total Current Assets 8,801
+
+1191 TENANT DEPOSIT HELD IN TRUST 6,529
+
+Restricted Deposits
+1320 Replacement Reserve 20,536
+1300T Total Restricted Deposits 20,536
+
+PROPERTY AND EQUIPMENT
+1410 Land 14,000
+1420 Building 927,131
+1450 Furniture for Project/Tenant Use 2,593
+1465 Office Equipment and Equipment 935
+1470 Maintenance Equipment 14,475
+1490 Miscellaneous Fixed Assets 1,290
+1400T Total Fixed Assets 960,425
+1495 Accumulated Depreciation (269,301)
+1400N Net Fixed Assets 691,124
+
+1000T TOTAL ASSETS $ 726,991
+
+LIABILITIES AND NET ASSETS
+
+CURRENT LIABILITIES
+2110 Accounts Payable - Operations $ 35,154
+2122T Total Current Liabilities 35,154
+
+2191 TENANT SECURITY DEPOSITS 3,204
+
+2320 MORTGAGE PAYABLE, less current portion 929,600
+2300T Total Long-Term Liabilities 929,600
+
+2000T Total Liabilities 967,958
+
+3131 NET ASSETS (DEFICITS) - Unrestricted (240,967)
+
+2033T TOTAL LIABILITIES AND NET ASSETS $ 726,991
+
+
+
+Rosebud Grove, Inc.
+Project No. 118-HD029
+
+Statement of Activities Data
+For the Year Ended June 30, 2018
+
+Page 12
+
+REVENUES
+5120 Rental Revenues - Gross Potential 41,279
+5121 Tenant Assistant Payments 39,641
+5100T Total Rental Revenue 80,920
+
+5220 Vacancies - Apartments (4,280)
+5200T Total Vacancies (4,280)
+
+5152N Net Rental Revenues 76,640
+
+5410 Interest - Security Deposits 38
+5440 Revenue from Investments - HUD Replacement Reserve 135
+5440 Revenue from Investments - Replacement Reserve
+5400T Total Financial Revenues 173
+
+5910 Laundry and Vending Revenue
+5920 Tenant Charges 1,349
+5990 Misc. Revenues 437
+5900T Total Other Revenues 1,786
+
+5000T TOTAL REVENUES 78,599
+
+EXPENSES
+Administrative Expenses
+
+6210 Advertising and Marketing 896
+6311 Office Expenses 7,740
+6320 Management Fees 7,435
+6330 Manager Salary 19,599
+6340 Legal Expense
+6350 Auditing Fees 5,500
+6351 Bookkeeping/Accounting Fees 2,184
+6390 Misc. Admin. Expenses 689
+6263T Total Administrative Expenses 44,044
+
+Utilities Expenses
+6450 Electricity 10,023
+6451 Water 5,555
+6452 Gas 2,077
+6453 Sewer
+6455 Telephone
+6400T Total Utiltities Expenses 17,655
+
+Operating and Maintenance Expenses
+6510 Payroll 11,740
+6515 Supplies 1,982
+6520 Contracts 2,696
+6525 Garbage and Trash Removal 1,519
+6530 Security Contract 1,155
+6547 Maintenance & Repairs 3,582
+6570 Vehicle & Maintenance Expenses
+6500T Total Operating and Maintenance Expenses 22,674
+
+
+
+Rosebud Grove, Inc.
+Project No. 118-HD029
+
+Statement of Activities Data
+For the Year Ended June 30, 2018
+
+Page 13
+
+Taxes and Insurance
+6710 Property Taxes
+6711 Payroll Taxes (Project Share)
+6720 Property and Liability Insurance (Hazard)
+6721 Fidelity Bond Insurance 28
+6722 Workman's Compensation Insurance
+6790 Misc. Taxes, Licenses, Permits, and Insurance 45
+6700T Total Taxes and Insurance 73
+
+Financial Expenses
+6850 Mortgage Insurance Premium/Service Charge
+6800T Total Financial Expense
+
+6000T Total Cost of Operations before Depreciation 84,445
+
+5060T Profit (Loss) before Depreciation (5,846)
+
+6600 Depreciation 25,321
+
+5060N Operating Profit or (Loss) (31,167)
+7100T Net Entity Expenses
+
+3247 Change in Unrestricted Net Assets (31,167)
+
+3250 Change in Total Net Assets $ (31,167)
+
+S1000-010 Total Mortgage (or bond) principal payments required
+during the audit year (12 monthly payments). This
+applies to all direct loans and HUD-held and fully
+insured first mortgages.
+
+S1000-020 Total of 12 monthly deposits in the audit year into the
+Replacement Reserve account, as required by the
+Regulatory Agreement even if payments may be
+temporarily suspended or reduced. 3,225
+
+S1000-030 Replacement reserve or residual receipts releases which
+are included as expense items in this statement of activities 13,296
+
+S1000-040 Project improvement reserve release under the flexible
+subsidy program that are included as expense items in this
+statement of activities
+
+
+
+Rosebud Grove, Inc.
+
+Project No. 118-HD029
+
+Statement of Changes in Equity Data
+
+For the Year Ended June 30, 2018
+
+Page 14
+
+S1100-060 Previous Year Unrestricted Net Assets $ (209,800)
+
+3247 Change in Unrestricted Net Assets from Operations (31,167)
+
+S1100-065 Other Changes in Unrestricted Net Assets
+$ (240,967)
+
+
+
+Rosebud Grove, Inc.
+
+Project No. 118-HD029
+
+Statement of Cash Flows Data
+
+For the Year Ended June 30, 2018
+
+Page 15
+
+Cash Flows From Operating Activities:
+Receipts:
+
+S1200-010 Rental Receipts 76,860
+S1200-020 Interest Receipts 173
+S1200-030 Other Operating Receipts 1,786
+S1200-040 Total Receipts 78,819
+
+Disbursements:
+S1200-050 Administrative (7,070)
+S1200-070 Management Fee (7,435)
+S1200-090 Utilities (17,655)
+S1200-100 Salaries and Wages (31,340)
+S1200-110 Operating and Maintenance (10,934)
+S1200-120 Real Estate Taxes
+S1200-140 Property Insurance
+S1200-150 Miscellaneous Taxes & Insurance (73)
+S1200-160 Tenant Security Deposits (931)
+S1200-180 Interest on Mortgages
+S1200-210 Mortgage Insurance Premium
+S1200-230 Total Disbursements (75,437)
+
+S1200-240 Net Cash Provided by (Used in) Operating Activities 3,382
+
+Cash Flows From Investing Activities:
+S1200-250 Net Deposits to the Reserve for Replacement 9,667
+S1200-255 Net Deposits to Other Reserves
+S1200-260 Net Deposits to the Residual Receipts
+S1200-330 Net Purchase of Fixed Assets (13,925)
+S1200-350 Net Cash Provided by (Used in) Investing Activities (4,260)
+
+Cash Flows From Financing Activities:
+S1200-360 Mortgage Principal Payments
+S1200-460 Net Cash Provided (Used in) Financing Activities
+
+S1200-470 Net Increase (Decrease) in Cash (877)
+
+S1200-480 Beginning of Period: Cash - Operations 1,995
+
+S1200T End of Period: Cash - Operations $ 1,118
+
+Reconciliation of Change in Net Assets to Net Cash Provided By
+Operating Activities:
+3250 Increase (Decrease) in Net Assets (31,167)
+
+Adjustments to Reconcile Change in Net Assets to Net Cash Provided By
+Operating Activities:
+
+6600 Depreciation Expense 25,321
+
+S1200-490 Decrease (Increase) in Tenant Accounts Receivable 220
+S1200-520 Decrease (Increase) in Prepaid Expenses (6,625)
+S1200-530 Decrease (Increase) in Tenants Deposits Held in Trust (1,516)
+S1200-540 Increase (Decrease) in Accounts Payable 32,653
+S1200-560 Increase (Decrease) in Accrued Liabilities (16,088)
+S1200-580 Increase (Decrease) in Tenant Security Deposits 585
+S1200-600 Decrease (Increase) in Interest Reduction Payment
+S1200-610 Net Cash Provided by (Used in) Operating Activities $ 3,382
+
+
+
+Rosebud Grove, Inc.
+
+Project No. 118-HD029
+
+Computation of Surplus Cash - Annual
+
+For the Year Ended June 30, 2018
+
+Page 16
+
+S1300-010 Cash $ 1,118
+S1300-010 Tenants Security Deposit Account 6,529 7,647
+
+1135 Accounts Receivable - HUD 534
+8,181
+
+Current Obligations:
+S1300-075 Accounts Payable 35,154
+S1300-100 Accrued Expenses, not escrowed
+
+2191 Tenant Security Deposits 3,204
+
+S1300-140 Total Current Obligations 38,358
+
+S1300-150 Surplus Cash (Deficiency) $ (30,177)
+
+
+
+Rosebud Grove, Inc.
+
+Project No. 118-HD029
+
+For the Year Ended June 30, 2018
+
+Page 17
+
+SCHEDULE OF RESERVE FOR REPLACEMENTS
+
+Balance at Beginning of Year $ 30,202
+Total Monthly Deposits 3,494
+
+Other Deposits
+Interest Income 135
+
+Approved Withdrawals (13,295)
+
+Balance at End of Year $ 20,536
+
+SCHEDULE OF RESIDUAL RECEIPTS RESERVE
+
+Balance at Beginning of Year
+
+Deposit of Prior Year's Surplus Cash
+Other Deposits
+
+Interest Income
+Other Income - Transfer from Reserve
+
+Approved Withdrawals to Operating for Deficit
+Other Withdrawals
+
+Balance at End of Year $
+
+
+
+Rosebud Grove, Inc.
+
+Project No. 118-HD029
+
+Schedule of Changes in Fixed Asset Accounts
+
+For the Year Ended June 30, 2018
+
+Page 18
+
+Balance Balance Life in
+Description 6/30/17 Additions Dispositions 6/30/18 Method Year
+
+Land $ 14,000 $ $ $ 14,000 SL
+Buildings 919,733 7,399 927,131 SL 40
+Furniture for Project/Tenant Use 2,593 2,593 SL 7
+Office Furniture and Equipment 935 935 SL 7
+Maintenance Equipment 7,949 6,526 14,475 SL 7
+Miscellaneous Fixed Assets 1,290 1,290 SL 7
+
+Total $ 946,499 $ 13,925 $ $ 960,425
+
+Accumulated Depreciation (243,980) (25,321) (269,301)
+
+Net Book Value $ 702,519 $ (11,395) $ $ 691,124
+
+
+
+Rosebud Grove, Inc.
+
+Project No. 118-HD029
+
+Schedule of Expenditures of Federal Awards
+
+For the Year Ended June 30, 2018
+
+Page 19
+
+Federal Grantor/Pass-through Grantor/ CFDA Pass Through Federal
+Program or Cluster Title No. Identifying No Expenditures
+
+U.S. Department of Housing and Urban Development:
+Section 811 Capital Advances 14.181 929,600
+Section 8 Housing Assistance Payments 14.195 39,641
+
+Total Expenditures of Federal Awards $ 969,241
+
+*Principal unpaid balance at June 30, 2018
+
+See accompanying notes to schedule of expenditures of federal awards.
+
+Rosebud Grove, Inc.
+Notes to Schedule of Expenditures of Federal Awards
+
+For the Year Ended June 30, 2018
+
+Note A - Basis of Presentation
+
+The accompanying schedule of expenditures of federal awards (the Schedule) includes the federal
+award activity of Rosebud Grove, Inc. under programs of the federal government for the year ended
+June 30, 2018. The information in this Schedule is presented in accordance with the requirements of
+Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost
+Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Becuase the Schedule
+presents only a selected portion of the operations of Rosebud Grove, Inc., it is intended to and does
+not present the financial position, changes in net assets, or cash flows of Rosebud Grove, Inc..
+
+Note B - Summary of Significant Accounting Policies
+
+(1) Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such
+expenditures are recognized following the cost principles contained in the Uniform Guidance,
+wherein certain types of expenditures are not allowable or are limited as to reimbursement.
+
+(2) Rosebud Grove, Inc. has elected to use the 10 percent de minimis indirect cost rate as allowed
+under the Uniform Guidance.
+
+
+
+Russell & Williams CPA’s, P.C.
+
+Casey J. Russell, C.P.A., M.B.A. 2812 NW 57th, Ste. 102 Phone: (405) 607-8743
+Autumn L. Williams, C.P.A., Esq. Oklahoma City, Oklahoma 73112 Fax: (405) 607-8744
+Member AICPA & OSCPA Email: caseycpa@hotmail.com
+
+Page 20
+
+REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING AND ON COMPLIANCE
+AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED
+
+IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS
+
+Independent Auditor’s Report
+
+To the Board of Directors
+Rosebud Grove, Inc.
+Hobart, Oklahoma
+
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States, the financial statements of Rosebud Grove, Inc.,
+HUD Project No. 118-HD029, which comprise the statement of financial position as of June 30, 2018,
+and the related statements of activities and cash flows for the year then ended, and the related notes to the
+financial statements, and have issued our report thereon dated September 8, 2018.
+
+Internal Control over Financial Reporting
+
+In planning and performing our audit of the financial statements, we considered the internal control over
+financial reporting (internal control) of Rosebud Grove, Inc., to determine the audit procedures that are
+appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but
+not for the purpose of expressing an opinion of the effectiveness of the internal control of Rosebud Grove,
+Inc.. Accordingly, we do not express an opinion on the effectiveness of the internal control of Rosebud
+Grove, Inc..
+
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct misstatements on a timely basis. A material weakness is a deficiency, or a combination
+of deficiencies, in internal control such that there is a reasonable possibility that a material misstatement
+of the entity’s financial statements will not be prevented, or detected and corrected on a timely basis. A
+significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less
+severe than a material weakness, yet important enough to merit attention by those charged with
+governance.
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses
+may exist that have not been identified.
+
+
+
+Page 21
+
+Compliance and Other Matters
+
+As part of obtaining reasonable assurance about whether the financial statements of Rosebud Grove, Inc.
+are free from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have direct and material
+effect on the determination of financial statement amounts. However, providing an opinion on
+compliance with those provisions was not an objective of our audit, and accordingly, we do not express
+such an opinion. The results of our tests disclosed instances of noncompliance or other matters that are
+required to be reported under Government Auditing Standards.
+
+Purpose of this Report
+
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal
+control or on compliance. This report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the entity’s internal control and compliance.
+Accordingly, this communication is not suitable for any other purpose.
+
+Oklahoma City, Oklahoma
+September 8, 2018
+
+
+
+Russell & Williams CPA’s, P.C.
+
+Casey J. Russell, C.P.A., M.B.A. 2812 NW 57th, Ste. 102 Phone: (405) 607-8743
+Autumn L. Williams, C.P.A., Esq. Oklahoma City, Oklahoma 73112 Fax: (405) 607-8744
+Member AICPA & OSCPA Email: caseycpa@hotmail.com
+
+Page 22
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM
+AND ON INTERNAL CONTROL OVER COMPLIANCE REQUIRED BY THE UNIFORM
+
+GUIDANCE
+
+To the Board of Directors
+Rosebud Grove, Inc.
+Oklahoma City, Oklahoma
+
+Report on Compliance for Each Major Federal Program
+
+We have audited the compliance of Rosebud Grove, Inc., HUD Project No. 118-HD029, with the types of
+compliance requirements described in the OMB Compliance Supplement that could have a direct and material
+effect on each of the major federal programs of Rosebud Grove, Inc., for the year ended June 30, 2018.
+Rosebud Grove, Inc.’s major federal programs are identified in the summary of auditor’s results section
+of the accompanying schedule of findings and questioned costs
+
+Management’s Responsibility
+
+Management is responsible for compliance with federal statutes, regulations, and the terms and conditions
+of its federal awards applicable to its federal programs.
+
+Auditor’s Responsibility
+
+Our responsibility is to express an opinion on compliance for each of Rosebud Grove, Inc.’s major federal
+programs based on our audit of the types of compliance requirements referred to above. We conducted
+our audit of compliance in accordance with auditing standards generally accepted in the United States of
+America; the standards applicable to financial audits contained in Government Auditing Standards, issued
+by the Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of
+Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit
+Requirements for Federal Awards (Uniform Guidance). Those standards and the Uniform Guidance
+require that we plan and perform the audit to obtain reasonable assurance about whether noncompliance
+with the types of compliance requirements referred to above that could have a direct and material effect
+on a major federal program occurred. An audit includes examining, on a test basis, evidence about
+Rosebud Grove, Inc.’s compliance with those requirements and performing such other procedures as we
+considered necessary in the circumstances.
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal
+program. However, our audit does not provide a legal determination on the compliance of Rosebud Grove,
+Inc.
+
+Opinion on Each Major Federal Program
+
+In our opinion, Rosebud Grove, Inc., complied, in all material respects, with the types of compliance
+requirements referred to above that could have a direct and material effect on each of its major federal
+programs for the year ended June 30, 2018.
+
+
+
+Page 23
+
+Report on Internal Control Over Compliance
+
+Management of Rosebud Grove, Inc. is responsible for establishing and maintaining effective internal
+control over compliance with the types of compliance requirements referred to above. In planning and
+performing our audit of compliance, we considered Rosebud Grove, Inc.’s internal control over
+compliance with the types of requirements that could have a direct and material effect on each major
+federal program to determine the auditing procedures that are appropriate in the circumstances for the
+purpose of expressing an opinion on compliance for each major federal program and to test and report on
+internal control over compliance in accordance with the Uniform Guidance, but not for the purpose of
+expressing an opinion on the effectiveness of internal control over compliance. Accordingly, we do not
+express an opinion on the effectiveness of Rosebud Grove, Inc.’s internal control over compliance.
+
+A deficiency in internal control over compliance exists when the design or operation of a control over
+compliance does not allow management or employees, in the normal course of performing their assigned
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a
+federal program on a timely basis. A material weakness in internal control over compliance is a deficiency,
+or combination of deficiencies, in internal control over compliance such that there is a reasonable possibility
+that material noncompliance with a type of compliance requirement of a federal program will not be
+prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control over
+compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with a type
+of compliance requirement of a federal program that is less severe than a material weakness in internal
+control over compliance, yet important enough to merit attention by those charged with governance.
+
+Our consideration of internal control over compliance was for the limited purpose described in the first
+paragraph of this section and was not designed to identify all deficiencies in internal control over compliance
+that might be material weaknesses or significant deficiencies. We did not identify any deficiencies in internal
+control over compliance that we consider to be material weaknesses. However, material weaknesses may
+exist that have not been identified.
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our
+testing of internal control over compliance and the results of that testing based on the requirements of the
+Uniform Guidance. Accordingly, this report is not suitable for any other purpose.
+
+Oklahoma City, Oklahoma
+September 8, 2018
+
+
+
+Rosebud Grove, Inc.
+Schedule of Findings and Questioned Costs
+
+Year Ended June 30, 2018
+
+Page 24
+
+SECTION I –Summary of Auditors’Results
+
+1. The auditor’s report expresses an unmodified opinion on whether the financial statements of Rosebud
+Grove, Inc. were prepared in accordance with GAAP.
+
+2. No material weaknesses were identified during the audit of the financial statements.
+
+3. No instances of noncompliance material to the financial statements of Rosebud Grove, Inc. were disclosed
+during the audit.
+
+4. No material weaknesses were identified during the audit of the major federal award programs.
+
+5. The auditor’s report on compliance for the major federal award programs for Rosebud Grove, Inc.
+expresses an unmodified opinion.
+
+6. Audit findings that are required to be reported in accordance with 2 CFR section 200.516(a) are reported in
+this Schedule.
+
+7. The programs tested as major programs were:
+
+CFDA No. 14.181 –Capital Advance (Sec. 811)
+
+8. The threshold for distinguishing Types A and B programs was $750,000.
+
+9. Rosebud Grove, Inc. was determined to be a low-risk auditee.
+
+SECTION II –Findings Required to be Reported in Accordance with Government Auditing Standards:
+
+No matters are reportable.
+
+SECTION III - Findings Required to be Reported in Accordance with the Uniform Guidance:
+
+No matters are reportable.
+
+
+
+Rosebud Grove, Inc.
+Summary Schedule of Prior Audit Findings
+
+Year ended June 30, 2018
+
+Page 25
+
+Prior Year Audit Findings:
+
+None
+
+
+
+Page 26
+
+CERTIFICATION OF OFFICERS
+
+We hereby certify that we have examined the accompanying financial statements and supplemental data of Rosebud
+Grove, Inc., HUD Project No. 118-HD029 and, to the best of our knowledge and belief, the same are accurate and
+complete.
+
+President Vice President
+
+EIN: 76-0777160
+
+MANAGEMENT AGENT’S CERTIFICATION
+
+We hereby certify that we have examined the accompanying financial statements and supplemental data of Rosebud
+Grove, Inc., HUD Project No. 118-HD029 and, to the best of our knowledge and belief, the same are accurate and
+complete.
+
+Shirley Linville
+Searchlight Center, Inc.
+EIN: 73-1219094
+
+
+
+Russell & Williams CPA’s, P.C.
+
+Casey J. Russell, C.P.A., M.B.A. 2812 NW 57th, Ste. 102 Phone: (405) 607-8743
+Autumn L. Williams, C.P.A., Esq. Oklahoma City, Oklahoma 73112 Fax: (405) 607-8744
+Member AICPA & OSCPA Email: caseycpa@hotmail.com
+
+Page 27
+
+INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING AGREED-UPON PROCEDURE
+
+To Rosebud Grove, Inc.
+
+We have performed the procedure described in the second paragraph of this report, which was agreed to
+by Rosebud Grove, Inc. and the U.S. Department of Housing and Urban Development, Public Indian
+Housing-Real Estate Assessment Center (PIH-REAC), solely to assist them in determining whether the
+electronic submission of certain information agrees with the related hard copy documents included within
+the OMB Uniform Guidance reporting package. Rosebud Grove, Inc. is responsible for the accuracy and
+completeness of the electronic submission. This agreed-upon procedure engagement was conducted in
+accordance with attestation standards established by the American Institute of Certified Public
+Accountants and the standards applicable to attestation engagements contained in Government Auditing
+Standards issued by the Comptroller General of the United States. The sufficiency of the procedure is
+solely the responsibility of those parties specified in this report. Consequently, we make no representation
+regarding the sufficiency of the procedure described below either for the purpose for which this report has
+been requested or for any other purpose.
+
+We compared the electronic submission of the items listed in the “UFRS Rule Information” column with
+the corresponding printed documents listed in the “Hard Copy Documents” column. The results of the
+performance of our agreed-upon procedure indicate agreement or non-agreement of the electronically
+submitted information and hard copy documents as shown in the attached chart.
+
+This agreed-upon procedure engagement was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and the standards applicable to
+attestation engagements contained in Government Auditing Standards issued by the Comptroller General
+of the United States. We were not engaged to and did not conduct an examination or review, the objective
+of which would be the expression of an opinion or conclusion, respectively, on whether the electronic
+submission of the items listed in the “UFRS Rule Information” column agrees with the related hard copy
+documents within the audit reporting package. Accordingly, we do not express such an opinion or
+conclusion. Had we performed additional procedures, other matters might have come to our attention that
+would have been reported to you.
+
+We were engaged to perform an audit in accordance with the OMB Uniform Administrative Requirements,
+Cost Principles, and Audit Requirements for Federal Awards (OMB Uniform Guidance), by Rosebud
+Grove, Inc. as of and for the year ended June 30, 2018, and have issued our reports thereon dated
+September 8, 2018. The information in the “Hard Copy Documents” column was included within the
+scope or was a by-product of that audit. Further, our opinion on the fair presentation of the supplementary
+information dated September 8, 2018, was expressed in relation to the basic financial statements of
+Rosebud Grove, Inc. taken as a whole.
+
+A copy of the reporting package required by the OMB Uniform Guidance, which includes the auditor’s
+reports, is available in its entirety from Rosebud Grove, Inc. We have not performed any additional
+auditing procedures since the date of the aforementioned audit reports. Further, we take no responsibility
+for the security of the information transmitted electronically to the U.S. Department of Housing and
+Urban Development, PIH-REAC.
+
+
+
+Page 28
+
+The purpose of this report on applying the agreed-upon procedures is solely to describe the procedure
+performed on the electronic submission of the items listed in the “UFRS Rule Information” column and
+the associated findings, and not to provide an opinion or conclusion. Accordingly, this report is not
+suitable for any other purpose.
+
+Oklahoma City, Oklahoma
+September 8, 2018
+
+ATTACHMENT TO INDEPENDENT ACCOUNTANT'S REPORT ON APPLYING
+AGREED-UPON PROCEDURES
+
+UFRS Rule Information Hard Copy Document(s) Findings
+
+Balance Sheet, Revenue and Expense
+and Cash Flow Data (account numbers
+1120 to 7100T and the S1200 series)
+
+Supplemental Schedules with Financial
+Statement Data
+
+Agrees
+
+Surplus Cash (S1300 series of accounts) Computation of Surplus Cash,
+Distributions and Residual Receipts
+(Annual)
+
+Agrees
+
+Footnotes (S3100 series of accounts)
+Notes to the Audited Financial
+Statements
+
+Agrees
+
+Type of Opinion on the Financial
+Statements and Auditor Reports (S3400,
+S3500 and 53600 series of accounts)
+
+Auditor's Reports on the Financial
+Statements, Compliance and Internal
+Control
+
+Agrees
+
+Type of Opinion on Supplemental Data
+(account S3400-100)
+
+Auditor's Report on Supplemental Data Agrees
+
+Audit Findings Narrative (S3800 series
+of accounts)
+
+Schedule of Findings and Questioned
+Costs
+
+Agrees
+
+General Information (S3300, 53700 and
+S3800 series of accounts)
+
+Schedule of Findings and Questioned
+Costs and OMB Data Collection Form
+
+Agrees
+
+

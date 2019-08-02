@@ -1,0 +1,2502 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+Payne County, Oklahoma 
+
+ 
+SCHOOL DISTRICT OFFICIALS 
+
+June 30, 2018 
+ 
+ 
+
+BOARD OF EDUCATION 
+ 
+
+ 
+President   Dustin Bledsoe  
+Vice-President  Winfrey Kinzie 
+    
+Member   Rick Lomenick  
+Member   Alan Nietenhoefer   
+Member   Erica Hering  
+
+ 
+ 
+
+CLERK OF BOARD OF EDUCATION 
+ 
+
+Erica Hering 
+ 
+
+SCHOOL DISTRICT TREASURER 
+ 
+
+Jim Niles 
+ 
+ 
+
+SUPERINTENDENT OF SCHOOLS 
+ 
+
+James Ramsey 
+ 
+ 
+
+MINUTES CLERK 
+ 
+
+Susan Champion 
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+Payne County, Oklahoma 
+
+ 
+ 
+ CONTENTS 
+ 
+
+ Page No. 
+  
+Independent Auditor's Report 1-2 
+ 
+Financial Statements: 
+ 
+ Combined Statement of Assets, Liabilities and Fund Balances 
+  All Fund Types and Account Groups – Regulatory Basis 3 
+ 
+ Combined Statement of Revenues, Expenditures and Changes 
+  in Fund Balances – All Governmental Fund Types – Regulatory Basis 4 
+ 
+ Statement of Revenues, Expenditures and Changes in Fund 
+
+ Balances – Budget and Actual – General, Special Revenue and 
+ Debt Service Funds – Regulatory Basis 5-7 
+
+ 
+Notes to the Financial Statements – Regulatory Basis 8-20 
+ 
+Other Information: 
+ 
+ Combining Statement of Assets, Liabilities and Fund Balances 
+  All Special Revenue Funds – Regulatory Basis 21 
+ 
+ Combining Statement of Revenues, Expenditures and Changes in 
+  Fund Balances – All Special Revenue Funds – Regulatory Basis 22 
+ 
+ Combining Statement of Changes in Assets and Liabilities 
+
+ Fiduciary Funds – Regulatory Basis 23 
+ 
+ Combining Statement of Revenues, Expenditures and Changes in Fund 
+
+ Balances – Budget and Actual – Special Revenue Funds – Regulatory Basis 24 
+ 
+
+Schedule of Expenditures of Federal Awards 25-26 
+  
+Reports Required by Government Auditing Standards: 
+ 
+ Independent Auditor’s Report on Internal Control over Financial Reporting and on  
+
+Compliance and Other Matters Based on an Audit of Financial Statements 
+ Performed in Accordance with Government Auditing Standards    27-28 
+ 
+
+ Independent Auditor’s Report on Compliance for Each Major Program and on 
+  Internal Control Over Compliance Required by the Uniform Guidance 29-30 
+ 
+ Schedule of Findings and Questioned Costs 31 
+ 
+ Summary Schedule of Prior Audit Findings 32 
+ 
+Other Department of Education Required Information: 
+ 
+ Accountant’s Professional Liability Insurance Affidavit 33 
+ 
+ Audit Acknowledgement  
+
+
+
+1 
+
+ 
+INDEPENDENT AUDITOR'S REPORT 
+
+ 
+September 12, 2018 
+ 
+The Honorable Board of Education 
+Perkins-Tryon School District Number I-56 
+Perkins-Tryon, Payne County, Oklahoma 
+ 
+Report on the Financial Statements 
+ 
+We have audited the accompanying combined fund type and account group financial statements—regulatory basis of the 
+Perkins-Tryon School District Number I-56, Perkins-Tryon, Payne County, Oklahoma (District), as of and for the year ended 
+June 30, 2018 and the related notes to the financial statements, as listed in the table of contents.   
+ 
+Management’s Responsibility for the Financial Statements  
+ 
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with financial 
+reporting provisions of the Oklahoma State Department of Education to meet financial reporting requirements of the State of 
+Oklahoma; this includes determining that the regulatory basis of accounting is an acceptable basis for the preparation of the 
+financial statements in the circumstances.  Management is also responsible for the design, implementation, and maintenance 
+of internal control relevant to the preparation and fair presentation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+ 
+Auditor’s Responsibility  
+ 
+Our responsibility is to express an opinion on these financial statements based on our audit.  We conducted our audit in 
+accordance with auditing standards generally accepted in the United States of America and the standards applicable to 
+financial audits contained in Government Auditing Standards, issued by the comptroller General of the United States. Those 
+standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements 
+are free from material misstatement. 
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial 
+statements.  The procedures selected depend on the auditor’s judgment, including the assessment of the risks of material 
+misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor 
+considers internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design 
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the 
+effectiveness of the entity’s internal control.  Accordingly, we express no such opinion.  An audit also includes evaluating the 
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by 
+management, as well as evaluating the overall presentation of the financial statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions. 
+ 
+Basis for Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+ 
+As discussed in Note 1, the financial statements are prepared by the Perkins-Tryon School District Number I-56, on the basis of 
+the financial reporting provisions of the Oklahoma State Department of Education, which is a basis of accounting other than 
+accounting principles generally accepted in the United States of America, to comply with the requirements of the Oklahoma 
+State Department of Education.  The effects on the financial statements of the variances between the regulatory basis of 
+accounting described in Note 1 and accounting principles generally accepted in the United States of America, although not 
+reasonably determined, are presumed to be material.  
+
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+P.O. Box 790 
+Cushing, OK 74023 
+918-225-4216  FAX 918-225-4315 
+ 
+
+
+
+2 
+
+Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+ 
+In our opinion, because the significance of the matter discussed in the “Basis for Adverse Opinion on U.S. Generally Accepted 
+Accounting Principles” paragraph, the financial statements referred to in the first paragraph do not present fairly, in accordance 
+with accounting principles generally accepted in the United States of America, the financial position of the Perkins-Tryon School 
+District Number I-56, Perkins-Tryon, Payne County, Oklahoma as of June 30, 2018, the changes in its financial position, or, 
+where applicable, its cash flows for the year then ended.  
+ 
+Basis for Qualified Opinion on Regulatory Basis of Accounting 
+ 
+The financial statements referred to above do not include the general fixed asset account group, which is a departure from the 
+regulatory basis of accounting prescribed by the Oklahoma State Department of Education.  The amount that should be 
+recorded in the general fixed asset account group is not known.   
+ 
+Qualified Opinion on Regulatory Basis of Accounting 
+ 
+In our opinion, except for the effects of the matter described in the “Basis for Qualified Opinion on Regulatory Basis of 
+Accounting” paragraph, the financial statements referred to in the first paragraph present fairly, in all material respects, the 
+assets, liabilities and fund balance arising from regulatory basis transactions of each fund type and account group of Perkins-
+Tryon School District Number I-56, Perkins-Tryon, Payne County, Oklahoma, as of June 30, 2018, and the revenues collected 
+and expenditures paid and encumbered for the year then ended on the regulatory basis of accounting described in Note 1. 
+ 
+Other Matters  
+ 
+Other Information 
+ 
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively comprise the District’s 
+basic financial statements.  The combining statements—regulatory basis, are presented for purposes of additional analysis and 
+are not a required part of the basic financial statements.  The schedule of expenditures of federal awards is presented for 
+purposes of additional analysis as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and is also not a required part of the basic 
+financial statements. 
+ 
+The combining statements—regulatory basis and the schedule of expenditures of federal awards are the responsibility of 
+management and were derived from and relate directly to the underlying accounting and other records used to prepare the 
+basic financial statements.  Such information has been subjected to the auditing procedures applied in the audit of the basic 
+financial statements and certain additional procedures, including comparing and reconciling such information directly to the 
+underlying accounting and other records used to prepare the basic financial statements or to the basic financial statements 
+themselves, and other additional procedures in accordance with auditing standards generally accepted in the United States of 
+America.  In our opinion, the combining statements—regulatory basis and the schedule of expenditures of federal awards are 
+fairly stated, in all material respects, in relation to the basic financial statements as a whole arising from regulatory basis 
+transactions. 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated September 12, 2018 on our 
+consideration of the District’s internal control over financial reporting and on our tests of its compliance with certain provisions 
+of laws, regulations, contracts and grant agreements and other matters.  The purpose of that report is to describe the scope of 
+our testing of internal control over financial reporting and compliance and the results of that testing, and not to provide an 
+opinion on the internal control over financial reporting or on compliance.  That report is an integral part of an audit performed in 
+accordance with Government Auditing Standards in considering the District’s internal control over financial reporting and 
+compliance.   
+ 
+
+CBEW Professional Group, LLP  
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+The accompanying notes are an integral part of these financial statements.
+3
+
+Fiduciary Account 
+Fund Types Group
+
+General
+Special Debt Capital Trust and Long-Term June 30, June, 30
+
+Assets: General Revenue Service Projects Agency Debt 2018 2017
+Cash and investments $ 2,155,400    $ 235,352       $ 1,441,849    $ 18,086         $ 279,584       $ -               $ 4,130,271    $ 3,288,629    
+Due from others -               -               -               -               -               -               -               -               
+Amount available in debt service fund -               -               -               -               -               1,441,849    1,441,849    1,313,603    
+Amount to be provided for retirement
+
+of general long-term debt -               -               -               -               -               5,991,281    5,991,281    7,345,470    
+Total assets $ 2,155,400    $ 235,352       $ 1,441,849    $ 18,086         $ 279,584       $ 7,433,130    $ 11,563,401  $ 11,947,702  
+
+Liabilities:
+Warrants payable $ 810,956       $ 25,788         $ -               $ -               $ -               $ -               $ 836,744       $ 733,595       
+Encumbrances -               -               -               -               -               -               -               -               
+Due to others -               -               -               -               279,584       -               279,584       267,403       
+Capitalized lease obligations payable -               -               -               -               -               1,918,130    1,918,130    2,014,589    
+General obligation bonds payable -               -               -               -               -               1,385,000    1,385,000    1,250,000    
+Long-term liabilities:
+
+Capitalized lease obligations payable -               -               -               -               -               -               -               1,979,484    
+General obligation bonds payable -               -               -               -               -               4,130,000    4,130,000    3,415,000    
+
+Total liabilities 810,956       25,788         -               -               279,584       7,433,130    8,549,458    9,660,071    
+
+Fund balances:
+Restricted for:
+
+Capital projects -               -               -               18,086         -               -               18,086         17,004         
+Debt service -               -               1,441,849    -               -               -               1,441,849    1,313,603    
+Child nutrition -               323              -               -               -               -               323              11,856         
+Building -               209,241       -               -               -               -               209,241       167,422       
+
+Unassigned 1,344,444    -               -               -               -               -               1,344,444    777,746       
+Total fund balances 1,344,444    209,564       1,441,849    18,086         -               -               3,013,943    2,287,631    
+
+Total liabilities and fund balances $ 2,155,400    $ 235,352       $ 1,441,849    $ 18,086         $ 279,584       $ 7,433,130    $ 11,563,401  $ 11,947,702  
+
+COMBINED STATEMENTS OF ASSETS, LIABILITIES AND FUND BALANCES
+ALL FUND TYPES AND ACCOUNT GROUPS - REGULATORY BASIS
+
+June 30, 2018
+
+LIABILITIES AND FUND BALANCES
+
+ASSETS
+
+Governmental Fund Types
+(Memorandum Only)
+
+Totals
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+The accompanying notes are an integral part of these financial statements.
+4
+
+Special Debt Capital June 30, June 30,
+General Revenue Service Projects 2018 2017
+
+Revenues:
+Local sources $ 2,453,322      $ 307,405         $ 1,466,294      $ 2,101,050      $ 6,328,071      $ 5,193,572      
+Intermediate sources 534,440         -                 -                 -                 534,440         540,129         
+State sources 5,622,321      64,828           130                -                 5,687,279      5,639,174      
+Federal sources 811,268         275,728         -                 -                 1,086,996      671,262         
+Other 32,778           248,297         189                -                 281,264         268,342         
+
+Total revenues collected 9,454,129      896,258         1,466,613      2,101,050      13,918,050    12,312,479    
+
+Expenditures:
+Instruction 5,665,923      6,363             -                 -                 5,672,286      5,762,867      
+Support services 3,132,893      210,077         -                 -                 3,342,970      3,639,885      
+Non-instructional services -                 584,357         -                 -                 584,357         587,897         
+Capital outlay 1,200             -                 -                 -                 1,200             -                 
+Other outlays 1,150             8,791             7,898             -                 17,839           17,858           
+Debt service:
+
+Principal retirement 84,512           56,010           1,250,000      1,935,421      3,325,943      1,965,451      
+Interest and fiscal agent charges 1,799             375                80,469           164,547         247,190         275,794         
+
+Total expenditures 8,887,477      865,973         1,338,367      2,099,968      13,191,785    12,249,752    
+
+Excess of revenues over
+(under) expenditures 566,652         30,285           128,246         1,082             726,265         62,727           
+
+Adjustments to prior year encumbrances 46                  -                 -                 -                 46                  3,150             
+
+Beginning fund balances 777,746         179,279         1,313,603      17,004           2,287,632      2,230,984      
+
+Ending fund balances $ 1,344,444      $ 209,564         $ 1,441,849      $ 18,086           $ 3,013,943      $ 2,296,861      
+
+Governmental Fund Types (Memoradum Only)
+Totals
+
+COMBINED STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+ALL GOVERNMENTAL FUND TYPES - REGULATORY BASIS
+
+For the Fiscal Year Ended June 30, 2018
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL - REGULATORY BASIS
+
+The accompanying notes are an integral part of these financial statements.
+5
+
+.
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 2,130,156      $ 2,130,156      $ 2,453,322      $ 323,166           
+Intermediate sources 540,129         540,129         534,440         (5,689)              
+State sources 5,581,012      5,581,012      5,622,321      41,309             
+Federal sources 867,820         867,820         811,268         (56,552)            
+Other -                 -                 32,778           32,778             
+
+Total revenues 9,119,117      9,119,117      9,454,129      335,012           
+
+Expenditures:
+Instruction 6,683,943      6,683,943      5,665,923      1,018,020        
+Support services 3,133,000      3,133,000      3,132,893      107                  
+Non-instructional services -                 -                 -                 -                   
+Capital outlay 1,200             1,200             1,200             -                   
+Other outlays 1,150             1,150             1,150             -                   
+Debt service:
+
+Principal retirement 85,000           85,000           84,512           488                  
+Interest and fiscal agent charges 1,800             1,800             1,799             1                      
+
+Total expenditures 9,906,093      9,906,093      8,887,477      1,018,616        
+
+Net change in fund balance (786,976)        (786,976)        566,652         1,353,628        
+
+Adjustments to prior year
+encumbrances -                 -                 46                  46                    
+
+Beginning fund balance 786,976         786,976         777,746         9,230               
+
+Ending fund balances $ -                 $ -                 $ 1,344,444      $ 1,362,904        
+
+GENERAL FUND
+For the Fiscal Year Ended June 30, 2018
+
+Budgeted Amounts
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL - REGULATORY BASIS
+
+The accompanying notes are an integral part of these financial statements.
+6
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 293,157         $ 293,157         $ 307,405         $ 14,248             
+Intermediate sources -                 -                 -                 -                   
+State sources 58,038           58,038           64,828           6,790               
+Federal sources 268,824         268,824         275,728         6,904               
+Other 260,216         260,216         248,297         (11,919)            
+
+Total revenues 880,235         880,235         896,258         16,023             
+
+Expenditures:
+Instruction -                 -                 6,363             (6,363)              
+Support services 460,144         460,144         210,077         250,067           
+Non-instructional services 599,370         599,370         584,357         15,013             
+Capital outlay -                 -                 -                 -                   
+Other outlays -                 -                 8,791             (8,791)              
+Debt service:
+
+Principal retirement -                 -                 56,010           (56,010)            
+Interest and fiscal agent charges -                 -                 375                (375)                 
+
+Total expenditures 1,059,514      1,059,514      865,973         193,541           
+
+Net change in fund balance (179,279)        (179,279)        30,285           209,564           
+
+Adjustments to prior year
+encumbrances -                 -                 -                 -                   
+
+Beginning fund balance 179,279         179,279         179,279         -                   
+
+Ending fund balances $ -                 $ -                 $ 209,564         $ 209,564           
+
+For the Fiscal Year Ended June 30, 2018
+
+Budgeted Amounts
+
+SPECIAL REVENUE FUNDS
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL - REGULATORY BASIS
+
+The accompanying notes are an integral part of these financial statements.
+7
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 1,446,396      $ 1,446,396      $ 1,466,294      $ 19,898             
+Intermediate sources -                 -                 -                 -                   
+State sources -                 -                 130                130                  
+Other sources -                 -                 189                189                  
+
+Total revenues 1,446,396      1,446,396      1,466,613      20,217             
+
+Expenditures:
+Other outlays -                 -                 7,898             (7,898)              
+Debt service:
+
+Principal retirement 1,250,000      1,250,000      1,250,000      -                   
+Interest & fiscal agent charges 80,469           80,469           80,469           -                   
+
+Total expenditures 1,330,469      1,330,469      1,338,367      (7,898)              
+
+Net change in fund balance 115,927         115,927         128,246         12,319             
+
+Beginning fund balance 1,313,603      1,313,603      1,313,603      -                   
+
+Ending fund balances $ 1,429,530      $ 1,429,530      $ 1,441,849      $ 12,319             
+
+Budgeted Amounts
+
+DEBT SERVICE FUND
+For the Fiscal Year Ended June 30, 2018
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 8 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+
+The accompanying financial statements of the Perkins-Tryon School District Number I-56, Perkins-Tryon, Payne 
+County, Oklahoma (the “District”) conform to the regulatory basis of accounting, which is another comprehensive basis 
+of accounting prescribed by the Oklahoma State Department of Education and conforms to the system of accounting 
+authorized by the State of Oklahoma.  Accordingly, the accompanying financial statements are not intended to present 
+financial position and results of operations in conformity with accounting principles generally accepted in the United 
+States of America.  The District’s accounting policies are described in the following notes that are an integral part of the 
+District's financial statements.  
+
+ 
+A. Reporting Entity 
+
+ 
+The District is a corporate body for public purposes created under Title 70 of the Oklahoma Statutes and 
+accordingly is a separate entity for operating and financial reporting purposes.  The District is part of the public 
+school system of Oklahoma under the general direction and control of the State Board of Education and is 
+financially dependent on state of Oklahoma support.  The general operating authority for the public school system 
+is the Oklahoma School Code contained in Title 70, Oklahoma Statutes.  
+
+ 
+The governing body of the District is the Board of Education (Board) composed of five elected members.  The 
+appointed superintendent is the executive officer of the District.  The Board, constituting an on-going entity, is the 
+level of government, which has governance responsibilities over all activities, related to public elementary and 
+secondary school education within the jurisdiction of the Local Independent School District.  The District receives 
+funding from local, state and federal government sources and must comply with the requirements of these funding 
+source entities.  However, the District is not included in any other governmental "reporting entity" as defined in 
+Section 2100, Codification of Governmental Accounting and Financial Reporting Standards, since Board members 
+are elected by the public and have decision making authority, the power to designate management, the 
+responsibility to significantly influence operations and primary accountability for fiscal matters. 
+
+ 
+These financial statements present only the activities of the District.  There are no component units (entities 
+considered to be financially accountable to the District). 
+
+ 
+B. Measurement Focus 
+
+ 
+The accounts of the District are organized and operated on the basis of funds and account groups.  A fund is an 
+independent fiscal accounting entity with a self-balancing set of accounts.  Fund accounting segregates funds 
+according to their intended purpose and is used to aid management in demonstrating compliance with finance-
+related legal and contractual provisions.  The minimum number of funds is maintained consistent with legal and 
+managerial requirements.  The Account Groups are reporting devices to account for certain assets and liabilities of 
+the governmental funds not recorded directly in other funds. 
+
+ 
+The District has the following fund types and account groups:   
+
+ 
+Governmental funds - are used to account for most of the District’s general activities, including the collection 
+and disbursement of earmarked monies (special revenue funds), the acquisition or construction of general 
+fixed assets  (capital projects funds), and the servicing of general long-term debt  (debt service funds).   Basis 
+of accounting refers to when revenues and expenditures or expenses are recognized in the accounts and 
+reported in the financial statements.  Basis of accounting relates to the timing of the measurements made, 
+regardless of the measurement focus applied.  All governmental type funds are accounted for using the 
+Regulatory (Statutory) basis of accounting.  All revenues from all sources, including property taxes, 
+entitlements, grants, and shared revenues are recognized when they are received rather than earned. 
+ 
+   
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 9 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+ B. Measurement Focus (Continued) 
+ 
+
+Expenditures are generally recognized when encumbered or reserved rather than at the time the related 
+liability is incurred.  Unmatured interest for debt service is recognized when due and certain compensated 
+absences and claims and judgments are recognized when the obligations are expected to be liquidated with 
+expendable available financial resources.  Fiduciary type funds are accounted for using the cash basis of 
+accounting.  These practices differ from generally accepted accounting principles. 
+
+ 
+Governmental funds include the following fund types: 
+
+ 
+General fund - is the general operating fund of the District.  It accounts for all financial resources of the 
+general government, except those required to be accounted for in another fund.  This is a budgeted fund, 
+and any fund balances are considered as resources available for use.  Major revenue sources include 
+local property taxes and federal and state funding.  Expenditures include all costs associated with the daily 
+operations of the schools except for programs funded for building repairs and maintenance, school 
+construction, and debt service on bonds and other long-term debt.  The General Fund also accounts for 
+federal and state financed programs where restricted monies must be expended for specific programs. 
+Project accounting is employed to maintain integrity for the various sources of these funds.  The operation 
+of the District’s school cafeteria is reported as part of the General fund and consists of monies derived 
+from federal and state financial assistance and food sales. 
+
+  
+Special Revenue funds - account for revenue sources that are restricted to expenditures for specific 
+purposes (not including expendable trusts or major capital projects).  The special revenue funds are 
+composed of the District’s Building Fund and Child Nutrition Fund.  These are budgeted funds and any 
+fund balances are considered as resources available for use. 
+
+ 
+   Building fund - consists mainly of monies derived from property taxes levied for the purpose of 
+
+erecting, remodeling, repairing, or maintaining school buildings and for purchasing furniture, 
+equipment and computer software to be used on or for school district property, for paying energy and 
+utility costs, for purchasing telecommunications services, for paying fire and casualty insurance 
+premiums for school facilities, for purchasing security systems, and for paying salaries of security 
+personnel. 
+
+ 
+Child Nutrition Fund - consists of monies derived from federal and state financial assistance and food 
+sales. This fund is used to account for the operations of the school cafeteria. 
+
+ 
+Debt Service fund - consists of the District’s Sinking Fund and accounts for the accumulation of financial 
+resources for servicing of general long-term debt (principal, interest and related costs).  This is a budgeted 
+fund.  The primary revenue sources are local property taxes levied specifically for debt service. 
+
+ 
+Capital Project fund - consists of the District’s Bond Fund and accounts for the proceeds of bond sales 
+used exclusively for acquiring school sites, constructing and equipping new school facilities, renovating 
+existing facilities, and the acquisition of transportation equipment. 
+
+  
+ 
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 10 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+B. Measurement Focus (Continued) 
+ 
+Fiduciary funds - account for assets held by the District in a trustee capacity or as an agent on behalf of 
+others.  
+
+ 
+Agency fund - is custodial in nature and does not present results of operations or has a measurement 
+focus. Agency funds are accounted for using the cash basis of accounting. These funds are the School 
+Activities Fund and Lunch Fund used to account for monies collected principally through fundraising 
+efforts of the students and District-sponsored groups.  This is an unbudgeted fund.  The administration is 
+responsible, under the authority of the Board, of collecting, disbursing and accounting for these activity 
+funds.  These funds have no equity, assets are equal to liabilities, and do not include revenues and 
+expenditures for general operation of the District.    
+
+ 
+Account groups – are not funds and consist of a self-balancing set of accounts used only to establish 
+accounting control over long-term debt. 
+
+ 
+General Long-term Debt Account Group - accounts for the outstanding principal balances of all long-term 
+debt of the District, which is offset by the amount available in the debt service fund and the amount to be 
+provided in future years to complete retirement of the debt principal.   
+ 
+
+C. Basis of Accounting and Presentation 
+ 
+
+The District prepares its financial statements in a presentation format that is prescribed by the Oklahoma State 
+Department of Education.  This format is essentially the generally accepted form of presentation used by state and 
+local governments prior to the effective date of GASB Statement No. 34, Basic Financial Statements-
+Management’s Discussion and Analysis for State and Local Governments with certain modifications.  This format 
+differs significantly from that required by GASB 34.   
+ 
+The financial statements are essentially prepared on the basis of cash receipts and disbursements modified as 
+required by the regulations of the Oklahoma State Department of Education as follows: 
+ 
+
+• Encumbrances represented by purchase orders, contracts, and other commitments for the 
+expenditure of monies are recorded as expenditures when approved. 
+
+• Investments are recorded as assets when acquired. 
+• School supplies are recorded as expenditures and not as inventory assets. 
+• Warrants payable are recorded as liabilities when issued. 
+• Long-term debt is recorded in the General Long-Term Debt Account Group and not in the basic 
+
+financial statements. 
+• Compensated absences are recorded as expenditure when paid and not recorded as a liability. 
+• Fixed assets are recorded in the General Fixed Asset Account Group and not in the basic 
+
+financial statements.  Fixed assets are not depreciated.  
+ 
+This regulatory basis of accounting differs from accounting principles generally accepted in the United States of 
+America, which require revenues to be recognized when they become available and measurable, or when they are 
+earned, and expenditures or expenses to be recognized when the related liabilities are incurred for governmental 
+fund types; and, when revenues are earned.    
+
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 11 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+D. Assets, Liabilities, Fund Balance, Revenue and Expenditures 
+ 
+ 1. Deposits and Investments  
+
+ 
+State statutes govern the District’s investment policy.  Permissible investments include direct obligations of the 
+United States Government and Agencies; certificates of deposit of savings and loan associations, and bank 
+and trust companies; and savings accounts or savings certificates of savings and loan associations, and trust 
+companies.  Collateral is required for demand deposits and certificates of deposit for all amounts not covered 
+by federal deposit insurance.  Investments are stated at cost.  The School District invests entirely in 
+certificates of deposit, U.S. Treasury Securities, and participates in the Secured Investment Program of 
+Oklahoma State School Boards Association, as authorized by Oklahoma Statutes Title 62, Section 348. 
+
+ 
+ 2. Fair Value of Financial Instruments 
+
+ 
+The District’s financial instruments include cash and investments. The District’s estimate of the fair value of all 
+financial instruments does not differ materially from the aggregate carrying values of its financial instruments 
+recorded in the accompanying statement of assets, liabilities and fund balances. The carrying amount of these 
+financial instruments approximates fair value because of the short maturity of these instruments. 
+
+ 
+  3. Estimates 
+
+ 
+  The preparation of financial statements in conformity with the regulatory basis of accounting requires 
+
+management to make estimates and assumptions that affect certain reported amounts and disclosures. 
+Accordingly, actual results could differ from those estimates. 
+
+ 
+ 4. Interfund Transactions 
+
+ 
+Interfund transactions are accounted for as revenues, expenditures or expenses.  Transactions that constitute 
+reimbursements to a fund or expenditures/expenses initially made from it that are properly applicable to 
+another fund are recorded as expenditures/expenses in the fund that is reimbursed.  Non-recurring or non-
+routine permanent transfers of equity are reported as residual equity transfers. 
+ 
+
+5. Inventories  
+ 
+
+Inventories consist of minimal amounts of expendable supplies held for consumption.  The value of 
+consumable inventories at year-end is not material to the District’s financial statements.  The costs of 
+inventories are recorded as expenditures when encumbered and purchased rather than when consumed. 
+
+ 
+  6. Fixed Assets  
+
+ 
+The District has not maintained a record of its general fixed assets, and, accordingly, a General Fixed Asset 
+Account Group required by the regulatory basis of accounting prescribed by the Oklahoma State Board of 
+Education is not included in the financial statements. General fixed assets purchased are recorded as 
+expenditures in the various funds at the time of purchase. 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 12 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+D. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+ 
+
+  7. Compensated Absences 
+ 
+
+The District provides vacation and sick leave benefits in accordance with Title 70 of the Oklahoma Statutes, 
+Article 6-104, which provides for annual sick leave and personal business days.  District policy allows certified 
+employees to accumulate such days to a maximum number of days.  None of the benefits are payable upon 
+retirement or death.  Accrued vacation and sick leave benefits are not reflected in the financial statements 
+because such statements are prepared on the regulatory basis of accounting. This practice differs from 
+generally accepted accounting principles.  
+
+ 
+ 8. Long-term Obligations 
+
+ 
+The District reports long-term debt at face value in the general long-term debt account group.  Certain other 
+lease obligations not expected to be financed with current available financial resources are also reported in the 
+general long-term debt account group.  
+
+ 
+9. Fund Balance 
+
+ 
+In the fund financial statements, governmental funds report the hierarchy of fund balances.  The hierarchy is 
+based primarily on the degree of spending constraints placed upon use of resources for specific purposes 
+versus availability of appropriation.  An important distinction that is made in reporting fund balance is between 
+amounts that are considered non-spendable (i.e., fund balance associated with assets that are not in 
+spendable form, such as inventories or prepaid items, long-term portions of loans and notes receivable, or 
+items that are legally required to be maintained intact (such as the corpus of a permanent fund)) and those 
+that are spendable (such as fund balance associated with cash, investments or receivables).   
+ 
+Amounts in the spendable fund balance category are further classified as restricted, committed, assigned or 
+unassigned, as appropriate. 
+ 
+
+Restricted fund balance represents amounts that are constrained either externally by creditors (such as 
+debt covenants), grantors, contributors or laws or regulations of other governments; or by law, through 
+constitutional provisions or enabling legislation. 
+
+ 
+Committed fund balance represents amounts that are useable only for specific purposes by formal action 
+of the government’s highest level of decision-making authority.  Such amounts are not subject to legal 
+enforceability (like restricted amounts), but cannot be used for any other purpose unless the government 
+removes or changes the limitation by taking action similar to that which imposed the commitment 
+
+ 
+Assigned fund balance represents amounts that are intended to be used for specific purposes, but are 
+neither restricted nor committed.  Intent is expressed by the governing body itself, or a subordinated high-
+level body or official who the governing body has delegated the authority to assign amounts to be used for 
+specific purposes.  Assigned fund balances includes all remaining spendable amounts (except negative 
+balances) that are reported in governmental funds other than the general fund, that are neither restricted 
+nor committed, and amounts in the general fund that are intended to be used for specific purpose in 
+accordance with the provisions of the standard. 
+
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 13 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+D. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+ 
+9. Fund Balance (Continued) 
+
+ 
+Unassigned fund balance is the residual classification for the general fund.  It represents the amounts 
+that have not been assigned to other funds, and that have not been restricted, committed, or assigned to 
+specific purposes within the general fund.   
+ 
+
+10. Property Taxes and Other Local Revenues 
+ 
+The District is authorized by state law to levy property taxes, which consist of ad valorem taxes on real and 
+personal property within the District.  The County Assessor, upon receipt of the certification of tax levies from 
+the County Excise Board, extends the tax levies on the tax roll for submission to the County Treasurer. 
+Property taxes are levied on November 1 and are due on receipt of the tax bill.  The first half of taxes is due 
+prior to January 1.  The second half is due prior to April 1.  If the first payment is not made timely, the entire 
+tax becomes due and payable on January 2.  Second half taxes become delinquent on April 1 of the year 
+following the assessment.  If not paid by the following October 1, the property is offered for sale for the amount 
+of the taxes due.  The owner has two years to redeem the property by paying the taxes and penalty owed.  If 
+at the end of two years the owner has not done so, the purchaser is issued a deed to the property.  No 
+provision has been made for uncollected taxes, as all taxes are deemed collectible.  Other local sources of 
+revenues include tuition, fees, rentals, disposals, commissions and reimbursements. 
+
+ 
+11. Intermediate Revenues 
+
+ 
+Revenue from intermediate source is the amount of money from funds collected by an intermediate 
+administrative unit, or a political subdivision between the district and the state, and distributed to districts in 
+amounts that differ in proportion to those which were collected within such systems. 
+
+ 
+ 12. State Revenues 
+ 
+
+Revenues from state sources for current operations are primarily governed by state aid formula under the 
+provisions of Article XVIII, Title 70, Oklahoma Statutes.  The State Board of Education administers the 
+allocation of state aid funds to school districts based on information accumulated from the districts.  After 
+review and verification of reports and supporting documentation, the State Department of Education may 
+adjust subsequent fiscal period allocations of money for prior year errors disclosed by review.  Normally, such 
+adjustments are treated as reductions or additions of revenue of the year when the adjustment is made. 
+ 
+The District receives revenue from the state to administer certain categorical educational programs.  State 
+Board of Education rules require that revenue earmarked for these programs be expended only for the 
+program for which the money is provided and require that the money not expended as of the close of the fiscal 
+year be carried forward into the following year to be expended for the same categorical programs.  The State 
+Department of Education requires that categorical educational program revenues be accounted for in the 
+general fund. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 14 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+D. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+ 
+
+13. Federal Revenues 
+ 
+
+Federal revenues consist of revenues from the federal government in the form of operating grants or 
+entitlements. An operating grant is a contribution to be used for a specific purpose, activity or facility.  A grant 
+may be received either directly from the federal government or indirectly as a pass through from another 
+government, such as the state.  Entitlement is the amount of payment to which the District is entitled pursuant 
+to an allocation formula contained in applicable statutes.  The majority of the federal revenues received by the 
+District are apportioned to the general fund.  The District maintains a separate child nutrition fund and the 
+federal revenues received for the child nutrition programs are apportioned there. 
+
+ 
+14. Non-Monetary Transactions 
+
+ 
+The District receives commodities from the U. S. Department of Agriculture.  The value of these commodities 
+has been included in the Schedule of Expenditures of Federal Awards; however, they have not been reflected 
+in the combined financial statements as either revenue or expense since they are not reported under the 
+regulatory basis of accounting.   
+
+ 
+ 15. Memorandum Only - Total Columns  
+
+ 
+Total columns on the combined financial statements are captioned "memorandum only" because they do not 
+represent consolidated financial information and are presented only to facilitate analysis.  The columns do not 
+present information that reflects financial position or results of operations in accordance with generally 
+accepted accounting principles.  Inter-fund eliminations have not been made in the aggregation of this data.  
+
+ 
+16. Comparative Data 
+
+ 
+Comparative total data for the prior year has been presented in the accompanying financial statements in 
+order to provide an understanding of changes in the District's assets, liabilities, fund balances, revenues and 
+expenses.  However, complete comparative date (i.e., presentation of prior year totals by fund type in each of 
+the statements) has not been presented since their inclusion would make the statements unduly complex and 
+difficult to read.  Certain previously reported amounts have been reclassified to conform to current year 
+classifications. 
+
+ 
+17. Resource Use Policy 
+ 
+
+It is in the District’s policy for all funds that when an expenditure/expense is incurred for purposes for which 
+both restricted and unrestricted resources, including fund balances, are available, the District considers 
+restricted amounts to be spent first before any unrestricted amounts are used.  Furthermore, it is the District’s 
+policy that when an expenditure/expense is incurred for purposes for which committed, assigned, or 
+unassigned resources, including fund balances, are available, the School considers committed amounts to be 
+spent first, followed by assigned amounts and lastly unassigned amounts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 15 
+
+2. STEWARDSHIP, COMPLIANCE AND ACCOUNTABILITY 
+ 
+
+Budgetary Information  
+ 
+
+The District is required by state law to prepare an annual budget.  A preliminary budget is submitted to the Board of 
+Education by December 31 for the fiscal year beginning the following July 1.  The electors of the District have voted on 
+the question to make the ad valorem levy for emergency levy and local support levy permanent; therefore, an annual 
+mileage election (normally the first Tuesday in February) is not necessary.  Under current Oklahoma Statutes, a formal 
+Estimate of Needs (Budget) is required for all funds except for trust and agency funds.  Budgets are presented for all 
+funds that include the originally approved budgeted appropriations for expenditures and final budgeted appropriations 
+as adjusted for supplemental appropriations and approved transfers between budget categories.  The annual Estimate 
+of Needs, when approved by the Board and subsequently filed with the County Clerk and approved by the County 
+Excise Board becomes the legal budget.  Supplemental appropriations, if required, were made during the year and are 
+reflected on the budget vs. actual presentations shown as original budget and final budget.  
+
+ 
+Encumbrances represent commitments related to unperformed contracts for goods or services.  Encumbrance 
+accounting - under which purchase orders and other commitments of resources are recorded as expenditures of the 
+applicable fund - is utilized in all Governmental Funds of the District.  Purchase orders or contracts document 
+encumbrances for goods or purchased services.  Under Oklahoma law, unencumbered appropriations lapse at year-
+end. 
+
+ 
+3. DETAILED NOTES CONCERNING THE FUNDS 
+
+A. Deposits and Investments 
+
+Custodial Credit Risk 
+ 
+
+At June 30, 2018, the District held deposits of approximately $4,130,271 at financial institutions.  The District's 
+cash deposits, including interest-bearing certificates of deposit, are entirely covered by Federal Depository 
+Insurance (FDIC) or direct obligation of the U.S. Government insured or collateralized with securities held by the 
+District or by its agent in the District's name. 
+
+ 
+Investment Interest Rate Risk  
+
+ 
+The District does not have a formal investment policy that limits investment maturities as a means of managing its 
+exposure to fair value losses arising from increasing interest rates. 
+
+ 
+Investment Credit Risk 
+ 
+The District has no policy that limits its investment choices other than the limitation of state law as follows: 
+
+ 
+a. Direct obligations of the U.S. Government, its agencies and instrumentalities to which the full faith and credit of 
+
+the U.S. Government is pledged, or obligations to the payment of which the full faith and credit of the State is 
+pledged. 
+
+b. Certificates of deposits or savings accounts that are either insured or secured with acceptable collateral with 
+in-state financial institutions, and fully insured certificates of deposit or savings accounts in out-of-state 
+financial institutions. 
+
+c. With certain limitation, negotiable certificates of deposit, prime bankers acceptances, prime commercial paper 
+and repurchase agreements with certain limitations. 
+
+d. County, municipal or school district tax supported debt obligations, bond or revenue anticipation notes, money 
+judgments, or bond or revenue anticipation notes of public trusts whose beneficiary is a county, municipality or 
+school district. 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 16 
+
+3. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+A. Deposits and Investments (Continued) 
+ 
+
+e. Notes or bonds secured by mortgage or trust deed insured by the Federal Housing Administrator and 
+debentures issued by the Federal Housing Administrator, and in obligations of the National Mortgage 
+Association. 
+
+f. Money market funds regulated by the SEC and in which investments consist of the investments mentioned in 
+the previous paragraphs (a.-d.). 
+ 
+
+The investments held at June 30, 2018 are as follows: 
+Weighted
+Average
+Maturity Credit Market
+(Months) Rating Value Cost
+
+Investments
+Money Market N/A AAAm 4,080,271$    4,080,271$    
+Certificate of deposit 3.00 N/A 50,000           50,000           
+
+Total investments 4,130,271$    4,130,271$    
+
+Type
+
+ 
+Concentration of Investment Credit Risk 
+ 
+The District places no limit on the amount it may invest in any one issuer.  The District has the following of credit 
+risk: 99% in Money Market funds ($4,080,271) & 1% in Certificates of Deposit ($50,000). 
+
+ 
+B. Long-term Debt 
+
+ 
+ State statutes prohibit the District from becoming indebted in an amount exceeding the revenue to be received for 
+any fiscal year without approval by the District's voters.  Bond issues have been approved by the voters and issued 
+by the District for various capital improvements.  These bonds are required to be fully paid serially within 25 years 
+from the date of issue.  Debt service requirements for bonds are payable solely from fund balance and future 
+revenues of the debt service fund.  
+
+ 
+In 2018, the District issued building bonds in the amount of $2,100,000 with an effective interest rate of1.25% to 
+2.0%.  Bond maturities begin July 1, 2019 with payments of $525,000 per year with a final maturity of $525,000 
+due July 1, 2022 
+
+ 
+In 2017, the District issued building bonds in the amount of $950,000 with an effective interest rate of1.05% to 
+2.1%.  Bond maturities begin July 1, 2018 with payments of $235,000 per year with a final maturity of $245,000 
+due July 1, 2021 
+
+ 
+In 2016, the District issued building bonds in the amount of $1,225,000 with an effective interest rate of 2%.  Bond 
+maturities begin July 1, 2017 with payments of $305,000 per year with a final maturity of $310,000 due July 1, 
+2020.   
+
+ 
+In 2015, the District issued building bonds in the amount of $1,750,000 with an effective interest rate of 2% to 1%. 
+Bond maturities begin July 1, 2016 with payments of $350,000 per year with a final maturity of $350,000 due July 
+1, 2020.   
+
+ 
+In 2013, the District issued building bonds in the amount of $1,950,000 with an effective interest rate of .75%. 
+Bond maturities begin July 1, 2015 with payments of $485,000 per year with a final maturity of $495,000 due July 
+1, 2018.   
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 17 
+
+3. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+B. Long-term Debt (Continued) 
+ 
+
+In 2012, the District issued building bonds in the amount of $425,000 with an effective interest rate of 1% to 1.15%. 
+Bond maturities begin July 1, 2014 with payments of $105,000 per year with a final maturity of $110,000 due July 
+1, 2017.  This bond was paid off in the current year. 
+
+ 
+Annual debt service requirements to maturity are as follows: 
+ 
+
+Year
+Ended Total
+
+June 30, Principal Interest Requirements
+2019 $ 1,385,000      $ 93,407           $ 1,478,407      
+2020 1,415,000      56,093           1,471,093      
+2021 1,420,000      35,822           1,455,822      
+2022 770,000         20,046           790,046         
+2023 525,000         8,750             533,750         
+Total $ 5,515,000      $ 214,118         $ 5,729,118      
+
+General
+Obligation Bonds
+
+  
+C. Leases 
+
+ 
+The District executed a lease with Arvest Trust Company to re-finance the prior executed leases by RCB Trust 
+Services for construction of the Junior High Addition, Elementary School Addition and the Performing Arts Center 
+on July 1, 2011.  The amount of the lease is $9,378,000 with interest at 4.27%.  The payments are varying 
+annually. 
+ 
+The District executed a lease with Payne County Bank to finance school bus purchases on November 10, 2014.  
+The amount of the lease is $179,965 with interest at 4%.  The payments are $39,858.47 per year. This lease was 
+paid off in the current year. 
+ 
+The District executed a lease with Payne County Bank to finance school bus purchases on December 7, 2015.  
+The amount of the lease is $109,561 with interest at 4%.  The payments are $38,756.27 per year. This lease was 
+paid off in the current year. 
+ 
+The District executed a lease with Payne County Bank for the LED retrofit project on October 11, 2016.  The 
+amount of the lease is $70,237 with interest at 4%.  The payments are $25,049.80 per year. This lease was paid 
+off in the current year. 
+ 
+
+D. Changes in General Long-term Debt 
+ 
+
+Year Ended Total
+June 30, Principal Interest Requirements
+
+2019 $ 1,918,130      $ 81,904           $ 2,000,034      
+Total 1,918,130      81,904           2,000,034      
+
+ 
+The above leases contain a clause that gives the District the ability to terminate the lease agreements at the end of 
+each fiscal year.  The District has recorded the liability for future lease payments in the general long-term debt 
+account group for these leased assets. 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 18 
+
+3. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+D. Changes in General Long-term Debt (Continued) 
+ 
+
+General long-term debt consists of bonds payable.  The following is a summary of the changes in general long-
+term debt transactions of the District for the fiscal year:  
+ 
+
+Balance Balance
+June 30, June 30,
+
+2017 Additions Retirements 2018
+Bonds payable $ 4,665,000      $ 2,100,000      $ 1,250,000      $ 5,515,000      
+Capitalized lease payable 3,994,073      -                 2,075,943      1,918,130      
+
+Total $ 8,659,073      $ 2,100,000      $ 3,325,943      $ 7,433,130      
+
+ 
+4. OTHER INFORMATION  
+ 
+
+A. Risk Management  
+ 
+
+The District is exposed to various risks of loss related to torts; theft of, damage to and destruction of assets; errors 
+and omissions; injuries to employees; or acts of God.  The District purchases commercial insurance to cover these 
+risks, including general and auto liability, property damage, and public officials’ liability.  The District had the 
+following insurance coverage during the year: commercial property - $350,000,000; general liability - $1,000,000;   
+and educators liability $1,000,000. Settled claims resulting from these risks have not exceeded the commercial 
+insurance coverage in any of the past three fiscal years. 
+
+ 
+The School also participates in a risk pool for Workers' Compensation coverage in which there is a transfer or 
+pooling of risks among the participants of that pool.  In accordance with GASB No. 10, the School reports the 
+required contribution to the pool, net of refunds, as insurance expense.  The risk pool is the Oklahoma School 
+Assurance Group (OSAG), an organization formed for the purpose of providing workers' compensation coverage 
+to participating schools in the State of Oklahoma.  In that capacity, OSAG is responsible for providing loss control 
+services and certain fiscal activities, including obtaining contract arrangements for the underwriting, excess 
+insurance agreements, claims processing, and legal defense for any and all claims submitted to them during the 
+plan year.  As a member of OSAG the District is required to pay fees set by OSAG according to an established 
+payment schedule.  A portion of the fees paid by the District goes into a loss fund for the District.  The fee for the 
+loss fund is calculated by projecting losses based on the school’s losses for the last five years.   
+ 
+OSAG provides coverage in excess of the Loss Fund so the District's liability for claim loss is limited to the balance 
+of the loss fund. If the District does not use their loss fund in three years it is returned to them with no interest. 
+
+ 
+The District is also a member of the Oklahoma Public Schools Unemployment Compensation Program.  In this 
+program the District is required to contribute 1.6% of their taxable payroll for unemployment insurance.  The funds 
+for each district are kept separate and districts can contribute more than 1.6% of their payroll if they elect to.  The 
+money contributed by each District earns interest and is fully insured.  If the District has claims in excess of the 
+amount in their account they would be liable for the excess.  
+
+ 
+B. Contingent Liabilities  
+
+ 
+Amounts received or receivable from grantor agencies are subject to audit and adjustment by grantor agencies, 
+principally the federal government. Any disallowed claims, including amounts already collected, may constitute a 
+liability of the applicable funds.  The amount, if any, of expenditures which may be disallowed by the grantor cannot 
+be determined at this time although the District expects such amounts, if any, to be immaterial. 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 19 
+
+4. OTHER INFORMATION (Continued) 
+ 
+
+C. Non-Monetary Transactions 
+ 
+
+The fair market value as determined by the Oklahoma Department of Human Services of the commodities 
+received during the period under audit was $29,208.  
+
+ 
+D. Employee Retirement System and Plan 
+
+ 
+Description of Plan 
+
+ 
+The District participates in the state-administered Oklahoma Teachers' Retirement System, which is a cost 
+sharing, multiple-employer defined benefit public employee retirement system (PERS), which is administered by 
+the Board of Trustees of the Oklahoma Teachers’ Retirement System (the “System”).  The System provides 
+retirement and disability benefits, annual cost-of-living adjustments, and death benefits to plan members and 
+beneficiaries.  Title 70 Section 17 of the Oklahoma Statutes establishes benefit provisions and may be amended 
+only through legislative action.  The Oklahoma Teachers’ Retirement System issues a publicly available financial 
+report that includes financial statements and required supplementary information for the System.  That report may 
+be obtained by writing to the Oklahoma Teachers’ Retirement System, P.O. Box 53624, Oklahoma City, OK 73152 
+or by calling 405-521-2387. 
+ 
+Basis of Accounting 
+
+ 
+The System’s financial statements are prepared using the cash basis of accounting, except for accruals of interest 
+income. Plan member contributions are recognized in the period in which the contributions are made.  Benefits 
+and refunds are recognized when paid.  The pension benefit obligation is a standardized disclosure measure of the 
+present value of pension benefits.  This pension valuation method reflects the present value of estimated pension 
+benefits that will be paid in future years as a result of employee services performed to date and is adjusted for the 
+effect of projected salary increases.  There are no actuarial valuations performed on individual school districts.  
+The System has an under-funded pension benefit obligation as determined as part of the latest actuarial valuation. 
+ 
+Funding Policy 
+
+ 
+The District, the State of Oklahoma, and the participating employee make contributions.  The contribution rates for 
+the District and its employees are established by and may be amended by Oklahoma Statutes.  The rates are not 
+actuarially determined.  The rates are applied to the employee’s earnings plus employer-paid fringe benefits.  The 
+required contribution for the participating members is 7.0% of compensation.  Additionally, OTRS receives “federal 
+matching contributions” for positions whose funding comes from federal sources or certain grants.  The District 
+and State are required to contribute 14.0% of applicable compensation.  Contributions received by the System 
+from the State of Oklahoma are from 3.54% of its revenues from sales tax use taxes, corporate income taxes and 
+individual income taxes.  The District contributed 9.5% and the State of Oklahoma plus the federal contribution 
+contributed the remaining 4.5% during this year.  The District is allowed by the Oklahoma Teachers’ Retirement 
+System to make the required contributions on behalf of the participating members.  The school is required to pay 
+16.5% for any compensated retired teachers already receiving retirement benefits. 
+ 
+Annual Pension Cost  
+
+ 
+The District’s total contributions for 2018, 2017 and 2016 were $416,196, $423,629 and $432,122, respectively. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE FINANCIAL STATEMENTS - REGULATORY BASIS 
+ June 30, 2018 
+ 
+
+ 
+ 20 
+
+4. OTHER INFORMATION (Continued) 
+ 
+
+E. Surety Bonds 
+ 
+
+The treasurer is bonded by Old Republic Surety Company, bond number 601002624, for the penal sum of 
+$100,000 for the term July 1, 2017 to July 1, 2018. 
+ 
+The minute clerk/encumbrance clerk is bonded by Old Republic Surety Company, bond number POB-2028953, for 
+the penal sum of $10,000 for the term July 1, 2017 to July 1, 2018. 
+ 
+The activity fund custodian is bonded by Old Republic Surety Company, bond number POB-2028953, for the penal 
+sum of $30,000 for the term July 1, 2017 to July 1, 2018. 
+ 
+The Superintendent is bonded by Old Republic Surety Company, bond number POB-2028953, for the penal sum 
+of $100,000 for the term July 1, 2017 to July 1, 2018. 
+
+  
+6. PRIOR PERIOD ADJUSTMENT 
+
+ 
+Fund balance of the General Fund has been adjusted by $9,230.50 for prior period expenditures that reduced cash.  
+These adjustments are reflected in the prior year totals.   
+ 
+
+ 
+ 
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NO. I-56
+Payne County, Oklahoma
+
+21
+
+Child 
+Building Nutrition June 30, June 30,
+
+Fund Fund 2018 2017
+Assets:
+
+Cash and investments $ 212,649         $ 22,703           $ 235,352         $ 202,263         
+Due from others -                 -                 -                 -                 
+
+Total assets $ 212,649         $ 22,703           $ 235,352         $ 202,263         
+
+Liabilities:
+Warrants payable $ 3,408             $ 22,380           $ 25,788           $ 22,985           
+Due to others -                 -                 -                 -                 
+Encumbrances -                 -                 -                 -                 
+
+Total liabilities 3,408             22,380           25,788           22,985           
+
+Fund balances:
+Restricted 209,241         323                209,564         179,278         
+
+Total fund balances 209,241         323                209,564         179,278         
+
+Total liabilities and fund balances $ 212,649         $ 22,703           $ 235,352         $ 202,263         
+
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND BALANCES
+ALL SPECIAL REVENUE FUNDS - REGULATORY BASIS
+
+For the Fiscal Year Ended June 30, 2018
+
+LIABILITIES AND FUND BALANCES 
+
+ASSETS 
+
+Totals
+(Memo Only)
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ OTHER INFORMATION 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NO. I-56
+Payne County, Oklahoma
+
+22
+
+Child 
+Building Nutrition June 30, June 30,
+
+Fund Fund 2018 2017
+Revenues:
+
+Local sources $ 306,719         $ 686                $ 307,405         $ 291,810         
+Intermediate sources -                -                -                -                
+State sources 27                  64,801           64,828           58,041           
+Federal sources -                275,728         275,728         268,824         
+Other 7,898             240,399         248,297         235,214         
+
+Total revenues collected 314,644         581,614         896,258         853,889         
+
+Expenditures:
+Instruction 6,363             -                6,363             731                
+Support services 210,077         -                210,077         207,232         
+Non-instructional services -                584,357         584,357         587,897         
+Capital outlay -                -                -                -                
+Other outlays -                8,791             8,791             17,351           
+Debt service:
+
+Principal retirement 56,010           -                56,010           17,990           
+Interest and fiscal agent charges 375                -                375                3,056             
+
+Total expenditures 272,825         593,148         865,973         834,257         
+
+Excess of revenues (under) 
+expenditures 41,819           (11,534)         30,285           19,632           
+
+Adjustments to prior year encumbrances -                -                -                -                
+
+Beginning fund balances 167,422         11,857           179,279         159,646         
+
+Ending fund balances $ 209,241         $ 323                $ 209,564         $ 179,278         
+
+(Memo Only)
+Totals
+
+COMBINING STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+ALL SPECIAL REVENUE FUNDS - REGULATORY BASIS
+
+For the Fiscal Year Ended June 30, 2018
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+23
+
+Balance Balance
+July 1, June 30, 
+
+Assets: 2017 Additions Deletions Adjustments 2018
+Cash:
+
+Activity funds $ 267,403       $ 624,476       $ 625,140       $ 12,845         $ 279,584       
+Lunch funds -              244,065       244,065       -               -               
+
+Total assets 267,403       868,541       869,205       12,845         279,584       
+
+Liabilities:
+Lunch fund outstanding warrants $ -              $ 244,065       $ 244,065       $ -               $ -               
+Due to student groups:
+
+Yearbook 33,050         31,923         5,725           (1,929)          57,319         
+Art 94               125              92                -               127              
+Athletics 68,604         161,040       208,940       17,910         38,614         
+Band 9,492           29,797         30,500         -               8,789           
+Junior Class 2,071           4,911           4,769           80                2,293           
+Sophmore Class -              -               -               -               -               
+Senior Class 665              1,460           1,568           -               557              
+Clearing -              5,341           5,341           -               -               
+Coke Account - Elementary 24,973         100,169       83,157         2,643           44,628         
+Coke Account - High School 3,531           6,329           7,600           -               2,260           
+Concession 7,526           51,618         36,323         (14,945)        7,876           
+Drama 805              -               342              -               463              
+Evans Ag Farm 966              -               -               -               966              
+FFA 22,033         121,653       124,990       624              19,320         
+FCCLA 3,763           6,145           9,412           -               496              
+Junior High FCCLA 620              4,607           4,681           -               546              
+Interest - NOW 40,744         6,198           3,563           900              44,279         
+RAK -              -               -               -               -               
+Library - Elementary 4,619           6,621           7,872           (48)               3,320           
+High School Media Center 16,576         10,995         8,578           281              19,274         
+Middle School Library 5,677           9,592           9,076           433              6,626           
+Middle School Activity 4,279           849              2,279           1,395           4,244           
+Miscellaneous -              321              346              25                -               
+National Honor Society 1,680           2,170           2,939           -               911              
+Cheerleaders - High School 856              1,285           1,986           200              355              
+Cheerleaders - Junior High 106              -               -               -               106              
+Student Council - High School 937              2,201           2,966           -               172              
+Student Council - Junior High 1,092           152              250              -               994              
+Academic Team 392              -               125              -               267              
+Pre-School Educators -              -               -               -               -               
+Advanced Placement 193              1,571           1,573           -               191              
+Freshman class -              -               -               -               -               
+Intermediate School Activity 6,481           28,693         33,594         5,010           6,590           
+Library - Intermediate 4,227           15,027         13,070         -               6,184           
+Elementary PE/Box Tops 1,329           1,404           893              (520)             1,320           
+Business Professionals of America 22               2,679           3,390           786              97                
+High School Pom Team -              -               -               -               -               
+Drivers Ed -              9,600           9,200           -               400              
+
+Total Liabilities $ 267,403       $ 868,541       $ 869,205       $ 12,845         $ 279,584       
+
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES
+FIDUCIARY FUNDS - REGULATORY BASIS - ACTIVITY AND LUNCH FUNDS
+
+June 30, 2018
+
+Agency Funds
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+COMBINING STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCE
+BUDGET AND ACTUAL - REGULATORY BASIS
+
+24
+
+Original Final Original Final Original Final
+Budget Budget Actual Budget Budget Actual Budget Budget Actual
+
+Revenues:
+Local sources $ 292,697  $ 292,697  $ 306,719  $ 460         $ 460         $ 686        $ 293,157    $ 293,157    $ 307,405  
+Intermediate sources -          -          -          -          -          -         -            -            -          
+State sources 25           25           27           58,013    58,013    64,801   58,038      58,038      64,828    
+Federal sources -          -          -          268,824  268,824  275,728 268,824    268,824    275,728  
+Other -          -          7,898      260,216  260,216  240,399 260,216    260,216    248,297  
+
+Total revenues 292,722  292,722  314,644  587,513  587,513  581,614 880,235    880,235    896,258  
+
+Expenditures:
+Instruction -          -          6,363      -          -          -         -            -            6,363      
+Support services 460,144  460,144  210,077  -          -          -         460,144    460,144    210,077  
+Non-instructional services -          -          -          599,370  599,370  584,357 599,370    599,370    584,357  
+Capital outlay -          -          -          -          -          -         -            -            -          
+Other outlays -          -          -          -          -          8,791     -            -            8,791      
+Debt service:
+
+Principal retirement -          -          56,010    -          -          -         -            -            56,010    
+Interest & fiscal agent charges -          -          375         -          -          -         -            -            375         
+
+Total expenditures 460,144  460,144  272,825  599,370  599,370  593,148 1,059,514 1,059,514 865,973  
+
+Net change in fund balance (167,422) (167,422) 41,819    (11,857)   (11,857)   (11,534)  (179,279)   (179,279)   30,285    
+
+Adjustments to prior year
+encumbrances -          -          -          -          -          -         -            -            -          
+
+Beginning fund balance 167,422  167,422  167,422  11,857    11,857    11,857   179,279    179,279    179,279  
+
+Ending fund balances $ -          $ -          $ 209,241  $ -          $ -          $ 323        $ -            $ -            $ 209,564  
+
+BUILDING FUND CHILD NUTRITION FUND
+
+SPECIAL REVENUE FUNDS
+For the Fiscal Year Ended June 30, 2018
+
+Budgeted AmountsBudgeted Amounts Budgeted Amounts
+
+TOTALS
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+25
+
+Pass-through
+Federal Grantor/ Federal Grantor's Program 
+Federal Grantor/Pass Through CFDA Project Grant or Award Balance at Revenue Total Balance at
+Grantor/Program Title Number Number Number Amount July 1, 2017 Collected Expenditures June 30, 2018
+
+U.S. Department of Education:
+
+Direct Programs:
+Title VII - Indian Education 84.060 561 S060A172423 $ 47,656      $ -              $ 14,573      $ 36,215           $ (21,642)           
+Title VII - Indian Education 16-17 84.060 561 S060A162423 41,408      (25,848)       25,848      -                 -                  
+
+Sub-Total 89,064      (25,848)       40,421      36,215           (21,642)           
+
+Passed through State Department of Education:
+Title I Cluster
+
+Title I 84.010 511 S010A170036 205,965    -              175,563    208,418         (32,855)           
+Title I 16-17 84.010 511 S010A160036 201,911    (48,701)       48,701      -                 -                  
+Title I A - Neglected 84.013 515 S010A170036 5,000        -              4,999        4,999             -                  
+
+Title I Cluster Sub-Total 412,876    (48,701)       229,263    213,417         (32,855)           
+
+Title II, Part A 84.367 541 S367A170035 25,773      -              13,379      20,283           (6,904)             
+Title II, Part A 16-17 84.367 541 S367A160036 22,402      (15,089)       15,089      -                 -                  
+Title VI, Part B - Rural & Low Income 84.358 587 S358B170036 26,116      -              25,840      25,840           -                  
+IDEA Cluster
+
+IDEA Part B 84.027 621 H027A170051 292,259    -              292,259    292,259         -                  
+IDEA Part B 84.027 621 H027A160051 283,334    (154,459)     154,459    -                 -                  
+IDEA Preschool 84.173 641 H173A170084 8,137        -              8,137        8,137             -                  
+
+IDEA Cluster Sub-Total 583,730    (154,459)     454,855    300,396         -                  
+
+Sub-Total 1,070,897 (218,249)     738,426    559,936         (39,759)           
+
+Passed through State Department of Career and Technology Education:
+Carl Perkins 16-17 84.048 421 V048A160036 16,554      (16,554)       16,554      -                 -                  
+Carl Perkins 2013-14 84.048 421 V048A170036 15,567      -              13,496      13,496           -                  
+
+Sub-Total 32,121      (16,554)       30,050      13,496           -                  
+
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+For the Fiscal Year Ended June 30, 2018
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+Payne County, Oklahoma
+
+26
+
+Pass-through
+Federal Grantor/ Federal Grantor's Program
+Federal Grantor/Pass Through CFDA Project Grant or Award Balance at Revenue Total Balance at
+Grantor/Program Title Number Number Number Amount July 1, 2017 Collected Expenditures June 30, 2018
+
+Passed through the Oklahoma Health Care Authority:
+Medicaid 93.778 698 2,371        (1,421)         2,371        950                -                  
+
+U. S. Department of Agriculture:
+
+Passed through State Department of Education:
+Child Nutrition Programs:
+
+National School Lunch Program 10.555 763 202,043    -              202,043    202,043         -                  
+School Breakfast Program 10.553 764 73,685      -              73,685      73,685           -                  
+
+Child Nutrition Cluster Sub-Total 275,728    -              275,728    275,728         -                  
+
+Passed through Oklahoma Department of 
+Human Services (Note C) 10.551 29,208      -              29,208      29,208           -                  
+
+Sub-Total 304,936    -              304,936    304,936         -                  
+
+Total Expenditures of Federal Awards $ 1,499,389 $ (262,072)     $ 1,116,204 $ 915,533         $ (61,401)           
+
+Note A - Basis of Presentation - The accompanying schedule of expenditures of federal awards (the Schedule) incluldes the federal award activity of the School unde
+            programs of the federal government for the year ended June 30, 2018.  The information in this Schedule is presented in accordance with the requirements of
+            Title 2 U.S. Code of Federal Regulations Part 200, Uniform Adminstrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform
+            Guidance).  Because the Schedule presents only selected portion of the operations of the School, it is not intended and does not present the financial position,
+            changes in net assets, or cash flows of the School.
+
+Note B - Summary of Significant Accounting Policies - Expeditures reported on the Schedule are reported on the regulatory basis of accounting consistent with the 
+            preparation of the combined financial statements except for nonmonetary assistance noted in Note C.  Such expenditures are recognized following the cost
+            principles contained in the Uniform Guidance, wherein certain types of expeditures are not allowable or are limited as to reimbursement.  The School has
+            elected not to use the 10 percent de minimis indirect cost rate allowed under the Uniform Guidance.
+
+Note C - Food Distribution - Non-monetary assistance is reported in the schedule at the fair market value of the commodities received and disbursed.
+
+For the Fiscal Year Ended June 30, 2018
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+ REPORTS REQUIRED BY GOVERNMENT AUDITING STANDARDS 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+27 
+
+ 
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL  
+
+ STATEMENTS PERFORMED IN ACCORDANCE WITH 
+ GOVERNMENT AUDITING STANDARDS 
+ 
+ 
+September 12, 2018 
+ 
+ 
+The Honorable Board of Education 
+Perkins-Tryon School District Number I-56 
+Perkins-Tryon, Payne County, Oklahoma 
+ 
+ 
+We have audited, in accordance with auditing standards generally accepted in the United States of America and the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller 
+General of the United States, the accompanying fund type and account group financial statements—regulatory basis 
+within the combined financial statements of the Perkins-Tryon School District Number I-56, Perkins-Tryon, Payne 
+County, Oklahoma (District), as of and for the year ended June 30, 2018, and the related notes to the financial 
+statements, which collectively comprise the District’s financial statements, and have issued our report thereon dated 
+September 12, 2018, which was adverse with respect to the presentation of the financial statements in conformity with 
+accounting principles generally accepted in the United States because the presentation followed the regulatory basis of 
+accounting for Oklahoma school districts and did not conform to the presentation requirements of the Governmental 
+Accounting Standards Board.  However, our report was qualified for the omission of the general fixed asset account 
+group with respect to the presentation of financial statements on the regulatory basis of accounting authorized by the 
+Oklahoma State Board of Education.  
+ 
+Internal Control Over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered the District’s internal control over 
+financial reporting (internal control) to determine the audit procedures that are appropriate in the circumstances for the 
+purpose of expressing our opinions on the financial statements, but not for the purpose of expressing an opinion on the 
+effectiveness of District’s internal control.  Accordingly, we do not express an opinion on the effectiveness of District’s 
+internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis.  A material weakness is a deficiency, or a combination of deficiencies, in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity’s financial statements will 
+not be prevented, or detected and corrected on a timely basis.  A significant deficiency is a deficiency, or a combination 
+of deficiencies, in internal control that is less severe than a material weakness, yet important enough to merit attention 
+by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and was 
+not designed to identify all deficiencies in internal control that might be material weaknesses or, significant deficiencies. 
+Given these limitations, during our audit we did not identify any deficiencies in internal control that we consider to be 
+material weaknesses. However, material weaknesses may exist that have not been identified. 
+ 
+ 
+
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+P.O. Box 790 
+Cushing, OK 74023 
+918-225-4216  FAX 918-225-4315 
+ 
+
+
+
+28 
+
+Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether the District’s financial statements are free of material 
+misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and grant 
+agreements, noncompliance with which could have a direct and material effect on the determination of financial 
+statement amounts.  However, providing an opinion on compliance with those provisions was not an objective of our 
+audit, and accordingly, we do not express such an opinion.  The results of our tests disclosed no instances of 
+noncompliance or other matters that are required to be reported under Government Auditing Standards.  
+ 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the 
+results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal control or on 
+compliance.  This report is an integral part of an audit performed in accordance with Government Auditing Standards in 
+considering the entity’s internal control and compliance.  Accordingly, this communication is not suitable for any other 
+purpose. 
+ 
+
+CBEW Professional Group, LLP  
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+29 
+
+ 
+ 
+ 
+ INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR 
+ PROGRAM AND ON INTERNAL CONTROL OVER COMPLIANCE REQUIRED 
+ BY THE UNIFORM GUIDANCE 
+ 
+ 
+ 
+September 12, 2018 
+ 
+ 
+The Honorable Board of Education 
+Perkins-Tryon School District Number I-56 
+Perkins-Tryon, Payne County, Oklahoma 
+ 
+Report on Compliance for Each Major Federal Program 
+ 
+We have audited the Perkins-Tryon School District Number I-56, Perkins-Tryon, Payne County, Oklahoma (District)’s 
+compliance with the types of compliance requirements described in the OMB Compliance Supplement that could have 
+a direct and material effect on each of the District’s major federal programs for the year ended June 30, 2018. The 
+District’s major federal programs are identified in the summary of auditor’s results section of the accompanying 
+schedule of findings and questioned costs. 
+ 
+Management’s Responsibility 
+ 
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and grants applicable 
+to its federal programs. 
+ 
+Auditor’s Responsibility 
+ 
+Our responsibility is to express an opinion on compliance for each of the District’s major federal programs based on 
+our audit of the types of compliance requirements referred to above.  We conducted our audit of compliance in 
+accordance with auditing standards generally accepted in the United States of America; and the audit requirements of 
+Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative Requirements, Cost Principles, and 
+Audit Requirements for Federal Awards (Uniform Guidance).  Those standards and Uniform Guidance require that we 
+plan and perform the audit to obtain reasonable assurance about whether noncompliance with the types of compliance 
+requirements referred to above that could have a direct and material effect on a major federal program occurred.  An 
+audit includes examining, on a test basis, evidence about the District’s compliance with those requirements and 
+performing such other procedures as we considered necessary in the circumstances. 
+ 
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal program. 
+However, our audit does not provide a legal determination of the District’s compliance 
+ 
+Opinion on Each Major Federal Program 
+ 
+In our opinion, Perkins-Tryon School District Number I-56, Perkins-Tryon, Payne County, Oklahoma, complied, in all 
+material respects, with the types of compliance requirements referred to above that could have a direct and material 
+effect on each of its major federal programs for the year ended June 30, 2018. 
+ 
+ 
+
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+P.O. Box 790 
+Cushing, OK 74023 
+918-225-4216  FAX 918-225-4315 
+ 
+
+
+
+30 
+
+Report on Internal Control Over Compliance 
+ 
+Management of Perkins-Tryon School District Number I-56, Perkins-Tryon, Payne County, Oklahoma (the District), is 
+responsible for establishing and maintaining effective internal control over compliance with the types of compliance 
+requirements referred to above.  In planning and performing our audit of compliance, we considered the District’s 
+internal control over compliance with the types of requirements that could have a direct and material effect on each 
+major federal program to determine the auditing procedures that are appropriate in the circumstances for the purpose 
+of expressing an opinion on compliance for each major federal program and to test and report on internal control over 
+compliance in accordance with the Uniform Guidance, but not for the purpose of expressing an opinion on the 
+effectiveness of internal control over compliance.  Accordingly, we do not express an opinion on the effectiveness of 
+the District’s internal control over compliance. 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance does 
+not allow management or employees, in the normal course of performing their assigned functions, to prevent, or detect 
+and correct, noncompliance with a type of compliance requirement of a federal program on a timely basis.  A material 
+weakness in internal control over compliance is a deficiency, or combination of deficiencies, in internal control over 
+compliance, such that there is a reasonable possibility that material noncompliance with a type of compliance 
+requirement of a federal program will not be prevented, or detected and corrected, on a timely basis.  A significant 
+deficiency in internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over 
+compliance with a type of compliance requirement of a federal program that is less severe than a material weakness in 
+internal control over compliance, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the first paragraph of 
+this section and was not designed to identify all deficiencies in internal control over compliance that might be material 
+weaknesses or significant deficiencies.  We did not identify any deficiencies in internal control over compliance that we 
+consider to be material weaknesses.  However, material weaknesses may exist that have not been identified. 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of internal 
+control over compliance and the results of that testing based on the requirements of the Uniform Guidance.  
+Accordingly, this report is not suitable for any other purpose. 
+ 
+
+CBEW Professional Group, LLP  
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+   PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+
+ 
+ 31 
+
+ SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+ For the Fiscal Year Ended June 30, 2018 
+ 
+
+ 
+SUMMARY OF AUDITOR’S RESULTS 
+
+ 
+Financial Statements: 
+Type of Auditor’s Report Issued: Adverse opinion on the combined financial statements in conformity with 
+generally accepted accounting principles and a qualified opinion for the omission of the general fixed asset 
+account group on the combined financial statements in conformity with a regulatory basis of accounting 
+prescribed by the Oklahoma Department of Education. 
+ 
+Internal Control Over Financial Reporting: 
+
+Material Weakness(es) identified?     Yes X No 
+ 
+Significant Deficiencies identified not considered to be material weaknesses?     Yes X No 
+ 
+Noncompliance material to financial statements noted?    Yes X No 
+
+ 
+Federal Awards:  
+ 
+Type of auditors report issued on compliance for major programs: Unmodified in conformity with the regulatory 
+basis of accounting. 
+ 
+Internal Control Over Major Programs: 
+
+Material Weakness(es) identified?     Yes X No 
+ 
+
+Significant Deficiencies identified not considered to be material weaknesses?   Yes X No 
+ 
+Audit findings disclosed that are required to be reported in accordance with the Uniform Guidance, 
+Section .510(a)?      Yes X No 
+
+   
+  Dollar threshold used to distinguish Type A and Type B programs $750,000 
+   
+  Auditee Qualified as low-risk auditee?    Yes X No 
+ 
+ Identification of Major Programs: 
+  
+ CFDA# 
+  10.553 Child Nutrition – Breakfast 
+  10.555 Child Nutrition – Lunch 
+  84.010  Title I – Grants to Local Education Agencies 
+   
+   
+ 
+FINDINGS - FINANCIAL STATEMENT AUDIT 
+ 
+
+1. None 
+ 
+
+ 
+FINDINGS AND QUESTIONED COSTS - MAJOR FEDERAL AWARD PROGRAMS AUDIT 
+ 
+
+2. None 
+ 
+ 
+
+
+
+   PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+ Payne County, Oklahoma 
+ 
+
+ 
+ 32 
+
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS 
+For the Fiscal Year Ended June 30, 2018 
+
+ 
+ 
+
+None. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56 
+Payne County, Oklahoma 
+
+ 
+
+ 
+33 
+
+ 
+ 
+ 
+
+SCHEDULE OF ACCOUNTANT’S PROFESSIONAL 
+LIABILITY INSURANCE AFFIDAVIT 
+
+ 
+JULY 1, 2017 TO JUNE 30, 2018 
+
+ 
+ 
+ 
+ 
+ 
+
+State of Oklahoma ) 
+ 
+ 
+County of Payne ) 
+ 
+ 
+The undersigned auditing firm of lawful age, being first duly sworn on oath, says that said firm had in 
+
+full force and effect Accountant’s Professional Liability Insurance in accordance with the “Oklahoma 
+
+Public School Audit Law” at the time of audit contract and during the entire audit engagement with 
+
+Perkins-Tryon School District for the audit year 2017-2018.  
+
+ 
+
+ 
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+ 
+ Auditing Firm 
+ 
+ 
+By ____________________________________________ 
+ 
+ Authorized Agent 
+ 
+ 
+Subscribed and sworn to before me on this ______________ day of, ____________________, 2018. 
+ 
+ 
+ 
+_______________________________________________ 
+ 
+ Notary Public 
+ 
+ 
+My commission expires on: 
+ 
+ 
+          day of                ,                                 .     
+
+
+
+PERKINS-TRYON SCHOOL DISTRICT NUMBER I-39 
+Payne County, Oklahoma 
+
+June 30, 2018 
+ 
+
+ 
+ 
+
+ 
+AUDIT ACKNOWLEDGEMENT 
+
+ 
+The annual independent audit for the Perkins-Tryon School District Number I-56 was 
+presented to the Board of Education in an Open Board Meeting on October 1, 2018, 
+by CBEW Professional Group, LLP.  
+
+ __________________________ _ 
+    Auditor Signature   
+
+ 
+The School Board acknowledges that as the governing body of the district, 
+responsible for the district’s financial and compliance operations, the audit findings 
+and exceptions have been presented to them. 
+ 
+A copy of the audit, including this acknowledgement form, will be sent to the 
+Oklahoma State Department of Education and the State Auditor and Inspector within 
+30 days from it’s presentation, as stated in 70 O.S. § 22-108: 
+ 
+
+“The district board of education shall forward a copy of the auditor’s 
+opinions and related financial statements to the State Board of Education 
+and the State Auditor and Inspector within thirty (30) days after receipt of 
+the audit.” 
+
+  
+___________________________  ______________________________ 
+Superintendent of Schools    Board of Education Vice President 
+ 
+___________________________  ______________________________ 
+Board of Education President   Board of Education Member 
+ 
+       ______________________________ 
+       Board of Education Member 
+ 
+       ______________________________ 
+       Board of Education Member 
+ 
+ 
+Subscribed and sworn to before me on this __________ day of, ___________, 2018. 
+ 
+ 
+My commission expires on __________ day of ___________, 20_____. 
+ 
+ 
+___________________________ 
+Notary Public 
+        Affix Notary Seal 
+
+
+	Cover Stat Basis.pdf
+	Official.pdf
+	PERKINS-TRYON SCHOOL DISTRICT NUMBER I-56
+	BOARD OF EDUCATION
+	Vice-President  Winfrey Kinzie
+
+	CLERK OF BOARD OF EDUCATION
+	SCHOOL DISTRICT TREASURER
+	SUPERINTENDENT OF SCHOOLS
+	MINUTES CLERK
+
+	Contents Stat Basis.pdf
+	Letter Stat Basis.pdf
+	INDEPENDENT AUDITOR'S REPORT
+
+	Perkins-Tryon Schools FS 18.pdf
+	cbs
+	csrgft
+	budget
+
+	Notes Stat Basis 18.pdf
+	A. Reporting Entity
+	B. Measurement Focus
+	B. Measurement Focus (Continued)
+	B. Measurement Focus (Continued)
+	C. Basis of Accounting and Presentation
+	D. Assets, Liabilities, Fund Balance, Revenue and Expenditures
+	D. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued)
+	D. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued)
+	D. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued)
+	Budgetary Information
+	A. Deposits and Investments
+
+
+	Custodial Credit Risk
+	Investment Interest Rate Risk
+	Investment Credit Risk
+	A. Deposits and Investments (Continued)
+	Concentration of Investment Credit Risk
+	B. Long-term Debt
+	B. Long-term Debt (Continued)
+	C. Leases
+
+	A. Risk Management
+	B. Contingent Liabilities
+	C. Non-Monetary Transactions
+	D. Employee Retirement System and Plan
+	Description of Plan
+	Basis of Accounting
+	Funding Policy
+
+
+
+
+	Perkins-Tryon Schools FS 18.pdf
+	csalf
+
+	Cover Stat Basis.pdf
+	Perkins-Tryon Schools FS 18.pdf
+	csrecf
+	cscal
+	comb bud
+	sefa
+
+	Cover Stat Basis.pdf
+	Letter Stat Basis 2.pdf
+	INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR
+
+	Finding.pdf
+	For the Fiscal Year Ended June 30, 2018
+	SUMMARY OF AUDITOR’S RESULTS
+	FINDINGS - FINANCIAL STATEMENT AUDIT
+	For the Fiscal Year Ended June 30, 2018
+
+
+	Affidav.pdf
+	JULY 1, 2017 TO JUNE 30, 2018
+
+	acknowledge.pdf
+

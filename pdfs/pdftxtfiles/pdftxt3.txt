@@ -1,0 +1,1576 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+590.00 - Red Rock DCF Reporting Package (The Oklahoma Mental Health Council AU1018 [6/30/2018] (In Process))
+
+
+ 
+
+ 
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Independent Auditor’s Report and Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+The Oklahoma Mental Health Council  
+d/b/a Red Rock Behavioral Health Services 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 
+
+Contents 
+ 
+
+Independent Auditor’s Report ......................................................................................................... 1 
+
+ 
+Financial Statements 
+
+Balance Sheets .................................................................................................................................... 3 
+
+Statements of Operations and Changes in Net Assets ........................................................................ 4 
+
+Statements of Cash Flows .................................................................................................................. 5 
+
+Notes to Financial Statements ............................................................................................................ 6 
+
+ 
+
+Supplementary Information 
+Schedule of Expenditures of State Awards – Year Ended June 30, 2018 ........................................ 16 
+
+ 
+
+
+
+ 
+
+ 
+
+Independent Auditor’s Report  
+ 
+ 
+ 
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+Oklahoma City, Oklahoma 
+ 
+ 
+We have audited the accompanying financial statements of The Oklahoma Mental Health Council d/b/a 
+Red Rock Behavioral Health Services (Red Rock), which comprise the balance sheets as of June 30, 2018 
+and 2017, and the related statements of operations and changes in net assets and cash flows for the years 
+then ended, and the related notes to the financial statements. 
+
+Management’s Responsibility for the Financial Statements 
+
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes 
+the design, implementation and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on these financial statements based on our audits.  We 
+conducted our audits in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States.  Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether the financial statements are free from 
+material misstatement. 
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements.  The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or error.  
+In making those risk assessments, the auditor considers internal control relevant to the entity’s preparation 
+and fair presentation of the financial statements in order to design audit procedures that are appropriate in 
+the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s 
+internal control.  Accordingly, we express no such opinion.  An audit also includes evaluating the 
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates 
+made by management, as well as evaluating the overall presentation of the financial statements.   
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion. 
+
+
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+Page 2 
+ 
+ 
+
+ 
+
+Opinion 
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+financial position of Red Rock as of June 30, 2018 and 2017, and the results of its operations and changes 
+in its net assets and its cash flows for the years then ended in accordance with accounting principles 
+generally accepted in the United States of America. 
+
+Supplementary Information 
+
+Our audits were conducted for the purpose of forming an opinion on the financial statements of Red Rock 
+as a whole.  The accompanying supplementary information, as listed in the table of contents, is presented 
+for purposes of additional analysis and is not a required part of the financial statements.  Such information 
+is the responsibility of management and was derived from and relates directly to the underlying 
+accounting and other records used to prepare the financial statements.  The information has been 
+subjected to the auditing procedures applied in the audit of the financial statements and certain additional 
+procedures, including comparing and reconciling such information directly to the underlying accounting 
+and other records used to prepare the financial statements or to the financial statements themselves, and 
+other additional procedures in accordance with auditing standards generally accepted in the United States 
+of America.  In our opinion, the information is fairly stated in all material respects in relation to the 
+financial statements as a whole. 
+
+ 
+ 
+Tulsa, Oklahoma 
+December 21, 2018 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Balance Sheets 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+See Notes to Financial Statements 3 
+
+Assets
+2018 2017
+
+Current Assets
+Cash and cash equivalents 4,885,860$       1,419,131$       
+Patient accounts and other receivables, net of contractual adjustments;
+
+2018 – $1,635,069, 2017 – $978,230 7,240,293 7,242,574
+Government contracts receivable 1,023,062 776,133
+Short-term investments 17,000,000 15,000,000
+Prepaid expenses and other 977,537 859,868
+
+Total current assets 31,126,752       25,297,706       
+
+Investments
+Investments in equity investees 975,847 763,394
+
+Property and Equipment, at Cost
+Land and land improvements 1,646,778 1,392,362
+Buildings and leasehold improvements 19,075,458 18,696,962
+Equipment 9,609,207 8,516,334
+Construction in progress 663,770 188,416
+
+30,995,213       28,794,074       
+Less accumulated depreciation 10,802,759       9,682,479         
+
+20,192,454       19,111,595       
+
+Total assets 52,295,053$     45,172,695$     
+
+ 
+Liabilities and Net Assets
+
+Current Liabilities
+Accounts payable 637,675$          699,959$          
+Accrued expenses 3,320,255 3,055,935
+Estimated amounts due to third-party payers 1,086,000 600,000
+Deferred revenue 80,867 59,202
+
+Total current liabilities 5,124,797         4,415,096         
+
+Unrestricted Net Assets 47,170,256 40,757,599
+
+Total liabilities and net assets 52,295,053$     45,172,695$     
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Statements of Operations and Changes in Net Assets 
+Years Ended June 30, 2018 and 2017 
+
+ 
+ 
+
+See Notes to Financial Statements 4 
+
+2018 2017
+
+Unrestricted Net Assets
+Revenues, gains and other support
+
+Net patient service revenue 48,694,773$     39,112,481$     
+Other 84,381 101,273
+
+Total revenues, gains and other support 48,779,154       39,213,754       
+
+Expenses
+Salaries, wages and contract labor 24,397,744 20,380,866
+Employee benefits 5,439,478 4,946,172
+Program expense 3,935,253 2,811,606
+Administrative and general 1,399,786 1,324,364
+Utilities 806,842 657,108
+Travel 589,126 529,214
+Purchased services and professional fees 1,712,261 1,163,049
+Rent 420,606 418,244
+Repairs and maintenance 417,224 435,568
+Depreciation 1,387,829 1,261,489
+Provision for uncollectible accounts 2,441,488 1,873,729
+
+Total expenses 42,947,637       35,801,409       
+
+Operating Income 5,831,517         3,412,345         
+
+Other Income (Expense)
+Investment return 240,038 83,773
+Gain on investments in equity investees 312,453 145,350
+Net rental income (expense) 17,256              (2,066)
+Contributions 11,393 15,615
+
+Total other income (expense) 581,140            242,672            
+
+Excess of Revenues over Expenses 6,412,657         3,655,017         
+
+Contribution of property and equipment -                       179,686            
+
+Change in Unrestricted Net Assets 6,412,657         3,834,703         
+
+Unrestricted Net Assets, Beginning of Year 40,757,599       36,922,896       
+
+Unrestricted Net Assets, End of Year 47,170,256$     40,757,599$     
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Statements of Cash Flows 
+Years Ended June 30, 2018 and 2017 
+
+ 
+ 
+
+See Notes to Financial Statements 5 
+
+2018 2017
+
+Operating Activities
+Change in unrestricted net assets 6,412,657$       3,834,703$       
+Items not requiring (providing) cash
+
+Depreciation 1,387,829         1,261,489         
+Gain on disposal of property and equipment (41,000)            (11,822)            
+Gain on investments in equity investees (312,453)          (145,350)          
+Contribution of property and equipment -                       (179,686)          
+Provision for uncollectible accounts 2,441,488         1,873,729         
+
+Changes in
+Patient and other accounts receivable, net (2,439,207)       (6,893,866)       
+Estimated amounts due to third-party payers 486,000            -                       
+Government contracts receivable (246,929)          324,344            
+Accounts payable and accrued expenses 213,238            186,769            
+Deferred revenue 21,665              (52,780)            
+Prepaid expenses and other assets (117,669)          179,238            
+
+Net cash provided by operating activities 7,805,619         376,768            
+
+Investing Activities
+Purchase of investments (17,000,000)     (15,000,000)     
+Proceeds from sales and maturities of investments 15,000,000       15,000,000       
+Proceeds from insurance claim 348,374            -                       
+Distributions received from equity investees 100,000            75,000              
+Purchase of property and equipment (2,828,264)       (2,526,989)       
+Proceeds from sale of equipment 41,000              21,500              
+
+Net cash used in investing activities (4,338,890)       (2,430,489)       
+
+Increase (Decrease) in Cash and Cash Equivalents 3,466,729         (2,053,721)       
+
+Cash and Cash Equivalents, Beginning of Year 1,419,131         3,472,852         
+
+Cash and Cash Equivalents, End of Year 4,885,860$       1,419,131$       
+
+Supplemental Cash Flows Information
+Purchase of equipment in accounts payable 77,734$            88,936$            
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 6 
+
+Note 1: Nature of Operations and Summary of Significant Accounting Policies 
+
+Nature of Operations 
+
+The Oklahoma Mental Health Council d/b/a Red Rock Behavioral Health Services (Red Rock) is a 
+not-for-profit organization whose purpose is to provide mental and behavioral health services to 
+individuals of all ages and severity of illness.  Red Rock primarily earns revenue from providing 
+outpatient mental and behavioral health services at various locations throughout the state of 
+Oklahoma. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally 
+accepted in the United States of America requires management to make estimates and assumptions 
+that affect the reported amounts of assets and liabilities and disclosure of contingent assets and 
+liabilities at the date of the financial statements and the reported amounts of revenues and expenses 
+during the reporting period.  Actual results could differ from those estimates. 
+
+Cash and Cash Equivalents 
+
+Red Rock considers all liquid investments with original maturities of three months or less to be 
+cash equivalents.  At June 30, 2018 and 2017, cash equivalents consisted of a money market 
+mutual fund.   
+
+At June 30, 2018, Red Rock’s cash accounts exceeded federally insured limits by approximately 
+$4,243,000. 
+
+At June 30, 2018 and 2017, Red Rock’s sweep account balance of approximately $754,000 and 
+$1,051,000, respectively, was not covered by FDIC insurance.  The sweep account is invested in 
+the Cavanal Hill U.S. Treasury Money Market Fund.   
+
+Investments 
+
+At June 30, 2018 and 2017, short-term investments consisted of certificates of deposit.  The 
+investments in equity investees are reported on the equity method of accounting (cost plus equity in 
+the investee’s undistributed net income since acquisition). 
+
+Accounts Receivable 
+
+Red Rock reports patient accounts receivable for services rendered at net realizable amounts from 
+third-party payers, patients and others.  Red Rock provides an allowance for doubtful accounts 
+based upon a review of outstanding receivables, historical collection information and existing 
+economic conditions.  As a service to the patient, Red Rock bills third-party payers directly and 
+bills the patient when the patient’s liability is determined.  Accounts are considered delinquent and  
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 7 
+
+subsequently written off as uncollectible accounts based on individual credit evaluation and 
+specific circumstances of the account. 
+
+Contract revenue and related receivables are recognized in the period in which the related contract 
+services are performed.  Accounts are written off as contractual adjustments when Red Rock 
+exceeds the contractual amount in a given year. 
+
+Net Patient Service Revenue 
+
+Red Rock has agreements with third-party payers that provide for payments to Red Rock at 
+amounts different from its established rates.  Net patient service revenue is reported at the 
+estimated net realizable amounts from patients, third-party payers and others for services rendered 
+and includes estimated retroactive revenue adjustments.  Retroactive adjustments are considered in 
+the recognition of revenue on an estimated basis in the period the related services are rendered, and 
+such estimated amounts are revised in future periods as adjustments become known.   
+
+Red Rock has contracts with the Oklahoma Department of Mental Health and Substance Abuse 
+Services, Oklahoma Health Care Authority, U.S. Department of Housing and Urban Development 
+and U.S. Department of Veterans Affairs to provide specified services to certain mentally ill and 
+other patients.  Contract revenue and related receivables are recognized in the period in which the 
+related contract services are performed. 
+
+Property and Equipment 
+
+Red Rock capitalizes all property and equipment with lives greater than one year and a cost of 
+$5,000 or greater.  Property and equipment acquisitions are recorded at cost and are depreciated 
+using the straight-line method over the estimated useful life of each asset.  Assets under capital 
+lease obligations and leasehold improvements are depreciated over the shorter of the lease term or 
+their respective estimated useful lives. 
+
+The estimated useful lives for each major depreciable classification of property and equipment are 
+as follows: 
+
+Land improvements 3–30 years 
+Buildings and improvements 7–30 years 
+Leasehold improvements 7–30 years 
+Equipment 3–15 years 
+
+ 
+Long-Lived Asset Impairment 
+
+Red Rock evaluates the recoverability of the carrying value of long-lived assets whenever events or 
+circumstances indicate the carrying amount may not be recoverable.  If a long-lived asset is tested 
+for recoverability and the undiscounted estimated future cash flows expected to result from the use 
+and eventual disposition of the asset is less than the carrying amount of the asset, the asset cost is 
+adjusted to fair value and an impairment loss is recognized as the amount by which the carrying  
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 8 
+
+amount of a long-lived asset exceeds its fair value.  No asset impairment was recognized during the 
+years ended June 30, 2018 and 2017. 
+
+Charity Care 
+
+Red Rock provides care without charge or at amounts less than its established rates to patients 
+meeting certain criteria under its charity care policy.  Because Red Rock does not pursue collection 
+of amounts determined to qualify as charity care, they are not reported as net patient service 
+revenue. 
+
+Professional Liability Coverage and Claims 
+
+Red Rock recognizes an accrual for claim liabilities based on estimated ultimate losses and costs 
+associated with settling claims and a receivable to reflect the estimated insurance recoveries, if any.  
+Professional liability claims are described more fully in Note 9. 
+
+Income Taxes 
+
+Red Rock has been recognized as exempt from income taxes under Section 501(c)(3) of the 
+Internal Revenue Code and a similar provision of state law.  However, Red Rock is subject to 
+federal income tax on any unrelated business taxable income. 
+
+Red Rock files tax returns in the U.S. federal jurisdiction.   
+
+Self-Insurance 
+
+Red Rock has elected to self-insure certain costs related to employee health.  Costs resulting from 
+noninsured losses are charged to income when incurred.  Red Rock has purchased insurance that 
+limits its exposure for individual claims to $85,000 per policy year and that limits its aggregate 
+exposure per policy year.  At June 30, 2018 and 2017, Red Rock had accrued a liability for 
+approximately $191,000 and $287,000, respectively. 
+
+Transfers Between Fair Value Hierarchy Levels  
+
+Transfers in and out of Level 1 (quoted market prices), Level 2 (other significant observable 
+inputs) and Level 3 (significant unobservable inputs) are recognized on the period beginning date. 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 9 
+
+Note 2: Net Patient Service Revenue 
+
+Red Rock has agreements with third-party payers that provide for payments to Red Rock at 
+amounts different from its established rates.  These payment arrangements include: 
+
+ Medicare – Substantially all outpatient services are paid based on predetermined rates based 
+on services provided to patients. 
+
+ Medicaid and Government-Sponsored Contracts – Outpatient services rendered to the 
+Medicaid program and government-sponsored contract beneficiaries are reimbursed on a 
+prospectively determined fee schedule. 
+
+Approximately 94% and 93% of net patient service revenue is from participation in Medicare, 
+Medicaid and government-sponsored contracts for the years ended June 30, 2018 and 2017, 
+respectively.  Laws and regulations governing the Medicare and Medicaid programs are complex 
+and subject to interpretation and change.  As a result, it is reasonably possible that recorded 
+estimates will change materially in the near term. 
+
+Red Rock has also entered into payment agreements with certain commercial insurance carriers, 
+health maintenance organizations and preferred provider organizations.  The basis for payment to 
+Red Rock under these agreements includes prospectively determined rates and discounts from 
+established charges. 
+
+Note 3: Concentration of Credit Risk 
+
+Red Rock grants credit without collateral to its patients, most of whom are residents within an area 
+where Red Rock has a location.  At June 30, 2018 and 2017, the mix of net patient accounts and 
+government contracts receivable was: 
+
+2018 2017
+
+Medicare, Medicaid and government-sponsored contracts 99% 99%
+Patients and other third-party payers 1% 1%
+
+100% 100%
+
+ 
+
+Note 4: Investments and Investment Return 
+
+Short-term investments consisted of certificates of deposit of $17,000,000 and $15,000,000 at 
+June 30, 2018 and 2017, respectively. 
+
+Investment return is reflected in other income in the accompanying statements of operations and 
+changes in net assets.  Investment return of $240,038 and $83,773 for the years ended June 30, 
+2018 and 2017, respectively, is comprised primarily of interest income. 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 10 
+
+Note 5: Investments in Equity Investees 
+
+Oklahoma Behavioral Health Pharmacy, L.L.C. 
+
+Red Rock has a 33% interest in Oklahoma Behavioral Health Pharmacy, L.L.C. (OBHP).  The 
+audited financial position and results of operations of OBHP for its most recent year-ends are 
+summarized below: 
+
+December 31, December 31,
+2017 2016
+
+Total assets 2,083,305$       2,199,052$       
+Total liabilities 488,522            627,302            
+
+Members’ equity 1,594,783$       1,571,750$       
+
+Revenues 12,224,770$     11,518,009$     
+Expenses 11,901,737       10,627,351       
+
+Net income 323,033$          890,658$          
+
+ 
+Certain members of Red Rock’s management participate as members of management and the 
+Board of Directors of OBHP. 
+
+Red Rock purchased medications for its patients from OBHP and provided certain administrative 
+services to OBHP during 2018 and 2017.  Red Rock purchased approximately $1,189,000 and 
+$1,152,000 in medications from OBHP in 2018 and 2017, respectively.  Red Rock recorded 
+approximately $2,000 and $5,000 as revenue for administrative services provided to OBHP for 
+2018 and 2017, respectively.  OBHP paid Red Rock approximately $17,000 for rent in 2018 and 
+2017.  Additionally, all full-time employees of OBHP and their related benefits are paid by Red 
+Rock.  OBHP reimbursed Red Rock approximately $1,073,000 and $934,000 in 2018 and 2017, 
+respectively, for all employment expenses.  Red Rock had approximately $127,000 and $82,000 in 
+payables to OBHP at June 30, 2018 and 2017, respectively.  Red Rock had approximately 
+$138,000 and $118,000 in receivables from OBHP at June 30, 2018 and 2017, respectively. 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 11 
+
+North Rock II, LLC 
+
+Red Rock has a 33% interest in North Rock II, LLC, which began operations in 2014.  During 
+2014, Red Rock contributed $125,000 in capital to North Rock II, LLC.  Red Rock contributed an 
+additional $67,000 during 2016.  North Rock II, LLC’s primary activity is ownership interest in 
+Hope Pharmacy and Integrated Healthcare Pharmacy.  The unaudited financial position and results 
+of operations of North Rock II, LLC for its most recent year-ends are summarized below: 
+
+June 30, June 30,
+2018 2017
+
+Total assets 891,831$          647,032$          
+Total liabilities -                       1,624                
+
+Members’ equity 891,831$          645,408$          
+
+Revenues 459,558$          67,713$            
+Expenses 138,135            72,592              
+
+Net income (loss) 321,423$          (4,879)$            
+
+ 
+Certain members of Red Rock’s management participate as members of management and the 
+Board of Directors of North Rock II, LLC. 
+
+Red Rock provided certain leased employees and administrative services to Hope Pharmacy during 
+2018 and 2017.  Hope Pharmacy reimbursed Red Rock approximately $317,000 and $285,000 in 
+2018 and 2017, respectively, for leased employees and other administrative services. 
+
+Note 6: Functional Expenses 
+
+Red Rock provides mental and behavioral health services to residents within its geographic 
+location, which is the state of Oklahoma.  Expenses related to providing these services are 
+summarized as health care services.  General and administrative expenses include the provision for 
+uncollectible accounts. 
+
+2018 2017
+
+Health care services 31,801,251$     26,497,251$     
+General and administrative 11,146,386       9,304,158         
+
+42,947,637$     35,801,409$     
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 12 
+
+Note 7: Related-Party Transactions 
+
+Red Rock has contracted with an architectural firm, approved by the Board of Directors, to provide 
+architectural and engineering services related to construction, design and remodeling projects.  A 
+partner of the architectural firm is a member of Red Rock’s Board of Directors.  Red Rock incurred 
+expenses from the architectural firm for architectural and subcontracted engineering services of 
+approximately $191,000 and $19,000 for the years ended June 30, 2018 and 2017, respectively.   
+
+Note 8: Retirement Plans 
+
+Red Rock has a defined contribution pension plan.  The plan covers substantially all full-time 
+employees who have completed 18 months of service and allows part-time employees with 18 
+months of service who work more than 1,000 hours per calendar year to be eligible to participate in 
+the plan.  Red Rock contributes 5% of each participant’s annual salary to the plan.  Red Rock also 
+has a 457 deferred compensation plan for members of management.  Retirement plan expense for 
+both plans was approximately $728,000 and $657,000 for the years ended June 30, 2018 and 2017, 
+respectively. 
+
+Note 9: Significant Estimates and Concentrations  
+
+Accounting principles generally accepted in the United States of America require disclosure of 
+certain significant estimates and current vulnerabilities due to certain concentrations.  Those 
+matters include the following: 
+
+Allowance for Net Patient Service Revenue Adjustments 
+
+Estimates of allowances for adjustments included in net patient service revenue are described in 
+Notes 1 and 2. 
+
+Professional Liability Claims 
+
+Red Rock purchases medical malpractice insurance under a claims-made policy on a fixed 
+premium basis.  Under such a policy, only claims made and reported to the insurer during the 
+policy term, regardless of when the incidents giving rise to the claims occurred, are covered.   
+
+Based upon Red Rock’s claims experience, an accrual had been made for Red Rock’s estimated 
+medical malpractice costs, including costs associated with litigating or settling claims, under its 
+malpractice insurance policy, amounting to approximately $237,000 and $265,000 as of June 30, 
+2018 and 2017, respectively.  Professional liability reserve estimates represent the estimated 
+ultimate cost of all reported and unreported losses incurred through the respective balance sheet 
+dates.  It is reasonably possible that this estimate could change materially in the near term. 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 13 
+
+Red Rock’s professional liability risks are insured through unrelated commercial insurance carriers.  
+The amounts receivable under these insurance contracts of approximately $237,000 and $265,000 
+are included in prepaid and other assets at June 30, 2018 and 2017, respectively. 
+
+Government Contracts 
+
+Red Rock receives a significant portion of its revenue each year through annual contracts with 
+various governmental agencies (see Notes 1 and 2).  Should the annual contracts be terminated or 
+not renewed by the various governmental agencies, the operations of Red Rock could be adversely 
+impacted. 
+
+These contracts are generally subject to audits by the respective grantor agency and those audits 
+may result in disallowed costs and/or other noncompliance findings, which could result in 
+repayment of amounts by Red Rock.  As of June 30, 2018 and 2017, management has accrued 
+$1,086,000 and $600,000, respectively, based on past audit results related to this potential liability.  
+It is reasonably possible that the recorded estimate will change materially in the near term. 
+
+Patient Assistance Programs 
+
+Patient Assistance Programs (PAP) are programs offered by most pharmaceutical companies to 
+provide medication to individuals who meet certain eligibility requirements, generally, those 
+individuals who would not otherwise be able to afford purchasing medication on their own.  As a 
+service to its patients, Red Rock assists individuals in enrolling in certain PAPs.  Because Red 
+Rock does not have the power to direct the usage of the donated medication nor does it actually 
+receive the donated medication, these amounts are not reported as in-kind contribution revenue.  
+During the years ended June 30, 2018 and 2017, the total value of the medication that individuals 
+received through PAPs was approximately $8,564,000 and $5,750,000, respectively.  
+
+Litigation 
+
+In the normal course of business, Red Rock is, from time to time, subject to allegations that may or 
+do result in litigation.  Some of these allegations are in areas not covered by commercial insurance, 
+for example, allegations regarding performance of contracts.  Red Rock evaluates such allegations 
+by conducting investigations to determine the validity of each potential claim.  Based upon the 
+advice of counsel, management records an estimate of the amount of ultimate expected loss, if any, 
+for each of these matters.  It is the opinion of management that the disposition or ultimate 
+resolution of such claims and lawsuits, if any, will not have a material adverse effect on the 
+financial position, changes in net assets and cash flows of Red Rock.  Events could occur that 
+would cause the estimate of ultimate loss to differ materially in the near term. 
+
+Self-Insurance 
+
+Self-insurance related to employee health is described in Note 1. 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 14 
+
+Note 10: Line of Credit 
+
+During 2016 and through June 2017, Red Rock had a $500,000 line of credit loan agreement with a 
+bank, which is secured by real estate.  The loan agreement was scheduled to mature on June 30, 
+2018, with any outstanding amounts bearing interest at 5%.  In June 2017, Red Rock renewed this 
+promissory note for $1,000,000 with a maturity date of June 26, 2019, with any outstanding 
+amounts bearing interest at prime rate, but limited to no more than 8% and no less than 5%.  At 
+June 30, 2018 and 2017, no amounts were borrowed or outstanding related to the line of credit loan 
+agreement.   
+
+Note 11: Disclosures About Fair Value of Assets 
+
+Fair value is the price that would be received to sell an asset in an orderly transaction between 
+market participants at the measurement date.  Fair value measurements must maximize the use of 
+observable inputs and minimize the use of unobservable inputs.  There is a hierarchy of three levels 
+of inputs that may be used to measure fair value: 
+
+Level 1 Quoted prices in active markets for identical assets 
+
+Level 2 Observable inputs other than Level 1 prices, such as quoted prices for similar assets, 
+quoted prices in markets that are not active; or other inputs that are observable or can 
+be corroborated by observable market data for substantially the full term of the 
+assets 
+
+Level 3 Unobservable inputs supported by little or no market activity and significant to the 
+fair value of the assets 
+
+Recurring Measurements 
+
+The fair value measurements of assets recognized in the accompanying balance sheets measured at 
+fair value on a recurring basis consisted of a money market mutual fund of $753,912 and 
+$1,050,962 at June 30, 2018 and 2017, respectively.   
+
+Money Market Mutual Fund 
+
+Where quoted market prices are available in an active market, assets are classified within Level 1 
+of the valuation hierarchy.  At June 30, 2018 and 2017, Level 1 investments consisted of a money 
+market mutual fund, which was valued at cost, which approximates fair value.  There were no 
+Level 2 or Level 3 investments. 
+
+Note 12: Subsequent Events 
+
+Subsequent events have been evaluated through December 21, 2018, which is the date the financial 
+statements were available to be issued. 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Financial Statements 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 15 
+
+After year-end, Red Rock approved the construction of a new building in western Oklahoma with 
+an estimated budget of approximately $6,850,000 and an anticipated completion date of October 
+2019. 
+
+
+
+ 
+
+  
+
+Supplementary Information 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Schedule of Expenditures of State Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+ 16 
+
+Award Not
+Total Award Award Award Received
+
+Amount Received Expended and Unspent
+
+State of Oklahoma
+Adult/Child Flex – State 24,445$            24,445$            24,445$            -$                      
+SQE – MH Children (Trauma) – State 35,267              35,267              35,267              -                        
+Medications – State 759,937            759,937            759,937            -                        
+Basic Meds (Children) – State 4,223                4,223                4,223                -                        
+Enhanced Tier Payment Systems (ETPS) – State 4,891,860         4,891,860         4,891,860         -                        
+Jail Diversion Administration – Midwest City – State 14,583              14,583              14,583              -                        
+Jail Diversion Administration – Midwest City – Revolving 14,583              14,583              14,583              -                        
+Nicotine Replacement Therapy Project – Revolving 2,992                2,992                2,992                -                        
+SPF/CPF – State 40,000              40,000              40,000              -                        
+Offender Screenings – State 717                   717                   717                   -                        
+Strategic Prevention Framework Partnership for Success
+
+(SPF-PFS) – State 31,412              31,412              31,412              -                        
+Community-based planning and implementation of 
+
+evidence-based alcohol and other drug prevention –
+Regional 12 RPC – State 16,608              16,608              16,608              -                        
+
+Community-based planning and implementation of 
+evidence-based alcohol and other drug prevention –
+Regional 13 RPC – State 18,099              18,099              18,099              -                        
+
+5,854,726         5,854,726         5,854,726         -                        
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Schedule of Expenditures of State Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+ 17 
+
+Award Not
+Total Award Award Award Received
+
+Amount Received Expended and Unspent
+
+State HIV Outreach 10,150$            10,150$            10,150$            -$                      
+Drug Court Team 3 1,628                1,628                1,628                -                        
+Drug Court Team 3 142,874            142,874            142,874            -                        
+Halfway House Residential 23AG 74,345              74,345              74,345              -                        
+Smart on Crime Residential 23AJ 260,680            260,680            260,680            -                        
+Smart on Crime Residential 23AJ 482,125            482,125            482,125            -                        
+Systems of Care 39AA 408                   408                   408                   -                        
+Systems of Care 39AA 19,591              19,591              19,591              -                        
+Systems of Care 39AA 10,897              10,897              10,897              -                        
+Community Living 715,485            715,485            715,485            -                        
+Competency Evals OFC 35,176              35,176              35,176              -                        
+Certified Community Behavioral Health Clinics 3,880,150         3,880,150         3,880,150         -                        
+Certified Community Behavioral Health Clinics 1,286,755         1,286,755         1,286,755         -                        
+Adult Crisis Stabilization 53AA 83,461              83,461              83,461              -                        
+Adult Crisis Stabilization 53AA 2,051,274         2,051,274         2,051,274         -                        
+Adult Crisis Stabilization 53AA 494,993            494,993            494,993            -                        
+Adult Crisis Stabilization 53AA 1,316,517         1,316,517         1,316,517         -                        
+Adult Crisis Stabilization Site 2 891,877            891,877            891,877            -                        
+Regional Crisis Services for Children 384,001            384,001            384,001            -                        
+Temporary Assistance for Needy Families 28,164              28,164              28,164              -                        
+
+12,170,551       12,170,551       12,170,551       -                        
+
+18,025,277$     18,025,277$     18,025,277$     -$                      
+
+ 
+Note to Schedule 
+
+This schedule includes the state award activity of Red Rock Behavioral Health Services and is 
+presented on the accrual basis of accounting. 
+
+
+
+ 
+
+ 
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Single Audit Reports 
+June 30, 2018 
+
+
+
+ 
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+June 30, 2018 
+ 
+ 
+
+ 
+
+Contents 
+ 
+Schedule of Expenditures of Federal Awards ............................................................................. 1 
+
+ 
+
+Notes to Schedule of Expenditures of Federal Awards ............................................................ 3 
+ 
+
+Report on Internal Control over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of 
+Financial Statements Performed in Accordance with  
+Government Auditing Standards – Independent Auditor’s Report ................................... 4 
+
+ 
+Report on Compliance for Each Major Federal Program; Report on  
+
+Internal Control over Compliance; and Report on Schedule of  
+Expenditures of Federal Awards Required by the Uniform Guidance –  
+Independent Auditor’s Report ..................................................................................................... 6 
+
+ 
+Schedule of Findings and Questioned Costs.............................................................................. 9 
+ 
+Summary Schedule of Prior Audit Findings .............................................................................. 11 
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Schedule of Expenditures of Federal Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+The accompanying notes are an integral part of this Schedule. 1 
+
+Pass-Through
+Federal Entity Passed Total
+CFDA Identifying Through to Federal
+
+Federal Grantor/Pass-Through Grantor/Program or Cluster Title Number Number Subrecipients Expenditures
+
+U.S. Department of Housing and Urban Development
+City of Oklahoma City/Emergency Solutions Grant Program 14.231 N/A -$                     8,582$              
+City of Oklahoma City/Supportive Housing Program 14.235 N/A -                       221,855            
+
+Total U.S. Department of Housing and Urban Development -                       230,437            
+
+U.S. Department of Justice
+Oklahoma Department of Mental Health and Substance Abuse 16.585 4529050970 -                       3,988                
+
+Services/Drug Court Discretionary Grant Program 4529057972 -                       3,323                
+Subtotal CFDA 16.585 -                       7,311               
+
+Oklahoma Department of Mental Health and Substance Abuse 16.827 4529055443 -                       117                   
+Services/Justice Reinvestment Initiative 4529055443 -                       10,177              
+
+4529055443 -                       5,363                
+Subtotal CFDA 16.827 -                       15,657             
+
+Total U.S. Department of Justice -                       22,968              
+
+U.S. Department of Veterans Affairs
+VA Homeless Providers Grant and Per Diem Program 64.024 N/A -                       205,592            
+
+Total U.S. Department of Veterans Affairs -                       205,592            
+
+U.S. Department of Education
+Special Education Cluster (IDEA)
+
+Oklahoma Department of Mental Health and Substance Abuse 84.027 4529050970 -                       70,000              
+Services/Special Education – Grants to States (IDEA, Part B) 4529050970 -                       2,069                
+
+Subtotal Special Education Cluster (IDEA) -                       72,069             
+
+Total U.S. Department of Education -                       72,069              
+
+U.S. Department of Health and Human Services
+Oklahoma Department of Mental Health and Substance Abuse 93.087 4529050970 -                       46,454              
+
+Services/Enhance Safety for Children Affected by 
+Substance Abuse
+
+Oklahoma Department of Mental Health and Substance Abuse 93.243 4529050970 -                       6,760                
+Services/Substance Abuse and Mental Health Services – 4529050970 -                       6,420                
+Projects of Regional and National Significance 4529050970 -                       12,000              
+
+4529050970 -                       12,000              
+4529050970 -                       13,255              
+4529050970 -                       95,570              
+4529054832 -                       44,540              
+4529054832 -                       14,484              
+4529049841 -                       9,207                
+
+Subtotal CFDA 93.243 -                       214,236           
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+Schedule of Expenditures of Federal Awards, continued 
+
+Year Ended June 30, 2018 
+ 
+ 
+
+The accompanying notes are an integral part of this Schedule. 2 
+
+Pass-Through
+Federal Entity Passed Total
+CFDA Identifying Through to Federal
+
+Federal Grantor/Pass-Through Grantor/Program or Cluster Title Number Number Subrecipients Expenditures
+
+Oklahoma Department of Health/HIV Prevention Activities 93.940 3409022083 -$                     99,558$            
+Health Department-Based
+
+Oklahoma Department of Mental Health and Substance Abuse 93.958 4529054832 -                       1,196,796         
+Services/Block Grants for Community Mental Health Services
+
+Oklahoma Department of Mental Health and Substance Abuse 93.959 4529054832 -                       1,682,500         
+Services/Block Grants for Prevention and Treatment of 4529050217 -                       112,208            
+Substance Abuse 4529050218 -                       115,045            
+
+Subtotal CFDA 93.959 -                       1,909,753        
+
+Oklahoma Department of Mental Health and Substance Abuse 93.104 4529050970 -                       5,137                
+Services/Comprehensive Community Mental Health Services 4529050970 -                       59,250              
+ for Children with Serious Emotional Disturbances (SED) 4529050970 -                       28,500              
+
+4529050970 -                       48,700              
+Subtotal CFDA 93.104 -                       141,587           
+
+Oklahoma Department of Mental Health and Substance Abuse 93.997 4529050970 -                       50,000              
+Services/Assisted Outpatient Treatment 4529050970 -                       221,000            
+
+Subtotal CFDA 93.997 -                       271,000           
+
+Oklahoma Department of Mental Health and Substance Abuse 93.788 4529050217 -                       4,581                
+Services/Opioid STR 4529049841 -                       4,716                
+
+4529050970 -                       17,105              
+4529050970 -                       234,343            
+4529054832 -                       133,049            
+4529050970 -                       53,220              
+
+Subtotal CFDA 93.788 -                       447,014           
+
+Total U.S. Department of Health and Human Services -                       4,326,398         
+
+Total Schedule of Expenditures of Federal Awards -$                     4,857,464$       
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services 
+
+Notes to Schedule of Expenditures of Federal Awards 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+ 3 
+
+1. The accompanying schedule of expenditures of federal awards (the Schedule) includes the 
+federal awards activity of The Oklahoma Mental Health Council d/b/a Red Rock Behavioral 
+Health Services (Red Rock) under programs of the federal government for the year ended 
+June 30, 2018.  The information in this Schedule is presented in accordance with the 
+requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform 
+Guidance).  Because the Schedule presents only a selected portion of the operations of Red 
+Rock, it is not intended to and does not present the financial position, changes in net assets or 
+cash flows of Red Rock. 
+
+2. Expenditures reported on the Schedule are reported on the accrual basis of accounting.  Such 
+expenditures are recognized following, as applicable, either the cost principles in U.S. Office 
+of Management and Budget Circular A-122, Cost Principles for Non-Profit Organizations, or 
+the cost principles contained in the Uniform Guidance, wherein certain types of expenditures 
+are not allowable or are limited as to reimbursement.  Red Rock has elected not to use the 10 
+percent de minimis indirect costs rate allowed under the Uniform Guidance. 
+
+ 
+
+
+
+ 
+
+ 4 
+
+Report on Internal Control over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of 
+Financial Statements Performed in Accordance with 
+
+Government Auditing Standards 
+ 
+
+Independent Auditor’s Report 
+ 
+ 
+ 
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+Oklahoma City, Oklahoma 
+ 
+ 
+We have audited, in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States, the financial statements of The Oklahoma Mental 
+Health Council d/b/a Red Rock Behavioral Health Services (Red Rock), which comprise the balance 
+sheet as of June 30, 2018, and the related statements of operations and changes in net assets and cash 
+flows for the year then ended, and the related notes to the financial statements, and have issued our report 
+thereon dated December 21, 2018. 
+
+Internal Control over Financial Reporting 
+
+In planning and performing our audit of the financial statements, we considered Red Rock’s internal 
+control over financial reporting (internal control) to determine the audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinion on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of Red Rock’s internal control.  Accordingly, we do 
+not express an opinion on the effectiveness of Red Rock’s internal control. 
+
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent or 
+detect and correct misstatements on a timely basis.  A material weakness is a deficiency, or a combination 
+of deficiencies, in internal control such that there is a reasonable possibility that a material misstatement 
+of Red Rock’s financial statements will not be prevented or detected and corrected on a timely basis.  A 
+significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less 
+severe than a material weakness, yet important enough to merit attention by those charged with 
+governance. 
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies.  Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses.  However, material 
+weaknesses may exist that have not been identified. 
+
+
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+ 
+ 
+
+ 5 
+
+Compliance and Other Matters 
+
+As part of obtaining reasonable assurance about whether Red Rock’s financial statements are free of 
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, 
+contracts and grant agreements, noncompliance with which could have a direct and material effect on the 
+determination of financial statement amounts.  However, providing an opinion on compliance with those 
+provisions was not an objective of our audit and, accordingly, we do not express such an opinion.  The 
+results of our tests disclosed no instances of noncompliance or other matters that are required to be 
+reported under Government Auditing Standards. 
+
+We noted certain matters that we reported to Red Rock’s management in a separate letter dated  
+December 21, 2018. 
+
+Purpose of This Report 
+
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal 
+control or on compliance.  This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering Red Rock’s internal control and compliance.  
+Accordingly, this communication is not suitable for any other purpose. 
+
+ 
+
+Tulsa, Oklahoma 
+December 21, 2018 
+ 
+
+
+
+ 
+
+ 6 
+
+Report on Compliance for Each Major Federal Program; Report on  
+Internal Control over Compliance; and Report on Schedule of  
+
+Expenditures of Federal Awards Required by the Uniform Guidance 
+ 
+
+Independent Auditor’s Report 
+ 
+ 
+ 
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+Oklahoma City, Oklahoma 
+ 
+ 
+Report on Compliance for Each Major Federal Program 
+
+We have audited The Oklahoma Mental Health Council d/b/a Red Rock Behavioral Health Services’ (Red 
+Rock) compliance with the types of compliance requirements described in the OMB Compliance 
+Supplement that could have a direct and material effect on each of Red Rock’s major federal programs for 
+the year ended June 30, 2018.  Red Rock’s major federal programs are identified in the summary of 
+auditor’s results section of the accompanying schedule of findings and questioned costs. 
+
+Management’s Responsibility 
+
+Management is responsible for compliance with federal statutes, regulations, contracts and the terms and 
+conditions of its federal awards applicable to its federal programs. 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on compliance for each of Red Rock’s major federal programs 
+based on our audit of the types of compliance requirements referred to above.  We conducted our audit of 
+compliance in accordance with auditing standards generally accepted in the United States of America; the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance).  Those standards and the Uniform Guidance require that we plan 
+and perform the audit to obtain reasonable assurance about whether noncompliance with the types of 
+compliance requirements referred to above that could have a direct and material effect on a major federal 
+program occurred.  An audit includes examining, on a test basis, evidence about Red Rock’s compliance 
+with those requirements and performing such other procedures as we considered necessary in the 
+circumstances.   
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major 
+federal program.  However, our audit does not provide a legal determination of Red Rock’s compliance. 
+
+ 
+
+
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+ 
+ 
+
+ 7 
+
+Opinion on Each Major Federal Program 
+
+In our opinion, Red Rock complied, in all material respects, with the types of compliance requirements 
+referred to above that could have a direct and material effect on each of its major federal programs for the 
+year ended June 30, 2018.   
+
+Report on Internal Control over Compliance 
+
+Management of Red Rock is responsible for establishing and maintaining effective internal control over 
+compliance with the types of compliance requirements referred to above.  In planning and performing our 
+audit of compliance, we considered Red Rock’s internal control over compliance with the types of 
+requirements that could have a direct and material effect on each major federal program to determine the 
+auditing procedures that are appropriate in the circumstances for the purpose of expressing our opinion on 
+compliance for each major federal program and to test and report on internal control over compliance in 
+accordance with the Uniform Guidance, but not for the purpose of expressing an opinion on the 
+effectiveness of internal control over compliance.  Accordingly, we do not express an opinion on the 
+effectiveness of Red Rock’s internal control over compliance. 
+
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis.  A material weakness in internal control over compliance is a 
+deficiency, or a combination of deficiencies, in internal control over compliance such that there is a 
+reasonable possibility that material noncompliance with a type of compliance requirement of a federal 
+program will not be prevented, or detected and corrected, on a timely basis.  A significant deficiency in 
+internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over 
+compliance with a type of compliance requirement of a federal program that is less severe than a material 
+weakness in internal control over compliance, yet important enough to merit attention by those charged 
+with governance. 
+
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control over 
+compliance that might be material weaknesses or significant deficiencies.  We did not identify any 
+deficiencies in internal control over compliance that we consider to be material weaknesses.  However, 
+material weaknesses may exist that have not been identified. 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of the 
+Uniform Guidance.  Accordingly, this report is not suitable for any other purpose. 
+
+Report on Schedule of Expenditures of Federal Awards Required by the Uniform 
+Guidance 
+
+We have audited the financial statements of Red Rock as of and for the year ended June 30, 2018, and 
+have issued our report thereon dated December 21, 2018, which contained an unmodified opinion on 
+those financial statements.  Our audit was performed for the purpose of forming an opinion on the 
+financial statements as a whole.  The accompanying schedule of expenditures of federal awards is 
+presented for purposes of additional analysis as required by the Uniform Guidance and is not a required  
+
+
+
+Board of Directors 
+The Oklahoma Mental Health Council 
+   d/b/a Red Rock Behavioral Health Services 
+ 
+ 
+
+ 8 
+
+part of the financial statements.  Such information is the responsibility of management and was derived 
+from and relates directly to the underlying accounting and other records used to prepare the financial 
+statements.  The information has been subjected to the auditing procedures applied in the audit of the 
+financial statements and certain additional procedures, including comparing and reconciling such 
+information directly to the underlying accounting and other records used to prepare the financial 
+statements or to the financial statements themselves, and other additional procedures in accordance with 
+auditing standards generally accepted in the United States of America.  In our opinion, the schedule of 
+expenditures of federal awards is fairly stated in all material respects in relation to the financial statements 
+as a whole. 
+
+ 
+
+Tulsa, Oklahoma 
+December 21, 2018
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services  
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+ 9 
+
+Summary of Auditor’s Results 
+
+Financial Statements 
+
+1. The type of report the auditor issued on whether the financial statements audited were prepared in 
+accordance with accounting principles generally accepted in the United States of America (GAAP) 
+was: 
+
+ Unmodified    Qualified    Adverse   Disclaimer 
+
+2. The independent auditor’s report on internal control over financial reporting disclosed: 
+
+Significant deficiencies?  Yes  None reported  
+
+Material weaknesses?  Yes   No  
+
+3. Noncompliance considered material to the financial statements 
+was disclosed by the audit? 
+
+ 
+ Yes 
+
+ 
+ No 
+
+Federal Awards 
+
+4. The independent auditor’s report on internal control over compliance for major federal award 
+programs disclosed: 
+
+Significant deficiencies?  Yes  None reported  
+
+Material weaknesses?  Yes   No  
+
+5. The opinions expressed in the independent auditor’s report on compliance for major federal award 
+programs were: 
+
+ Unmodified    Qualified    Adverse   Disclaimer 
+
+6. The audit disclosed findings required to be reported by 2 CFR 
+200.516(a)? 
+
+ 
+ Yes 
+
+ 
+ No 
+
+7. Red Rock’s major programs were: 
+
+Cluster/Program CFDA Number 
+  
+
+Block Grants for Community Mental Health Services 93.958 
+Block Grants for Prevention and Treatment of Substance Abuse 93.959 
+
+  
+8. The threshold used to distinguish between Type A and Type B programs was $750,000. 
+
+9. Red Rock qualified as a low-risk auditee? 
+ 
+
+ Yes  No 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services  
+Schedule of Findings and Questioned Costs, continued 
+
+Year Ended June 30, 2018 
+ 
+ 
+
+ 10 
+
+Findings Required to be Reported by Government Auditing Standards 
+
+Reference 
+Number Finding 
+
+  
+ No matters are reportable. 
+
+  
+ 
+
+Findings Required to be Reported by the Uniform Guidance 
+
+Reference 
+Number Finding 
+
+  
+ No matters are reportable. 
+
+  
+ 
+
+ 
+
+
+
+The Oklahoma Mental Health Council 
+d/b/a Red Rock Behavioral Health Services  
+
+Summary Schedule of Prior Audit Findings 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+ 11 
+
+Reference 
+Number Summary of Finding Status 
+
+   
+ No matters are reportable.  
+
+ 
+
+

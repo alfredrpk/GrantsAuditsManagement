@@ -1,0 +1,3221 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - {38D7B7DE-088D-41BB-B4EF-C84DEC09E469}
+
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Lawton Independent School District No. 8 
+
+Comanche County, Oklahoma 
+Financial Statements 
+
+Year-End June 30, 2018 
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Table of Contents 
+June 30, 2018 
+
+ 
+
+ 
+
+ Page 
+ 
+Independent Auditor’s Report ..................................................................................................... 1 
+ 
+Basic Financial Statements: 
+  Government-wide Financial Statements: 
+        Statement of Net Position – Regulatory Basis  ........................................................ 6 
+        Statement of Activities – Regulatory Basis  ............................................................ 7 
+    Fund Financial Statements: 
+        Balance Sheet - Governmental Funds – Regulatory Basis ...................................... 8 
+        Statement of Revenues, Expenditures, and Changes in 
+          Fund Balances - Governmental Funds – Regulatory Basis  .............................. 9 
+        Reconciliation of the Statement of Revenues, Expenditures,  
+          and Changes in Fund Balances of Governmental Funds 
+          to the Statement of Activities – Regulatory Basis  .......................................... 10 
+   Statement of Net Position – Proprietary Funds – Regulatory Basis ...................... 11 
+   Statement of Changes in Fund Net Position – Proprietary  
+    Funds – Regulatory Basis ................................................................................ 12 
+   Statement of Cash Flows– Proprietary Funds – Regulatory Basis ........................ 13 
+   Statement of Fiduciary Net Position – Regulatory Basis  ..................................... 14 
+   Statement of Changes in Fiduciary Net Position – Regulatory Basis ................... 15 
+  Notes to the Financial Statements ................................................................................ 16 
+ 
+OTHER SUPPLEMENTARY INFORMATION 
+
+ Combining and Individual Fund Statements and Schedules: 
+     Combining Balance Sheet –  
+    Other Governmental Funds – Regulatory Basis  ............................................. 35 
+   Combining Statement of Revenues, Expenditures and 
+      Changes in Fund Balances –  
+    Other Governmental Funds – Regulatory Basis .............................................. 36 
+  Combining Statement of Assets and Fund Balances – Activity Fund ......................... 37 
+  Schedule of Expenditures of Federal Awards ............................................................. 40 
+  Notes to Schedule of Expenditures of Federal Awards ............................................... 42 
+ 
+OTHER INFORMATION 
+  Budgetary Comparison Schedule - General Fund (unaudited) .................................... 44 
+  Budgetary Comparison Schedule – Building Fund (unaudited) .................................. 45 
+  Statement of Statutory Fidelity and Honesty Bonds (unaudited) ................................ 46 
+   
+GOVERNMENT AUDITING STANDARDS SECTION 
+
+Independent Auditor’s Report on Internal Control over Financial Reporting and on Compliance 
+and Other Matters Based on an Audit of Financial Statements Performed in  
+
+ Accordance with Governmental Auditing Standards ........................................................ 47 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+SINGLE AUDIT SECTION 
+ Independent Auditor’s Report on Compliance for Each Major Program and Internal  
+ Control over Compliance required by the Uniform Guidance .......................................... 49 
+ Schedule of Findings and Questioned Costs ..................................................................... 52 
+ Summary Schedule of Prior Year Findings ....................................................................... 56 
+ 
+
+
+
+ 
+
+2007 N. Commerce #200   ●   Ardmore, OK 73401      
+  Phone 580.826.3539   ●   Phone 405.322.5009   ●   Fax 855.999.2782      
+
+j‐acpas.com 
+ 
+1 
+
+ 
+INDEPENDENT AUDITOR’S REPORT 
+
+ 
+To the Board of Education 
+Lawton Independent School District No. 8,  
+Comanche County, Oklahoma 
+Lawton, Oklahoma 
+ 
+Report on the Financial Statements 
+We have audited the accompanying regulatory basis financial statements of the governmental 
+activities, each major fund, and the aggregate remaining fund information of Lawton Independent 
+School District No. 8, Comanche County, Oklahoma  as of  and for the year ended June 30, 2018, and 
+the related notes to the financial statements, which collectively comprise the District’s basic financial 
+statements as listed in the table of contents.  
+Management’s Responsibility for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with the financial reporting provisions of Oklahoma State Department of Education 
+described in Note 1; this includes the design, implementation, and maintenance of internal control 
+relevant to the preparation and fair presentation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+Auditor’s Responsibility 
+Our responsibility is to express opinions on these financial statements based on our audit. We 
+conducted our audit in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States. Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether the financial statements are free from 
+material misstatement. 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements. The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or 
+error. In making those risk assessments, the auditor considers internal control relevant to the entity’s 
+preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness 
+of the entity’s internal control. Accordingly, we express no such opinion. An audit also includes 
+evaluating the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluating the overall presentation of the 
+financial statements. 
+
+
+
+ 
+
+2 
+ 
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinions. 
+Summary of Opinions 
+
+Opinion Unit   Type of Opinion  
+All Adverse on US Generally Accepted Accounting Principles 
+Governmental Activities  Qualified Regulatory Basis  
+General Fund Unmodified Regulatory Basis  
+2014 Bond Fund 32 Unmodified Regulatory Basis  
+2017 Bond Fund 33 Unmodified Regulatory Basis  
+Lease Revenue 2017 Fund 34  Unmodified Regulatory Basis  
+Aggregate Remaining  Unmodified Regulatory Basis  
+
+Basis for Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+As described in Note 1, the financial statements are prepared by Lawton Independent School District 
+No. 8, Comanche County, Oklahoma on the basis of the financial reporting provisions of Oklahoma 
+State Department of Education, which is a basis of accounting other than accounting principles 
+generally accepted in the United States of America, to meet the requirements of the Oklahoma State 
+Department of Education. 
+The effects on the financial statements of the variances between the regulatory basis of accounting 
+described in Note 1 and accounting principles generally accepted in the United States of America, 
+although not reasonably determinable, are presumed to be material. 
+Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+In our opinion, because of the significance of the matter discussed in the “Basis for Adverse Opinion 
+on U.S. Generally Accepted Accounting Principles” paragraph, the financial statements referred to 
+above do not present fairly, in accordance with accounting principles generally accepted in the United 
+States of America, the financial position of Lawton Independent School District No. 8, Comanche 
+County, Oklahoma, as of June 30, 2018, and the respective changes in financial position, and, where 
+applicable, cash flows thereof for the year then ended. 
+Basis for Qualified Opinion on Governmental Activities  
+As discussed in Note 16 to the financial statements, management has not recorded capital assets in the 
+governmental statement of net position – regulatory basis, in governmental activities opinion unit, 
+which should be included to conform to the financial reporting provisions of Oklahoma State 
+Department of Education. The amount by which this departure would affect the assets, net position and 
+expenses of the governmental activities has not been determined.   
+Qualified Opinion 
+In our opinion, except for the possible effects of the matter discussed in the “Basis for Qualified 
+Opinion on Governmental Activities” paragraph, the financial statements referred to above present 
+fairly, in all material respects, regulatory basis financial position of the Governmental Activities of 
+Lawton Independent School District No. 8, Comanche County, Oklahoma, as of June 30, 2018 and the 
+respective changes in regulatory basis financial position  thereof for the year then ended in accordance 
+with financial reporting provisions of Oklahoma State Department of Education.   
+Unmodified Opinions on Regulatory Basis of Accounting 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+respective regulatory basis financial position of each major fund and the aggregate remaining fund  
+
+
+
+ 
+
+3 
+ 
+
+information  of the Lawton Independent School District No. 8, Comanche County, Oklahoma, as of 
+June 30, 2018, and the respective changes in regulatory basis financial position and where applicable, 
+cash flows thereof for the year then ended, in accordance with the financial reporting provisions of 
+Oklahoma State Department of Education as described in Note 1. 
+Other Matters 
+Other Information 
+Our audit was conducted for the purpose of forming opinions on the financial statements that 
+collectively comprise the Lawton Independent School District No. 8, Comanche County, Oklahoma’s 
+basic financial statements. The budgetary comparison schedules, combining nonmajor fund financial 
+statements, and statement of changes in activity fund subaccounts, are presented for purposes of 
+additional analysis and are not a required part of the basic financial statements. The schedule of 
+expenditures of federal awards is presented for purposes of additional analysis as required by Title 2 
+U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, 
+and Audit Requirements for Federal Awards, and is also not a required part of the basic financial 
+statements. 
+The combining nonmajor fund financial statements, statement of changes in activity fund subaccounts 
+and the schedule of expenditures of federal awards are the responsibility of management and were 
+derived from and relate directly to the underlying accounting and other records used to prepare the 
+basic financial statements. Such information has been subjected to the auditing procedures applied in 
+the audit of the basic financial statements and certain additional procedures, including comparing and 
+reconciling such information directly to the underlying accounting and other records used to prepare 
+the basic financial statements or to the basic financial statements themselves, and other additional 
+procedures in accordance with auditing standards generally accepted in the United States of America. 
+In our opinion, the information is fairly stated in all material respects in relation to the financial 
+statements as a whole. 
+The Oklahoma Department of Education requires management discussion and analysis, budgetary 
+information and the statement of statutory fidelity and honesty bonds be presented to supplement the 
+financial statements. Such information, although not considered part of the basic financial statements, 
+is required by the Oklahoma Department of Education, who considers it an essential part of the 
+financial reporting.  . We have applied certain limited procedures to this supplemental information 
+which consisted of inquires of management about the methods of preparing the information and 
+comparing the information for consistency with management’s response to our inquiries, the basic 
+financial statements, and other knowledge we obtained during our audit of the basic financial 
+statements. We do not express an opinion or provide any assurance on the information because the 
+limited procedures do not provide us with sufficient evidence to express an opinion or provide any 
+assurance.  Management has omitted the management discussion and analysis that Oklahoma 
+Department of Education requires to be presented to supplement the basic financial statements. Such 
+missing information, although not a part of the basic financial statements, is required by the Oklahoma 
+Department of Education who considers it to be an essential part of the financial reporting for placing 
+the basic financial statements in appropriate operational, economic, or historical context.  Our opinion 
+on the basic financial statements is not affected by the missing information 
+ 
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards, we have also issued our report dated April 29, 
+2019, on our consideration of the Lawton Independent School District No. 8, Comanche County, 
+
+
+
+Government 
+Auditing Standards
+
+
+
+ 
+
+5 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BASIC FINANCIAL STATEMENTS
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Net Position – Regulatory Basis 
+June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+6 
+
+ 
+
+Governmental
+Activities
+
+ASSETS
+Cash 7,757,476$            
+Restricted Cash 53,559,685
+Investments 43,700,650
+Inventories 224,451
+
+Total Assets 105,242,262$        
+
+LIABILITIES AND NET POSITION
+Current Liabilities
+
+Warrants Outstanding 14,771,951$          
+Long -Term Liabilties
+
+Due within One Year 12,727,676
+Due in More than One Year 58,490,068
+
+Total Liabilities 85,989,695$          
+
+Net Position
+Net Investment in Capital Assets (4,703,866)$           
+Restricted for
+
+Building Services 2,002,368$            
+Debt Service 3,577,430              
+Other 31,687                   
+School Organizations 1,901,475              
+
+Unrestricted 16,443,473            
+
+Total Net Position 19,252,567$          
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Activities – Regulatory Basis 
+For the Year Ended June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+7 
+
+ 
+
+Net (Expense) Revenue and
+Program Revenues    Changes in Net Position
+
+Operating Capital Primary Government
+Charges for Grants and Grants and Governmental
+
+Expenses Services Contributions Contributions Activities
+Functions/Programs
+Primary Government
+
+Governmental Activities
+Instruction 59,889,885$     141,489$      9,567,936$       155,734$          (50,024,726)$        
+Support Services 53,561,422       2,105,891 397,932 -                       (51,057,599)          
+Operation of Noninstructional Services 13,882,764       1,670,835 6,338,105 -                       (5,873,824)            
+Interest on long-term debt 226,395            -                   -                       -                       (226,395)               
+
+Total Governmental Activities 127,560,466$   3,918,215$   16,303,973$     155,734$          (107,182,544)$      
+
+General Revenues
+Taxes 
+
+Property taxes, levied for general purposes 15,837,333
+Property taxes, levied for building purposes 2,264,379
+Property taxes, levied for sinking fund purposes 3,293,995
+General Taxes 12,569,932
+
+State aid - formula grants 61,138,285
+Federal aid - formula grants 5,608,703
+Investment Earnings 676,859
+
+Total General Revenues 101,389,486$       
+   Change in Net Position (5,793,058)$          
+
+Net Position - Beginning, restated 25,045,625
+Net Position - Ending 19,252,567$         
+
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Balance Sheet – Governmental Funds – Regulatory Basis 
+June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+8 
+
+ 
+
+Lease Revenue Other
+General 2014 Bond 2017 Bond 2017 Governmental
+Fund Fund 32 Fund 33 Fund 34 Funds Total
+
+Assets
+Cash and Cash Investments 123,742$             -$                              -$                              -$                        7,964,882$             8,088,624$        
+Restricted Cash -                           -                                54,581,021 1,115,187 -                              55,696,208        
+Pooled Cash and Investments 28,819,327          7,000,000 -                                -                          5,381,323               41,200,650        
+Due from Other Funds 1,431,328            -                                -                                -                          -                              1,431,328          
+Inventories - Supplies, materials 216,659               -                       -                       -                          -                              216,659             
+
+Total Assets 30,591,056$        7,000,000$               54,581,021$             1,115,187$          13,346,205$           106,633,469$    
+
+Liabilities
+Warrants Outstanding 12,627,130$        558,601$                  1,043,687 -$                        541,890$                14,771,308$      
+Due to Other Funds -                           1,013,988                 -                                -                          417,340                  1,431,328          
+
+Total Liabilities 12,627,130$        1,572,589$               1,043,687$               -$                        959,230$                16,202,636$      
+
+Fund Balances
+Nonspendable 216,659$             -$                              -$                              -$                        -$                            216,659$           
+Restricted -                           5,427,411                 53,537,334               1,115,187            10,485,500             70,565,432        
+Committed -                           -                                -                                1,901,475               1,901,475          
+Assigned -                           -                                -                                -                          -                              -                         
+Unassigned 17,747,267          -                                -                                -                          -                              17,747,267        
+
+Total Fund Balances 17,963,926$        5,427,411$               53,537,334$             1,115,187$          12,386,975$           90,430,833$      
+
+Total Liabilities and Fund Balances 30,591,056$        7,000,000$               54,581,021$             1,115,187$          13,346,205$           
+
+Amounts reported for governmental activities in the statement of net position are different because:
+Federal commodities are distributed to the District to be used by the child nutrition program. Governmental funds are concerned about 
+
+the flow of financial resources and, therefore, the receipt and usage of commodities are not reported in the governmental funds 7,792
+
+Internal service funds are used by management to charge costs of certain activities, such as insurance to individual funds 
+
+of the Distrrict. These assets and liabilities of the internal service funds, which are reported as proprietary funds rather than
+
+governmental funds, are included in governmental activities in the statement of net assets 31,687
+
+Long-term liabilities are not due and payable in the current period and therefore are not
+
+reported as liabilties in the funds. Long-term liabilities at year-end consist of :
+Bonds Payable 14,695,000
+
+Lease Purchase 55,000,000
+Compensated Absences 1,522,745 (71,217,745)       
+
+Net assets of governmental activities. 19,252,567$      
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Revenues, Expenditures and  
+Changes in Fund Balances – Governmental Funds – Regulatory Basis 
+
+For the Year Ended June 30, 2018 
+ 
+
+See Notes to Financial Statements 
+ 
+9 
+
+ 
+
+Lease Revenue Other
+General 2014 Bond 2017 Bond 2017 Governmental
+
+Fund Fund 32 Fund 33 Fund 34 Funds Total
+REVENUE
+
+Property Taxes 15,837,333$    -$                -$                   -$                     5,561,307$      21,398,640$    
+Interest 436,436 -                  111,120 2,323 47,319             597,198           
+County Revenue 2,346,482 -                  -                     -                       -                      2,346,482        
+State Revenue 69,816,478 -                  -                     -                       -                      69,816,478      
+Federal Revenue 20,098,471 -                  -                     -                       155,734           20,254,205      
+Other 1,669,355        -                  -                     -                       5,178,912        6,848,267        
+
+Total Revenue 110,204,555$  -$                111,120$        2,323$             10,943,272$    121,261,270$  
+
+EXPENDITURES
+Current
+
+Instruction 57,729,454$    2,042,256$ -$                   -$                     342,690$         60,114,400$    
+Support Services 43,873,692 2,625,276 758,730 -                       6,280,356        53,538,054      
+Non-instruction Services 7,434,757 -                  -                     -                       768,338           8,203,095        
+
+Capital Outlay 118,730           1,340,013 2,762,192 -                       716,008           4,936,943        
+Other Outlays 271,303           -                  -                     -                       -                      271,303           
+Debt Service
+
+Interest Paid -                       -                  -                     -                       182,310           182,310           
+Principal Retirement -                       -                  -                     -                       1,695,000        1,695,000        
+
+Total Expenditures 109,427,936$  6,007,545$ 3,520,922$     -$                     9,990,782$      128,947,185$  
+
+Excess (Deficiency) of Revenues
+Over (Under) Expenditures 776,619$         (6,007,545)  (3,409,802)      2,323$             952,490$         (7,685,915)$     
+
+Other Financing Sources
+Transfers 307,679           -                  -                     (307,679)          -                       
+Proceeds of Bonds and Leases -                       3,775,000 56,947,136 1,112,864 -                      61,835,000      
+Sale of Capital Assets 22,620             -                  -                     -                       -                      22,620             
+
+Total Other Financing Sources 330,299$         3,775,000   56,947,136     1,112,864        (307,679)          61,857,620      
+
+Net Change in Fund Balances 1,106,918$      (2,232,545)  53,537,334     1,115,187        644,811           54,171,705      
+
+Fund Balances - Beginning 16,857,008      7,659,956   -                     -                       11,742,164      36,259,128      
+Fund Balances - Ending 17,963,926$    5,427,411$ 53,537,334$   1,115,187$      12,386,975$    90,430,833$    
+
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Reconciliation of the Statement of Revenues, Expenditures and  
+Changes in Fund Balances – Governmental Funds – Regulatory Basis 
+
+For the Year Ended June 30, 2018 
+ 
+
+See Notes to Financial Statements 
+ 
+
+10 
+ 
+
+ 
+Amounts reported for governmental activities
+
+ in the statement of activities are different because:
+
+Net change in fund balances - total governmental funds 54,171,705$   
+
+In the statement of activities, compensated absences are measured by the amounts
+earned and unused during the year. In governmental funds, expenditures  is the 
+amount of financial resources used (essentially the amounts actually paid).
+This year, compensated absences earned were more than the amounts used. (59,918)          
+
+Proceeds of general obligation debt provide current financial resources for governmental funds
+but issuing debt increases long-term liabilities in the statement of net assets. (6,835,000)     
+
+Repayment of debt is an expenditure in the governmental funds, but
+repayment of debt reduced long-term liabilities in the statement of net assets Bonds payable 1,695,000$       
+
+Lease payable 256,872            1,951,872
+The receipt of USDA commodities are not reported as revenue in the governmental
+funds but are reflected in the statement of net assets (8,206)            
+
+Proceeds of lease purchase agreement provide current financial resources for governmental
+funds but  increases long-term liabilities in the statement of net assets (55,000,000)   
+
+Internal service funds are used to charge costs of workers' compensation a to individual funds. 
+The govermental funds included expenditures of  $32,180.Theexpensesofthegovernmental
+
+activities however reflects the actual costs incurred, $45,691 .The difference represents
+the undercharge by the internal service funds that is allocated back to governmental activities and transfers (13,511)          
+
+Change in net assets position of governmental activities. (5,793,058)$   
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Net Position – Proprietary Funds – Regulatory Basis 
+June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+11 
+ 
+
+Workers' 
+Compensation
+
+ASSETS
+
+Cash and Cash Investments $ 32,332
+
+Total Assets $ 32,332
+
+LIABILITIES
+Warrants Outstanding $ 645
+
+NET POSITION
+Restricted $ 31,687
+
+ Internal 
+Service Funds 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Changes in Fund Net Position – Proprietary Funds – Regulatory Basis 
+For the Year Ended June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+12 
+ 
+
+Workers' 
+Compensation
+
+Operating Revenues
+Charges to other funds $ 32,180
+
+Total Operating Revenues $ 32,180
+
+Operating Expenses
+Other Outlays $ 45,691
+
+Total Operating Expenses $ 45,691
+
+Change in net position (13,511)
+Net Position- Beginning 45,198
+
+Net Position- Ending $ 31,687
+
+ Internal 
+
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Cash Flows– Proprietary Funds – Regulatory Basis 
+For the Year Ended June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+13 
+ 
+
+Workers' 
+Compensation
+
+Cash Flows from Operating Activities
+Received from assessments made to other funds $ 32,180
+
+Payments of claims (46,785)          
+
+Net cash used by operating activities $ (14,605)
+
+Cash Flows from Noncapital Financing Activities
+Operating transfers to other funds $ -                     
+
+Net  increase (decrease) in cash $ (14,605)
+
+Cash and cash equivalents, Beginning 46,937
+
+Cash and cash equivalents, Ending $ 32,332
+
+Cash Flows from Operating Activities
+Operating loss $ (13,511)
+Adjustments to reconcile operating loss to
+
+Net cash provided (used) by operating activities
+Warrants Outstanding (1,094)            
+Net cash provided (used) by operating activities $ (14,605)
+
+ Internal 
+Service Funds 
+
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Fiduciary Net Position – Regulatory Basis 
+June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+14 
+ 
+
+ Private-
+Purpose 
+
+Trust 
+
+ASSETS
+
+Cash and Cash Investments $ 1,310        
+Pooled Cash and Investments 47,778      
+Investments 143,190    
+
+Total Assets $ 192,278
+
+LIABILITIES
+Warrants Outstanding $ 2,010
+
+NET POSITION
+Restricted for Scholarships $ 190,268
+
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Changes in Fiduciary Net Position – Regulatory Basis 
+For the Year Ended June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+15 
+ 
+
+ Private-
+Purpose 
+
+Trust 
+Additions:
+
+Interest $ 482        
+
+Total Additions $ 144,982 
+
+Deductions
+Scholarships Awarded $ 2,010     
+
+Total Deductions $ 2,010     
+
+Change In Net Position $ 142,972 
+
+Net Position- Beginning 47,296   
+
+Net Position- Ending $ 190,268 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+16 
+
+Note 1 - Summary of Significant Accounting Policies 
+ 
+The Reporting Entity - The Lawton Independent School District No. 8 (the District) is a corporate body 
+for public purposes created under Title 70 of the Oklahoma Statutes and accordingly is a separate entity 
+for operating and financial reporting purposes. The District is part of the public school system of 
+Oklahoma under the general direction and control of the State Board of Education and is financially 
+dependent on the State of Oklahoma for support. The general operating authority for the public school 
+system is the Oklahoma School Code contained in Title 70 of the Oklahoma Statutes. 
+ 
+The governing body of the District is the Board of Education composed of elected members. The 
+appointed superintendent is the executive officer of the District. There are no component units included 
+within the reporting entity. 
+ 
+Financial Statement Presentation – The District prepares its financial statements in a presentation format 
+that is, in substance, the format established by the Governmental Accounting Standards Board (GASB) 
+Statement 34, Basic Financial Statement – Management Discussion and Analysis for State and Local 
+Governments. 
+ 
+GASB Statement 34 established a financial reporting model for state and local governments that included 
+the addition of management’s discussion and analysis, government-wide financial statements and the use 
+elimination of the effects of internal service activities and the use of account groups to the already required 
+fund financial statements and notes. 
+ 
+Basic Financial Statements – Government-Wide Statements 
+ 
+The District’s basic financial statements include both government-wide (reporting the District as a 
+whole) and fund financial statements (reporting the District’s major funds). Both the government-wide 
+and fund financial statements categorize primary activities as either governmental or business type. 
+Governmental activities include programs primarily supported by taxes, State aid, grants and other 
+intergovernmental revenue. The District does not have any activities classified as business-type 
+activities. 
+ 
+In the government-wide Statement of Net Position, the District’s governmental activities are reported on 
+cash receipts and disbursement basis modified as required by the regulations of the Oklahoma 
+Department of Education to include property and equipment, depreciation and long-term debt and 
+obligations.  The District’s Net Position are reported in three parts – net investment in capital assets; 
+restricted net position; and unrestricted net position. 
+ 
+
+ 
+The government-wide Statement of Activities reports both the gross and net cost of each of the District’s 
+programs and functions reported on the cash receipts and disbursement basis modified for depreciation.  
+The functions are also supported by general government revenues. The Statement of Activities reduces 
+gross expenses (including depreciation) by related program revenues, operating and capital grants. Direct 
+expenses are those that are clearly identifiable with a specific function.  Program revenues must be 
+directly associated with the function.  Charges for services include charges and fees to students, or 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+17 
+
+customers who purchase, use or directly benefit from the goods, services, or privileges provided by a 
+given function. Operating grants include operating-specific and discretionary (either operating or capital) 
+grants while the capital grants column reflects capital-specific grants. 
+ 
+All interfund transactions between governmental funds and internal service funds are eliminated in the 
+district- wide statements. 
+ 
+The net costs are normally covered by general revenue (property taxes, State and Federal aid, other taxes 
+etc.).  
+ 
+The government-wide focus is more on the sustainability of the District as an entity and the change in 
+the District’s net position resulting from the current year’s activities. Separate financial statements are 
+provided for governmental funds, proprietary funds and fiduciary funds, even though the latter is 
+excluded from the district- wide financial statements. Major individual governmental funds are reported 
+in separate columns in the fund financial statements. 
+ 
+Basic Financial Statements – Fund Financial Statements 
+ 
+Governmental fund financial statements are reported using the cash receipts and disbursement basis of 
+accounting modified as required by the Oklahoma Department of Education to include investments, 
+inventories on hand, encumbrances issued and warrants outstanding. The fund financial statements 
+provide reports on the financial condition and results of operations of governmental, proprietary, and 
+fiduciary fund categories. Since resources in the fiduciary funds cannot be used for District operations, 
+they are not included in the district-wide statements. 
+ 
+Proprietary funds distinguish operating revenues and expenses from nonoperating items. Operating 
+revenues and expenses result from providing services and producing and delivering goods in connection 
+with the proprietary fund’s principal ongoing operations. All other revenues and expenses are 
+nonoperating. 
+ 
+The District reports the following major governmental funds: 
+
+ General Fund is the primary operating fund of the District. It is used to account for all financial 
+resources except those required to be accounted for in another fund. 
+
+ 2014 Bond Fund32 is used to account for proceeds from long-term financing and revenues and 
+expenditures related to voter authorized construction and other capital asset acquisitions. 
+
+ 2017 Bond Fund 33 is used to account for proceeds from long-term financing and revenues and 
+expenditures related to voter authorized construction and other capital asset acquisitions. 
+
+ Lease Revenue 2017 Fund 34 is used to account for proceeds from long-term financing and 
+revenues and expenditures related to voter authorized construction and other capital asset 
+acquisitions. 
+
+ 
+Additionally, the District reports the following fund types that are included in other governmental funds:  
+
+ Building Fund is used to account for monies derived from the building fund levy and rental of 
+facilities to be used for erecting, remodeling, repairing or maintaining school buildings, paying 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+18 
+
+energy and utility costs; paying fire and casualty insurance premiums for school facilities, 
+security systems and personnel. 
+
+ Municipal Tax Funds are used to account for financial resources to be used for the acquisition or 
+construction of major capital facilities and equipment as approved by voters for a special sales 
+tax. 
+
+ Sinking Fund is used to account for the accumulation of funds for the periodic payment of 
+principal and interest on general long-term debt. 
+
+ 2004 Bond Fund 31 are used to account for proceeds from long-term financing and revenues and 
+expenditures related to voter authorized construction and other capital asset acquisitions. 
+
+ Special Revenue Funds – The District accounts for resources restricted to, or designated for, 
+specific purposes by the District or a grantor in a special revenue fund. 
+
+ Activity Fund is special revenue fund the district accounts for resources and expenditures 
+incurred by the student activity groups.  
+
+ Proprietary Funds- Internal Service Funds – Revenues and expenses related to services provided 
+to organizations within the District on a cost reimbursement basis are accounted for in the 
+internal service fund. The District’s Internal Service Funds are the Workers’ Compensation Fund 
+(which is used only to fund remaining claims after self-insurance was discontinued in 2000)  
+
+ Fiduciary Funds- Private purpose trust fund - The District accounts for resources held in a trust or 
+custodial capacity for individuals or private organizations. These funds are primarily used for 
+scholarships. 
+
+ 
+Basis of Accounting - Basis of accounting refers to when revenues and expenditures are recognized in 
+the accounts and reported in the financial statements. It relates to the timing of the measurements made 
+regardless of the measurement focus applied. 
+ 
+As to basis of accounting, the basic financial statements are essentially prepared on a basis of cash receipts 
+and disbursements, modified as required by the regulations of the Oklahoma Department of Education as 
+follows: 
+ 
+
+ Encumbrances represented by purchase orders, contracts and other commitments for the 
+expenditure of monies are recorded as expenditures when approved. 
+
+ Vendor obligations due and payable for goods and services received are recorded as a 
+reduction of the encumbrance when received and a payable until paid. 
+
+ Warrants/Checks payable are recorded as liabilities when issued. 
+ Investments and inventories are recorded as assets when purchased and reduced when used or 
+
+sold.  
+ Capital assets in the government-wide statements are recorded when acquired and depreciated 
+
+over their useful lives. 
+ Long-term debt reported in the government-wide statements is recorded when incurred. 
+ Accrued compensated absences are recorded as an expenditure and liability when the 
+
+obligation is incurred. 
+ 
+This basis of accounting differs from accounting principles generally accepted in the United States of 
+America, which would have required the government-wide financial statements as well as the fiduciary 
+fund financial statements to be presented on the accrual basis of accounting.  The fund financial statement 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+19 
+
+under accounting principles generally accepted in the United States of America would have been presented 
+on the modified accrual basis of accounting.  
+ 
+Inventories - Inventories in the general fund consist of expendable supplies held for the District’s use 
+and are carried at cost using the first-in, first-out method. Inventories are accounted for using the 
+consumption method where materials and supplies are recorded as an expenditure when used rather than 
+when purchased. 
+ 
+On the government-wide financial statements, United States Department of Agriculture (USDA) food 
+commodities are recorded as revenue when received at fair value at the date of receipt and as an expense 
+when used. USDA food commodities are not reported in the governmental funds. The inventory expense 
+related to fixed assets available for sale will be recorded when the assets are sold.  
+ 
+Capital Assets - Capital assets purchased or acquired with an original cost of $5,000 or more are reported 
+at historical cost or estimated historical cost. Additions, improvements and other capital outlays that 
+significantly extend the useful life of an asset are capitalized. Other costs incurred for repairs and 
+maintenance are expensed as incurred. Depreciation on all assets is provided on the straight-line basis 
+over the following estimated useful lives: 
+ 
+
+ School Buildings                                                                50 years  
+ Improvements                                                                    25 years  
+ Band Instruments                                                                7 years  
+ Computers and Related Equipment                                     5 years 
+  Furniture and Equipment                                                   10 years  
+ Vehicles                                                                             12 years 
+
+ 
+As of June 30, 2018, the District has not reported Capital Assets in the statement of Net Position-
+regulatory basis. See Note 16. 
+ 
+Compensated Absences – Sick leave is provided to all personnel who work more than 172 contract days 
+per year. Employees on 9 or 10-month contracts earn 10 days per year. Employees on 12-month 
+contracts earn 12 days per year. The District has a sick leave accumulation incentive program to 
+encourage accumulation of sick leave by offering a stipend at time of termination or retirement. The 
+stipend is based on a tier system, which pays a different rate per day for each tier, from $5 per day to $20 
+per day. The maximum amount of the stipend is $3,000. 
+ 
+Personnel in a full-time position, six or more hours per day, earn vacation time based on years of service. 
+Those with less than 4 years of service earn 1 day per month of employment up to a maximum of 10 
+days per year and accumulated maximum of 20 days. Those with 4 or more years of service earn 1.5 
+days per month of employment up to a maximum of 15 days per year and an accumulated maximum of 
+30 days. Upon retirement or termination, the accumulated days are reimbursed at the employee’s 
+effective rate of pay. 
+ 
+Budgets and Budgetary Accounting - The District is required by state law to prepare an annual budget. A 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+20 
+
+preliminary budget must be submitted to the Board of Education by December 31 for the fiscal year 
+beginning the following July 1.  Because a majority of voters of the District approved a permanent levy 
+in 2001 for the emergency levy and local support levy, an election to approve the levy is no longer held. 
+ 
+No later than October 1, each board of education shall prepare a financial statement and estimate of 
+needs to be filed with the applicable county clerk and the State Department of Education.   Once the 
+county excise board has approved the estimate of needs, the board shall adopt a final budget within 45 
+days or the second regularly scheduled board meeting.  No later than 15 days prior to adoption of a final 
+budget, the board must conduct a public hearing for purposes of taking public comments. The final 
+budget may be revised upon approval of the Board of Education in open meeting. 
+ 
+A budget is legally adopted by the Board of Education for the General Fund, Building Fund and the Debt 
+Service Fund that includes revenues and expenditures. 
+ 
+Budgets generally assume the expenditure of all available resources. Therefore, when the legal budget is 
+prepared, it is assumed these funds will not have a carryover balance to a subsequent year. Program 
+revenue received but not spent is restricted and deferred to the subsequent fiscal year. 
+ 
+Encumbrances - Encumbrances represent commitments related to unperformed contracts for goods or 
+services. Encumbrance accounting, under which purchase orders, contracts, and other commitments for 
+the expenditures of resources are recorded as expenditures of the applicable funds, is used. 
+ 
+Cash and Cash Equivalents - The District considers all cash on hand, demand deposits, money market 
+checking and certificates of deposit, held at an individual bank which are subject to early withdrawal 
+penalties no matter what the maturity period, to be cash.  All short-term cash surpluses are maintained in 
+a cash pool, the earnings from which are allocated to each fund based on month-end deposit balances. 
+State statutes require collateral for deposits in excess of insured amounts. The collateral’s market value 
+must exceed the insured deposit. 
+ 
+Investments - The District's investment policies are governed by state statutes. Permissible investments 
+include: 
+
+ 
+1. Direct obligations of the United States Government and Agencies 
+2. Obligations to the payment of which the full faith and credit of the State of Oklahoma is pledged 
+3. Certificates of deposit of savings and loan associations and bank and trust companies secured by 
+acceptable collateral 
+4. Savings accounts or savings certificates of savings and loan associations that are fully insured 
+5. County, municipal and school district direct debt obligations 
+6. Money market mutual funds regulated by the Securities and Exchange Commission 
+7. Warrants, bonds or judgments of the school district 
+8. Qualified pooled investment programs 
+
+ 
+ 
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+21 
+
+Property Tax Revenues - The District is authorized by state law to levy property taxes, which consist of 
+ad valorem taxes on real and personal property within the District. The County Assessor, upon receipt of 
+the certification of tax levies from the county excise board, extends the tax levies on the tax roll for 
+submission to the county treasurer prior to October 1. The county treasurer must commence tax 
+collection within fifteen days of receipt of the tax rolls. The first half of taxes is due prior to January 1. 
+The second half is due prior to April 1. 
+ 
+If the first payment is not made timely, the entire tax becomes due and payable on January 1. Second 
+half taxes become delinquent on April 1 of the year following the year of assessment. If not paid for a 
+period of three years or more as of the date such taxes first become due, the property is offered for 
+sale. 
+ 
+State Revenues - Revenues from state sources for current operations are primarily governed by the state 
+aid formula under the provisions of Article XVIII, Title 70, Oklahoma Statutes. The State Board of 
+Education administers the allocation of state aid funds to school districts based on information 
+accumulated from the districts. Approximately 56% of the District’s revenue comes from state sources. 
+ 
+After review and verification of reports and supporting documentation, the State Department of 
+Education may adjust subsequent fiscal period allocations of money for prior year errors disclosed by 
+review. Normally, such adjustments are treated as reductions or additions of revenue of the year when 
+the adjustment is made. 
+ 
+The District receives revenue from the state to administer certain categorical educational programs. State 
+Board of Education rules require that revenue earmarked for these programs be expended only for the 
+programs for which the money is provided and require that the money not expended as of the close of the 
+fiscal year be carried forward into the following year to be expended for the same categorical programs. 
+The State Department of Education requires that categorical educational program revenues be accounted 
+for in the general fund. 
+ 
+Interfund Transfers - During the course of normal operations, the District has transactions between funds 
+including expenditures and transfers of resources to provide services, purchase assets and service debt. 
+Transactions that are normal and recurring between funds are recorded as transfers. 
+ 
+Use of Estimates – The preparation of financial statements requires management to make estimates and 
+assumptions that affect the reported amount of assets and liabilities and disclosure of contingent assets 
+and liabilities at the date of the financial statements and the reported amounts of revenues and expenses 
+during the reporting period. Actual results could differ from those estimates. 
+ 
+Note 2 -Net Position and Fund Balance 
+ 
+District-Wide Financial Statements – When the District incurs an expense for which it may use either 
+restricted or unrestricted Net Position, it uses restricted Net Position first unless unrestricted Net Position 
+will have to be returned because they were not used. Net Position on the Statement of Net Position 
+include the following: 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+22 
+
+Net Investment in Capital Assets – The component of net position that reports the difference 
+between capital assets less both the accumulated depreciation and the outstanding balance of 
+debt, excluding unspent proceeds, that is directly attributable to the acquisition, construction or 
+improvement of these capital assets. As of June 30, 2018, the balance of Net Investment in 
+Capital Assets is the debt related to  capital assets, since the prior year amount of capital assets 
+was removed since they did not have records to support balances.  See Note 17 for further 
+discussion.  
+ 
+Restricted for Debt Service – The component of net position that reports the amount of funds 
+restricted for payment of principal and interest on debt. This amount is restricted by enabling 
+legislation and debt covenants. 
+ 
+Restricted for Buildings – The component of net position that reports the excess of property taxes 
+and other revenue collected in excess of expenses for operation of the District’s buildings. This 
+amount is restricted by enabling legislation. 
+ 
+Restricted for School Organizations – The component of net position that report the assets 
+restricted for use by student organizations and extracurricular activities. This amount is restricted 
+by regulations of the Oklahoma State Department of Education. 
+ 
+Restricted for Scholarships – the component of net position that report the assets restricted for 
+scholarships. 
+ 
+Restricted for Other – The component of net position that reports the assets restricted for 
+payment of sick leave incentive program, outstanding workers’ compensation claims, and 
+unemployment claims for employees paid with federal salaries. 
+ 
+Unrestricted – The difference between assets and liabilities that is not reported as restricted for 
+any particular purpose. 
+
+ 
+The government-wide statement of net position reports $7,512,960 of restricted net position. 
+ 
+Governmental Fund Financial Statements – The governmental fund financial statements present fund 
+balances based on classifications that comprise a hierarchy that is based primarily on the extent to which 
+the District is bound to honor constraints on the specific purposes for which amounts in the respective 
+governmental funds can be spent. The classifications used in the governmental fund financial statements 
+are as follows: 
+ 
+
+Nonspendable: This classification includes amounts that cannot be spent because they are either 
+(a) not in spendable form or (b) are legally or contractually required to be maintained intact. The 
+District has classified inventory as being nonspendable as these items are not expected to be 
+converted to cash or are not expected to be converted to cash within the next year. 
+ 
+Restricted: This classification includes amounts for which constraints have been placed on the 
+use of the resources either (a) externally imposed by creditors (such as through a debt covenant), 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+23 
+
+grantors, contributors, or laws or regulations of other governments, or (b) imposed by law 
+through constitutional provisions or enabling legislation. The District has classified school 
+construction expenditures as being restricted because their use is restricted by state statute or 
+legislation regarding use of expenditures. Debt service resources are to be used for future 
+servicing of the revenue note and are restricted through debt covenants. Other purposes are 
+restricted for scholarship purposes from contributors. 
+ 
+Committed: This classification includes amounts that can be used only for specific purposes 
+pursuant to constraints imposed by formal action of the Board of Education. These amounts 
+cannot be used for any other purpose unless the Board of Education removes or changes the 
+specified use by taking the same type of action (resolution) that was employed when the funds 
+were initially committed. This classification also includes contractual obligations to the extent 
+that existing resources have been specifically committed for use in satisfying those contractual 
+requirements. The District has classified school program activities as being committed because 
+their use is imposed by the Board of Education regarding use of expenditures. 
+ 
+Assigned: This classification includes amounts that are constrained by the District’s intent to be 
+used for a specific purpose but are neither restricted nor committed. This intent can be expressed 
+by the Board of Education or through the Board of Education delegating this responsibility to 
+management through the budgetary process. As of June 30, 2018, the District does not have 
+assigned fund balances.  
+ 
+Unassigned: This classification includes the residual fund balance for the General Fund. The 
+unassigned classification would also include any negative residual fund balance of any other 
+governmental fund that cannot be eliminated by offsetting of assigned fund balance amounts. The 
+District has not established a formal stabilization arrangement regarding minimum funding 
+requirements. 
+ 
+
+As of June 30, 2018, fund balances are comprised of the following: 
+Lease Revenue Other Total
+
+General 2014 Bond 2017 Bond 2017 Governmental Governmental
+Fund Fund 32 Fund 33 Fund 34 Funds Funds
+
+Nonexpendable
+Inventory 216,659$        -$               -$                  -$                  -$                   216,659$       
+
+Restricted
+Debt Service -                     -                 -                    -                    3,577,430      3,577,430      
+School Construction 
+and Fixed Assets -                     5,427,411   53,537,334   1,115,187     4,911,202      64,991,134    
+Building Operation 
+and Maintenance -                     -                 -                    -                    2,002,368      2,002,368      
+Scholarships -                     -                 -                    -                    (5,500)            (5,500)            
+
+Committed
+School Organizations -                     -                 -                    -                    1,901,475      1,901,475      
+
+Unassigned 17,747,267     -                 -                    -                    -                     17,747,267    
+17,963,926$   5,427,411$ 53,537,334$ 1,115,187$   12,386,975$  90,430,833$   
+
+The District would typically use restricted fund balances first, followed by committed resources, and 
+then assigned resources, as appropriate opportunities arise, but reserves the right to selectively spend 
+unassigned resources first to defer the use of these other classified funds. 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+24 
+
+ 
+Note 3 - Cash and Investments 
+ 
+Deposits – At June 30, 2018, the bank balance of deposits and cash pools was $7,828,043. Custodial 
+credit risk is the risk that in the event of a bank failure, the District’s deposits may not be returned to it. 
+The District’s policy requires collateral for all deposits not covered by Federal Deposit Insurance 
+Corporation insurance. At June 30, 2018, the District was not exposed to custodial credit risk. 
+ 
+Investments - The District participates in an external investment pool, Oklahoma Public School Liquid 
+Asset Pool (OLAP).  The plan is sponsored by the Oklahoma State School Boards Association, 
+Cooperative Council of Oklahoma School Administration, Organization of Rural Oklahoma Schools and  
+the Oklahoma Association of School Business Officials. OLAP is governed through an inter local 
+cooperative agreement and the investment advisors and other professionals are competitively selected. 
+OLAP reported value and fair market value are equal at June 30, 2018. To receive a copy of the 
+Oklahoma Public School Liquid Asset Pool annual audit report, call toll free 1-866-472-6527 or visit 
+www.OLAPonline.org. OLAP’s portfolio consists of cash and short-term investments valued at 
+amortized cost which approximates fair value. OLAP invest in obligations of the U.S Government, its 
+agencies and instrumentalities and repurchase agreements, provided that the underlying collateral 
+consists of obligations of the U.S. government, its agencies and instrumentalities and the OLAP 
+custodian takes delivery of the collateral. . Total external pool investments at June 30, 2018 are 
+$43,748,428  which are shown on the statement of net position as unrestricted $43,700,650 and on the 
+statement of fiduciary net position at $47,778. 
+ 
+The District holds the following investments in the endowment fund: 
+
+Type of Investment Cost Fair Value
+Less than 
+
+1 Year
+1-5 
+
+Years
+6-10 
+Years
+
+Over 10 
+Years
+
+Money-Market Mutual Funds 14,205$          13,303$          13,303$ 
+
+Federal Agencies 11,795            9,101              37          337       8,727      
+13,340$ 337$     8,727$    -$         
+
+Mutual Funds 117,190          119,707          
+143,190$        142,111$        
+
+Investment Maturities (in Years)
+
+ 
+Credit Risk - Investments – Credit risk is the risk that the issuer or other counterparty to an investment 
+will not fulfill its obligations. The District does not have a formal policy limiting its exposure arising 
+from concentration of investments. Investments held by the District in investment pools (sweep accounts 
+and external investment pools) are considered unclassified as to custodial credit risk because they are not 
+evidenced by securities that exist in physical or book entry form. OLAP held securities of $43,748,428 
+have Standard & Poor’s ratings of 8.9 percent AA+, 2.0 percent AA-, and 89.1 percent NR. Securities 
+with NR rating are bank deposit accounts.  Investments held in the endowment fund  in money market 
+mutual funds and federal agencies are rated Aaa by Moody’s.  Investments within the mutual funds are 
+rated based on individual holdings of each fund.  The mutual funds as a whole are not rated. 
+ 
+Investment Interest Rate Risk – Interest rate risk is the risk that changes in interest rates will adversely 
+affect the fair market value of an investment.  Due to the nature of the District’s external investment 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+25 
+
+pool and mutual funds, there are no defined maturity dates.  The risk related to investments in the 
+endowment fund are shown in the table above. The District does not have a formal policy that limits 
+investment maturities as a means of managing its exposure to fair value losses from increasing interest 
+rates. 
+ 
+ 
+Note 4 - Long-Term Liabilities 
+ 
+The long-term liability balances and activity for the year were as follows: 
+
+Beginning 
+Balance Additions Reductions Ending Balance
+
+Due within 
+One Year
+
+Bonds payable 9,555,000$     6,835,000$     1,695,000$     14,695,000$ 3,915,000$   
+CCPFA Lease Purchase -                      55,000,000     -                      55,000,000   8,705,000     
+Lease Purchase/HP Computers 256,872          -                     256,872          -                    -                    
+Compensated absences 1,462,826       538,379          478,460          1,522,745     107,676        
+
+11,274,698$   62,373,379$   2,430,332$     71,217,745$ 12,727,676$ 
+
+ 
+Payments on bonds are made by the debt service fund with property taxes. The lease purchase is 
+liquidated with general obligation bond proceeds. Compensated are generally liquidated by the 
+general fund. 
+ 
+Bonds: Bonds payable June 30, 2018, is composed of the following individual general obligation bond 
+issues: 
+
+Original Issue 
+Amount Purpose Issue Date
+
+Final 
+Payment Interest Rates Maturity
+
+5,085,000         Combined Purpose 3/1/2016 1,695,000   Variable 3/1/2020
+4,470,000         Combined Purpose 5/1/2017 2,250,000   1.500% 5/1/2020
+3,060,000         Building Bonds 2/1/2018 1,020,000   Variable 2/1/2022
+3,775,000         Combined Purpose 12/1/2017 1,265,000   Variable 12/1/2021  
+
+ 
+The annual requirements to amortize all bond debt outstanding as of June 30, 2018 including interest 
+payments are as follows: 
+
+Year Ending 
+June 30 Prinicipal Interest Total
+
+2019 3,915,000$   230,468$      4,145,468$   
+2020 6,220,000     288,855        6,508,855     
+2021 2,275,000     98,313          2,373,313     
+2022 2,285,000     36,213          2,321,213     
+
+14,695,000$ 653,849$      15,348,849$ 
+
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+26 
+
+ 
+State statutes prohibit the District from becoming indebted in an amount exceeding the revenue to be 
+received for any fiscal year without approval by the District's voters. Bond issues have been approved by 
+the voters and issued by the District for various capital improvements. These bonds are required to be 
+fully paid serially within 25 years from the date of issue. General obligation bonded debt of the District 
+is limited by state law to 10% of the assessed valuation of the District. The legal debt limit at June 30, 
+2018 is $43,129,111. 
+ 
+Proceeds of general obligation bond issues are recorded in the bond fund and at least 85% of the 
+proceeds are restricted to the use for which they were approved in the bond elections. 
+ 
+The District has entered financing arrangements with Comanche County Educational Facilities 
+Authority (see Note 13). These financing arrangements are accounted for as capital leases, since for 
+accounting purposes the title transfers at the end of lease term. The leases contain a clause which gives 
+the District the ability to terminate the lease agreements at the end of each fiscal year.  
+ 
+The schedule of future minimum lease payments under the capital leases and the present value of the 
+net minimum lease payments for years ending June 30, are as follows: 
+ 
+
+Present Value 
+Year Ending Future Minimum  Less of Minimum 
+
+June 30 Lease Payments Interest Lease Payments 
+2019 10,703,614$   (1,998,614)$   8,705,000$     
+2020 2,367,775       (1,442,775)     925,000          
+2021 4,764,007       (1,414,007)     3,350,000       
+2022 5,709,822       (1,309,822)     4,400,000       
+2023 10,462,982     (1,172,982)     9,290,000       
+
+Thereafter 31,200,447     (2,870,447)     28,330,000     
+65,208,647$   (10,208,647)$ 55,000,000$   
+
+ 
+Pledged Revenues  
+ 
+The District has pledged $65,208,647 of future issuances of general obligation bonds to repay 
+$55,000,000 plus interest leave revenues bonds with Comanche County Educational Facilities Authority 
+(CCEFA). Proceeds from the lease revenues bonds are to be for the construction and placement of 
+improvements on real property.  The general obligation bonds of the District will be issued prior to the 
+payment due to of lease purchase payments to CCEFA.  One hundred percent of the general obligation 
+bonds will be used to pay the lease revenue bond payments and bond issuance costs.  The annual 
+payments will start June 1, 2019 and will continue with final payment due to CCEFA on June 1, 2028.  
+ 
+Property tax revenues collected by the District are pledged to repay the District’s General Obligation 
+Bonds. As of June 30, 2018, $14,695,000 general obligations were outstanding and $106,845,000 of 
+general obligations bonds were authorized but not issued as of June 30, 2018.  Current year had 
+collected $3,293,995 of pledged revenues and paid $1,877,310 of principal and interest expenses toward 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+27 
+
+obligations.   
+ 
+Note 5 - Employee Retirement System 
+ 
+Teachers’ Retirement System of Oklahoma 
+ 
+Plan Description – The System provides retirement and disability benefits, annual cost of living 
+adjustments, and death benefits to plan members and beneficiaries.  The ability to establish and amend 
+benefit provisions is the responsibility of the state legislature.  The System issues a publicly available 
+financial report that includes financial statements and required supplementary information for the 
+employees of the District. The System issues a publically available financial report that can be obtained 
+at http://www.ok.gov/trs/. 
+ 
+Benefits Provided – The System provides defined retirement benefits based on members’ final 
+compensation, age, and term of service. In addition, the retirement program provides for benefits upon 
+disability and to survivors upon the death of eligible members. Title 70 O.S. Sec. 17-105 defines all 
+retirement benefits. The authority to establish and amend benefit provisions rests with the State 
+Legislature. 
+ 
+Contributions – In accordance with Oklahoma Statutes, System members are required to contribute 
+7.00% of applicable compensation.  For the year ended June 30, 2018, qualifying employee 
+contributions were reduced by a retirement credit of $704,025 provided by Enrolled House Bill 1873 
+and paid by the State of Oklahoma as on-behalf payments.  For the year ended June 30, 2018, the 
+District had a statutory contribution rate of 9.5% plus 7.80% as a match for salaries funded by federal 
+programs.  The contribution requirements of System members and the District are established and may 
+be amended by the state legislature.  For the year ended June 30, 2018, the District contributions to the 
+System for were $5,949,341. 
+ 
+The State of Oklahoma, a non-employer contributing entity, provides funds through 5% of the State’s 
+sales, use, corporate and individual income taxes collected. The System receives 1% of the cigarette 
+taxes collected by the State and 5% of net lottery proceeds collected by the State.  The District’s 
+estimated share of these contributions based on their covered payroll for the measurement period was 
+$4,093,947. 
+ 
+Pension Liability and Pension Expense  
+ 
+For the year ended June 30, 2018, the District’s proportionate share of the net pension liability was 
+$93,709,621. The net pension liability was measured as of June 30, 2017, and the total pension liability 
+used to calculate the net pension liability was determined by an actuarial valuation as of that date. The 
+District’s proportion of the net pension liability was based on a projection of the District’s long-term 
+share of the contributions to the pension plan relative to the projected contributions of all participating 
+school districts, actuarially determined. At June 30, 2017, the District’s proportion was 1.41226594%, 
+which decreased 0.00548722 % from the proportion measured as of June 30, 2016. 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+28 
+
+The long-term expected rate of return on pension plan investments was determined using a building 
+block method in which best estimate ranges of expected future real rates of return (expected returns, net 
+of pension plan investment expense and inflation) are developed for each major asset class. These ranges 
+are combined to produce the long-term expected rate of return by weighting the expected future real 
+rates of return by the target asset allocation percentage and by adding expecting inflation. 
+ 
+The target asset allocation and best estimates of arithmetic expected real rates of return for each major 
+asset class as of June 30, 2017, are summarized in the following table: 
+
+Asset Class
+Target 
+
+Allocation
+
+Long-Term 
+Expected Real 
+Rate of Return
+
+Fixed Income 23.50% 2.50%
+Domestic Equity 38.50% 7.50%
+International Equity 19.00% 8.50%
+Real Estate 9.00% 4.50%
+Alternative Assets 10.00% 6.10%
+
+100.00%  
+ 
+Discount rate –A single discount rate of 7.50% was used to measure the total pension liability as of June 
+30, 2017. This single discount rate was based solely on the expected rate of return on pension plan 
+investments of 7.50%. Based on the stated assumptions and the projection of cash flows, the pension 
+plan’s fiduciary net position and future contributions were projected to be available to finance all 
+projected future benefit payments of current plan members. Therefore, the long-term expected rate of 
+return on pension plan investments was applied to all periods of projected benefit payments to determine 
+the total pension liability. 
+ 
+Sensitivity of the District’s proportionate share of the net pension liability to changes in the discount rate 
+– The following presents the District’s proportionate share of the net pension liability calculated using 
+the discount rate of 7.50%, as well as what the District’s proportionate share of the net pension liability 
+would be if it were calculated using a discount rate that is 1-percentage-point lower (6.50%) or 1-
+percentage-point higher (8.50%) than the current rate: 
+
+1% Decrease 
+(6.50%)
+
+Current Discount 
+Rate (7.50%)
+
+1% Increase 
+(8.50%)
+
+District's Proportionate 
+share of the net pension 
+liability 129,067,549$          93,709,621$               64,110,968$               
+
+ 
+ 
+Pension plan fiduciary net position – Detailed information about the pension plan’s fiduciary net 
+position is available in the separately issued TRS financial report that can be obtained at 
+http://www.ok.gov/trs/. 
+ 
+Note 6 - Other Post-Employment Benefits (OPEB) 
+ 
+In addition to the retirement plan described in Note 5, the District participates in the state-administered  
+Supplemental Health Insurance Program (OPEB Plan) within Teachers’ Retirement System of 
+Oklahoma (the OPEB System), which is a cost-sharing multiple-employer defined benefit OPEB plan 
+administered by the Teacher Retirement System (TRS). 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+29 
+
+ 
+Plan Description – The OPEB System pays a monthly health insurance premium supplement for each 
+retired member who is enrolled in the health insurance plan provided by the State and Education 
+Employees Group Health and Dental Insurance plan or in an insurance program provided by a 
+participating education employer who provides health insurance coverage to former employees, 
+provided the retired member had at least ten (10) years of Oklahoma service prior to retirement.  
+
+ 
+Benefits Provided – All retirees are eligible except for special retirees (as defined) and spouses and 
+beneficiaries as long as they have at least 10 years of service.  Retirees who elect such coverage receive 
+the smaller of (i) a Medicare supplement benefit, if eligible, or (ii) an amount between $100 and $105 
+per month, depending on service and final average compensation. Payments made on the retirees’ behalf 
+to the Employees Group Insurance Division of the Office of Management and Enterprise Services, if the 
+member continues health coverage under that Plan, or (ii) to the member’s former employer, if the 
+member retains health coverage under a plan maintained by the former employer. 
+ 
+Contributions – Employer and employee contributions are made based upon the TRS Plan provisions 
+contained in State Statute Title 70, as amended. However, the statutes do not specify or identify any 
+particular contribution source to pay the health insurance subsidy. The cost of the subsidy averages 
+0.15% of normal cost, as determined by an actuarial valuation. 
+ 
+Since the District prepares the financials under regulatory basis as required by the Oklahoma State 
+Department of Education, the net OPEB liability (asset) is disclosure only. At June 30, 2018, the 
+District’s proportionate share of the net OPEB asset was $629,789. The net OPEB asset was measured 
+as of June 30, 2017, and the total OPEB asset used to calculate the net OPEB asset was determined by 
+an actuarial valuation as of that date. The District’s proportion of the net OPEB asset was based on a 
+projection of the District’s long-term share of the contributions to the OPEB plan relative to the 
+projected contributions of all participating school districts, actuarially determined.  
+ 
+At June 30, 2017, the District’s proportion was 1.41226594%, as compared to its proportion share of 
+1.41775316% measured as of June 30, 2016. 
+ 
+Sensitivity of the District’s proportionate share of the net OPEB asset to changes in the discount rate – 
+The following presents the District’s proportionate share of the net OPEB asset calculated using the 
+discount rate of 7.50%, as well as what the District’s proportionate share of the net OPEB asset would 
+be if it were calculated using a discount rate that is 1-percentage-point lower (6.50%) or 1-percentage-
+point higher (8.50%) than the current rate: 
+
+1% Decrease 
+(6.50%)
+
+Current 
+Discount Rate 
+
+(7.50%)
+1% Increase 
+
+(8.50%)
+District's Proportionate share of 
+the OPEB liability (asset) (26,362)$                  (629,789)$              (1,145,710)$           
+
+ 
+Due to the structure of the OPEB plan, healthcare cost trend rate sensitivity analysis is not meaningful. 
+
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+30 
+
+OPEB plan fiduciary net position – Detailed information about the OPEB plan’s fiduciary net position is 
+available in the separately issued TRS financial report that can be obtained at http://www.ok.gov/trs/. 
+
+ 
+ 
+Note 7 - Commitments and Contingencies 
+ 
+Amounts received or receivable from grantor agencies are subject to audit and adjustment by grantor 
+agencies. Any disallowed claims, including amounts already collected, may constitute a liability of the 
+applicable funds. The amount, if any, of expenditures which may be disallowed by the grantor cannot be 
+determined at this time although the District expects such amounts, if any, to be immaterial. 
+ 
+The District is a defendant in various lawsuits. Although the outcome of these lawsuits is not presently 
+determinable, the District believes the resolution of these matters will not have a material adverse effect 
+on the financial condition of the District. Should a judgment be awarded against the District, it would be 
+levied through the District’s sinking fund over a three-year period pursuant to state law.  
+  
+In exchange for $50, the District entered into a lease with the City of Lawton for use of the original 
+Lawton High School building. The lease has a 50 year term commencing fiscal year 2010. The property 
+will become the City of Lawton’s at the end of the lease. 
+ 
+The District has outstanding construction and purchase commitments of approximately $4,025,000 to be 
+financed from bond funds and $1,524,000 to be financed from sales tax fund. 
+ 
+Note 8 - Risk Management 
+ 
+The District is exposed to various risks of loss related to torts; theft of, damage to and destruction of 
+assets; errors and omissions and natural disasters for which the District carries commercial insurance. 
+There have been no significant reductions in coverage from the prior year and settlements have not 
+exceeded coverage in the past three years. 
+ 
+ 
+Note 9 - Interfund transactions 
+ 
+Interfund amounts result from short term cash funding in pooled cash. Transfers are used to move 
+revenues to the fund that state statute requires them to be accounted for. 
+
+Transfer From Transfer to Amount Nature of Transfer
+Activity Fund General Fund 307,679         Operating transfer
+
+307,679         
+ 
+
+Note 10 - Operating Lease 
+ 
+The District has a lease with a vendor for the use of copier machines at all District locations. February 
+2016, a lease was executed for 36 months.  The lease is renewable at the District’s option for one year 
+increments. The total lease expense paid by the District for the year ended June 30, 2018 was 
+approximately $450,000. Total lease expense anticipated for fiscal year 2018 is approximately $450,000. 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+31 
+
+Note 11 -  Inventories 
+Inventory consists of the following at June 30, 2018:  
+
+Balance Sheet 
+Governmental Funds 
+- Regulatory Basis 
+
+Statement of Net 
+Position - 
+
+Regulatory Basis 
+Fuel: 29,981                   29,981               
+
+Supplies: 186,678                 186,678             
+USDA Food Commodities: -                        7,792                 
+
+Total Inventories: 216,659$               224,451$           
+ 
+
+ 
+Note 12 - Sales Tax Agreement 
+ 
+On October 28, 2014, the District signed an agreement with the City of Lawton to receive  seven-eighths 
+of one percent (0.875%) sales tax for specified capital improvements, which include school building 
+upgrades, renovation/remodeling and the purchase of vehicles. The District will receive up to $12.5 
+million in the first five years of the collections. The District accounts for the tax revenues separately in the 
+municipal tax fund. Per the agreement, the District is to provide a report of expenditures to the City on a 
+calendar quarter basis. 
+
+ 
+Note 13 – Lease Revenue Bond Agreements  
+ 
+On March 29, 2018 the Board of Education entered into ground lease and sublease agreements with the 
+Comanche County Educational Facilities Authority (CCEFA), a public trust, for the purpose of 
+facilitating the issuance of the bonds, to provide security for payment of the bonds, and to enable the 
+District to utilize the bond proceeds for the construction and placement of improvements on real 
+property.  The lease agreements will remain in effect to June 30, 2028. The Authority advanced 
+$55,000,000 in lease revenue bonds, series 2017, to the District for the acquisition and construction of 
+buildings and improvements.  The District will use money received from general obligation debt to 
+repay the lease. The advanced funds are being held in a trust and District remits applications for 
+payments. The balance of the advanced funds is reported as Restricted Cash in Lease Revenue 2017 
+Fund 34 on Balance Sheet of Governmental Funds and on the Statement of Net Position.   
+ 
+Note 14 – Tax Abatement  
+   
+The State of Oklahoma has authorized by the Oklahoma State Statutes Title 31 to offer homestead and 
+Veterans exemptions to Ad Valorem property taxes.  These exemptions reduce the ad valorem taxes 
+remitted to the District.   
+ 
+For the year ended June 30, 2018, abated property taxes were $1,825,751. 
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+32 
+
+ 
+Note 15 – New GASB Standards   
+ 
+GASB Statement No.75, Postemployment Benefits Other Than Pensions establishes standards for 
+recognizing and measuring liabilities, deferred outflows and inflows of resources and 
+expenses/expenditures. Furthermore, this statement details the recognition and disclosure requirements 
+for employers with payables to defined benefit OPEB plans that are administered by trusts that meet the 
+specified criteria and for employers whose employees are provided with defined contribution OPEB. 
+Since the District’s financial statements are reported using the cash receipts and disbursements modified 
+basis as required by the regulations of the Oklahoma Department of Education, the net OPEB liability 
+(asset) is not required to be presented in these financial statements, but the District’s portion of net 
+OPEB liability (asset) is disclosed in Note VII to the financial statements.  
+ 
+Note 16 – Restatement of Beginning Balances  
+ 
+Due the lack of adequate records for capital assets for the year ended June 30, 2018, the capital assets 
+have been removed from the financial statements. This has resulted in a restatement of capital assets, net 
+position on the statement of net position regulatory basis and beginning net position on the government 
+activities statement of activities.  The restatement has resulted in a decrease of capital assets, and net 
+position of $110,874,793. The remaining balance of $3,944,764 of invested in capital assets, was the 
+portion related to debt as of June 30, 2017.   The portion of debt related to capital assets in fiscal year 
+2018, was unable to be determined due to lack of supporting records for capital assets.      
+
+Previously 
+Presented as of Restated Balance 
+
+6/30/2017 Restatement as of 6/30/17
+Statement of Net Position-Regulatory Basis 
+ Capital Assets: 
+       Nondepreciated Capital Assets 4,549,742           (4,549,742)          -                       
+       Depreciated Capital Assets, Net of Depreciation 106,325,052       (106,325,052)      -                       
+
+Net Position 
+       Net Investment in Capital Assets 114,819,557       (110,874,793)      3,944,764            
+       Restricted For 
+           Building Services 1,636,032           1,636,032            
+           Debt Services 2,058,206           2,058,206            
+           Other 45,197                45,197                 
+          Scholarships 2,500                  2,500                   
+          School Organizations 1,948,746           1,948,746            
+     Unrestricted 15,410,180         15,410,180          
+Total Net Position: 135,920,418       25,045,625          
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+Notes to Financial Statements 
+
+June 30, 2018 
+ 
+
+33 
+
+ 
+ 
+Note 17 – Subsequent Event  
+ 
+March 2019, the District issued $14,380,000 in combined purpose general obligation bonds. 
+$2,695,000 of bonds authorized in April 2014 election plus $11,685,000 of bonds authorized in 
+November 2017 election are included in the March 2019 bonds issue.  The remaining authorized bonds 
+to be issued for the April 2014 and November 2017 elections are $7,710,000 and $84,755,000, 
+respectively.  
+ 
+The District has evaluated subsequent events through April 29, 2019, the date which the financial 
+statements were available to be issued.   
+
+
+
+ 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+OTHER SUPPLEMENTARY INFORMATION 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Combining Balance Sheet – Other Governmental Funds – Regulatory Basis 
+June 30, 2018 
+
+ 
+
+35 
+
+ 
+Building Municipal Tax 2004 Bond Activity Sinking Gifts Municpal Tax
+
+Fund Fund 26 Fund 31 Fund Fund Fund Fund 25 Total
+
+Assets
+
+Cash and Cash Investments 2,052,402$      4,017,692$      -$                    35,152$           1,577,430$      7,750$                    274,456$                7,964,882$             
+Pooled Cash and Investments -                      -                      1,515,000        1,866,323        2,000,000        -                             -                             5,381,323               
+Due from Other Funds -                      -                      -                      -                      -                      -                             -                             -                             
+
+Total Assets 2,052,402$      4,017,692$      1,515,000$      1,901,475$      3,577,430$      7,750$                    274,456$                13,346,205$           
+
+Liabilities
+Warrants Outstanding 50,034$           303,721$         174,885$         -$                    -$                    13,250$                  -$                           541,890$                
+Due to Other Funds -                      -                      417,340           -                      -                      -                             -                             417,340                  
+
+  Total Liabilities 50,034$           303,721$         592,225$         -$                    -$                    13,250$                  -$                           959,230$                
+
+Fund Balances
+Restricted 2,002,368$      3,713,971$      922,775$         -$                    3,577,430$      (5,500)$                  274,456$                10,485,500$           
+Committed -                      -                      -                      1,901,475        -                      -                             -                             1,901,475               
+Assigned -                      -                      -                      -                      -                      -                             -                             -                             
+
+Unassigned -                      -                      -                      -                      -                      -                             -                             -                             
+
+Total Fund Balances 2,002,368        3,713,971        922,775           1,901,475        3,577,430        (5,500)                    274,456                  12,386,975             
+
+Total Liabilities and Fund Balances 2,052,402$      4,017,692$      1,515,000$      1,901,475$      3,577,430$      7,750$                    274,456$                13,346,205$           
+
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Combining Statement of Revenue, Expenditures and Changes in Fund Balance 
+– Other Governmental Funds – Regulatory Basis 
+
+For the Year Ended June 30, 2018 
+ 
+
+36 
+
+Building Municipal Tax 2004 Bond Activity Sinking Gifts Municipal Tax
+Fund Fund 26 Fund 31 Fund Fund Fund Fund 25 Total
+
+REVENUE
+Property Taxes 2,265,577$     -$                   -$                   -$                   3,295,730$     -$                   -$                   5,561,307$     
+Interest 18,149            -                     -                     20,095            9,075 -                     -                     47,319            
+State Revenue -                     -                     -                     -                     -                     -                     -                     -                     
+Federal Revenue 155,734 -                     -                     -                     -                     -                     -                     155,734          
+Other -                     2,500,000       -                     2,575,853       97,809            5,250             -                     5,178,912       
+
+Total Revenue 2,439,460$     2,500,000$     -$                   2,595,948$     3,402,614$     5,250$           -$                   10,943,272$   
+
+EXPENDITURES
+Current
+
+Instruction -$                   -$                   -$                   342,690$        -$                   -$                   -$                   342,690$        
+Support Services 1,853,815       1,711,926 1,476,853       1,224,512       -                     13,250 -                     6,280,356       
+Non-instruction Services -                     -                     -                     768,338 -                     -                     -                     768,338          
+
+Capital Outlay 219,309          134,733 318,490          -                     -                     -                     43,476            716,008          
+Debt Service
+
+ Judgments and Related Interest -                     -                     -                     6,080              -                     -                     6,080              
+Interest Paid -                     -                     -                     -                     182,310 -                     -                     182,310          
+Principal Retirement -                     -                     -                     -                     1,695,000       -                     -                     1,695,000       
+Total Expenditures 2,073,124$     1,846,659$     1,795,343$     2,335,540$     1,883,390$     13,250$         43,476$          9,990,782$     
+
+Excess (Deficiency) of 
+Revenues Over (Under) Expenditures 366,336          653,341          (1,795,343)      260,408          1,519,224       (8,000)            (43,476)          952,490          
+
+Other Financing Sources
+Transfers -                     -                     -                     (307,679)         -                     -                     -                     (307,679)        
+
+Total Other Financing Sources -                     -                     -                     (307,679)         -                     -                     -                     (307,679)        
+
+Net Change in Fund Balances 366,336          653,341          (1,795,343)      (47,271)           1,519,224       (8,000)            (43,476)          644,811          
+
+Fund Balances, Beginning 1,636,032       3,060,630       2,718,118       1,948,746       2,058,206       2,500             317,932          11,742,164     
+Fund Balances, Ending 2,002,368$     3,713,971$     922,775$        1,901,475$     3,577,430$     (5,500)$          274,456$        12,386,975$   
+
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Combining Statement of Assets and Fund Balances 
+– Activity Fund 
+
+For the Year Ended June 30, 2018 
+ 
+
+37 
+
+PROJECT 
+NUMBER
+
+PROJECT NAME
+ ACTIVITES
+
+BALANCE
+JULY 1, 2017 ADDITIONS DELETIONS
+
+BALANCE
+JUNE 30, 2018
+
+801 FOOTBALL EXTRAS 27,705             7,173                (20,711)             14,167             
+802 BOYS BASKETBALL EXTRAS 9,155               21,589              (17,098)             13,646             
+803 GIRLS BASKETBALL EXTRAS 3,684               2,103                (3,662)               2,125               
+805 BOYS BASEBALL EXTRAS 2,798               832                   (2,596)               1,034               
+806 GIRLS SOFTBALL EXTRAS 6,766               11,985              (12,795)             5,956               
+807 WRESTLING EXTRAS 10,618             997                   (10,512)             1,103               
+811 BOYS TRACK EXTRAS 786                  -                    (153)                  633                  
+812 GIRLS TRACK EXTRAS 594                  -                    (153)                  441                  
+813 BOYS GOLF EXTRAS 571                  -                    -                    571                  
+814 BOYS CROSS COUNTRY EXTRAS 86                    400                   -                    486                  
+815 BOYS SOCCER EXTRAS 52                    999                   -                    1,051               
+816 GIRLS VOLLEYBALL EXTRAS 1,617               1,009                (482)                  2,144               
+817 TRAINERS EXTRAS 3,223               761                   (363)                  3,621               
+819 ALL SPORTS EXTRAS 4,915               14,803              (4,603)               15,115             
+820 GIRLS SOCCER EXTRAS 2,846               -                    (551)                  2,295               
+821 GIRLS GOLF EXTRAS 15                    -                    -                    15                    
+822 GIRLS CROSS COUNTRY EXTRAS 36                    -                    -                    36                    
+830 DISTRICT ATHLETICS 267,365           (18,277)             (6,392)               242,696           
+
+831 DISTRICT CONCESSION 66,762             76,221              (60,650)             82,333             
+
+832 ATHLETICS (DISTRICT) 71,583             42,195              (69,752)             44,026             
+
+833 DISTRICT BASEMENT SUPPLY 677                  (2,132)               (1,455)              
+
+836 DISTRICT SWIMMING 461                  8,514                (8,367)               608                  
+
+837 DRUG TESTING 100                  -                    -                    100                  
+840 ATHLETICS (SITES) 159,509           437,272            (425,066)           171,715           
+850 GENERAL 238,077           304,167            (330,465)           211,779           
+851 ACADEMIC TEAM 5,918               3,905                (3,894)               5,929               
+852 AGRICULTURE 23,035             82,936              (84,110)             21,861             
+853 AP EXAM 15,000             16,882              (16,891)             14,991             
+
+854 ART 20,421             30,961              (24,914)             26,468             
+
+855 A.H.S.C. ACTIVITIES 125                  -                    -                    125                  
+856 ASSISTANCE CLUB 19,190             8,645                (13,635)             14,200             
+857 ARTS IN EDUCATION 102                  -                    -                    102                  
+858 ACE 20,150             3,042                (4,976)               18,216             
+859 ADVANCE PLACEMENT 11                    -                    -                    11                    
+
+860 BAND 9,132               24,215              (28,212)             5,135               
+
+861 BUILDERS CLUB 3,022               3,083                (1,844)               4,261               
+862 BUSINESS 318                  50                     (289)                  79                    
+863 BOE REIMBURSEMENT 5,958               17,883              (15,592)             8,249               
+864 CAMPUS CRIME STOPPER 950                  -                    (9)                      941                  
+865 AMERICAN STUDIES CLUB 681                  1,215                (783)                  1,113               
+866 AMERICAN SIGN LANGUAGE 1,423               554                   (241)                  1,736               
+867 CHEERLEADERS 25,182             57,952              (46,671)             36,463             
+
+868 CHEMISTRY 3,878               1,528                (2,414)               2,992               
+
+869 CLOSE-UP 97                    -                    -                    97                    
+871 6TH GRADE TEAM 5,834               8,701                (7,056)               7,479               
+872 7TH GRADE TEAM 4,876               4,608                (3,602)               5,882               
+873 8TH GRADE TEAM 2,130               11,521              (11,477)             2,174               
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Combining Statement of Assets and Fund Balances 
+– Activity Fund 
+
+For the Year Ended June 30, 2018 
+ 
+
+38 
+
+PROJECT 
+NUMBER
+
+PROJECT NAME
+ ACTIVITES
+
+BALANCE
+JULY 1, 2017 ADDITIONS DELETIONS
+
+BALANCE
+JUNE 30, 2018
+
+875 CONCESSIONS 24,742             24,645              (35,620)             13,767             
+
+881 CULTURAL AWARENESS 1,368               25                     (79)                    1,314               
+
+883 COUNSELORS 1,984               (25)                    -                    1,959               
+884 ANIME -                   41                     -                    41                    
+885 DRAMA 4,322               4,187                (3,225)               5,284               
+886 LETTERMEN CLUB 16,603             5,076                (5,222)               16,457             
+887 COMPUTER CLASS 669                  259                   (683)                  245                  
+888 AFRICAN AMER. MULT. 4,323               1,277                (1,758)               3,842               
+889 FFA 3,106               1,757                (3,153)               1,710               
+890 FCA 827                  1,285                (1,140)               972                  
+891 FCCLA 4,888               3,470                (3,230)               5,128               
+
+892 FBLA 135                  -                    -                    135                  
+
+893 CHARACTER ED -                   702                   (509)                  193                  
+
+894 FENCING CLUB 1,184               -                    (215)                  969                  
+895 FRENCH CLUB 1,790               1,349                (1,842)               1,297               
+896 FISHING CLUB 227                  183                   (60)                    350                  
+897 GERMAN CLUB 110                  (110)                  -                    -                   
+898 FFA HORTICULTURE 8,765               9,167                (9,245)               8,687               
+901 GIFTED/TALENTED 2,433               3,364                (3,456)               2,341               
+902 DRILL TEAM 12,718             23,856              (29,107)             7,467               
+903 MENTORSHIP PROGRAM 2,583               13,545              (11,337)             4,791               
+904 NEWSPAPER 638                  364                   (614)                  388                  
+905 LIBRARY 77,569             167,107            (162,396)           82,280             
+906 KEY CLUB 12,600             25,265              (26,485)             11,380             
+907 MATHEMATICS 4,375               2,382                (1,544)               5,213               
+908 NHS 11,175             9,421                (7,065)               13,531             
+909 NJHS 5,386               6,878                (5,242)               7,022               
+910 MISC. EXPENSE 18,307             47,972              (32,784)             33,495             
+911 NATIVE AMERICAN CLUB 4,473               1,141                (665)                  4,949               
+912 MILITARY CHILD CLUB 3,377               3,421                (2,849)               3,949               
+913 OPEN DOORS 118                  -                    (49)                    69                    
+914 ORCHESTRA 7,509               23,723              (25,056)             6,176               
+915 PHYSICS 146                  1,080                (1,050)               176                  
+916 PHYSICAL EDUCATION 3,999               8,995                (3,710)               9,284               
+917 ROBOTICS 4,288               4,871                (4,353)               4,806               
+918 PEP CLUB 2,213               10,461              (10,885)             1,789               
+
+919 PICTURES 73,253             25,254              (25,547)             72,960             
+
+920 JROTC 33,588             39,343              (38,452)             34,479             
+921 RENAISSANCE 8,477               5,000                (4,793)               8,684               
+922 RESOURCE CENTER 10,003             845                   (2,909)               7,939               
+924 SCIENCE CLUB 14,468             13,695              (12,519)             15,644             
+925 ELECTIVES 3,766               1,571                (865)                  4,472               
+926 LPS STROLLING STRING 1,753               1,550                (1,281)               2,022               
+927 SPANISH CLUB 2,875               4,874                (4,573)               3,176               
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Combining Statement of Assets and Fund Balances 
+– Activity Fund 
+
+For the Year Ended June 30, 2018 
+ 
+
+39 
+
+PROJECT 
+NUMBER
+
+PROJECT NAME
+ ACTIVITES
+
+BALANCE
+JULY 1, 2017 ADDITIONS DELETIONS
+
+BALANCE
+JUNE 30, 2018
+
+928 SPEECH & DEBATE 471                  368                   (445)                  394                  
+929 SPECIAL EDUCATION 10,882             1,803                (5,516)               10,559             
+931 STUDENT COUNCIL 35,107             86,710              (84,432)             38,735             
+932 HUMAN RESOURCES 800                  -                    (784)                  16                    
+933 STUDENT STORE 13,637             6,196                (10,581)             9,251               
+934 SENIORS 2020 419                  1,624                (1,312)               802                  
+935 SENIORS 2021 -                   3,240                (2,028)               1,188               
+936 SENIORS 2022 7,659               (3,156)               -                    7,659               
+937 SENIORS 2018 1,278               11,544              (7,732)               4,011               
+938 SENIORS 2019 97                    1,285                (1,033)               335                  
+939 AUTISM 1,091               1,702                (1,369)               1,423               
+940 SUMMER SCHOOL 860                  -                    -                    860                  
+941 RUNNING CLUB 378                  -                    -                    378                  
+942 DISTRICT TESTING -                   394                   (269)                  125                  
+943 TECHNOLOGY 3,948               250                   (2,349)               1,599               
+944 TECHNOLOGY STUDENT ASSOC 133                  -                    -                    133                  
+945 TEXTBOOKS 62                    730                   -                    792                  
+946 VOCAL MUSIC 22,822             103,028            (105,578)           20,197             
+947 TECH-NOW 4,208               515                   (3,119)               1,579               
+949 PARTNER'S CLUB -                   100                   (39)                    261                  
+950 STUDENT SERVICES 177                  -                    -                    177                  
+951 YEARBOOK 66,104             111,605            (122,966)           54,185             
+952 PARENT INVOLVEMENT 173                  -                    -                    173                  
+953 ACCELERATED READING 95                    -                    -                    95                    
+954 WEIGHTROOM LIFTATHON 4,159               15,687              (16,049)             3,797               
+957 MIDDLE LEAP -                   115                   -                    -                   
+959 CHESS CLUB 565                  -                    (58)                    507                  
+960 COMMISSION 151,608           73,204              (80,607)             143,864           
+961 FRIENDS IN NEED 5,530               7,154                (3,356)               8,864               
+962 LPS CHRISTMAS CHEER 2,214               2,577                (1,667)               3,124               
+963 SCRAPBOOKING 923                  20                     (74)                    869                  
+964 INTERACT ROTARY CLUB 14                    -                    -                    14                    
+969 LAWTON JROTC DRILL MEET 1,435               (1,400)               -                    35                    
+970 X-TENDED TIME 26,772             42,970              (42,417)             28,860             
+971 X-TENDED TIME BOARD -                   250,488            (250,488)           564                  
+973 TEEN COUNCIL 82                    -                    -                    82                    
+974 ARCHERY 8,641               (7,153)               (633)                  9,004               
+975 HOLDING ACCOUNT 1,477               -                    (224)                  1,253               
+976 OKLAHOMA DECATHLON -                   -                    -                    -                   
+977 SPEECH PATHALOGY 335                  -                    -                    335                  
+978 MEDIA CLUB 100                  -                    (100)                  -                   
+979 GAY STRAIGHT ALLIANCE 988                  105                   -                    1,093               
+981 HOMELESS EDUCATION 5,675               5,070                (3,581)               5,139               
+983 YOUTH IN GOVERNMENT 799                  7,060                (7,113)               746                  
+984 DESIGNATED CONTRIBUTIONS 87,230             41,290              (35,279)             94,105             
+985 STAGE PRODUCTION 47                    -                    -                    47                    
+986 FACULITY IN-SERVICE 3                      -                    -                    3                      
+987 TITLE I SUMMER KINDERGARTEN AC 277                  -                    -                    277                  
+988 VISION IMPAIRED 527                  -                    -                    527                  
+989 AP ECONOMICS 2,987               360                   (827)                  2,161               
+990 SPECIAL OLYMPICS 12,190             19,556              (18,654)             8,957               
+991 MEDIA PRODUCTIONS 1,103               -                    -                    1,103               
+993 LEADERSHIP 507                  -                    (214)                  293                  
+994 LPS FOUNDATION GRANTS -                   107,168            (107,168)           1,292               
+995 FACULTY FUND 2,790               9,269                (9,061)               2,998               
+997 IPAD REPAIR/REPLACE 14,780             23,333              (6,765)               21,031             
+998 LAWTON COMMUNITY SERVICES 27                    -                    -                    27                    
+
+1,948,753        2,614,501         (2,662,567)        1,901,475        
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Supplemental Schedule 
+Schedule of Expenditures of Federal Awards 
+
+For the Year Ended June 30, 2018 
+ 
+
+40 
+
+Federal 
+CFDA 
+
+Number
+
+Pass Through 
+Grantor's 
+
+Project 
+Number
+
+Balance 
+6/30/2017
+
+Federal Grant 
+Receipts
+
+Federal Grant   
+Expenditures
+
+Balance 
+6/30/2018
+
+U.S. Dept. of Education
+Direct Program
+
+Indian Education, Grants to Local Educational Agencies 84.060 561 (86,248)$           228,174$             230,696$                (88,770)$          
+Impact Aid 84.041 591/592 -$                  5,608,703$          5,608,703$             -$                     
+
+Passed Through the Bureau of Indian Education 
+Johnson-O'Malley Program 15.130 563 62,552$            59,072$               57,037$                  64,587$           
+
+Passed Through Oklahoma Department of Career and Technology Education
+
+Vocational Education - Basic Grant to States 84.048 421 (33,211)$           87,308$               74,046$                  (19,949)$          
+Vocational Education - Basic Grant to States - Supplement 84.048 424 (18,357)             18,357                 -                              -                       
+
+(51,568)$           105,665$             74,046$                  (19,949)$          
+Passed Through State Department of Education:
+
+Title I, Grants to Local Educational Agencies 84.010 511/512/515/786 (607,416)$         3,614,038$          3,611,797$             (605,175)$        
+
+Special Education - Grants to States 84.027
+613/615/621
+
+/625 (814,714)$         3,069,418$          3,016,484$             (761,780)$        
+Special Education - Preschool Grants 84.173 641/642 (18,149)             68,348                 65,134                    (14,935)            
+     Special Education Cluster (832,863)$         3,137,766$          3,081,618$             (776,715)$        
+
+Title II - Part A Teacher and Prinicpal Training and Recruiting Fund 84.367 541/786 (100,991)$         587,778$             517,994$                (31,207)$          
+Title II - Technical Assistance Allocation 84.367 543 (5,718)               5,718                   -                              -                       
+
+(106,709)$         593,496$             517,994$                (31,207)$          
+
+Title II - Part B Math and Science 84.336 542/544 -                        -                           -                              -                       
+Title III, Part A - Limited English Proficiency 84.365 571/572/786 (8,558)               79,133                 73,379                    (2,804)              
+Title X - Part C McKinney Homeless 84.196 596 (11,231)             68,090                 69,514                    (12,655)            
+
+(19,789)$           147,223$             142,893$                (15,459)$          
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Supplemental Schedule 
+Schedule of Expenditures of Federal Awards 
+
+For the Year Ended June 30, 2018 
+ 
+
+41 
+
+Federal 
+CFDA 
+
+Number
+
+Pass Through 
+Grantor's 
+
+Project 
+Number
+
+Balance 
+6/30/2017
+
+Federal Grant 
+Receipts
+
+Federal Grant 
+Expenditures
+
+Balance 
+6/30/2018
+
+Passed Through State Department of Career and Vocational Education:
+Job Training Department of Rehabilitation Services 84.126 456 (1,686)               99,383                 97,828                    (131)                 
+
+     Total U.S. Department of Eduation (1,643,727)$      13,593,520$        13,422,612$           (1,472,819)$     
+
+U.S. Department of Agriculture
+Passed Through Oklahoma State Department of Education: 
+
+National School Lunch Program 10.555 763 -$                      3,983,446$          2,692,266$             1,291,180$      
+School Breakfast Program 10.553 764 -                        1,746,855            1,180,636               566,219           
+Summer Food Service Program 10.559 766 (31,976)             80,953                 119,944                  (70,967)            
+Lunch Program - Commodities 10.555 15,131              452,336               460,378                  7,089               
+Summer Food Service Program -Commodities 10.559 865                   9,193                   9,356                      702                  
+     Child Nutrition Cluster (15,980)$           6,272,783$          4,462,580$             1,794,223$      
+Equipment Assistant Grant 10.579 791 -                        -                           20,502                    (20,502)            
+
+     Total U.S. Department of Agriculture (15,980)$           6,272,783$          4,483,082$             1,773,721$      
+
+U.S. Department of Defense
+Direct Program
+
+Community Economic Adjustment 12.600 772 -$                      155,734$             155,734$                -$                     
+STEM for K-12 & Instutions of Higher Learning--Science Grant 12.330 776 -$                      -$                         -$                            -$                     
+Competitive Grants: Promoting K-12 Student Achievement at Military-
+Connected Schools-- Middle Schools 12.556 777 (147,622)$         199,246$             68,593$                  (16,969)$          
+Competitive Grants: Promoting K-12 Student Achievement at Military-
+Connected Schools-- Elementary Schools 12.556 775 18,815$               246,719$                (227,904)$        
+Competitive Grants: Promoting K-12 Student Achievement at Military-
+Connected Schools-- High Schools 12.556 779 (26,174)$           79,939$               66,066$                  (12,301)$          
+Invitational Grants for Military-Connected Schools-Special Education 12.557 778 (103,262)$         159,075$             60,811$                  (4,998)$            
+     Total U.S. Dept. of Defense (277,058)$         612,809$             597,923$                (262,172)$        
+
+     Total Expenditures of Federal Awards (1,936,765)$      20,479,112$        18,503,617$           38,730$            
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Notes to Schedule of Expenditures of Federal Awards 
+For the Year Ended June 30, 2018 
+
+ 
+
+42 
+
+ 
+Note A: Basis of Presentation 
+ 
+The accompanying schedule of expenditures of federal awards (the Schedule) includes the federal award activity of Lawton Independent 
+School District No. 8, Comanche County, Oklahoma under programs of the federal government for the year ended June 30, 2018. The 
+information in this Schedule is presented in accordance with the requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform 
+Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards (Uniform Guidance). Because the Schedule 
+presents only a selected portion of the operations of Lawton Independent School District No.8, Comanche County, OK, it is not intended to 
+and does not present the basic financial statements as listed in the table of contents, of Lawton Independent School District No. 8, Comanche 
+County, OK.  
+ 
+Note B: Summary of Significant Accounting Policies 
+ 
+Expenditures reported on the Schedule are reported on using the cash basis of accounting.  Some amounts presented in the schedule may 
+differ from amounts presented in, or used in the preparation of the basic financial statements. Such expenditures are recognized following the 
+cost principles contained in the Uniform Guidance, where certain types of expenditures are not allowable or are limited as to reimbursement. 
+Nonmonetary assistance is reported in the schedule at the fair market value of commodities received. 
+ 
+Note C: Indirect Cost Rate  
+ 
+Lawton Independent School District No. 8, Comanche County, Oklahoma has elected not to use the 10% de minimis indirect cost rate 
+allowed under the Uniform Guidance.  
+ 
+Note D: Subrecipients  
+ 
+Lawton Independent School District No. 8, Comanche County, Oklahoma did not have any awards that have been passed through to 
+subrecipients.  
+ 
+ 
+ 
+  
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+OTHER INFORMATION
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Budgetary Comparison Schedule –General Fund (Unaudited) 
+For the Year Ended June 30, 2018 
+
+ 
+
+44 
+
+Actual Variance
+Actual With Final
+
+Original Final Amounts Budget
+REVENUE
+
+Property Taxes 13,985,594$         13,985,594$     15,837,333$     1,851,739$     
+Interest 1,686 1,686                436,436 434,750          
+County Revenue 3,015,660             3,015,660         2,346,482 (669,178)         
+State Revenue 69,247,216           69,247,216       69,816,478 569,262          
+Federal Revenue 22,337,652           22,337,652       20,098,471 (2,239,181)      
+Other 351,083                351,083            1,691,975         1,340,892       
+
+Total Revenue 108,938,891$       108,938,891$   110,227,175$   1,288,284$     
+
+EXPENDITURES
+Current
+
+Instruction 88,760,008$         88,760,008$     57,729,453$     31,030,555$   
+Support Services 23,786,367 23,786,367 43,873,692 (20,087,325)    
+Non-instruction Services 7,975,345 7,975,345 7,434,757 540,588          
+
+Other Outlays 5,604,179             5,604,179         271,304            5,332,875       
+Total Expenditures 126,125,899$       126,125,899$   109,427,936$   16,697,963$   
+
+Excess (Deficiency) of Revenues
+Over (Under) Expenditures (17,187,008)$       (17,187,008)$    799,239$          17,986,247$   
+
+Other Financing Sources
+Transfers In 330,000$              330,000$          307,679            (22,321)           
+Total Other Financing Sources 330,000                330,000            307,679            (22,321)           
+
+Net Change in Fund Balance (16,857,008)         (16,857,008)      1,106,918         17,963,926     
+
+Fund Balance - Beginning 16,857,008           16,857,008       16,857,008       -                  
+Fund Balance - Ending -$                         -$                      17,963,926$     17,963,926$   
+
+Budgeted Amounts
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Budgetary Comparison Schedule –Building (Unaudited) 
+For the Year Ended June 30, 2018 
+
+ 
+
+45 
+
+Variance
+Actual With Final
+
+Original Final Amounts Budget
+REVENUE
+
+Property Taxes 1,999,622$    1,999,622$     2,283,726$   284,104$        
+Federal Revenue 169,000         169,000          155,734        (13,266)           
+
+Total Revenue 2,169,849$    2,169,849$     2,439,460$   269,611$        
+
+EXPENDITURES
+Current
+
+Instruction 60,000$         60,000$          -$                  60,000$          
+Support Services 3,576,881      3,576,881       1,853,815 1,723,066       
+Non-instruction Services -                     -                     -                -                 
+
+Capital Outlay 169,000         169,000          219,309        (50,309)           
+Total Expenditures 3,805,881$    3,805,881$     2,073,124$   1,732,757$     
+
+Excess (Deficiency) of Revenues
+Over (Under) Expenditures (1,636,032)     (1,636,032)      366,336        2,002,368       
+
+Fund Balance - Beginning 1,636,032      1,636,032       1,636,032     -                 
+Fund Balance - Ending -$                   -$                   2,002,368$   2,002,368$     
+
+Budgeted Amounts
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Statement of Statutory Fidelity and Honesty Bonds (unaudited) 
+For the Year Ended June 30, 2018 
+
+46 
+
+ 
+ 
+
+Bonding 
+Company
+
+Position
+Bond Type Bond Number Amount Effective Dates
+
+CAN Surety Superintendent 0601-71399290 $100,000 7/1/2017 - 6/30/2018
+American States Treasurer 32S108651 $100,000 7/1/2017 - 6/30/2018
+American States Assistant Treasurer 32S108651 $100,000 7/1/2017 - 6/30/2018
+
+American States
+Custodian of Activity 
+
+Fund 32S108651 $10,000 7/1/2017 - 6/30/2018
+
+American States
+Assistant Custodian 
+
+of Activity Fund 32S108651 $1,000 7/1/2017 - 6/30/2018
+American States Clerk 32S108651 $1,000 7/1/2017 - 6/30/2018
+American States Deputy Clerk 32S108651 $1,000 7/1/2017 - 6/30/2018
+American States Minutes Clerk 32S108651 $1,000 7/1/2017 - 6/30/2018
+American States Encumbrance Clerk 32S108651 $1,000 7/1/2017 - 6/30/2018  
+
+ 
+ 
+
+
+
+ 
+
+2007 N. Commerce #200   ●   Ardmore, OK 73401      
+  Phone 580.826.3539   ●   Phone 405.322.5009   ●   Fax 855.999.2782      
+
+j‐acpas.com 
+ 
+ 
+
+47 
+
+ 
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL 
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF 
+
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT 
+AUDITING STANDARDS 
+
+ 
+To the Board of Education 
+Lawton Independent School District No. 8, Comanche County, Oklahoma 
+Lawton, Oklahoma 
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States the financial statements of the governmental 
+activities,  each major fund, and the aggregate remaining fund information of Lawton Independent 
+School District No. 8, Comanche County, Oklahoma, as of and for the year ended June 30, 2018, and 
+the related notes to the financial statements, which collectively comprise, Lawton Independent School 
+District No. 8, Comanche County, Oklahoma’s basic financial statements, and have issued our report 
+thereon dated April 29, 2019. Our report included an adverse opinion on U.S. generally accepted 
+accounting principles because the District prepares its financial statements on a prescribed regulatory 
+basis of accounting. Our report included a qualified regulatory basis opinion on governmental activities 
+and unmodified regulatory basis opinion on major funds and aggregate remaining funds.   
+Internal Control over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered Lawton Independent 
+School District No. 8, Comanche County, Oklahoma’s  internal control over financial reporting 
+(internal control) to determine the audit procedures that are appropriate in the circumstances for the 
+purpose of expressing our opinions on the financial statements, but not for the purpose of expressing 
+an opinion on the effectiveness of Lawton Independent School District No. 8, Comanche County, 
+Oklahoma’s internal control. Accordingly, we do not express an opinion on the effectiveness of 
+Lawton Independent School District No. 8, Comanche County, Oklahoma’s internal control. 
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a 
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a 
+material misstatement of the entity’s financial statements will not be prevented, or detected and 
+corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, 
+in internal control that is less severe than a material weakness, yet important enough to merit attention 
+by those charged with governance. 
+ 
+
+
+
+Government Auditing Standards 
+
+Government Auditing Standards
+
+
+
+ 
+
+2007 N. Commerce #200   ●   Ardmore, OK 73401      
+  Phone 580.826.3539   ●   Phone 405.322.5009   ●   Fax 855.999.2782      
+
+j‐acpas.com 
+ 
+ 
+
+49 
+
+ 
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM 
+
+AND ON INTERNAL CONTROL OVERCOMPLIANCE REQUIRED BY THE UNIFORM 
+GUIDANCE 
+
+ 
+ 
+To the Board of Education 
+Lawton Independent School District No. 8, Comanche County, Oklahoma 
+Lawton, Oklahoma 
+Report on Compliance for Each Major Federal Program 
+We have audited Lawton Independent School District No. 8, Comanche County, Oklahoma’s 
+compliance with the types of compliance requirements described in the OMB Compliance Supplement 
+that could have a direct and material effect on each of Lawton Independent School District No. 8, 
+Comanche County, Oklahoma’s major federal programs for the year ended June 30, 2018. Lawton 
+Independent School District No. 8, Comanche County, Oklahoma’s major federal programs are 
+identified in the summary of auditor’s results section of the accompanying schedule of findings and 
+questioned costs. 
+Management’s Responsibility 
+Management is responsible for compliance with the federal statutes, regulations and the terms and 
+conditions of its federal awards applicable to its federal programs. 
+Auditor’s Responsibility 
+Our responsibility is to express an opinion on compliance for each of Lawton Independent School 
+District No. 8, Comanche County, Oklahoma’s major federal programs based on our audit of the types 
+of compliance requirements referred to above. We conducted our audit of compliance in accordance 
+with auditing standards generally accepted in the United States of America; the standards applicable to 
+financial audits contained in Government Auditing Standards, issued by the Comptroller General of the 
+United States; and Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance).  
+Those standards and the Uniform Guidance require that we plan and perform the audit to obtain 
+reasonable assurance about whether noncompliance with the types of compliance requirements referred 
+to above that could have a direct and material effect on a major federal program occurred. An audit 
+includes examining, on a test basis, evidence about Lawton Independent School District No. 8, 
+Comanche County, Oklahoma’s compliance with those requirements and performing such other 
+procedures as we considered necessary in the circumstances. 
+We believe that our audit provides a reasonable basis for our qualified and unmodified opinions on 
+compliance for each major federal program. However, our audit does not provide a legal determination 
+of Lawton Independent School District No. 8, Comanche County, Oklahoma’s compliance. 
+ 
+
+
+
+ 
+
+50 
+
+ 
+Basis for Qualified Opinion on CFDA 12.556 Promoting K-12 Student Achievement at Military-
+Connected Schools  
+As described in the accompanying schedule of findings and questioned costs, Lawton Independent 
+School District No. 8, Comanche County, Oklahoma, did not comply with requirements regarding 
+CFDA 12.556 Promoting K-12 Student Achievement at Military-Connected Schools as described in 
+finding 2018-004 for Unallowed & Allowable costs/cost principles. Compliance with such 
+requirements is necessary, in our opinion, for Lawton Independent School District No. 8, Comanche 
+County, Oklahoma to comply with requirements applicable to that program.   
+Qualified Opinion on CFDA 12.556 Promoting K-12 Student Achievement at Military-Connected 
+Schools  
+In our opinion, except for the noncompliance described in the Basis for Qualified Opinion paragraph, 
+Lawton Independent School District No. 8, Comanche County, Oklahoma complied, in all material 
+respects, with the type of compliance requirements referred to above that could have a direct and 
+material effect on CFDA 12.556 Promoting K-12 Student Achievement at Military-Connected Schools 
+for the year ended June 30, 2018.  
+Basis for Qualified Opinion on CFDA 12.557 Military-Connected Schools-DoDEA Grant  
+As described in the accompanying schedule of findings and questioned costs, Lawton Independent 
+School District No. 8, Comanche County, Oklahoma, did not comply with requirements regarding 
+CFDA 12.557 Military-Connected Schools-DoDEA Grant as described in finding 2018-005 for 
+Unallowed & Allowable costs/cost principles. Compliance with such requirements is necessary, in our 
+opinion, for Lawton Independent School District No. 8, Comanche County, Oklahoma to comply with 
+requirements applicable to that program.   
+Qualified Opinion on CFDA 12.557 Military-Connected Schools-DoDEA Grant  
+In our opinion, except for the noncompliance described in the Basis for Qualified Opinion paragraph, 
+Lawton Independent School District No. 8, Comanche County, Oklahoma complied, in all material 
+respects, with the type of compliance requirements referred to above that could have a direct and 
+material effect on CFDA 12.557 Military-Connected Schools-DoDEA Grant for the year ended June 
+30, 2018.  
+Unmodified Opinion on Each of the Other Major Federal Programs 
+In our opinion, Lawton Independent School District No. 8, Comanche County, Oklahoma, complied, in 
+all material respects, with the types of compliance requirements referred to above that could have a 
+direct and material effect on each of its major federal programs identified in the summary of auditor’s 
+results section of the accompanying schedule of findings and questioned costs for the year ended June 
+30, 2018. 
+Other Matters  
+The results of our auditing procedures disclosed other instances of noncompliance, which are required 
+to be reported in accordance with the Uniform Guidance and which are described in the accompanying 
+schedule of findings and questioned costs as items 2018-003. Our opinion on each major federal 
+program is not modified with respects to these matters.  
+Lawton Independent School District No. 8, Comanche County, Oklahoma’s response to the 
+noncompliance findings identified in our audit is described in the accompanying schedule of findings 
+and questioned costs.  Lawton Independent School District No. 8, Comanche County, Oklahoma’s 
+
+
+
+deficiency in internal control over compliance
+
+material weakness in internal control over 
+compliance
+
+significant deficiency in internal control over compliance
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+52 
+
+ 
+Section I Summary of Auditor’s Results 
+ 
+Financial Statements:
+
+Type of audit report:
+
+Internal control over financial reporting: 
+Material weakness(es) identified? X Yes No
+Significant Deficiency(ies) identified 
+? Yes X None Reported 
+
+Noncompliance material to financial statement X Yes No
+
+Federal Awards: 
+
+Internal control over major program: 
+Material weakness(es) identified? X Yes No
+Significant Deficiency(ies) identified 
+? Yes X None Reported
+
+Type of auditors' report issued on compliance for major programs:
+
+X Yes No
+
+Identification of Major Programs:
+CFDA Number
+
+84.010
+84.041
+12.557
+12.556
+
+Auditee qualified as a low-risk auditee? Yes X No
+
+Name of Federal Program or Cluster
+Title I 
+
+Qualified 12.557 Invitational Grants for Military Connected Schools 
+
+Dollar threshold used to distinguish between Type A and 
+Type B programs: 750,000$                        
+
+Impact Aid 
+Invitational Grants for Military Connected Schools 
+Promoting K-12 Student Achievement at Millitary Connected Schools 
+
+Unmodified Regulatory Basis
+
+Any audit findings disclosed that are required to be 
+reported under 2 CFR section 200.516(a)?
+
+Unmodified 84.010 Title I 
+Unmodified 84.041 Impact Aid
+
+12.556 Promoting K-12 Student Achievement at Millitary Connected Schools Qualified 
+
+ 
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+53 
+
+ 
+Section II – Financial Statement Findings 
+ 
+2018-001  Financial Reporting 
+Condition:  Material adjustments related to debt and long term liabilities were 
+
+necessary to prepare the financial statements.  In addition, the District 
+was not able to provide supporting documentation to report capital assets 
+as required by the State Department of Education guidelines.  
+
+Criteria:   Generally accepted auditing standards require  the financial statements to 
+be a product of the financial reporting system of the entity being audited. 
+The government should be able to provide evidence that a sound 
+financial reporting system is in place to provide reasonable assurance 
+that management is able to prepare the financial statements in conformity 
+with the financial reporting framework.   
+
+Cause: Management has transitioned and a new financial process has not been 
+implemented.   
+
+Effect:  Potential that a material misstatement of the government’s financial 
+statements will not be prevented or detected on a timely basis. The 
+District was not able to demonstrate that a financial reporting system was 
+in place at a sufficient level to assess the adequacy. An audit scope 
+limitation was necessary due to a material financial asset that could not 
+be audited.   
+
+Recommendation: We recommend that the District evaluate its financial reporting system. 
+The system needs to provide documentation to evaluate its adequacy and 
+minimize the likelihood of material audit adjustments.  
+
+Views of Responsible Officials 
+and Planned Corrective 
+Action: The District’s financial reporting system was put in place by the previous 
+
+finance director. The system that was setup in the past was not conducive 
+to use by the current staff. Changes in the processes in the finance 
+department have been implemented.  The software vendor has conducted 
+training and is reevaluating the processes and procedures used. Ongoing 
+changes should address efficiency and effectiveness of the finance 
+department and minimize control issues. 
+
+ 
+2018-002  Negative Fund Balance  
+Condition:  Gifts Fund 81 has negative fund balance of $5,500 
+Criteria:   Oklahoma Statutes Title 70-5-157 B.1states: It shall be unlawful for any 
+
+officer or employee of the school district in any budget year, to create or 
+authorize creation of a deficit in any fund.   
+
+Cause: Checks issued exceed available resources.  
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+54 
+
+Effect:  Risk of overspending funds. 
+Recommendation: We recommend that the District evaluate monitoring procedures of funds 
+
+to ensure they have adequate resources before issuing checks.   
+Views of Responsible Officials 
+and Planned Corrective 
+Action: Reporting issues were encountered when uploading data to the State 
+
+Department of Education. District records indicated that the fund had a 
+positive balance. The Finance department is structured to ensure 
+monitoring procedures of all accounts are adhered to so that the 
+possibility of a negative balance is avoided. 
+
+Section III – Federal Award Findings and Questioned Costs 
+ 
+2018-003     Preparation of Schedule of Expenditures of Federal Awards (SEFA)  
+ 
+Condition:  The schedule of expenditures of federal awards was not prepared by the auditee. 
+
+Controls were not operating to ensure federal expenditures were properly 
+reconciled to federal revenues.  
+
+  
+Criteria:  2 CFR 200.510b Schedule of expenditures of federal awards: the auditee must 
+
+prepare a schedule of expenditures of federal awards for the period covered by 
+the auditee’s financial statements which must include the total federal awards 
+expended as determined in accordance with §200.502.    
+
+ 
+Context: During review of federal expenditures, material adjustments were required to 
+
+properly report expenditures on the schedule of expenditures of federal awards 
+when reconciled with federal revenues received and requested.    
+
+ 
+Cause:  Due to change in management at year end, final reconciliation of federal 
+
+expenditures to federal revenues was not completed.  The financial reporting 
+process was unable to demonstrate that the auditee could prepare the SEFA.   
+
+ 
+Effect:   Risk of material misstatements of federal expenditures    
+ 
+Recommendation:  We recommend that the District evaluates its financial reporting system to 
+
+include adequate controls over the accumulation of federal awards expended for 
+the preparation of the SEFA.   
+
+ 
+Views of Responsible  
+Officials And Planned  
+Corrective Action: The District’s financial reporting system has been modified to ensure that the 
+
+reports needed to reconcile expenditures to that of all Federal grants can be 
+prepared to remove any risk of material misstatement. Personnel responsible for 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+55 
+
+this area will be provided additional training to ensure that, in instances of 
+personnel changes, required actions occur without interruption or neglect.      
+
+ 
+U.S. Department of Defense   
+ 
+2018-004  Promoting K-12 Student Achievement at Military-Connected Schools 
+
+CFDA#12.556 (OCAS Project 775, 777 & 779) 
+ 
+Condition:  Federal program expenditures related to salaries/wages did not have proper time 
+
+and effort documentation.    
+  
+Criteria:  2 CFR 200.430(i)(1)(vii) Standards for documentation of personnel expenses. 
+
+(1) Charges to federal awards for salaries and wages must be based on records 
+that accurately reflect the work performed. Support the distribution of the 
+employee’s salary or wages among specific activities or cost objectives if the 
+employee works on more than one federal award.   
+
+ 
+Context: A sample of 83 was selected for a small population less than 250. Ten 
+
+expenditures were paid related with salaries/wages, which was not properly 
+supported by time and effort documentation.  
+
+ 
+Cause:  Internal controls were not implemented related to personnel expenses paid with 
+
+DoD federal funds.     
+ 
+Effect:   Risk of unallowable expenditures paid with federal dollars.   
+ 
+Recommendation:  We recommend that the District implement proper controls for compliance with 
+
+time and effort standards related to personnel costs paid with DoD federal funds.   
+ 
+Views of Responsible  
+Officials And Planned  
+Corrective Action:  The DoD grant department has been furnished with a sample spreadsheet 
+
+currently being used by the other federal program administrators to properly 
+track and monitor time and effort of all employees paid out of federal grants. 
+The necessary steps have been taken and procedures put in place to ensure that 
+time and effort is tracked and monitored as required. 
+
+ 
+ 
+U.S. Department of Defense   
+ 
+2018-005  Invitational Grants for Military-Connected Schools--DoDEA Grant   
+     CFDA#12.557 (OCAS Project 778) 
+ 
+Condition:  Federal program expenditures related to salaries/wages did not have proper time 
+
+and effort documentation.    
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+56 
+
+  
+Criteria:  2 CFR 200.430(i)(1)(vii) Standards for documentation of personnel expenses. 
+
+(1) Charges to federal awards for salaries and wages must be based on records 
+that accurately reflect the work performed. Support the distribution of the 
+employee’s salary or wages among specific activities or cost objectives if the 
+employee works on more than one federal award.   
+
+ 
+Context: A sample of 6 was selected for a small population. Two expenditures were paid 
+
+related with salaries/wages, which was not properly supported by time and effort 
+documentation.  
+
+ 
+Cause:  Internal controls were not implemented related to personnel expenses paid with 
+
+DoD federal funds.     
+ 
+Effect:   Risk of unallowable expenditures paid with federal dollars.   
+ 
+Recommendation:  We recommend that the District implement proper controls for compliance with 
+
+time and effort standards related to personnel costs paid with DoD federal funds.    
+ 
+Views of Responsible  
+Officials And Planned  
+Corrective Action:  The DoD grant department has been furnished with a sample spreadsheet 
+
+currently being used by the other federal program administrators to properly 
+track and monitor time and effort of all employees paid out of federal grants. 
+The necessary steps have been taken and procedures put in place to ensure that 
+time and effort is tracked and monitored as required. 
+
+ 
+
+
+
+Lawton Independent School District No. 8 
+Comanche County, Oklahoma 
+
+Summary Schedule of Prior Audit Findings  
+Year Ended June 30, 2018 
+
+ 
+
+57 
+
+ 
+Section II – Financial Statement Findings 
+ 
+None 
+
+Section III – Federal Award Findings and Questioned Costs 
+ 
+U.S. Department of Defense   
+ 
+2017-001  Promoting K-12 Student Achievement at Military-Connected Schools 
+
+CFDA#12.556 (OCAS Project 777 & 779) 
+ 
+Condition:  Federal program funds were used to fund elementary site professional 
+
+development, but only allowed for middle school and high school.    
+ 
+Recommendation:  The auditor recommended that the District stress the importance of the proper 
+
+internal controls established and that they should be followed.   
+ 
+Status:     Condition has been resolved  
+ 
+U.S. Department of Defense   
+ 
+2017-002  Promoting K-12 Student Achievement at Military-Connected Schools 
+
+CFDA#12.556 (OCAS Project 777 & 779) 
+ 
+Condition:  Property purchased with Federal funds were not accurately tracked and 
+
+maintained as property in accordance with federal regulations.  
+ 
+Recommendation:  The auditor recommended that the District implement policy and procedures 
+
+related to purchasing of equipment with Federal funds.  
+ 
+Status:     Condition has been resolved  
+ 
+U.S. Department of Defense   
+ 
+2017-003  Invitational Grants for Military-Connected Schools--DoDEA Grant   
+     CFDA#12.557 (OCAS Project 778) 
+ 
+Condition:  Property purchased with federal funds were not accurately tracked and 
+
+maintained as property in accordance with federal regulations.  
+ 
+Recommendation:  The auditor recommended that the District implement policy and procedures 
+
+related to purchasing of equipment with Federal funds.  
+ 
+Status:     Condition has been resolved  
+
+
+
+
+
+
+
+
+
+

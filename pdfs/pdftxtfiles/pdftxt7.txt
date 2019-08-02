@@ -1,0 +1,3905 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Oklahoma Panhandle State 
+University 
+
+ 
+An Organizational Unit of the Board of Regents 
+
+For the Oklahoma Agricultural and Mechanical Colleges 
+Financial Statements 
+
+with Independent Auditors’ Reports 
+ 
+
+June 30, 2018 and 2017 
+ 
+
+
+
+ 
+
+ 
+
+ 
+Contents 
+
+ 
+Independent Auditor’s Report 1 – 2  
+  
+Management’s Discussion and Analysis (Unaudited) 3 – 11 
+  
+Financial Statements  
+  
+Statements of net position 12 – 13 
+Statements of revenues, expenses and changes in net position 14 
+Statements of cash flows 15 – 16  
+Notes to financial statements 17 – 46 
+  
+Required Supplementary Information  
+  
+Schedule of the University’s proportionate share of the net pension liability – OTRS  
+
+(unaudited) 48 
+ 
+Schedule of the University’s changes in pension liability - SRA (unaudited) 
+
+ 
+49 
+
+ 
+Schedule of the University’s proportionate share of the OPEB liability (asset) – OTRS 
+        (unaudited) 
+ 
+Schedule of the University’s OPEB contributions – OTRS (unaudited) 
+ 
+
+ 
+ 
+
+50 
+ 
+
+51 
+
+Schedule of University’s changes in Total OPEB Liability – Death Benefit (unaudited) 52 
+  
+Schedule of University’s changes in Total OPEB Liability – Health Insurance Plan (unaudited) 53 
+
+ 
+Report on Internal Control Over Financial Reporting  
+and on Compliance and Other Matters Based on an   
+Audit of Financial Statements Performed in Accordance   
+With Government Auditing Standards 55 – 56  
+Report on Compliance for Each Major Program  
+and on Internal Control Over Compliance Required by  
+Uniform Guidance 57 – 58 
+  
+Schedule of expenditures of federal awards 59  
+Notes to schedule of expenditures of federal awards 60 
+Schedule of findings and questioned costs 61 – 62 
+Summary schedule of prior audit findings 63 – 64 
+  
+  
+  
+ 
+
+
+
+ 
+ 
+
+ 
+
+309 N. Bryant Ave. • Edmond, OK 73034 • 405.348.0615 • Fax 405.348.0931 • www.jmacpas.com 
+Member of AICPA and OSCPA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT 
+
+ 
+
+Board of Regents 
+
+Oklahoma Agricultural and Mechanical Colleges 
+
+Oklahoma Panhandle State University 
+
+Oklahoma City, Oklahoma 
+
+Report on the Financial Statements 
+
+We have audited the accompanying financial statements of Oklahoma Panhandle State University (the 
+
+University), an organizational unit of the Board of Regents for the Oklahoma Agricultural and Mechanical 
+
+Colleges (the Regents), which is a component unit of the State of Oklahoma, and its discretely presented 
+
+component unit, as of and for the year ended June 30, 2018, and the related notes to the financial statements, 
+
+which collectively comprise the University’s basic financial statements as listed in the table of contents. 
+
+Management’s Responsibility for the Financial Statements 
+
+Management is responsible for the preparation and fair presentation of these financial statements in 
+
+accordance with accounting principles generally accepted in the United States of America; this includes the 
+
+design, implementation, and maintenance of internal control relevant to the preparation and fair presentation 
+
+of financial statements that are free from material misstatement, whether due to fraud or error. 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express opinions on these financial statements based on our audit. We did not audit 
+
+the financial statements of the University’s discretely presented component unit, the Panhandle State 
+
+Foundation (the Foundation). Those financial statements were audited by other auditors, whose report has 
+
+been furnished to us, and our opinion, insofar as it relates to the amounts included for the Foundation, is 
+
+based solely on the report of the other auditors. We conducted our audit in accordance with auditing 
+
+standards generally accepted in the United States of America and the standards applicable to financial audits 
+
+contained in Government Auditing Standards, issued by the Comptroller General of the United States. 
+
+Those standards require that we plan and perform the audit to obtain reasonable assurance about whether 
+
+the financial statements are free from material misstatement. The financial statements of the Foundation 
+
+were not audited in accordance with Government Auditing Standards. 
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the 
+
+financial statements. The procedures selected depend on the auditor’s judgment, including the assessment 
+
+of the risks of material misstatement of the financial statements, whether due to fraud or error. In making 
+
+those risk assessments, the auditor considers internal control relevant to the entity’s preparation and fair 
+
+presentation of the financial statements in order to design audit procedures that are appropriate in the 
+
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal 
+
+control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of 
+
+accounting policies used and the reasonableness of significant accounting estimates made by management, 
+
+as well as evaluating the overall presentation of the financial statements. 
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our 
+
+audit opinions.
+
+http://www.jmacpas.com/
+
+
+ 
+
+ 
+ 
+
+Opinions 
+
+In our opinion, based on our audit and the report of the other auditor, the financial statements referred to 
+
+above present fairly, in all material respects, the respective financial position of the University and its 
+
+discretely presented component unit as of June 30, 2018, and the respective changes in financial position, 
+
+and, where applicable, cash flows thereof for the year then ended in accordance with accounting principles 
+
+generally accepted in the United States of America. 
+
+Change in Accounting Principle 
+
+As discussed in Note 1 to the financial statements, in 2018 the University adopted new accounting guidance, 
+
+GASB Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits Other Than 
+
+Pensions. Our opinion is not modified with respect to this matter. 
+
+Emphasis of Matter 
+
+As discussed in Note 1, the financial statements of the University are intended to present the financial 
+
+position, the changes in financial position, and, where applicable, cash flows of only that portion of the 
+
+Regents that is attributable to the transactions of the University. They do not purport to, and do not present 
+
+fairly the financial position of the Regents as of June 30, 2018, the changes in its financial position, or its 
+
+cash flows for the year then ended in conformity with accounting principles generally accepted in the United 
+
+States of America. Our opinion is not modified with respect to this matter. 
+
+Other Matters 
+
+Required Supplementary Information 
+
+Accounting principles generally accepted in the United States of America require that the management’s 
+
+discussion and analysis and the schedules related to other postemployment benefits and pension liabilities 
+
+and contributions be presented to supplement the basic financial statements. Such information, although 
+
+not a part of the basic financial statements, is required by the Governmental Accounting Standards Board, 
+
+who considers it to be an essential part of financial reporting for placing the basic financial statements in 
+
+an appropriate operational, economic, or historical context. We have applied certain limited procedures to 
+
+the required supplementary information in accordance with auditing standards generally accepted in the 
+
+United States of America, which consisted of inquiries of management about the methods of preparing the 
+
+information and comparing the information for consistency with management’s responses to our inquiries, 
+
+the basic financial statements, and other knowledge we obtained during our audit of the basic financial 
+
+statements. We do not express an opinion or provide any assurance on the information because the limited 
+
+procedures do not provide us with sufficient evidence to express an opinion or provide any assurance. 
+
+Other Reporting Required by Government Auditing Standards 
+
+In accordance with Government Auditing Standards, we have also issued our report dated October 31, 2018, 
+
+on our consideration of the University’s internal control over financial reporting and on our tests of its 
+
+compliance with certain provisions of laws, regulations, contracts, and grant agreements and other matters. 
+
+The purpose of that report is to describe the scope of our testing of internal control over financial reporting 
+
+and compliance and the results of that testing, and not to provide an opinion on internal control over 
+
+financial reporting or on compliance. That report is an integral part of an audit performed in accordance 
+
+with Government Auditing Standards in considering the University’s internal control over financial 
+
+reporting and compliance. 
+
+ 
+
+October 31, 2018 
+
+ 
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+Introduction 
+
+The discussion and analysis of Oklahoma Panhandle State University’s (the University) financial statements 
+provides an overview of the University’s financial activities for the year ended June 30, 2018, with fiscal 
+years 2017 and 2016 data presented for comparative purposes.  Since this discussion and analysis is 
+designed to focus on current activities resulting in change and current known facts, it should be read in 
+conjunction with the University’s basic financial statements and the footnotes. 
+
+Financial Highlights 
+
+During 2018, the University implemented GASB 75 Accounting and Financial Reporting for 
+Postemployment Benefits Other Than Pensions and restated its July 1, 2017 net position.  Due to the fact 
+that complete prior year information was not available, no prior periods presented in the basic financial 
+statements or in this MD&A have been restated for comparative purposes.  
+
+Net Position: For the year ended June 30, 2018, the University’s net position decreased by $389,005 from 
+actual operations and decreased by $1,129,417 as a result of the GASB 75 implementation for an overall 
+decrease in net position of $1,518,422. The decrease was in unrestricted net position 
+
+For the year ended June 30, 2017, the University’s net position increased by $60,951 from actual operations 
+and decreased by $179,035 as a result of the GASB 73 implementation for an overall decrease in net 
+position of $118,084. The decrease was in unrestricted net position 
+
+Total Revenues: Total revenues decreased from $20,934,299 for the year ended June 30, 2017 to 
+$20,476,152 for the year ended June 30, 2018.  The decrease was due mainly to decreases in 
+appropriations due to state-wide revenue shortfalls. 
+
+Total revenues decreased from $21,397,495 for the year ended June 30, 2016 to $20,934,299 for the year 
+ended June 30, 2017.  The decrease was due mainly to decreases in appropriations due to state-wide 
+revenue shortfalls and a decrease in overall financial aid revenue. 
+
+Total Expenses: Total expenses decreased from $20,873,348 for the year ended June 30, 2017 to 
+$20,865,157 for the year ended June 30, 2018. The decrease was a result of decreased compensation 
+expense due to the accounting for the OTRS net pension obligation. 
+
+Total expenses increased from $20,224,097 for the year ended June 30, 2016 to $20,873,348 for the year 
+ended June 30, 2017. The increase was a result of increased compensation expense due to the accounting 
+for the OTRS net pension obligation. 
+
+Components of Net Position: At June 30, 2018, the University’s net position decreased to $3,253,609 from 
+$4,772,031 at June 30, 2017, and $4,890,115 in 2016.  Graphically displayed, the comparative net position 
+increases (decreases) by category for the three fiscal years are shown below: 
+
+3
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+Financial Highlights (continued) 
+Net Investment in
+
+Capital Assets Restricted Unrestricted Total
+
+FY2018 10,853,813  $        838,224  $      (8,438,428)  $    3,253,609  $     
+FY2017* 9,762,503               1,354,016       (6,344,488)        4,772,031          
+
+Change in Net Position 1,091,310  $           (515,792)  $    (2,093,940)  $    (1,518,422)  $    
+
+FY2017* 9,762,503  $           1,354,016  $  (6,344,488)  $    4,772,031  $     
+FY2016* 8,840,261               1,247,661       (5,197,807)        4,890,115          
+
+Change in Net Position 922,242  $              106,355  $      (1,146,681)  $    (118,084)  $       
+
+* prior year amounts not restated for MD&A purposes
+
+Components of Revenues: The following chart provides a graphical breakdown of revenues by category 
+for the fiscal year ending June 30, 2018: 
+
+Operating Nonoperating Other Total
+Revenues Revenues Revenues Revenues
+
+9,747,335  $       8,681,617  $       2,047,200  $       20,476,152  $     
+
+ $(10,000,000)
+ $(8,000,000)
+ $(6,000,000)
+ $(4,000,000)
+ $(2,000,000)
+
+ $-
+ $2,000,000
+ $4,000,000
+ $6,000,000
+ $8,000,000
+
+ $10,000,000
+ $12,000,000
+
+Capital Assets Restricted Unrestricted
+
+2018 2017 2016
+
+48%
+
+42%
+
+10%
+
+Operating Revenues
+
+Nonoperating Revenues
+
+Other Revenues
+
+4
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+Using This Annual Report 
+
+The annual report consists of three basic financial statements:  the Statements of Net Position; the 
+Statements of Revenues, Expenses, and Changes in Net Position; and the Statements of Cash Flows. 
+
+The Statements of Net Position and the Statements of Revenues, Expenses, and Changes in Net Position 
+report information on the University as a whole and on its activities.  When revenues and other support 
+exceed expenses, the result is an increase in net position.  When the reverse occurs, the result is a 
+decrease in net position.  The relationship between revenues and expenses may be thought of as the 
+University operating results. 
+
+These two statements report the University’s net position and changes in them.  The University’s net 
+position - assets, plus deferred outflows of resources, less liabilities, less deferred inflows of resources, 
+equals net position - is one way to measure the University’s financial health, or financial position.  Over 
+time, increases or decreases in the University’s net position are one indicator of whether its financial health 
+is improving or deteriorating.  The reader will need to consider many other non-financial factors, such as 
+the trend and quality of applicants, freshman class size, student retention, condition of the buildings, and 
+the safety of the campus, to assess the overall health of the institution. 
+
+These statements include all assets, deferred outflows of resources, liabilities and deferred inflows of 
+resources using the accrual basis of accounting.  All of the current year’s revenues and expenses are taken 
+into account regardless of when cash is received or paid. 
+
+Statements of Net Position 
+
+The following schedules were prepared from the University’s statements of net position, which are 
+presented on an accrual basis of accounting. 
+
+For the year ended June 30, 2018, compared to the year ended June 30, 2017, deferred outflows decreased 
+and deferred inflows increased due to the changes in the OTRS net pension and OPEB obligation. 
+
+5
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+June 30 Increase Percent
+2018 2017* (Decrease) Change
+
+Assets
+Current assets 5,175,619$              4,924,571$              251,048$               5.10%              
+Noncurrent assets:
+
+Restricted cash and cash equivalents 507,125 1,257,072 (749,947)               (59.66%)          
+Capital assets, net of depreciation 22,010,760              22,255,914              (245,154)               (1.10%)            
+Other 284,742 224,978 59,764 26.56%            
+
+Total assets 27,978,246$            28,662,535$            (684,289)$             (2.39%)            
+
+Deferred outflows 2,529,940$              3,620,928$              (1,090,988)$          (30.13%)          
+
+Liabilities
+Current liabilities 2,070,902$              2,732,136$              (661,234)$             (24.20%)          
+Noncurrent liabilities 22,808,402              23,686,120              (877,718)               (3.71%)            
+
+Total liabilities 24,879,304$            26,418,256$            (1,538,952)$          (5.83%)            
+
+Deferred inflows 2,375,273$              1,093,176$              1,282,097$            117.28%          
+
+Net Position
+Net investment in capital assets 10,853,813$            9,762,503$              1,091,310$            11.18%            
+Restricted for expendable purposes 838,224 1,354,016 (515,792)               (38.09%)          
+Unrestricted (8,438,428)              (6,344,488)              (2,093,940)            33.00%            
+
+Total net position 3,253,609$              4,772,031$              (1,518,422)$          (31.82%)          
+
+* prior year amounts not restated for MD&A purposes
+
+For the year ended June 30, 2017, compared to the year ended June 30, 2016, deferred outflows increased 
+and deferred inflows decreased due to the changes in the OTRS net pension obligation. 
+
+June 30 Increase Percent
+2017* 2016* (Decrease) Change
+
+Assets
+Current assets 4,924,571$              5,715,012$              (790,441)$            (13.83%)          
+Noncurrent assets:
+
+Restricted cash and cash equivalents 1,257,072 932,477 324,595 34.81%            
+Capital assets, net of depreciation 22,255,914              22,921,598              (665,684)              (2.90%)            
+Other 224,978 274,349 (49,371) (18.00%)          
+
+Total assets 28,662,535$            29,843,436$            (1,180,901)$         (3.96%)            
+
+Deferred outflows 3,620,928$              1,081,919$              2,539,009$          234.68%          
+
+Liabilities
+Current liabilities 2,732,136$              2,655,960$              76,176$               2.87%              
+Noncurrent liabilities 23,686,120              21,726,592              1,959,528            9.02%              
+
+Total liabilities 26,418,256$            24,382,552$            2,035,704$          8.35%              
+
+Deferred inflows 1,093,176$              1,652,688$              (559,512)$            (33.85%)          
+
+Net Position
+Net investment in capital assets 9,762,503$              8,840,261$              922,242$             10.43%            
+Restricted for expendable purposes 1,354,016 1,247,661 106,355 8.52%              
+Unrestricted (6,344,488)              (5,197,807)              (1,146,681)           22.06%            
+
+Total net position 4,772,031$              4,890,115$              (118,084)$            (2.41%)            
+
+* prior year amounts not restated for MD&A purposes
+
+6
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+Statements of Revenues, Expenses and Changes In Net Position 
+
+Operating revenues and expenses for the fiscal year ended June 30, 2018, were as follows: 
+
+Operating Revenues 
+
+Operating Expenses 
+
+ $-
+
+ $2,000,000
+
+ $4,000,000
+
+ $6,000,000
+
+ $8,000,000
+
+ $10,000,000
+
+52%
+
+13%
+
+32%
+
+3%
+
+Tuition and fees, net
+
+Federal and local grants
+
+Auxiliary
+
+Other
+
+7
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+2017 vs. 2016 2017 vs. 2016 2016 vs. 2015 2016 vs. 2015
+Increase Percentage Increase Percentage
+
+2018 2017* (Decrease) Change 2016* (Decrease) Change
+Operating revenues:
+
+Tuition and fees, net 5,099,099  $     4,947,650  $     151,449  $         3.06%             4,890,058  $     57,592  $        1.18%             
+Federal and local grants 1,296,820         1,029,969         266,851             25.91%           1,169,219         (139,250)         (11.91%)          
+Auxiliary 3,088,155         3,435,564         (347,409)            (10.11%)          3,581,978         (146,414)         (4.09%)            
+Other 263,261            253,270            9,991                 3.94%             180,392            72,878            40.40%           
+
+Total operating revenue 9,747,335         9,666,453         80,882               0.84%             9,821,647         (155,194)         (1.58%)            
+Less operating expenses 20,363,694       20,373,054       (9,360)                (0.05%)            19,637,644       735,410          3.74%             
+
+Net operating  loss (10,616,359)      (10,706,601)      90,242               (0.84%)            (9,815,997)        (890,604)         9.07%             
+
+Nonoperating revenue:
+State appropriation 5,581,936         6,004,661         (422,725)            (7.04%)            6,444,629         (439,968)         (6.83%)            
+On-behalf appropriations for OTRS 442,371            433,582            8,789                 2.03%             478,969            (45,387)           (9.48%)            
+Federal and state grants 2,338,696         2,263,770         74,926               3.31%             2,638,265         (374,495)         (14.19%)          
+Other nonoperating revenue 233,205            167,055            66,150               100.00%         - 167,055          100.00%         
+Investment income 85,409              90,064              (4,655)                (5.17%)            99,969              (9,905)             (9.91%)            
+Interest expense (501,463)           (500,294)           (1,169)                0.23%             (586,453)           86,159            (14.69%)          
+
+Net nonoperating 
+revenue 8,180,154         8,458,838         (278,684)            (3.29%)            9,075,379         (616,541)         (6.79%)            
+
+Other revenues, expenses, gains and losses:
+State appropriations restricted
+
+for capital purposes 1,128,991         1,112,009         16,982               1.53%             1,051,848         60,161            5.72%             
+On-behalf appropriations
+
+for OCIA capital leases 918,209            1,196,705         (278,496)            (23.27%)          862,168            334,537          38.80%           
+Total other gains,
+losses, revenues and
+expenses 2,047,200         2,308,714         (261,514)            (11.33%)          1,914,016         394,698          20.62%           
+
+Change in net position (389,005)           60,951              (449,956)            (738.23%)        1,173,398         (1,112,447)      (94.81%)          
+
+Net position, beginning as previously reported 4,772,031         4,711,080         60,951               1.29%             3,716,717         994,363          26.75%           
+Cummulative effect of implementing GASB No. 75 (1,129,417)        - (1,129,417)         100.00%         - - - %               
+Net position, beginning (restated) 3,642,614         4,711,080         (1,068,466)         (22.68%)          3,716,717         994,363          26.75%           
+Net position, ending 3,253,609  $     4,772,031  $     (1,518,422)  $     (31.82%)          4,890,115  $     (118,084)  $     (2.41%)            
+
+* prior year amounts not restated for MD&A purposes
+
+8
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+Statements of Cash Flows 
+
+Another way to assess the financial health of an institution is to look at the Statements of Cash Flows.  Its 
+primary purpose is to provide relevant information about the cash receipts and cash payments of an entity 
+during a period.  The Statements of Cash Flows also helps users assess an entity’s ability to generate future 
+net cash flows, its ability to meet its obligations as they come due, and its needs for external financing. 
+
+2018 2017 2016
+Cash Provided by (Used in):
+
+Operating activities (8,785,736)  $    (8,583,246)  $    (8,604,196)  $    
+Noncapital financing activities 7,920,632   8,261,574   9,049,873   
+Investing activities 82,822   86,337   91,825   
+Capital and related financing activities (742,235)           (404,953)           (352,592)           
+
+Net increase (decrease) in cash (1,524,517)        (640,288)           184,910   
+
+Cash and cash equivalents:
+Beginning 5,226,409   5,866,697   5,681,787   
+Ending 3,701,892  $     5,226,409  $     5,866,697  $     
+
+Years Ended June 30
+
+Summary of Net Position 
+
+Although the statements of revenues, expenses, and changes in net position show a decrease in net 
+position from operations of $389,005 during fiscal year 2018 this is representative of all activities combined. 
+Management believes that it is important to point out the net change in net position for each major area of 
+the University.  This is displayed below. 
+
+2018 vs. 2017 2018 vs. 2017 2017 vs. 2016 2017 vs. 2016
+Increase Percentage Increase Percentage
+
+2018 2017* (Decrease) Change 2016* (Decrease) Change
+
+Educational and general 1,411,298  $          1,711,857  $          (300,559)  $         (17.56%)             2,868,577  $       (1,156,720)  $       (40.32%)            
+
+Auxiliary operations 1,314,082              1,724,401              (410,319)                (23.79%)            1,639,813              84,588                  5.16%                 
+
+Pension and OPEB Obligation (11,163,808)           (9,780,746)          (1,383,062)           14.14%               (9,706,197)           (74,549)                0.77%                
+
+Restricted net position 483,367               259,315                224,052               86.40%             222,169                37,146                   16.72%              
+
+Net positon restricted
+
+for capital projects 354,857               1,094,701              (739,844)              (67.58%)            1,025,492             69,209                  6.75%                
+
+Capital assets 10,853,813           9,762,503            1,091,310               11.18%                8,840,261             922,242               10.43%              
+
+3,253,609  $       4,772,031  $        (1,518,422)  $       (31.82%)             4,890,115  $         (118,084)  $           (2.41%)               
+
+*prior year amounts not restated for MD&A purposes
+
+The unrestricted net position category contains all activity associated with the implementation and reporting 
+of multiple GASB Statements regarding accounting and financial reporting for pensions and other 
+postemployment benefits. 
+
+9
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+Capital Assets 
+
+At June 30, 2018, the University has approximately $22 million invested in capital assets, net of 
+accumulated depreciation of $31.2 million.  Depreciation charges totaled $1,427,540 for the year ended 
+June 30, 2018, compared to $1,453,027 for the year ended June 30, 2017, and $1,484,144 for the year 
+ended June 30, 2016.  Details of these assets for the three years are shown below. 
+
+Year Ended June 30
+2018 2017 2016
+
+Capital assets:
+Land 361,163  $         361,163  $         361,163  $         
+Construction in progress 579,088             637,382             21,516               
+Non-major infrastructure 9,976,218          9,976,218          9,976,218          
+Land improvements 1,610,119          1,535,403          1,535,403          
+Buildings 32,860,779       31,788,422       31,694,949       
+Furniture, fixtures, and equipment 6,289,943          6,479,282          6,437,997          
+Library materials 1,566,739          2,055,843          2,057,566          
+
+Total capital assets 53,244,049       52,833,713       52,084,812       
+Less accumulated depreciation 31,233,289       30,577,799       29,163,214       
+
+Net capital assets 22,010,760  $   22,255,914  $   22,921,598  $   
+
+Outstanding Debt 
+
+For the year ended June 30, 2018, the University had $11,915,766 in debt outstanding, compared to 
+$12,145,825 at June 30, 2017, and $13,697,066 at June 30, 2016.  The table below summarizes these 
+amounts by type. 
+
+Year Ended June 30
+2018 2017 2016
+
+ODFA-Series 2009 20yr 1,117,000  $      1,198,250  $      1,283,500  $     
+ODFA-Series 2009 15yr 143,167             164,250             186,834             
+OCIA-Series 2010A - 695,541             1,376,150          
+ODFA-Series 2011 775,000             796,000             815,000             
+OCIA-Series 2014A 3,574,767          3,574,767          3,831,646          
+ODFA-Series 2014A-2002 808,916             996,416             1,178,833          
+ODFA-Series 2014A-2004A 731,667             840,000             945,250             
+ODFA-Series 2014B 3,638,334          3,823,834          4,005,417          
+OCIA-Series 2014B 38,582                56,767                74,436               
+ODFA-Series 2017E 1,088,333          - - 
+
+Total capital leases 11,915,766  $   12,145,825  $   13,697,066  $   
+
+10
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the  
+Oklahoma Agricultural and Mechanical Colleges) 
+Management’s Discussion and Analysis- (Unaudited) 
+Years Ended June 30, 2018, 2017, and 2016 
+
+Component Unit 
+
+Panhandle State Foundation (the Foundation) meets the criteria for inclusion as a discretely presented 
+component unit of the University.  The most recent financial statements of the Foundation are included 
+under the heading “Foundation”. 
+
+Summary 
+
+The University’s Educational & General Fund ended the year with a decrease of $300,559 in net position 
+or 17.6%.  The University’s Educational & General Fund ended the year with net reserves of 11.8% of 
+Educational & General Fund expenditures.  
+
+The University ended fiscal year 2018 with an overall decrease of $1,518,422 in total net position.  This is 
+a 31.8% decrease in overall net position.  This overall decrease in net position was the combination of a 
+decrease from current year activity of $389,005 and a decrease as a result of the implementation of GASB 
+75 of $1,129,417, which shows up in unrestricted net position. 
+
+The fall 2018 enrollment for the University was a head count of 1,264, which is a 9.6% increase from the 
+fall 2017 of 1,153.  This follows a decrease of 5.8% in headcount for the fall 2017 headcount of 1,153 over 
+the fall 2016 headcount of 1,224.  Credit hours are up for the fall of 2018 from the fall of 2017 by 8.0% after 
+being down by 2.9% for the fall of 2017 over the fall of 2016. 
+
+Contacting the University’s Financial Management 
+
+The University’s financial statements are designed to provide financial statement readers with a general 
+overview of the University’s finances and to show accountability for the money it receives.  If you have 
+questions about the University’s financial statements or need additional financial information, contact the 
+Business Office at P. O. Box 430, Goodwell, OK 73939. 
+
+11
+
+
+
+Oklahoma Panhandle State University
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges)
+Statements of Net Position
+
+University Foundation
+June 30 December 31
+
+Assets 2018 2017 2017 2016
+Current Assets:
+
+Cash and cash equivalents 2,779,082  $     3,868,786  $     461,131  $        433,638  $        
+Restricted cash and cash equivalents 415,685            100,551            - - 
+Restricted investments 1,063,061         - - - 
+Certificates of deposit - - 160,000            160,000            
+Accounts receivable, net 329,480            334,220            - - 
+Grants receivable 71,690               179,593            - - 
+Interest receivable 6,194                 7,034                 946   946   
+Inventories 510,427            434,387            - - 
+
+Total current assets 5,175,619         4,924,571         622,077            594,584            
+
+Noncurrent Assets:
+Restricted cash and cash equivalents 507,125            1,257,072         - - 
+Restricted investments 161,685            158,258            13,925,142       13,052,476       
+Student loans receivable, net 52,330               66,720               - - 
+Restricted net OPEB asset 70,727               - - - 
+Investments - - 30,722               25,994               
+Capital assets, net 22,010,760       22,255,914       - - 
+
+Total noncurrent assets 22,802,627       23,737,964       13,955,864       13,078,470       
+
+Total assets 27,978,246  $  28,662,535  $  14,577,941  $  13,673,054  $  
+
+Deferred Outflows of Resources
+Deferred outlfows related to OPEB 10,130  $          -$  -$  -$  
+Deferred outlfows related to pensions 2,519,810         3,620,928         - - 
+
+Total deferred outflows 2,529,940  $     3,620,928  $     -$  -$  
+
+(Continued)
+
+12
+
+
+
+ 
+
+Oklahoma Panhandle State University
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges)
+Statements of Net Position (Continued)
+
+University Foundation
+June 30 December 31
+
+Liabilities and Net Position 2018 2017 2017 2016
+Current Liabilities:
+
+Accounts payable 508,271  $       501,672  $       -$                  -$                  
+Accrued liabilities 243,959           269,759           -                    -                    
+Unearned revenues 183,258           206,268           -                    -                    
+Student and other deposits 132,140           143,731           189,110           189,920           
+Accrued compensated absences 244,029           265,325           8,987                7,520                
+Current portion of noncurrent liabilities 759,245           1,345,381        -                    -                    
+
+Total current liabilities 2,070,902        2,732,136        198,097           197,440           
+
+Noncurrent Liabilities, net of current portion:
+Total OPEB liability 976,255           40,909              -                    -                    
+Federal loan program contributions refundable 27,664              27,664              -                    -                    
+Net pension obligation 10,501,352      12,643,504      -                    -                    
+Premium on capital lease obligation 119,621           146,610           -                    -                    
+Capital lease obligations 11,183,510      10,827,433      -                    -                    
+
+Total noncurrent liabilities 22,808,402      23,686,120      -                    -                    
+
+Total liabilities 24,879,304  $ 26,418,256  $ 198,097  $       197,440  $       
+
+Deferred Inflows of Resources
+Deferred credit on OCIA lease restructure 159,132  $       173,987  $       -$                  -$                  
+Deferred inflows related to pensions 1,830,217        919,189           -                    -                    
+Deferred inflows related to OPEB 385,924           -                    -                    -                    
+
+Total deferred inflows 2,375,273  $    1,093,176  $    -$                  -$                  
+
+Net Position:
+Net investment in capital assets 10,853,813  $ 9,762,503  $    -$                  -$                  
+Restricted:
+
+Nonexpendable - scholarships and other -                    -                    4,738,888        4,576,276        
+Expendable:
+
+Scholarships, research, instruction
+and other 255,274           30,117              806,752           502,103           
+
+Loans 215,144           229,198           -                    -                    
+Capital projects 354,857           1,094,701        -                    -                    
+OPEB 12,949              -                    -                    -                    
+
+Unrestricted (8,438,428)       (6,344,488)       8,834,204        8,397,235        
+Total net position 3,253,609  $    4,772,031  $    14,379,844  $ 13,475,614  $ 
+
+See notes to financial statements.  
+
+13
+
+
+
+ 
+
+Oklahoma Panhandle State University
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges)
+Statements of Revenues, Expenses and Changes in Net Position
+
+University Foundation
+Year Ended June 30, Year Ended December 31,
+
+2018 2017 2017 2016
+Operating revenues:
+
+Student tuition and fees, net of 
+scholarship discounts and allow ances of
+$5,499,000 and $5,837,000 in 2018 and 2017, respectively 5,099,099  $   4,947,650  $     -$                  -$                  
+
+Federal grants and contracts 398,419          370,749            -                    -                    
+State and local grants and contracts 9,740              12,162              -                    -                    
+Non-governmental grants and contracts 888,661          647,058            -                    -                    
+Auxiliary enterprise charges:
+
+Housing, net of scholarship discounts and allow ances of
+$232,000 and $246,000 in 2018 and 2017, respectively 863,215          1,000,388         -                    -                    
+
+Food service, net of scholarship discounts and allow ances
+of $58,000 and $61,000 in 2018 and 2017, respectively 811,503          775,192            -                    -                    
+
+Bookstore 506,362          543,302            -                    -                    
+Athletics 149,123          217,497            -                    -                    
+All other 757,952          899,185            -                    -                    
+
+Gifts and contributions -                  -                    1,236,411         769,641            
+Other operating revenues 263,261          253,270            -                    -                    
+
+Total operating revenues 9,747,335       9,666,453         1,236,411         769,641            
+
+Operating expenses:
+Compensation and employee benefits 9,887,597       10,492,167       102,740            97,864              
+Contractual services 2,679,964       2,704,932         13,171              12,915              
+Supplies and materials 1,394,885       1,460,755         2,628                2,059                
+Utilities 878,721          779,692            -                    -                    
+Communications 57,545            82,099              -                    -                    
+Other operating expenses 2,191,941       2,088,589         21,625              23,532              
+Scholarships and fellow ships 1,845,501       1,311,793         1,380,944         734,900            
+Depreciation 1,427,540       1,453,027         272                   971                   
+
+Total operating expenses 20,363,694     20,373,054       1,521,380         872,241            
+Operating loss (10,616,359)    (10,706,601)      (284,969)           (102,600)           
+
+Nonoperating revenues (expenses):
+State appropriations 5,581,936       6,004,661         -                    -                    
+OTRS on-behalf contributions 442,371          433,582            -                    -                    
+Federal grants 2,084,312       1,938,562         -                    -                    
+State grants 254,384          325,208            -                    -                    
+Contributions and other nonoperating revenues 233,205          167,055            -                    -                    
+Net realized and unrealized gains and losses 
+
+on investments -                  -                    532,115            2,610,086         
+Investment income 85,409            90,064              657,084            557,308            
+Interest expense (501,463)         (500,294)           -                    -                    
+
+Net nonoperating revenues (expenses) 8,180,154       8,458,838         1,189,199         3,167,394         
+
+Gains (loss) before other revenues, 
+expenses, gains and losses (2,436,205)      (2,247,763)        904,230            3,064,794         
+
+State appropriations restricted for capital purposes 1,128,991       1,112,009         -                    -                    
+On-behalf payments for OCIA capital leases 918,209          1,196,705         -                    -                    
+
+Change in net position (389,005)         60,951              904,230            3,064,794         
+
+Net position, beginning (as previously reported) 4,772,031       4,711,080         13,475,614       10,410,820       
+Cummulative effect of implementing GASB No. 75 (1,129,417)      -                    -                    -                    
+Net position, beginning (restated) 3,642,614       4,711,080         13,475,614       10,410,820       
+Net position, ending 3,253,609  $   4,772,031  $     14,379,844  $   13,475,614  $   
+
+See notes to f inancial statements.
+
+14
+
+
+
+ 
+Oklahoma Panhandle State University
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges)
+Statements of Cash Flows
+
+Year Ended June 30,
+2018 2017
+
+Cash Flows from Operating Activities:
+Student tuition and fees 6,302,877  $      5,258,564  $      
+Grants and contracts 1,404,723          850,376            
+Auxiliary enterprise charges 1,866,107          3,137,124          
+Other operating receipts 277,651            267,342            
+Payments to employees for salaries and benefits (9,511,332)         (9,974,292)         
+Payments to suppliers (9,125,762)         (8,122,360)         
+
+Net cash used in operating activities (8,785,736)         (8,583,246)         
+
+Cash Flows from Noncapital Financing Activities:
+State appropriations 5,581,936          6,004,661          
+Federal and state grants 2,338,696          2,256,913          
+Federal direct student loans receipts 3,450,084          3,626,462          
+Federal direct student loans disbursements (3,450,084)         (3,626,462)         
+
+Net cash provided by noncapital 
+financing activities 7,920,632          8,261,574          
+
+Cash Flows from Capital and Related
+Financing Activities:
+Cash paid for capital assets (1,186,213)         (787,343)           
+Capital grants and gifts received 1,362,196          1,279,064          
+Proceeds of capital debt 71,939              -                   
+Interest paid on capital debt and leases (338,824)           (300,590)           
+Principal payments on capital debt (651,333)           (596,084)           
+
+Net cash used in capital and related
+financing activities (742,235)           (404,953)           
+
+Cash Flows from Investing Activities:
+Sale (purchase) of investments (3,427)               (4,278)               
+Interest received on investments 86,249              90,615              
+
+Net cash provided by investing activities 82,822              86,337              
+
+Net decrease in cash and 
+cash equivalents (1,524,517)         (640,288)           
+
+Cash and cash equivalents:
+Beginning 5,226,409          5,866,697          
+Ending 3,701,892  $      5,226,409  $      
+
+(Continued)  
+
+15
+
+
+
+ 
+Oklahoma Panhandle State University
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges)
+Statements of Cash Flows (Continued)
+
+Year Ended June 30,
+2018 2017
+
+Reconciliation of Operating Loss to Net Cash
+Used in Operating Activities:
+Operating loss (10,616,359)  $   (10,706,601)  $   
+Adjustments to reconcile operating loss
+
+to net cash used in operating activities:
+Depreciation and amortization 1,427,540          1,453,027          
+Net loss on disposal of fixed assets 3,827                -                   
+On-behalf contributions to teachers' retirement system 442,371            433,582            
+Changes in operating assets and liabilities:
+
+Accounts and other receivables 127,033            (35,532)             
+Inventories (76,040)             40,132              
+Restricted net OPEB asset (70,727)             (165,521)           
+Deferred outflows related to OPEB 200                   -                   
+Deferred outflows related to pensions 1,090,788          (2,539,009)         
+Accounts payable and accrued liabilities (19,201)             244,985            
+Total OPEB liability (194,071)           -                   
+Net pension obligation (2,142,152)         3,179,776          
+Deferred inflows related to OPEB 385,924            -                   
+Deferred inflows related to pensions 911,028            (544,657)           
+Unearned revenue (23,010)             48,006              
+Compensated absences  (21,296)             (1,004)               
+Student and other deposits (11,591)             9,570                
+
+Net cash used in operating activities (8,785,736)  $     (8,583,246)  $     
+
+Noncash Investing, Noncapital Financing and 
+Capital and Related Financing Activities:
+Interest on capital debt paid by state
+
+agency on behalf of the University 204,483  $         241,548  $         
+Principal on capital debt paid by state
+
+agency on behalf of the University 713,726            955,157            
+
+Reconciliation of Cash and Cash Equivalents
+to the Statements of Net Position:
+Current assets:
+
+Cash and cash equivalents 2,779,082  $      3,868,786  $      
+Restricted cash and cash equivalents 415,685            100,551            
+
+Noncurrent assets:
+Restricted cash and cash equivalents 507,125            1,257,072          
+
+Total cash and cash equivalents 3,701,892  $      5,226,409  $      
+
+See notes to financial statements.  
+ 
+
+16
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 1. Summary of Significant Accounting Policies 
+ 
+Nature of operations: Oklahoma Panhandle State University (the University) is a baccalaureate degree-
+granting institution established by an act of the Oklahoma State Legislature in 1909. The University’s 
+mission is to provide higher education primarily for the people of the Oklahoma Panhandle and surrounding 
+areas through academic programs, cultural enrichment, lifelong learning experiences and public service 
+activities. The University is under the governance of the Board of Regents for the Oklahoma Agricultural and 
+Mechanical Colleges (the Board of Regents). 
+ 
+Reporting entity: The University is one of five institutions of higher education in Oklahoma that comprise 
+the Oklahoma Agricultural and Mechanical Colleges, which in turn is part of the Higher Education 
+component unit of the State of Oklahoma. 
+ 
+The Board of Regents has constitutional authority to govern, control and manage the Oklahoma Agricultural 
+and Mechanical Colleges, which consists of Connors State College, Langston University, Northeastern 
+Oklahoma A&M College, Oklahoma Panhandle State University and Oklahoma State University. This 
+authority includes but is not limited to the power to designate management, the ability to significantly 
+influence operations, acquire and take title to real and personal property in its name, and appoint or hire all 
+necessary officers, supervisors, instructors, and employees for member institutions. 
+ 
+Accordingly, the University is considered an organizational unit of the Oklahoma Agricultural and 
+Mechanical Colleges reporting entity for financial reporting purposes due to the significance of its legal, 
+operational and financial relationships with the Board of Regents, as defined in Section 2100 of the 
+Governmental Accounting Standards Board (GASB) Codification of Governmental Accounting and 
+Financial Reporting Standards. 
+ 
+Component unit: Panhandle State Foundation (the Foundation) is a legally separate, tax-exempt 
+component unit of the University. Although the University does not control the timing or amount of receipts 
+from the Foundation, the majority of resources, or income thereon, which the Foundation holds and invests 
+is restricted to the activities governed by donors, bond documents and/or trustees. Accordingly, resources 
+received and held by the Foundation can only be used by, or for the benefit of, the University. The 
+Foundation is considered a discretely-presented component unit of the University under the definition of 
+GASB Statement No. 39. The Foundation has a December 31st year end and reports under Financial 
+Accounting Standards Board (FASB) Accounting Standards Codification (ASC). As such, certain revenue 
+recognition criteria and presentation features are different from GASB revenue recognition criteria and 
+presentation features. No modifications have been made to the Foundation’s financial information for these 
+differences. The Foundation prepares separate, standalone financial statements which may be obtained by 
+contacting the Foundation’s management. 
+ 
+Financial statement presentation: The Governmental Accounting Standards Board (GASB) is the 
+recognized standard setting body for accounting principles generally accepted in the United States of 
+America (U.S. GAAP) applicable to public sector institutions of higher education. The University applies all 
+applicable GASB pronouncements. 
+ 
+Basis of accounting: For financial reporting purposes, the University is considered a special-purpose 
+government engaged only in business-type activities. Accordingly, the University’s financial statements 
+have been presented using the economic resources measurement focus and the accrual basis of 
+accounting.   Under the accrual basis, revenues are recognized when earned, and expenses are recorded 
+when an obligation has been incurred. All significant intra-agency transactions have been eliminated.
+  
+
+17
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 1. Summary of Significant Accounting Policies (Continued) 
+ 
+Cash equivalents: For purposes of the statements of cash flows, the University considers all highly-liquid 
+investments with an original maturity of three months or less to be cash equivalents. Funds invested through 
+the State Treasurer’s Cash Management Program are considered cash equivalents. 
+ 
+Investments: The University accounts for its investments at fair value based on quoted market prices. 
+Changes in unrealized gain (loss) on the carrying value of investments are reported as a component of 
+investment income in the statements of revenues, expenses, and changes in net position. 
+ 
+Accounts receivable: Accounts receivable consist of tuition and fee charges to students and fees for 
+auxiliary enterprise services provided to students, faculty, and staff, the majority of each residing in the 
+State of Oklahoma. Accounts receivable are recorded net of estimated uncollectible amounts. The University 
+determines its allowance by considering a number of factors, including the length of time accounts 
+receivable are past due, the University’s previous loss history and the condition of the general economy 
+and the industry as a whole. The University writes off specific accounts receivable when they become 
+uncollectible, and payments subsequently received on such receivables are credited to the allowance for 
+doubtful accounts. 
+ 
+A student account receivable and student loan receivable are considered to be past due if any portion of the 
+receivable balance is outstanding for more than 90 days after the end of the semester. Late charges are 
+generally assessed and, when they are assessed, are included in income and trade accounts receivable. 
+Students may be granted a deferment, forbearance or cancellation of their student loan receivable based 
+on eligibility requirements defined by the Department of Education. 
+ 
+Accounts receivable also include amounts due from federal, state and local governments, or private 
+sources, in connection with reimbursement of allowable expenditures made pursuant to the University’s 
+grants and contracts. 
+ 
+Inventories: Inventories consist primarily of rental books, books and supplies held for resale, and livestock. 
+Rental books are valued at amortized cost, using an average three-year life. Books and supplies held for 
+resale are valued at the lower of cost or market on the first-in, first-out basis. Livestock are valued at 
+estimated current fair market value. 
+ 
+Restricted cash and investments: Cash and investments that are externally restricted to make debt 
+service payments, to maintain sinking or reserve funds or to purchase capital or other noncurrent assets 
+are classified as restricted assets in the statements of net position. 
+ 
+Capital assets: Capital assets are recorded at cost at the date of acquisition or fair market value at the 
+date of donation, in the case of gifts. For equipment, the University’s capitalization policy includes all items 
+with a unit cost of $5,000 or more and an estimated useful life of greater than one year. Renovations to 
+buildings, infrastructure and land improvements that significantly increase the value or extend the useful 
+life of the structure are capitalized. Routine repairs and maintenance are charged to operating expense in 
+the year in which the expense was incurred. 
+ 
+Depreciation is computed using the straight-line method over the estimated useful lives of the assets, 
+generally 15 to 40 years for buildings, infrastructure and land improvements, and 3 to 10 years for library 
+materials and equipment.  
+
+18
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 1. Summary of Significant Accounting Policies (Continued) 
+ 
+Unearned revenues: Unearned revenues include amounts received for tuition and fees and certain 
+auxiliary activities prior to the end of the fiscal year but related to the subsequent accounting period. 
+Unearned revenues also include amounts received from grant and contract sponsors that have not yet been 
+earned. 
+ 
+Compensated absences: Employee vacation pay is accrued at year-end for financial statement purposes. 
+The liability and expense incurred are recorded at year-end as accrued vacation payable in the statements 
+of net position and as a component of compensation and benefit expense in the statements of revenues, 
+expenses and changes in net position. 
+ 
+Noncurrent liabilities: Noncurrent liabilities include (1) principal amounts of revenue bonds payable, notes 
+payable and capital lease obligations with contractual maturities greater than one year and (2) estimated 
+amounts for accrued compensated absences and other liabilities that will not be paid within the next fiscal 
+year. 
+ 
+Use of estimates: The preparation of financial statements in conformity with accounting principles 
+generally accepted in the United States of America requires management to make estimates and 
+assumptions that affect certain reported amounts and disclosures; accordingly, actual results could differ 
+from those estimates. 
+ 
+Net position: The University’s net position is classified as follows: 
+ 
+Net investment in capital assets: The net investment in capital assets component of net position consists 
+of capital assets, net of accumulated depreciation, reduced by the outstanding balances of bonds, notes or 
+other borrowings that are attributable to the acquisition, construction or improvement of those assets. 
+Deferred outflows of resources and deferred inflows of resources that are attributable to the acquisition, 
+construction or improvement of those assets or related debt are also included in this component of net 
+position. To the extent debt has been incurred but not yet expended for capital assets, such amounts are not 
+included as a component of net investment in capital assets. 
+ 
+Restricted net position - expendable: Restricted net position - expendable includes resources in which the 
+University is legally or contractually obligated to spend resources in accordance with restrictions imposed 
+by external third parties. 
+ 
+Unrestricted net position: Unrestricted net position represents resources derived from student tuition and 
+fees, state appropriations and sales and services of educational departments and auxiliary enterprises. 
+These resources are used for transactions relating to the educational and general operations of the 
+University and may be used at the discretion of the governing board to meet current expenses for any 
+purpose. The included auxiliary enterprises are substantially self-supporting activities that provide services 
+for students, faculty and staff. 
+ 
+When an expense is incurred that can be paid using either restricted or unrestricted resources, the 
+University’s policy is to first apply the expense towards restricted resources and then towards unrestricted 
+resources. 
+ 
+Income taxes: The University, as a political subdivision of the State of Oklahoma, is exempt from all federal 
+income taxes under Section 115(1) of the Internal Revenue Code, as amended. However, the University 
+may be subject to income taxes on unrelated business income under Internal Revenue Code Section 
+511(a)(2)(B). 
+  
+
+19
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 1. Summary of Significant Accounting Policies (Continued) 
+ 
+Classification of revenues: The University has classified its revenues as either operating or nonoperating 
+revenues according to the following criteria: 
+ 
+Operating revenues: Operating revenues include activities that have the characteristics of exchange 
+transactions, such as (1) student tuition and fees, net of scholarship discounts and allowances; (2) sales 
+and services of auxiliary enterprises, net of scholarship discounts and allowances; (3) most federal, state 
+and local grants and contracts; and (4) interest on institutional student loans. 
+ 
+Nonoperating revenues: Nonoperating revenues include activities that have the characteristics of 
+nonexchange transactions, such as gifts and contributions, student aid revenue and other revenue sources 
+that are defined as nonoperating revenues by GASB Statement No. 9, Reporting Cash Flows of Proprietary 
+and Nonexpendable Trust Funds and Governmental Entities That Use Proprietary Fund Accounting, and 
+GASB Statement No. 34, such as state appropriations and investment income. 
+ 
+Scholarship discounts and allowances: Student tuition and fee revenues, and certain other revenues 
+from students, are reported net of scholarship discounts and allowances in the statements of revenues, 
+expenses, and changes in net position. Scholarship discounts and allowances are the differences between 
+the stated charge for goods and services provided by the University and the amount that is paid by students 
+and/or third parties making payments on the students’ behalf. Certain governmental grants, such as Pell 
+grants and other federal or state government or nongovernmental programs, are recorded as either 
+operating or nonoperating revenues in the University’s financial statements. To the extent that revenues 
+from such programs are used to satisfy tuition and fees and other student charges, the University has 
+recorded a scholarship discount and allowance. 
+ 
+Deferred outflows of resources: Deferred outflows are the consumption of net position by the University 
+that are applicable to a future reporting period. The University’s deferred outflows of resources are 
+comprised of deferred charges on an OCIA lease restructure and contributions to pensions and OPEB 
+applicable to a future reporting period.   
+ 
+Deferred inflows of resources: Deferred inflows are the acquisition of net position by the University that 
+are applicable to a future reporting period. The University’s deferred inflows of resources were comprised 
+of credits realized on an OCIA lease restructure and deferred inflows related to net pension and OPEB 
+obligations. 
+ 
+Pensions:  For purposes of measuring the net pension liability, deferred outflows of resources and deferred 
+inflows of resources related to pensions, and pension expense, information about the fiduciary net position 
+of the Oklahoma Teachers Retirement System (OTRS) and additions to/deductions from OTRS’s fiduciary 
+net position have been determined on the same basis as they are reported by OTRS. For this purpose, 
+benefit payments (including refunds of employee contributions) are recognized when due and payable in 
+accordance with the benefit terms. Investments are reported at fair value. 
+ 
+Other Post-employment Benefits (OPEB):  For purposes of measuring the net OPEB liability (asset), 
+deferred outflows of resources and deferred inflows of resources related to OPEB, and OPEB expense, 
+information about the fiduciary net position of the Oklahoma Teachers Retirement System (OTRS) and 
+additions to/deductions from OTRS’s fiduciary net position have been determined on the same basis as 
+they are reported by OTRS. For this purpose, benefit payments (including refunds of employee 
+contributions) are recognized when due and payable in accordance with the benefit terms. Investments are 
+reported at fair value. 
+ 
+  
+
+20
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 1. Summary of Significant Accounting Policies (Continued) 
+ 
+Prior Period Adjustments:  
+ 
+Beginning net position for fiscal year 2018 was restated as follows: 
+ 
+
+Fiscal Year 2018
+Beginning net position, as previously reported 4,772,031$          
+
+Implementation of GASB Statement No. 75 (1,129,417)          
+
+Beginning net positions, restated 3,642,614$          
+
+ 
+ 
+ 
+New accounting pronouncements adopted in fiscal year 2018: The University adopted the following 
+new accounting pronouncements during the year ended June 30, 2017: 
+ 
+GASB Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits Other Than 
+Pensions 
+  
+GASB No. 75 was issued in June 2015, and addresses accounting and financial reporting for OPEB that 
+is provided to the employees of state and local governmental employers. This Statement establishes 
+standards for recognizing and measuring liabilities, deferred outflows of resources, deferred inflows of 
+resources, and expense/expenditures. For a defined benefit OPEB, this Statement identifies the methods 
+and assumptions that are required to be used to project benefit payments, discount projected benefit 
+payments to their actuarial present value, and attribute that present value to periods of employee service. 
+Note disclosure and required supplementary information requirements about defined benefit OPEB 
+also are addressed. The University’s Health Insurance Benefit Plan is subject to this new standard and as 
+a result, the College’s beginning net position as of July 1, 2017, has been reduced by $1,129,417 from its 
+previously reported net position. Amounts for 2017 have not been restated because to do so would be 
+impractical, and therefore is not required under the new standard. 
+ 
+
+Note 2. Deposits and Investments 
+ 
+Deposits: Custodial credit risk is the risk that in the event of a bank failure, the University’s deposits may 
+not be returned to it. The University’s deposit policy for custodial credit risk is described as follows: 
+ 
+Oklahoma Statutes require the State Treasurer to ensure that all State funds either be insured by Federal 
+Deposit Insurance, collateralized by securities held by the cognizant Federal Reserve Bank or invested in 
+U.S. government obligations. The University’s deposits with the State Treasurer are pooled with the funds 
+of other State Agencies and then, in accordance with statutory limitations, placed in financial institutions or 
+invested as the State Treasurer may determine, in the State’s name. 
+ 
+The University requires that balances on deposit with financial institutions, including trustees related to the 
+University’s bond indenture and capital lease agreements, be insured by Federal Deposit Insurance or 
+collateralized by securities held by the cognizant Federal Reserve Bank or invested in U.S. Government 
+obligations, in the University’s name. 
+ 
+ 
+ 
+
+21
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 2. Deposits and Investments (Continued) 
+ 
+The University’s carrying amount of the deposits with the State Treasurer and other financial institutions 
+was as follows at June 30: 
+
+ 
+2018 2017
+
+Deposits with the State Treasurer 3,674,679$       5,191,589$       
+U.S. financial institutions 7,213                14,820              
+Change funds 20,000              20,000              
+
+TOTAL DEPOSITS 3,701,892$       5,226,409$       
+ 
+
+ 
+The differences between the bank balances of deposits and the related carrying amounts were generally 
+not significant and are due to outstanding checks and deposits in-transit. 
+ 
+Of the $3,674,679 and $5,191,589 in cash and cash equivalents on deposit with the State Treasurer as of 
+June 30, 2018 and June 30, 2017, respectively, $3,502,963 and $5,056,847, respectively, represent 
+amounts held within OK INVEST, an internal investment pool.   Agencies and funds that are considered to 
+be part of the State’s reporting entity in the State’s Comprehensive Annual Financial Report are allowed to 
+participate in OK INVEST.  Oklahoma statutes and the State Treasurer establish the primary objectives and 
+guidelines governing the investment of funds in OK INVEST.  Safety, liquidity, and return on investment are 
+the objectives that establish the framework for the day to day OK INVEST management with an emphasis 
+on safety of the capital and the probable income to be derived and meeting the State’s daily cash flow 
+requirements.  Guidelines in the State Treasurer’s Investment Policy address credit quality requirements, 
+diversification percentages and the types and maturities of allowable investments. The specifics regarding 
+these policies can be found on the State Treasurer’s website at http://www.ok.gov/treasurer/.  After 
+evaluation of the use and purpose of the University’s participation in the internal investment pool, the 
+amount on deposit with OK INVEST is treated as demand accounts and reported as cash equivalents.   
+ 
+At June 30, 2018, and 2017, the University also held nonnegotiable certificates of deposit totaling $83,548 
+and $55,688, respectively. These deposits are either fully insured by Federal Deposit Insurance or 
+collateralized by securities held by the cognizant Federal Reserve Bank. These certificates of deposit are 
+maintained through an investment brokerage firm. For financial reporting purposes, these deposits have 
+been classified as investments. 
+ 
+Fair Value Measurement: GASB establishes a fair value hierarchy for valuation inputs that gives the 
+highest priority to quoted prices in active markets for identical assets or liabilities and the lowest priority to 
+unobservable inputs.  The fair value hierarchy is as follows: 
+
+• Level 1 inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or 
+liabilities in active markets. 
+
+• Level 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in 
+active markets and inputs that are observable for the asset and liability, either directly or indirectly, for 
+substantially the full term of the asset or liability. 
+
+• Level 3 inputs consist of unobservable inputs which are used when observable inputs are unavailable 
+and reflect an entity’s own assumptions about the assumptions that the market participants would use 
+in pricing the assets or liabilities.  Real estate held as investments would be valued as level 3 inputs. 
+
+ 
+ 
+ 
+
+22
+
+http://www.ok.gov/treasurer/
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 2. Deposits and Investments (Continued) 
+
+ 
+The following is a summary of financial assets measured at fair value on a recurring basis as of June 30: 
+
+ 
+
+Types of Investment
+Fair Value 
+Heirarchy
+
+Credit 
+Rating Maturities 2018 2017
+
+Municipal bonds Level 2 AA More than 10 years 24,216$          23,681$       
+US Agency mortgage-backed securities Level 2 Aaa More than 10 years 28,560             37,104         
+Certificates of deposit N/A N/A Less than One 83,548             55,688         
+Money market funds N/A N/A Less than One 1,088,422       41,785         
+
+Total investments 1,224,746$     158,258$     
+
+ 
+Interest rate risk: The University does not have a formal policy that limits investment maturities as a means 
+of managing its exposure to fair value losses arising from increasing interest rates. 
+ 
+Concentration of credit risk: All United States government obligations are held by the Federal Reserve 
+Bank in the name of the University. The majority of the University’s certificates of deposits were invested 
+through the State Treasurer. 
+ 
+The Board has authorized short-term funds to be invested in any security currently available through the 
+State Treasurer’s office. Generally, these include direct obligations of the United States government and 
+its agencies, certificates of deposit and demand deposits. 
+
+ 
+Note 3. Accounts Receivable 
+ 
+Accounts receivable relate to tuition and fee charges to students and to auxiliary services provided to 
+students, faculty and staff. Accounts receivable consisted of the following at June 30: 
+
+ 
+2018 2017
+
+Student tuition and fees 1,699,954$       1,853,276$       
+Auxiliary enterprises and other student activities 1,885,956         1,608,601         
+
+3,585,910         3,461,877         
+Less: allowance for doubtful accounts (3,256,430)        (3,127,657)        
+
+Accounts receivable, net 329,480$          334,220$          
+
+ 
+ 
+Note 4. Loans Receivable 
+ 
+The University makes loans to students through the Federal Perkins Loan Program (the Program). Under 
+the Program, the federal government provides funds for approximately 75% of the total contribution for 
+student loans with the University providing the balance. Under certain conditions such loans can be forgiven 
+at annual rates of 10% to 30% of the original balance up to maximums of 50% to 100% of the original loan. 
+The federal government reimburses the University to the extent of 10% of the amounts forgiven for loans 
+originated prior to July 1, 1993, under the program. No reimbursements are provided for loans originated 
+after this date. Amounts refundable to the U.S. government upon cessation of the Program of $27,664 at 
+June 30, 2018 and 2017, respectively, are reflected in the accompanying statements of net position as 
+noncurrent liabilities. 
+ 
+ 
+ 
+
+23
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 4. Loans Receivable (Continued) 
+ 
+As the University determines that loans are uncollectible and not eligible for reimbursement by the federal 
+government, the loans are written off and assigned to the Department of Education. The allowance for 
+uncollectible loans only applies to University-funded loans and the University portion of federal student 
+loans, as the University is not obligated to fund the federal portion of uncollected student loans.  
+ 
+The University also makes loans to students through the I.L. Ennis Loan Fund, a private loan program. The 
+University provides administrative services to the I.L. Ennis Loan Fund (the Loan Fund) in exchange for 
+financial assistance for the students. 
+ 
+The University has provided an allowance for uncollectible loans which, in management’s opinion, is 
+sufficient to absorb loans which will ultimately be written off.  Loans receivable consisted of the following at 
+June 30:  
+
+ 
+
+Program Loan Fund Total
+Loans receivable 35,958$            275,208$          311,166$          
+
+Less:  allowance for uncollectible loans -                        (258,836)           (258,836)           
+
+Loans receivable, net 35,958$            16,372$            52,330$            
+
+Program Loan Fund Total
+Loans receivable 35,958$            289,597$          325,555$          
+
+Less:  allowance for uncollectible loans -                        (258,835)           (258,835)           
+
+Loans receivable, net 35,958$            30,762$            66,720$            
+
+2017
+
+2018
+
+ 
+ 
+
+  
+
+24
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 5. Capital Assets 
+ 
+Capital asset activity was as follows for the year ended June 30, 2018: 
+ 
+
+Balance at Balance at
+June 30, June 30,
+
+2017 Additions Transfers Retirements 2018
+Capital assets not
+  being depreciated:
+
+Land 361,163$          -$                 -$                  -$                      361,163$          
+Construction in-progress 637,382            954,616       (1,010,440)    (2,470)               579,088            
+
+Total capital assets
+not being depreciated 998,545            954,616       (1,010,440)    (2,470)               940,251            
+
+Other capital assets:
+Non-major infrastructure
+  networks 9,976,218         -                   -                    -                        9,976,218         
+Non-structural improvements 1,535,403         12,000         62,716          -                        1,610,119         
+Buildings and improvements 31,788,422       124,633       947,724        -                        32,860,779       
+Equipment 6,479,282         85,144         -                    (274,483)           6,289,943         
+Library materials 2,055,843         9,821           -                    (498,925)           1,566,739         
+
+Total other capital assets 51,835,168       231,598       1,010,440     (773,408)           52,303,798       
+
+Accumulated depreciation:
+Non-major infrastructure
+  networks 5,328,867         499,192       -                    -                        5,828,059         
+Non-structural improvements 933,626            73,850         -                    -                        1,007,476         
+Buildings and improvements 16,554,350       661,177       -                    -                        17,215,527       
+Equipment 6,227,798         107,280       -                    (273,125)           6,061,953         
+Library materials 1,533,158         86,041         -                    (498,925)           1,120,274         
+
+Total accumulated depreciation 30,577,799       1,427,540    -                    (772,050)           31,233,289       
+
+Capital assets, net 22,255,914$     (241,326)$    -$                  (3,828)$             22,010,760$     
+ 
+
+At June 30, 2018, the cost and related accumulated depreciation of assets held under capital lease 
+obligations were as follows: 
+
+ 
+Buildings Infrastructure Equipment CIP Total
+
+Cost 11,618,853$     4,806,061$           2,852,795$       186,974$          19,464,683$     
+Less: accumulated depreciation (3,123,058)        (2,076,673)           (2,852,795)        -                        (8,052,526)        
+
+8,495,795$       2,729,388$           -$                      186,974$          11,412,157$     
+
+ 
+  
+
+25
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 5. Capital Assets (Continued) 
+ 
+Capital asset activity was as follows for the year ended June 30, 2017: 
+ 
+
+Balance at Balance at
+June 30, June 30,
+
+2016 Additions Transfers Retirements 2017
+Capital assets not
+  being depreciated:
+
+Land 361,163$          -$                 -$                -$                      361,163$          
+Construction in-progress 21,516              615,866       -                  -                        637,382            
+
+Total capital assets
+not being depreciated 382,679            615,866       -                  -                        998,545            
+
+Other capital assets:
+Non-major infrastructure
+  networks 9,976,218         -                   -                  -                        9,976,218         
+Non-structural improvements 1,535,403         -                   -                  -                        1,535,403         
+Buildings and improvements 31,694,949       93,473         -                  -                        31,788,422       
+Equipment 6,437,997         41,285         -                  -                        6,479,282         
+Library materials 2,057,566         36,719         -                  (38,442)             2,055,843         
+
+Total other capital assets 51,702,133       171,477       -                  (38,442)             51,835,168       
+
+Accumulated depreciation:
+Non-major infrastructure
+  networks 4,838,406         490,461       -                  -                        5,328,867         
+Non-structural improvements 860,801            72,825         -                  -                        933,626            
+Buildings and improvements 15,907,871       646,479       -                  -                        16,554,350       
+Equipment 6,070,077         157,721       -                  -                        6,227,798         
+Library materials 1,486,059         85,541         -                  (38,442)             1,533,158         
+
+Total accumulated depreciation 29,163,214       1,453,027    -                  (38,442)             30,577,799       
+
+Capital assets, net 22,921,598$     (665,684)$    -$                -$                      22,255,914$     
+ 
+
+At June 30, 2017, the cost and related accumulated depreciation of assets held under capital lease 
+obligations were as follows: 
+ 
+
+Buildings Infrastructure Equipment Total
+Cost 11,618,853$     4,806,061$           2,852,795$       19,277,709$     
+
+Less: accumulated depreciation (2,799,150)        (1,817,567)           (2,852,795)        (7,469,512)        
+8,819,703$       2,988,494$           -$                      11,808,197$     
+
+ 
+  
+
+26
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 6. Noncurrent Liabilities 
+ 
+Noncurrent liability activity for the year ended June 30, 2018, was as follows: 
+ 
+
+Balance at Balance at Current
+June 30, 2017 Additions Reductions June 30, 2018 Portion
+
+Capital lease obligations:
+ODFA - Series 2009B  20yr 1,198,250$         -$                   (81,250)$        1,117,000$         84,250$        
+ODFA - Series 2009B 15yr 164,250              -                     (21,083)          143,167              22,083          
+OCIA-Series 2010A 695,541              -                     (695,541)        -                          -                    
+ODFA-Series 2011 796,000              -                     (21,000)          775,000              19,000          
+OCIA-Series 2014A 3,574,767           -                     -                     3,574,767           8,007             
+ODFA-Series 2014A - 2002 996,416              -                     (187,500)        808,916              193,750        
+ODFA-Series 2014A - 2004 840,000              -                     (108,333)        731,667              112,417        
+ODFA-Series 2014B 3,823,834           -                     (185,500)        3,638,334           190,917        
+OCIA-Series 2014B 56,767                -                     (18,185)          38,582                18,915          
+OCIA-Series 2017E -                          1,135,000      (46,667)          1,088,333           82,917          
+
+Total capital lease obligations 12,145,825         1,135,000      (1,365,059)     11,915,766         732,256        
+
+Other liabilities:
+Premium 173,599              -                     (26,989)          146,610              26,989          
+Federal loan program
+  contributions 27,664                -                     -                     27,664                -                    
+
+Total other liabilities 201,263              -                     (26,989)          174,274              26,989          
+
+Total noncurrent liabilities 12,347,088$       1,135,000$    (1,392,048)$   12,090,040$       759,245$      
+ 
+
+  
+
+27
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 6. Noncurrent Liabilities (Continued) 
+ 
+Noncurrent liability activity for the year ended June 30, 2017, was as follows: 
+ 
+
+Balance at Balance at Current
+June 30, 2016 Additions Reductions June 30, 2017 Portion
+
+Capital lease obligations:
+ODFA - Series 2009B  20yr 1,283,500$         -$                   (85,250)$        1,198,250$         81,250$        
+ODFA - Series 2009B 15yr 186,834              -                     (22,584)          164,250              21,083          
+OCIA-Series 2010A 1,376,150           -                     (680,609)        695,541              695,541        
+ODFA-Series 2011 815,000              -                     (19,000)          796,000              21,000          
+OCIA-Series 2014A 3,831,646           -                     (256,879)        3,574,767           -                    
+ODFA-Series 2014A - 2002 1,178,833           -                     (182,417)        996,416              187,500        
+ODFA-Series 2014A - 2004 945,250              -                     (105,250)        840,000              108,333        
+ODFA-Series 2014B 4,005,417           -                     (181,583)        3,823,834           185,500        
+OCIA-Series 2014B 74,436                -                     (17,669)          56,767                18,185          
+
+Total capital lease obligations 13,697,066         -                     (1,551,241)     12,145,825         1,318,392     
+
+Other liabilities:
+Premium 200,588              -                     (26,989)          173,599              26,989          
+Federal loan program
+  contributions 34,521                -                     (6,857)            27,664                -                    
+
+Total other liabilities 235,109              -                     (33,846)          201,263              26,989          
+
+Total noncurrent liabilities 13,932,175$       -$                   (1,585,087)$   12,347,088$       1,345,381$   
+ 
+
+Oklahoma Capital Improvement Authority lease obligations:  In 2005, the OCIA issued its State 
+Facilities Revenue Bonds (Higher Education Project) Series 2005F. Of the total bond indebtedness, the 
+State Regents allocated approximately $6,998,000 to the University. Total lease payments over the term 
+of the agreement including principal and interest, beginning July 1, 2006, through July 1, 2030, will be 
+$12,223,801. 
+ 
+Payments will be made annually, ranging from $82,033 to $528,546, by the State of Oklahoma on behalf 
+of the University. Concurrent with the allocation, the University entered into a lease agreement with OCIA 
+for the projects being funded by the OCIA bonds. The proceeds of the bonds and subsequent leases are 
+provided for capital improvements at the University. 
+ 
+Through June 30, 2014, the University had drawn its total allotment for expenditures incurred in connection 
+with the project. These expenditures have been capitalized as investments in capital assets or recorded as 
+operating expenses, in accordance with the University’s policy. The University has recorded a lease 
+obligation payable to OCIA for the total amount of the allotment, less repayments made. 
+ 
+During fiscal year 2011, the University’s 2005 lease agreement with OCIA was restructured through a partial 
+refunding of the Series 2005F bonds. OCIA issued two new bonds, Series 2010A and 2010B, to accomplish 
+the refunding. The restructured lease agreement with OCIA secures the OCIA bond indebtedness and any 
+future indebtedness that might be issued to refund earlier bond issues. OCIA issued the new Series 2010A 
+and 2010B bonds to provide budgetary relief for fiscal years 2011 and 2012 by extending and restructuring 
+the debt service requirements. Consequently, the University’s aforementioned lease agreement with OCIA 
+was automatically restructured to secure the new bond issues. The lease restructuring extended certain 
+principal payments into the future, resulting in a cost on the restructuring. The University recorded a charge 
+of $623,401 on restructuring as a deferred outflow of resources.  As of June 30, 2016 the cost was 
+completely amortized. This restructuring resulted in an aggregate difference in principal and interest between 
+the original lease agreement and the restructured lease agreement of $30,810, which approximates the 
+economic cost of the transaction. Obligations relating to the 2010B were extinguished in fiscal year 2015.  
+
+28
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+
+Note 6. Noncurrent Liabilities (Continued) 
+
+During fiscal year 2014, the University’s remaining 2005 lease agreement with OCIA was restructured 
+through a partial refunding of the Series 2005F bonds. OCIA issued new bonds, Series 2014A, to 
+accomplish the refunding. The restructured lease agreement with OCIA secures the OCIA bond 
+indebtedness and any future indebtedness that might be issued to refund earlier bond issues. The 
+University’s aforementioned lease agreement with OCIA was automatically restructured to secure the new 
+bond issues. The lease restructuring resulted in a reduction of principal, thus the University has recorded a 
+credit of $212,623 on restructuring as a deferred inflow of resources that will be amortized over a period of 
+eighteen years. As of June 30, 2018 and 2017 the unamortized gain totaled $157,298 and $170,315 
+respectively. This refinancing resulted in an aggregate difference in principal and interest between the
+original lease agreement and the refinanced lease agreement of $496,344, which approximates the economic
+savings of the transaction. 
+
+Lease principal and interest payments to OCIA related to series 2010A and 2014A, totaling $898,127 and 
+$1,176,692 during the years ended June 30, 2018, and 2017, respectively, were made by the State of 
+Oklahoma on behalf of the University. These payments have been recorded as on-behalf payments for 
+OCIA capital leases in the statements of revenues, expenses, and changes in net position. 
+
+During fiscal year 2015, the University’s remaining 2004 lease agreement with OCIA was restructured 
+through a refunding. OCIA issued new bonds, Series 2014B, to accomplish the refunding. The restructured 
+lease agreement with OCIA secures the OCIA bond indebtedness and any future indebtedness that might 
+be issued to refund earlier bond issues. The University’s aforementioned lease agreement with OCIA was 
+automatically restructured to secure the new bond issues. The lease restructuring resulted in a reduction 
+of principal, thus the University has recorded a credit of $8,877 on restructuring as a deferred inflow of 
+resources that will be amortized over a period of five years. As of June 30, 2018 and 2017 the unamortized 
+gain totaled $1,834 and $3,672, respectively. This refinancing resulted in an aggregate difference in principal
+and interest between the original lease agreement and the refinanced lease agreement of $14,560, which
+approximates the economic savings of the transaction.  
+
+Lease principal and interest payments to OCIA related to series 2014B, totaling $20,082 and $20,013 during 
+the years ended June 30, 2018, and 2017, respectively, were made by the State of Oklahoma on behalf of 
+the University. These payments have been recorded as on-behalf payments for OCIA capital leases in the 
+statements of revenues, expenses, and changes in net position. 
+
+Oklahoma Development Finance Authority lease obligations: On August 1, 2009, the University 
+entered into capital lease obligation Series 2009B in the amount of $2,079,000. Lease payments over the 
+term of the agreement, including interest, total $2,963,397. Payments began October 15, 2009, and go 
+through May 15, 2029, and will range from $112,206 to $158,223 annually. Proceeds from the obligation 
+were used for capital expenditures. The University has pledged the state appropriations received, which 
+are restricted for capital purposes, to support payments on this lease obligation.   
+
+On July 14, 2011, the University entered into capital lease obligation Series 2011 in the amount of $909,000. 
+Lease payments over the term of the agreement, including interest, total $1,684,113. Payments began 
+December 1, 2011, and go through June 1, 2041, and will range from $51,607 to $58,545 annually. 
+Proceeds from the obligation were used for capital expenditures. The University has pledged the state 
+appropriations received, which are restricted for capital purposes, to support payments on this lease 
+obligation. 
+
+29
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 6. Noncurrent Liabilities (Continued) 
+ 
+On June 14, 2014, the University entered into capital lease obligation Series 2014A in the amount of 
+$2,693,000 to refinance the 2002 Revenue Bonds and Series 2004A ODFA Capital Lease. Lease payments 
+over the term of the agreement, including interest, total $1,792,941 and $1,385,449, for the 2002A and 
+2004A, respectively. Payments begin July 15, 2014, and go through May 15, 2022 and 2024 for the 2002A 
+and 2004A, respectively, and will range from $206,773 to $233,039 for the 2002A and $126,518 to 
+$153,888 for the 2004A, annually. The University has pledged Section Thirteen revenues to support 
+payments on this lease obligation. The net present value of the savings for the refinance of the 2002A and 
+2004A are $238,872 and $146,888, respectively. 
+ 
+On March 10, 2014, the University entered into capital lease obligation Series 2014B in the amount of 
+$4,405,000 to refinance the 2003 A & B Student Housing Revenue Bonds. Lease payments over the term 
+of the agreement, including interest, total $6,138,082. Payments began April 15, 2014, and go through 
+November 15, 2033, and will range from $80,639 to $315,443, annually. The University has pledged Section 
+Thirteen and housing revenues to support payments on this lease obligation. The net present value of the 
+savings for the refinance is $983,343. 
+ 
+On December 3, 2017, the University entered into capital lease obligation Series 2017E in the amount of 
+$1,135,000 for football field improvements. Lease payments over the term of the agreement, including 
+interest, total $1,386,539. Payments began December 15, 2017, and go through November 15, 2029, and 
+will range from $47,483 to $117,302, annually. The University has pledged Section Thirteen to support 
+payments on this lease obligation.  
+ 
+ 
+Future minimum lease payments under the University’s capital lease obligations are as follows at June 30, 
+2018: 
+
+ 
+Years Ending June 30: Principal Interest Total
+
+2019 732,256$          471,767$          1,204,023$       
+2020 753,995            445,709            1,199,704         
+2021 751,333            565,815            1,317,148         
+2022 761,334            393,803            1,155,137         
+2023 911,998            370,008            1,282,006         
+
+2024-2028 4,365,435         1,256,252         5,621,687         
+2029-2033 3,150,831         452,063            3,602,894         
+2034-2038 333,584            74,452              408,036            
+2039-2041 155,000            15,356              170,356            
+
+11,915,766$     4,045,225$       15,960,991$     
+ 
+
+ 
+Note 7. Retirement Plans  
+ 
+The University’s academic and non-academic personnel are covered by various retirement plans. One plan 
+available to University personnel is the Oklahoma Teachers’ Retirement System (OTRS), which is a State of 
+Oklahoma public employee retirement system. The University also sponsors a Supplemental Retirement 
+Plan, which is a single-employer public employee retirement system. The University does not maintain the 
+accounting records, hold the investments for, or administer these plans. 
+ 
+  
+
+30
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7. Retirement Plans (continued) 
+ 
+Summary of Net Pension Obligation 
+ 
+June 30, 2018  Net Pension 
+
+Obligation 
+ Deferred 
+Outflows 
+
+ Deferred 
+Inflows 
+
+ Pension 
+Expense 
+
+OTRS Pension Obligation 10,501,352$   2,519,810$   1,830,217$   1,101,025$  
+Total 10,501,352$   2,519,810$   1,830,217$   1,101,025$  
+
+June 30, 2017  Net Pension 
+Obligation 
+
+ Deferred 
+Outflows 
+
+ Deferred 
+Inflows 
+
+ Pension 
+Expense 
+
+Supplemental Retirement Obligation 161,019$        -$              -$              52,431$       
+OTRS Pension Obligation 12,482,485     3,620,928     919,189        1,168,835    
+
+Total 12,643,504$   3,620,928$   919,189$      1,221,266$  
+
+Oklahoma Teachers’ Retirement System 
+ 
+Plan description: The University as the employer, participates in the Oklahoma Teachers Retirement Plan—
+a cost-sharing multiple-employer defined benefit pension plan administered by the Oklahoma Teachers 
+Retirement System (OTRS). Title 70 O. S. Sec. 17-105 defines all retirement benefits. The authority to 
+establish and amend benefit provisions rests with the State Legislature. OTRS issues a publicly available 
+financial report that can be obtained at www.ok.gov/TRS 
+ 
+Benefits provided: OTRS provides retirement, disability, and death benefits to members of the plan.  
+Benefit provisions include: 
+  
+
+• Members become 100% vested in retirement benefits earned to date after five years of credited 
+Oklahoma service. Members who joined the System on June 30, 1992 or prior are eligible to retire 
+at maximum benefits when age and years of creditable service total 80. Members joining the 
+System after June 30, 1992 are eligible for maximum benefits when their age and years of 
+creditable service total 90. Members whose age and service do not equal the eligible limit may 
+receive reduced benefits as early as age 55, and at age 62 receive unreduced benefits based on 
+their years of service. The maximum retirement benefit is equal to 2% of final compensation for 
+each year of credited service. 
+
+ 
+• Final compensation for members who joined the System prior to July 1, 1992 is defined as the 
+
+average salary for the three highest years of compensation. Final compensation for members 
+joining the System after June 30, 1992 is defined as the average of the highest five consecutive 
+years of annual compensation in which contributions have been made. The final average 
+compensation is limited for service credit accumulated prior to July 1, 1995 to $40,000 or $25,000, 
+depending on the member’s election. Monthly benefits are 1/12 of this amount. Service credits 
+accumulated after June 30, 1995 are calculated based on each member’s final average 
+compensation, except for certain employees of the State’s two comprehensive universities. Upon 
+the death of a member who has not yet retired, the designated beneficiary shall receive the 
+member’s total contributions plus 100% of interest earned through the end of the fiscal year, with 
+interest rates varying based on time of service. A surviving spouse of a qualified member may elect  
+
+ 
+
+31
+
+http://www.ok.gov/TRS
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7.  Retirement Plans (continued) 
+
+ 
+to receive, in lieu of the aforementioned benefits, the retirement benefit the member was entitled to 
+at the time of death as provided under the Joint Survivor Benefit Option. 
+
+ 
+• Upon the death of a retired member, the System will pay $5,000 to the designated beneficiary, in 
+
+addition to the benefits provided for the retirement option selected by the member.  
+ 
+
+• A member is eligible for disability benefits after ten years of credited Oklahoma service. The 
+disability benefit is equal to 2% of final average compensation for the applicable years of credited 
+service. 
+ 
+
+• Upon separation from the System, members’ contributions are refundable with interest based on 
+certain restrictions provided in the plan, or by the IRC.  
+ 
+
+• Members may elect to make additional contributions to a tax-sheltered annuity program up to the 
+exclusion allowance provided under the IRC under Code Section 403(b).  
+
+ 
+Contributions: The contributions requirements of the Plan are at an established rate determined by 
+Oklahoma Statute, amended by the Oklahoma Legislature, and are not based on actuarial calculations.  
+Employees are required to contribute 7% percent of their annual pay.  Participating employers are required 
+to contribute 8.55% of the employees’ annual pay and an additional 7.80% for any employees’ salaries 
+covered by federal funds. Contributions to the pension plan from the University were $637,971 and 
+$650,374 for June 30, 2018 and 2017, respectively.  The State of Oklahoma also made on-behalf 
+contributions to OTRS, totaling $442,371 and $433,582 during 2018 and 2017, respectively, which were 
+recognized by the University; these on-behalf payments did not meet the criteria of a special funding 
+situation. 
+ 
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of 
+Resources Related to Pensions: - At June 30, 2018 and 2017, the University reported a liability of 
+$10,501,352 and $12,482,485, respectively for its proportionate share of the net pension liability. The net 
+pension liability was measured as of June 30, 2017 and June 30, 2016, and the total pension liability used 
+to calculate the net pension liability was determined by an actuarial valuation as of June 30, 2017 and June 
+30, 2016. The University’s proportion of the net pension liability was based on the University’s contributions 
+received by the pension plan relative to the total contributions received by the pension plan for all 
+participating employers as of June 30, 2017 and June 30, 2016.  Based upon this information, the 
+University’s proportion was 0.1586 percent and 0.14957 percent for June 30, 2018 and 2017, respectively. 
+ 
+For the years ended June 30, 2018 and 2017, the University recognized pension expense of $1,101,025 
+and $1,168,835, respectively.  
+ 
+ 
+ 
+  
+
+32
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7. Retirement Plans (continued) 
+ 
+ At June 30, 2018, the University reported deferred outflows of resources and deferred inflows of resources 
+related to pensions from the following sources: 
+
+Deferred Outflows 
+of Resources
+
+Deferred Inflows of 
+Resources
+
+Differences between expected and actual experience -$                        716,955$               
+
+Changes of assumptions 1,246,222               627,751                 
+
+Net difference between projected and actual earnings on 
+pension plan investments 149,272                  -                             
+
+Changes in proportion and differences between 
+University contributions and proportionate share of 
+contributions 486,345                  482,613                 
+
+University contributions during the measurement period -                              2,898                     
+
+University contributions subsequent to the measurement 
+date 637,971                  -                             
+
+Total 2,519,810$             1,830,217$            
+ 
+
+ 
+At June 30, 2017, the University reported deferred outflows of resources and deferred inflows of resources 
+related to pensions from the following sources: 
+
+Deferred Outflows 
+of Resources
+
+Deferred Inflows of 
+Resources
+
+Differences between expected and actual experience -$                        289,792$               
+
+Changes of assumptions 1,503,067               -                             
+
+Net difference between projected and actual earnings on 
+pension plan investments 1,457,157               -                             
+
+Changes in proportion and differences between 
+University contributions and proportionate share of 
+contributions -                              625,717                 
+
+University contributions during the measurement period -                              3,680                     
+
+University contributions subsequent to the measurement 
+date 660,704                  -                             
+
+Total 3,620,928$             919,189$               
+ 
+
+  
+
+33
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7.  Retirement Plans (continued) 
+ 
+The $637,971 and $650,374 reported as deferred outflows of resources related to pensions resulting from 
+University contributions subsequent to the measurement date for June 30, 2018 and 2017, respectively will 
+be recognized as a reduction of the net pension liability in the years ended June 30, 2019 and 2018, 
+respectively. Other amounts reported as deferred outflows of resources and deferred inflows of resources 
+related to pensions will be recognized in pension expense as follows: 
+
+ 
+Year ended June 30, 2018 Year ended June 30, 2017
+
+2019 (129,310)$               2018 284,652$      
+2020 386,938                  2019 284,652        
+2021 181,073                  2020 771,511        
+2022 (306,311)                 2021 577,366        
+2023 (80,768)                   2022 122,854        
+
+51,622$                  2,041,035$   
+
+ 
+ 
+Actuarial Assumptions: The total pension liability as of June 30, 2018 and 2017, was determined based on 
+an actuarial valuation prepared as of June 30, 2017 and 2016 respectively, using the following actuarial 
+assumptions:  
+ 
+
+• Actuarial Cost Method - Entry Age  
+• Inflation - 2.50%  
+• Future Ad Hoc Cost-of-living Increases - None 
+• Salary Increases - Composed of 3.25% inflation, including 2.50% price inflation, plus a service-
+
+related component ranging from 0.00% to 8% based on years of service.  
+• Investment Rate of Return – 7.50%  
+• Retirement Age - Experience-based table of rates based on age, service, and gender. Adopted 
+
+by the Board in May 2015 in conjunction with the five year experience study for the period 
+ending June 30, 2014.  
+
+• Mortality Rates after Retirement – Males: RP-2000 Combined Mortality Table for males with 
+White Collar Adjustments.  Generational mortality improvements in accordance with Scale BB 
+from table’s base year of 2000.  Females: GRS Southwest Region Teacher Mortality Table, 
+scaled at 105%.  Generational mortality improvements in accordance with Scale BB from the 
+table’s base year of 2012. 
+
+• Mortality Rates for Active Members – RP – 2000 Employer Mortality tables, with male rates 
+multiplied by 60% and female rates multiplied by 50%. 
+ 
+
+  
+
+34
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7.  Retirement Plans (continued) 
+ 
+Best estimates of arithmetic real rates of return for each major asset class included in the plan’s target 
+asset allocation as of June 30, 2018 are summarized below: 
+
+Asset Class
+Target Asset
+
+     Allocation     
+Long-Term Expected Real
+
+ Rate of Return 
+Domestic Equity 38.5% 7.5%
+International Equity 19.0% 8.5%
+Fixed Income 23.5% 2.5%
+Real Estate** 9.0% 4.5%
+Alternative Assets 10.0% 6.1%
+Total 100%
+
+** The Real Estate total expected return is a combination of US Direct Real Estate (unlevered) 
+and US Value added Real Estate (unlevered)  
+
+ 
+Best estimates of arithmetic real rates of return for each major asset class included in the plan’s target 
+asset allocation as of June 30, 2017 are summarized below: 
+
+Asset Class
+Target Asset
+
+     Allocation     
+Long-Term Expected Real
+
+ Rate of Return 
+Domestic All Cap Equity* 7.0% 6.2%
+Domestic Large Cap Equity 10.0% 5.8%
+Domestic Mid Cap Equity 13.0% 6.3%
+Domestic Small Cap Equity 10.0% 7.0%
+International Large Cap Equity 11.5% 6.6%
+International Small Cap Equity 6.0% 6.6%
+Core Plus Fixed Income 17.5% 1.6%
+High-yield Fixed Income 6.0% 4.9%
+Private Equity 5.0% 8.3%
+Real Estate** 7.0% 4.5%
+Master Limited Partnerships 7.0% 7.7%
+Total 100%
+
+US Mid Cap and US Small cap
+** The Real Estate total expected return is a combination of US Direct Real Estate (unlevered) 
+
+and US Value added Real Estate (unlevered)
+
+* The Domestic All Cap Equity total expected return is a combination of 3 rates - US Large cap,
+
+ 
+ 
+Discount Rate: A single discount rate of 7.50% was used to measure the total pension liability as of June 30, 
+2017 and June 30, 2016. This single discount rate was based solely on the expected rate of return on pension 
+plan investments of 7.50%. Based on the stated assumptions and the projection of cash flows, the pension 
+plan’s fiduciary net position and future contributions were projected to be available to finance all projected 
+future benefit payments of current plan members. Therefore, the long-term expected rate of return on pension 
+plan investments was applied to all periods of projected benefit payments to determine the total pension 
+liability. The projection of cash flows used to determine this single discount rate assumed that plan member 
+and employer contributions will be made at the current statutory levels and remain a level percentage of 
+payrolls. The projection of cash flows also assumed that the State’s contribution plus the matching 
+contributions will remain a constant percent of projected member payroll based on the past five years of actual 
+contributions. 
+ 
+
+35
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7.  Retirement Plans (continued) 
+ 
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate: The following presents the net pension 
+liability of the employers calculated using the discount rate of 7.5% for 2018 and 2017, as well as what the 
+Plan's net pension liability would be if it were calculated using a discount rate that is 1-percentage point lower 
+or 1-percentage point higher than the current rate: 
+ 
+For June 30, 2018: 1% Decrease Current Discount 1% Increase
+
+to (6.5%) Rate (7.5%) to (8.5%)
+
+Employers' net pension liability 14,939,868$           10,501,352$           7,184,447$           
+
+For June 30, 2017: 1% Decrease Current Discount 1% Increase
+to (6.5%) Rate (7.5%) to (8.5%)
+
+Employers' net pension liability 16,341,536$           12,482,485$           9,252,531$           
+
+Pension plan fiduciary net position: Detailed information about the pension plan’s fiduciary net position is 
+available in the separately issued financial report of the OTRS; which can be located at www.ok.gov/TRS . 
+
+ 
+Supplemental Retirement Plan 
+ 
+As of June 30, 2018 there are no longer any employees or retirees eligible for the supplemental retirement 
+plan and therefore there is no financial information to be presented for 2018.  However, 2017 information 
+is still presented due to the fact that the University presents comparative financial statements. 
+ 
+Plan description: The Supplemental Retirement Plan (the Plan) is a single-employer defined benefit pension 
+plan administered by the University. It guarantees eligible employees a level of retirement benefits. If Social 
+Security and OTRS payments do not equal one-half of the employees highest three years’ earnings, the 
+University pays the balance from the current year’s operating budget. The authority to establish and amend 
+benefit provisions rests with the Board of Regents. The Plan does not issue a separate financial report, nor 
+is it included in the financial report of another entity. 
+ 
+Funding policy: During the fiscal year ended June 30, 2017, the University made benefit payments of 
+$30,870. 
+
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of 
+Resources Related to Pensions: The University reported a liability of $0 and $161,019 for its net pension 
+liability as of June 30, 2018 and 2017, respectively.  The net pension liability as of June 30, 2017 was 
+measured as of June 30, 2017, and the total pension liability used to calculate the net pension liability was 
+determined by an actuarial valuation as of June 30, 2017. 
+ 
+For the year ended June 30, 2017 the University recognized pension expense of $52,431. 
+ 
+Schedule of Changes in Total Pension Liability: The University’s changes in total pension liability are as 
+follows as of June 30, 2017: 
+
+  
+
+36
+
+http://www.ok.gov/TRS
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 7. Retirement Plans (Continued) 
+ 
+
+2017
+Beginning net pension liability, as restated pursuant to GASB 73 139,458$          
+Interest 4,901                
+Change of assumptions 2,862                
+Difference between actual and expected experience 44,668              
+Benefit payments (30,870)             
+Ending net pension liability 161,019$          
+
+ 
+Actuarial Assumptions: The total pension liability as of June 30, 2017, was determined based on an 
+actuarial valuation prepared as of June 30, 2017 using the following actuarial assumptions: 
+ 
+
+• Actuarial Cost Method - Entry Age  
+• Amortization Method - Level Percentage of Payroll  
+• Cost of living adjustment – 3.5% per year 
+• Discount Rate - 3.05% (Based on Bond Buyers General Municipal Bond Index) 
+• Mortality Rates after Retirement – RP-2000 Combined Mortality Table projected to 2020. 
+
+ 
+Sensitivity of the Net Pension Liability to Change in the Discount Rate: The following presents the net pension 
+liability of the employers calculated using the discount rate each year, as well as what the Plan's net pension 
+liability would be if it were calculated using a discount rate that is 1-percentage point lower or 1-percentage 
+point higher than the current rate: 
+  
+
+1% Decrease Current Discount 1% Increase
+(2.05%) Rate (3.05%) (4.05%)
+
+Employers' net pension liability 167,766$               161,019$                154,796$               
+Note 8.  Other Postemployment Insurance Benefits 
+ 
+Summary of Net OPEB Obligation 
+ 
+
+June 30, 2018  Net OPEB 
+Obligation 
+
+(Asset) 
+ Deferred 
+Outflows 
+
+ Deferred 
+Inflows 
+
+ OPEB 
+Expense 
+
+Death Benefit Plan 33,078$          -$              9,005$          1,174$         
+Health Insurance Benefit Plan 943,177          -                    319,141        132,901       
+
+OTRS OPEB Plan (70,727)           10,130          57,778          (2,819)         
+Total 905,528$        10,130$        385,924$      131,256$     
+
+ 
+ 
+Due to this being the first year of implementation and lack of prior year information, only one year of OPEB 
+information is provided in the following footnotes. 
+ 
+ 
+ 
+ 
+
+37
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+OTRS OPEB Plan 
+ 
+Plan description: The University as the employer, participates in the Supplemental Health Insurance 
+Program—a cost-sharing multiple-employer defined benefit OPEB plan administered by the Oklahoma 
+Teachers Retirement System (OTRS). Title 74 O. S. Sec. 1316.3 defines the health insurance benefits. 
+The authority to establish and amend benefit provisions rests with the State Legislature. OTRS issues a 
+publicly available financial report that can be obtained at www.ok.gov/TRS 
+ 
+Benefits provided: OTRS pays a medical insurance supplement to eligible members who elect to continue 
+their employer provided health insurance. The supplement payment is between $100 and $105 per month, 
+remitted to Oklahoma State University Human Resources, provided the member has ten (10) years of 
+Oklahoma service prior to retirement. 
+ 
+Contributions: Employer and employee contributions are made based upon the TRS Plan provisions 
+contained in Title 70, as amended. However the statutes do not specify or identify any particular contribution 
+source to pay the health insurance subsidy. Based on the contribution requirements of Title 70 employers 
+and employees contribute a single amount based on a single contribution rate as described in Note 7; from 
+this amount OTRS allocates a portion of the contributions to the supplemental health insurance program.  
+The cost of the supplemental health insurance program averages 0.15% of normal cost, as determined by 
+an actuarial valuation. Contributions allocated to the OPEB plan from the University were $10,130. 
+ 
+OPEB Liabilities(Assets), OPEB Expense, and Deferred Outflows of Resources and Deferred Inflows of 
+Resources Related to OPEB: - At June 30, 2018, the University reported an asset of $70,727 for its 
+proportionate share of the net OPEB asset. The net OPEB asset was measured as of June 30, 2017, and 
+the total OPEB asset used to calculate the net OPEB asset was determined by an actuarial valuation as of 
+June 30, 2017. The University’s proportion of the net OPEB asset was based on the University’s 
+contributions received by the OPEB plan relative to the total contributions received by the OPEB plan for 
+all participating employers as of June 30, 2017.  Based upon this information, the University’s proportion 
+was .1586% percent. 
+ 
+For the year ended June 30, 2018, the University recognized OPEB (benefit) expense of ($2,819).  At 
+June 30, 2018, the University reported deferred outflows of resources and deferred inflows of resources 
+related to OPEB from the following sources: 
+
+Deferred Outflows 
+of Resources
+
+Deferred Inflows of 
+Resources
+
+Differences between expected and actual 
+experience -$                        18,984$                 
+
+Net difference between projected and actual 
+earnings on OPEB plan investments -                          38,794                   
+
+Differences between University contributions 
+and proportionate share of contributions -                          -                         
+University contributions subsequent to the 
+measurement date 10,130                    -                         
+Total 10,130$                  57,778$                 
+
+ 
+
+38
+
+http://www.ok.gov/TRS
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+The $10,130 reported as deferred outflows of resources related to OPEB resulting from University 
+contributions subsequent to the measurement date will be recognized as a reduction of the net OPEB 
+liability (asset) in the year ended June 30, 2019. Other amounts reported as deferred outflows of resources 
+and deferred inflows of resources related to OPEB will be recognized in OPEB expense as follows: 
+ 
+
+Year ended June 30:
+2019 (13,214)$                    
+2020 (13,214)                      
+2021 (13,214)                      
+2022 (13,214)                      
+2023 (3,516)                        
+
+Thereafter (1,406)                        
+Total (57,778)$                    
+
+ 
+ 
+
+Actuarial Assumptions: The total OPEB liability (asset) as of June 30, 2017, was determined based on an 
+actuarial valuation prepared as if June 30, 2017 using the following actuarial assumptions:  
+ 
+
+• Actuarial Cost Method - Entry Age  
+• Inflation - 2.50%  
+• Future Ad Hoc Cost-of-living Increases - None 
+• Salary Increases - Composed of 3.25% inflation, including 2.50% price inflation, plus a service-
+
+related component ranging from 0.00% to 8% based on years of service.  
+• Investment Rate of Return – 7.50%  
+• Retirement Age - Experience-based table of rates based on age, service, and gender. Adopted 
+
+by the Board in May 2015 in conjunction with the five year experience study for the period 
+ending June 30, 2014.  
+
+• Mortality Rates after Retirement – Males: RP-2000 Combined Mortality Table for males with 
+White Collar Adjustments.  Generational mortality improvements in accordance with Scale BB 
+from table’s base year of 2000.  Females: GRS Southwest Region Teacher Mortality Table, 
+scaled at 105%.  Generational mortality improvements in accordance with Scale BB from the 
+table’s base year of 2012. 
+
+• Mortality Rates for Active Members – RP – 2000 Employer Mortality tables, with male rates 
+multiplied by 60% and female rates multiplied by 50%. 
+
+ 
+Best estimates of arithmetic real rates of return for each major asset class included in the plan’s target 
+asset allocation as of June 30, 2018 are summarized below: 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+39
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+
+Asset Class
+Target Asset
+
+     Allocation     
+Long-Term Expected Real
+
+ Rate of Return 
+Domestic Equity 38.5% 7.5%
+International Equity 19.0% 8.5%
+Fixed Income 23.5% 2.5%
+Real Estate** 9.0% 4.5%
+Alternative Assets 10 6.1%
+Total 100.00%
+
+** The Real Estate total expected return is a combination of US Direct Real Estate (unlevered) 
+and US Value added Real Estate (unlevered)  
+
+ 
+Discount Rate: A single discount rate of 7.50% was used to measure the total OPRB liability (asset) as of 
+June 30, 2017.  This single discount rate was based solely on the expected rate of return on OPEB plan 
+investments of 7.50%. Based on the stated assumptions and the projection of cash flows, the OPEB plan’s 
+fiduciary net position and future contributions were projected to be available to finance all projected future 
+benefit payments of current plan members. Therefore, the long-term expected rate of return on OPEB plan 
+investments was applied to all periods of projected benefit payments to determine the total OPEB liability 
+(asset). The projection of cash flows used to determine this single discount rate assumed that plan member 
+and employer contributions will be made at the current statutory levels and remain a level percentage of 
+payrolls. The projection of cash flows also assumed that the State’s contribution plus the matching 
+contributions will remain a constant percent of projected member payroll based on the past five years of 
+actual contributions. 
+ 
+Sensitivity of the Net OPEB Liability to Changes in the Discount Rate: The following presents the net OPEB 
+liability (asset) of the employer calculated using the discount rate of 7.5%, as well as what the Plan's net 
+OPEB liability (asset) would be if it were calculated using a discount rate that is 1-percentage point lower 
+(6.5%) or 1-percentage-point higher (8.5%) than the current rate: 
+ 
+
+I% Decrease Current Discount I% Increase
+(6.5%) Rate (7.5%) (8.5%)
+
+Employers' net opeb liability (asset) (2,961)$                          (70,727)$                                   (128,667)$                                
+
+ 
+Pension plan fiduciary net position: Detailed information about the OPEB plan’s fiduciary net position is 
+available in the separately issued financial report of the OTRS; which can be located at www.ok.gov/TRS. 
+ 
+Death Benefit Plan 
+ 
+Plan description: The University’s defined benefit OPEB plan, Death Benefit Plan, provides OPEB to eligible 
+retirees and their dependents. The University’s Board of Regents has the authority to establish and amend 
+benefit provisions.  No assets are accumulated in a trust that meets the criteria in paragraph 4 of 
+Statement 75. 
+ 
+Benefits provided: The University pays life insurance premiums for individuals who meet the specified criteria 
+to be considered a retiree as of the last day of continuous regular employment. Eligible retirees must meet the 
+OTRS guidelines. In addition, the individual must also have been enrolled in the University’s life insurance 
+program prior to retirement.  
+ 
+ 
+
+40
+
+http://www.ok.gov/TRS
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+Each retiree is eligible to receive $10,000 of life insurance coverage at a cost to the College of $0.29 per 
+$1,000 of coverage. As of June 30, 2018, there were approximately 115 active employees and 64 retirees 
+covered under the life insurance program. The OPEB Plan does not issue a stand-alone financial report. 
+ 
+Total OPEB Liability: The University’s total OPEB liability for the Death Benefits Plan of $33,078 was 
+measured as of June 30, 2018, and was determined by an actuarial valuation as of that date. 
+ 
+Actuarial Assumptions: The total OPEB liability was determined based on an actuarial valuation prepared 
+as of June 30, 2018 using the following actuarial assumptions:  
+ 
+
+• Actuarial Cost Method - Entry Age Normal 
+• Discount Rate – 3.88%, based on June 30, 2018 published Bond Pay Go-20 bond index 
+• Mortality Rates -  RPA-2000 Mortality Table projected to 2020 
+• Pre-Retirement Termination – Table T-3 of the Actuary’s Pension Handbook. 
+
+ 
+Age Annual Termination 
+
+Rate 
+25 5.27% 
+30 4.83% 
+35 4.47% 
+40 3.84% 
+45 3.21% 
+50 1.52% 
+55 0.33% 
+60 0.00% 
+
+ 
+Changes in Total OPEB Liability: The following table reports the components of changes in total OPEB 
+liability: 
+
+2018
+Beginning total OPEB liability 40,909$            
+Service cost 1,239                
+Interest 1,195                
+Change of assumptions (3,258)               
+Difference between actual and expected experience (7,007)               
+Ending net OPEB liability 33,078$             
+
+ 
+Sensitivity of the Total OPEB Liability to Changes in the Discount Rate: The following presents the total 
+OPEB liability (asset) of the employer calculated using the discount rate of 3.88%, as well as what the 
+Plan's total OPEB liability (asset) would be if it were calculated using a discount rate that is 1-percentage 
+point lower (2.88%) or 1-percentage-point higher (4.88) than the current rate: 
+ 
+
+1% Decrease Current Discount 1% Increase
+2.88% Rate 3.88% 4.88%
+
+Employers' net opeb liability (asset) 36,255$                 33,078$                          30,402$                        
+ 
+
+ 
+ 
+
+41
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+OPEB Expense: For the year ended June 30, 2018, the University recognized OPEB expense of $1,174.  The 
+University also reported deferred inflows of resources related to OPEB from the following sources: 
+ 
+
+Deferred Outflows 
+of Resources
+
+Deferred Inflows of 
+Resources
+
+Differences between expected and actual 
+experience -$                       6,147$                   
+
+Changes of assumptions -                         2,858                     
+Total -$                       9,005$                   
+
+ 
+ 
+
+Amounts reported as deferred inflows of resources related to OPEB will be recognized in OPEB expense 
+as follows: 
+
+Year ended June 30:
+2019 (1,260)$                      
+2020 (1,260)                        
+2021 (1,260)                        
+2022 (1,260)                        
+2023 (1,260)                        
+
+Thereafter (2,705)                        
+Total (9,005)$                      
+
+ 
+ 
+ 
+Health Insurance Benefit Plan 
+ 
+Plan description: The University’s defined benefit OPEB plan, Health Insurance Benefit Plan, provides 
+OPEB to eligible retirees and their dependents. The University’s Board of Trustees has the authority to 
+establish and amend benefit provisions.  No assets are accumulated in a trust that meets the criteria in 
+paragraph 4 of Statement 75. 
+ 
+Benefits provided: The University provides medical benefits to eligible retirees and their dependents through 
+the Oklahoma State University A&M System. This Plan allows employees who retire from the University to 
+continue to be covered under the University’s Health Insurance Plan until age 65.  The retired participant 
+must pay the active participant’s premium.  The medical rates for pre-65 retirees are the same as the rates 
+for active employees so the benefit being provided is an implicit rate subsidy.  Retirees and dependents 
+age 65 or older are provided a Medicare supplement that is not subsidized by the University. 
+ 
+Employees covered by benefit terms: At June 30, 2018 the following employees were covered by the benefit 
+terms: 
+  Active Employees (Participants)           119 
+  Retired Participants                      2 
+       Total           121 
+ 
+
+42
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+Total OPEB Liability: The University’s total OPEB liability of $943,177 was measured as of June 30, 2018, 
+and was determined by an actuarial valuation as of that date. 
+ 
+Actuarial Assumptions: The total OPEB liability was determined based on an actuarial valuation prepared 
+as of June 30, 2018 using the following actuarial assumptions:  
+ 
+
+• Actuarial Cost Method - Entry Age Normal 
+• Discount Rate – 3.88%, based on June 30, 2018 published Bond Pay Go-20 bond index 
+• Retirement Age: 63 
+• Healthcare cost trend rates  -  Level 5.00% per year 
+• Mortality Rates -  RPA-2000 Mortality Table projected to 2020 
+• Pre-Retirement Termination – Table T-3 of the Actuary’s Pension Handbook. 
+
+ 
+Age Annual Termination 
+
+Rate 
+25 5.3% 
+30 4.8% 
+35 4.5% 
+40 3.8% 
+45 3.2% 
+50 1.5% 
+55 0.3% 
+60 0.0% 
+
+ 
+Changes in Total OPEB Liability: The following table reports the components of changes in total OPEB 
+liability: 
+
+2018
+Beginning total OPEB liability, as restated pursuant to GASB 75 1,129,417$       
+Service cost 126,351            
+Interest 34,447              
+Change of assumptions (84,055)             
+Difference between actual and expected experience (262,983)           
+Ending net OPEB liability 943,177$           
+
+ 
+Sensitivity of the Total OPEB Liability to Changes in the Discount Rate: The following presents the total 
+OPEB liability of the employer calculated using the discount rate of 3.88%, as well as what the Plan's total 
+OPEB liability would be if it were calculated using a discount rate that is 1-percentage point lower (2.88%) 
+or 1-percentage-point higher (4.88) than the current rate: 
+ 
+
+1% Decrease Current Discount 1% Increase
+2.88% Rate 3.88% 4.88%
+
+Employers' net opeb liability 1,036,190$             943,177$                        839,870$                       
+ 
+
+ 
+ 
+
+ 
+ 
+
+43
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 8.  Other Postemployment Insurance Benefits (Continued) 
+ 
+Sensitivity of the Total OPEB Liability to Changes in the Healthcare Cost Trend Rate: The following presents 
+the total OPEB liability of the employer calculated using the healthcare cost trend rate of 5.00%, as well as 
+what the Plan's total OPEB liability would be if it were calculated using a healthcare cost trend rate that is 1-
+percentage point lower (4.00%) or 1-percentage-point higher (6.00%) than the current rate: 
+ 
+
+1% Decrease Current Discount 1% Increase
+4.00% Rate 5.00% 6.00%
+
+Employers' net opeb liability 805,128$               943,177$                        1,075,145$                  
+ 
+
+ 
+OPEB Expense: For the year ended June 30, 2018, the University recognized OPEB expense of $132,901.  
+The University also reported deferred outflows and inflows of resources related to OPEB from the following 
+sources: 
+ 
+
+Deferred Outflows 
+of Resources
+
+Deferred Inflows of 
+Resources
+
+Differences between expected and actual 
+experience -$                       241,843$               
+
+Changes of assumptions -                         77,298                   
+Total -$                       319,141$               
+
+ 
+ 
+
+Amounts reported as deferred inflows of resources related to OPEB will be recognized in OPEB expense 
+as follows: 
+
+Year ended June 30:
+2019 (27,897)$                    
+2020 (27,897)                      
+2021 (27,897)                      
+2022 (27,897)                      
+2023 (27,897)                      
+
+Thereafter (179,656)                    
+Total (319,141)$                  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+44
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 9.  Funds Held in Trusts by Others 
+ 
+The University has a beneficial interest in the Section Thirteen Fund State Educational Institutions and the 
+New University Fund administered by the Commissioners of the Land Office of the State of Oklahoma as 
+trustee for the various educational institutions entitled thereto. The University has the right to receive 
+annually approximately 3.7% of the distributions of income produced by Section Thirteen Fund State 
+Educational Institutions assets and New University Fund. 
+ 
+The University received approximately $1,117,000 and $1,099,000 from these funds during the years ended 
+June 30, 2018 and 2017, respectively, which is restricted to the construction or acquisition of buildings, 
+equipment or other capital items. These appropriated amounts are recorded as restricted state 
+appropriations in the statements of revenues, expenses and changes in net position. State law prohibits 
+the distribution of any corpus of these funds to the beneficiaries. The total trust reserve for the University, 
+held in trust by the Commissioners of the Land Office, is approximately $19,816,000 and $19,122,000 at 
+June 30, 2018 and 2017, respectively. 
+ 
+Note 10.  Panhandle State Foundation 
+ 
+The following is a summary of transactions between the University and the Foundation during the years 
+ended June 30: 
+
+2018 2017
+Direct support from the Foundation to the University 220,000$         220,000$         
+Scholarships paid directly by the Foundation to University students 209,335           204,968           
+
+ 
+ 
+The following are significant disclosures of the Foundation: 
+ 
+Disclosure about Fair Value of Financial Instruments: 
+ 
+ASC 820 establishes a fair value hierarchy for valuation inputs that gives the highest priority to quoted 
+prices in active markets for identical assets or liabilities and the lowest priority to unobservable inputs.  The 
+fair value hierarchy is as follows: 
+
+• Level 1 inputs to the valuation methodology are quoted prices (unadjusted) for identical assets or 
+liabilities in active markets. 
+
+• Level 2 inputs to the valuation methodology include quoted prices for similar assets and liabilities in 
+active markets and inputs that are observable for the asset and liability, either directly or indirectly, for 
+substantially the full term of the asset or liability. 
+
+• Level 3 inputs consist of unobservable inputs which are used when observable inputs are unavailable 
+and reflect an entity’s own assumptions about the assumptions that the market participants would use 
+in pricing the assets or liabilities.  Real estate held as investments would be valued as level 3 inputs. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+45
+
+
+
+Oklahoma Panhandle State University 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+Notes to Financial Statements 
+ 
+Note 10.  Panhandle State Foundation (Continued) 
+ 
+The following is a summary of financial assets measured at fair value on a recurring basis as of December 
+31, 2017 and 2016: 
+ 
+
+Fair Value Heirarchy 2017 2016
+Common stocks Level 1 5,807,609$        5,066,664$        
+Mutual funds Level 1 4,760,942          4,133,765          
+Corporate bonds Level 1 1,303,947          1,249,338          
+Asset and mortgage backed securities Level 1 930,572             1,124,337          
+Publicly traded limited partnerships Level 1 317,699             722,254             
+Exchange traded and closed end funds Level 1 3,600                 2,314                 
+Interest in perpetual trust Level 3 800,773             753,804             
+Certificate of Deposits Level 2 160,000             160,000             
+Mineral Interests Level 3 25,722               25,722               
+Investment in land Level 3 5,000                 5,000                 
+
+Total investments 14,115,864$      13,243,198$       
+ 
+Note 11.  Commitments and Contingencies 
+ 
+During the ordinary course of business, the University may be subjected to various lawsuits and civil action 
+claims. At June 30, 2018 and 2017, there were no pending lawsuits or claims against the University that 
+management believes would result in a material loss to the University in the event of an adverse outcome. 
+ 
+Note 12.  Risk Management 
+ 
+The University is exposed to various risks of loss from torts; theft of, damage to and destruction of assets; 
+business interruption; employee injuries and illnesses; natural disasters; employee health, life and accident 
+benefits; and unemployment. Commercial insurance coverage is purchased for claims arising from such 
+matters other than torts, property damage, workers’ compensation and unemployment. Settled claims have 
+not exceeded this commercial coverage in any of the three preceding years. 
+ 
+The University, along with other state agencies and political subdivisions, participates in the State of 
+Oklahoma Risk Management Program and the State Insurance Fund, public entity risk pools currently 
+operating as a common risk management and insurance program for its members. The University pays an 
+annual premium to the pools for its torts, property and workers’ compensation insurance coverages. The 
+Oklahoma Risk Management Pool’s governing agreement specifies that the pools will be self-sustaining 
+through member premiums and will reinsure through commercial carriers for claims in excess of specified 
+stop-loss amounts. 
+ 
+
+ 
+ 
+
+ 
+ 
+
+46
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Required Supplementary Information 
+ 
+ 
+ 
+ 
+  
+
+
+
+ 
+
+ 
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+SCHEDULE OF THE UNIVERSITY'S PROPORTIONATE SHARE OF THE NET PENSION LIABILITY
+OKLAHOMA TEACHERS RETIREMENT SYSTEM (Unaudited)
+Last 10 Fiscal Years (a)
+
+2015 2016 2017 2018
+
+University's proportion of the net pension liability 0.1626% 0.1535% 0.1496% 0.1586%
+
+University's proportionate share of the net pension 
+liability 8,747,608$         9,324,270$          12,482,485$    10,501,352$    
+
+University's covered-employee payroll 7,655,532$         7,469,774$          7,434,386$      7,517,236$      
+
+University's proportionate share of the net pension 
+liability as a percentage of its covered-employee payroll 114% 125% 168% 140%
+
+Plan fiduciary net position as a percentage of the total 
+pension liability 72.43% 70.31% 62.24% 69.32%
+
+The amounts presented for each fiscal year were determined as of 6/30
+
+Notes to Schedule:
+
+Only these years are presented because 10-year data is not yet available.
+ 
+
+ 
+ 
+ 
+ 
+
+48
+
+
+
+ 
+
+ 
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+SCHEDULE OF THE UNIVERSITY'S CONTRIBUTIONS
+OKLAHOMA TEACHERS RETIREMENT SYSTEM (Unaudited)
+Last 10 Fiscal Years
+
+2015 2016 2017 2018
+
+Contractually required contribution 640,552$           635,443$      650,374$      637,971$      
+
+Contributions in relation to the 
+contractually required contribution 640,552             635,443        650,374        637,971        
+
+Contribution deficiency (excess) -$                 -$             -$              -$             
+
+University's covered-employee payroll 7,469,774$        7,434,386$   7,517,236$   7,244,059$   
+
+Contribuions as a percentage of covered-
+employee payroll 9% 9% 9% 9%
+
+Notes to Schedule:
+
+Only these years are presented because 10-year data is not yet available.
+
+ 
+ 
+ 
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+SCHEDULE OF THE UNIVERSITY'S CHANGE IN TOTAL PENSION LIABILITY
+SUPPLEMENTAL RETIREMENT ANNUITY (Unaudited)
+Last 10 Fiscal Years
+
+2017
+Beginning net pension liability 139,458       
+Interest 4,901           
+Change of assumptions 2,862           
+Difference between actual and expected experience 44,668         
+Benefit payments (30,870)        
+Ending net pension liability 161,019       
+
+Notes to Schedule:
+
+Only the current fiscal year is presented because 10-year data is not yet available.  
+ 
+
+49
+
+
+
+ 
+
+ 
+
+OKAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+SCHEDULE OF THE COLLEGE'S PROPORTIONATE SHARE OF THE NET OPEB LIABILITY (ASSET)
+OKLAHOMA TEACHERS' RETIREMENT SYSTEM
+SUPPLEMENTAL HEALTH INSURANCE PROGRAM
+Last 10 Fiscal Years* (Dollar amounts in thousands)
+
+2018
+
+College's proportion of the net OPEB 
+liability (asset) 0.1586%
+
+College's proportionate share of the net 
+OPEB liability (asset) (70,727)$        
+
+College's covered payroll 7,517,236$    
+
+College's proportionate share of the net 
+OPEB liability (asset) as a percentage of its 
+covered-employee payroll -0.94%
+
+Plan fiduciary net position as a percentage 
+of the total OPEB liability (asset) 110.40%
+
+The amounts present for each fiscal year were determined as of 6/30
+
+Notes to Schedule:
+
+Only the current year is presented because 10-year data is not yet available.
+ 
+
+ 
+
+50
+
+
+
+ 
+
+ 
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+SCHEDULE OF THE COLLEGE'S CONTRIBUTIONS
+SUPPLEMENTAL HEALTH INSURANCE PROGRAM
+Last 10 Fiscal Years (Dollar amounts in thousands)
+
+2018
+
+Contractually required contribution 10,130$          
+
+Contribuions in relation to the 
+contractually required contribution 10,130            
+
+Contribution deficiency (excess) -$               
+
+College's covered payroll 7,244,059$     
+
+Contribuions as a percentage of 
+covered payroll 0.14%
+
+Notes to Schedule:
+
+Only the current fiscal year is presented because 10-year data is not yet available.
+ 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+51
+
+
+
+ 
+
+ 
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+Schedule of Changes in Total OPEB Liability and Related Ratios
+Death Benefit Plan
+
+Last 10 Fiscal Years
+
+2018
+Total OPEB liability
+
+Service cost 1,239$                 
+Interest 1,195                   
+Change in assumptions (3,258)                  
+Differences between expected and actual experience (7,007)                  
+Contributions -                       
+
+Net change in total OPEB liability (7,831)                  
+
+Total OPEB liability - beginning 40,909                 
+Total OPEB liability - ending (a) 33,078$              
+
+Covered employee payroll 7,244,059$          
+
+Net OPEB liability (asset) as a percentage of covered- 0.46%
+employee payroll
+
+Notes to Schedule:
+
+Only the current year is presented because 10-year data is not yet available.
+
+The discount rate used for 2018 is 3.88%.
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+52
+
+
+
+ 
+
+ 
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+Schedules of Required Supplementary Information
+Schedule of Changes in Total OPEB Liability and Related Ratios
+Health Insurance Benefit Plan
+
+Last 10 Fiscal Years
+
+2018
+Total OPEB liability
+
+Service cost 126,351$             
+Interest 34,447                 
+Change in assumptions (84,055)                
+Differences between expected and actual experience (262,983)              
+
+Net change in total OPEB liability (186,240)              
+
+Total OPEB liability - beginning 1,129,417            
+Total OPEB liability - ending (a) 943,177$            
+
+Covered employee payroll 7,244,059$          
+
+Net OPEB liability (asset) as a percentage of covered- 13.02%
+employee payroll
+
+Notes to Schedule:
+
+Only the current year is presented because 10-year data is not yet available.
+
+The discount rate used for 2018 is 3.88%.
+
+53
+
+
+
+ 
+
+ 
+
+Reports Required by 
+Government Auditing Standards 
+
+And OMB Circular 
+ 
+
+
+
+ 
+ 
+
+ 
+309 N. Bryant Ave. • Edmond, OK 73034 • 405.348.0615 • Fax 405.348.0931 • www.jmacpas.com 
+
+Member of AICPA and OSCPA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING AND 
+ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL STATEMENTS 
+
+PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS  
+
+ 
+
+Board of Regents 
+Oklahoma Agricultural and Mechanical Colleges 
+Oklahoma Panhandle State University 
+Oklahoma City, Oklahoma 
+
+We have audited, in accordance with the auditing standards generally accepted in the United States of America and 
+the standards applicable to financial audits contained in Government Auditing Standards issued by the Comptroller 
+General of the United States, the financial statements of Oklahoma Panhandle State University (the “University”), 
+an organizational unit of the Board of Regents for the Oklahoma Agricultural and Mechanical Colleges (the 
+“Regents”), which is a component unit of the State of Oklahoma, and its discretely presented component unit, that 
+comprise the statement of net position as of June 30, 2018, and the related statements of revenue, expenses, and 
+changes in net position and cash flows for the year then ended, and the related notes to the financial statements, 
+which collectively comprise the University’s basic financial statements, and have issued our report thereon dated 
+October 31, 2018. Our report includes paragraphs related to a change in accounting principle and a reference to 
+other auditors who audited the financial statements of Panhandle State Foundation (the “Foundation”), the 
+University’s discretely presented component unit, as described in our report on the University’s financial 
+statements. The financial statements of the Foundation were not audited in accordance with Government Auditing 
+Standards and accordingly this report does not include reporting on internal control over financial reporting or 
+instances of reportable noncompliance associated with the Foundation.  
+
+Internal Control over Financial Reporting  
+In planning and performing our audit of the financial statements, we considered the University’s internal control 
+over financial reporting (internal control) to determine the audit procedures that are appropriate in the circumstances 
+for the purpose of expressing our opinion on the financial statements, but not for the purpose of expressing an 
+opinion on the effectiveness of the University’s internal control. Accordingly, we do not express an opinion on the 
+effectiveness of the University’s internal control. 
+
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity’s financial statements 
+will not be prevented, or detected and corrected on a timely basis. A significant deficiency is a deficiency, or a 
+combination of deficiencies, in internal control that is less severe than a material weakness, yet important enough 
+to merit attention by those charged with governance. 
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and 
+was not designed to identify all deficiencies in internal control that might be material weaknesses or significant 
+deficiencies. Given these limitations, during our audit we did not identify any deficiencies in internal control that 
+we consider to be material weaknesses. However, material weaknesses may exist that have not been identified. 
+
+
+
+ 
+ 
+
+Compliance and Other Matters  
+As part of obtaining reasonable assurance about whether the University’s financial statements are free from material 
+misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and grant 
+agreements, noncompliance with which could have a direct and material effect on the determination of financial 
+statement amounts. However, providing an opinion on compliance with those provisions was not an objective of 
+our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed no instances of 
+noncompliance or other matters that are required to be reported under Government Auditing Standards. 
+
+Purpose of this Report  
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the 
+results of that testing, and not to provide an opinion on the effectiveness of the University’s internal control or on 
+compliance. This report is an integral part of an audit performed in accordance with Government Auditing Standards 
+in considering the University’s internal control and compliance. Accordingly, this communication is not suitable 
+for any other purpose. 
+
+ 
+October 31, 2018 
+
+ 
+
+
+
+ 
+ 
+
+ 
+309 N. Bryant Ave. • Edmond, OK 73034 • 405.348.0615 • Fax 405.348.0931 • www.jmacpas.com 
+
+Member of AICPA and OSCPA 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR FEDERAL PROGRAM  
+AND ON INTERNAL CONTROL OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE; 
+
+AND REPORT ON THE SCHEDULE OF EXPENDITURES OF FEDERAL 
+AWARDS REQUIRED BY THE UNIFORM GUIDANCE 
+
+  
+
+Board of Regents 
+Oklahoma Agricultural and Mechanical Colleges 
+Oklahoma Panhandle State University 
+Oklahoma City, Oklahoma  
+
+ 
+Report on Compliance for Each Major Federal Program  
+We have audited Oklahoma Panhandle State University’s (the “University”), an organizational unit of the Board of 
+Regents for the Oklahoma Agricultural and Mechanical Colleges (the “Regents”), which is a component unit of the 
+State of Oklahoma, compliance with the types of compliance requirements described in the OMB Compliance 
+Supplement that could have a direct and material effect on each of the University’s major federal programs for the 
+year ended June 30, 2018. The University’s major federal programs are identified in the summary of auditor’s 
+results section of the accompanying schedule of findings and questioned costs.  
+
+Management’s Responsibility 
+
+Management is responsible for compliance with federal statutes, regulations, and the terms and conditions of its 
+federal awards applicable to its federal programs. 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on compliance for each of the University’s major federal programs based 
+on our audit of the types of compliance requirements referred to above. We conducted our audit of compliance in 
+accordance with auditing standards generally accepted in the United States of America; the standards applicable to 
+financial audits contained in Government Auditing Standards, issued by the Comptroller General of the United 
+States; and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Those standards 
+and the Uniform Guidance require that we plan and perform the audit to obtain reasonable assurance about whether 
+noncompliance with the types of compliance requirements referred to above that could have a direct and material 
+effect on a major federal program occurred. An audit includes examining, on a test basis, evidence about the 
+University’s compliance with those requirements and performing such other procedures as we considered necessary 
+in the circumstances. 
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal program. 
+However, our audit does not provide a legal determination of the University’s compliance.  
+
+Opinion on Each Major Federal Program 
+
+In our opinion, the University complied, in all material respects, with the types of compliance requirements referred 
+to above that could have a direct and material effect on each of its major federal programs for the year ended 
+June 30, 2018.  
+
+ 
+
+
+
+ 
+ 
+
+Report on Internal Control over Compliance  
+Management of the University is responsible for establishing and maintaining effective internal control over 
+compliance with the types of compliance requirements referred to above. In planning and performing our audit of 
+compliance, we considered the University’s internal control over compliance with the types of requirements that 
+could have a direct and material effect on each major federal program to determine the auditing procedures that are 
+appropriate in the circumstances for the purpose of expressing an opinion on compliance for each major federal 
+program and to test and report on internal control over compliance in accordance with the Uniform Guidance, but 
+not for the purpose of expressing an opinion on the effectiveness of internal control over compliance. Accordingly, 
+we do not express an opinion on the effectiveness of the University’s internal control over compliance. 
+
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance 
+does not allow management or employees, in the normal course of performing their assigned functions, to prevent, 
+or detect and correct, noncompliance with a type of compliance requirement of a federal program on a timely basis. 
+A material weakness in internal control over compliance is a deficiency, or combination of deficiencies, in internal 
+control over compliance, such that there is a reasonable possibility that material noncompliance with a type of 
+compliance requirement of a federal program will not be prevented, or detected and corrected, on a timely basis. A 
+significant deficiency in internal control over compliance is a deficiency, or a combination of deficiencies, in 
+internal control over compliance with a type of compliance requirement of a federal program that is less severe than 
+a material weakness in internal control over compliance, yet important enough to merit attention by those charged 
+with governance. 
+
+Our consideration of internal control over compliance was for the limited purpose described in the first paragraph 
+of this section and was not designed to identify all deficiencies in internal control over compliance that might be 
+material weaknesses or significant deficiencies. We did not identify any deficiencies in internal control over 
+compliance that we consider to be material weaknesses. However, material weaknesses may exist that have not 
+been identified. 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of 
+internal control over compliance and the results of that testing based on the requirements of the Uniform Guidance. 
+Accordingly, this report is not suitable for any other purpose.  
+
+Report on Schedule of Expenditures of Federal Awards Required by the Uniform Guidance 
+We have audited the financial statements of the University as of and for the year ended June 30, 2018, and the 
+related notes to the financial statements, which collectively comprise the University’s basic financial statements. 
+We issued our report thereon dated October 31, 2018, which contained an unmodified opinion on those financial 
+statements. Our audit was conducted for the purpose of forming an opinion on the financial statements that 
+collectively comprise the basic financial statements. The accompanying schedule of expenditures of federal awards 
+is presented for purposes of additional analysis as required by the Uniform Guidance and is not a required part of 
+the basic financial statements. Such information is the responsibility of management and was derived from and 
+relates directly to the underlying accounting and other records used to prepare the basic financial statements. The 
+information has been subjected to the auditing procedures applied in the audit of the financial statements and certain 
+additional procedures, including comparing and reconciling such information directly to the underlying accounting 
+and other records used to prepare the basic financial statements or to the basic financial statements themselves, and 
+other additional procedures in accordance with auditing standards generally accepted in the United States of 
+America. In our opinion, the schedule of expenditures of federal awards is fairly stated in all material respects in 
+relation to the basic financial statements as a whole. 
+
+ 
+October 31, 2018 
+
+
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY
+(An Organizational Unit of the Board of Regents for the
+Oklahoma Agricultural and Mechanical Colleges)
+
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+
+Year Ended June 30, 2018
+
+Federal Pass-Through
+CFDA Entity Federal
+
+Federal Grantor/Pass-Through Grantor/Program Title Number Identifying Number Expenditures
+U.S. DEPARTMENT OF EDUCATION
+
+Student financial assistance cluster
+Federal Pell Grant Program 84.063 N/A 2,000,812$           
+Federal Supplemental Educational Opportunity Grants 84.007 N/A 31,109                  
+Federal Work-Study Program 84.033 N/A 42,720                  
+Federal Perkins Loans 84.038 N/A 35,958                  
+Federal Direct Student Loans 84.268 N/A 3,450,084             
+
+Total Student Financial Assistance Cluster 5,560,683             
+
+TRIO program cluster
+TRIO--Upward Bound 84.047 N/A 280,129                
+
+Total TRIO program cluster 280,129                
+
+TOTAL U.S. DEPARTMENT OF EDUCATION 5,840,812            
+
+U.S. DEPARTMENT OF INTERIOR; FISH AND WILDLIFE SERVICE
+Passed through the Oklahoma Department of Wildlife Conservation
+
+Wildlife Restoration and Basic Hunter Education Program-
+Shooting Range Complex 15.611 F17AF00041 (W-186-P-1) 112,034                
+
+Total Wildlife Restoration and Basic Hunter Education Program 112,034                
+
+TOTAL U.S. DEPARTMENT OF INTERIOR 112,034               
+
+U.S. DEPARTMENT OF HOMELAND SECURITY
+Passed through the Oklahoma Department of Emergency Management
+
+Disaster Grants - Public Assistance (Presidentially Declared Disasters) 97.036 FEMA-4299-DR-OK 44,228                  
+Disaster Grants - Public Assistance (Presidentially Declared Disasters) 97.036 FEMA-4315-DR-OK 51,936                  
+
+Total Disaster Grants 96,164                  
+
+TOTAL U.S. DEPARTMENT OF HOMELAND SECURITY 96,164                 
+
+TOTAL EXPENDITURES OF FEDERAL AWARDS 6,049,010$           
+
+See notes to schedule of expenditures of federal awards.
+
+59
+
+
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+ 
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+ 
+Year Ended June 30, 2018 
+ 
+
+ 
+
+NOTE A--BASIS OF PRESENTATION 
+ 
+The accompanying Schedule of Expenditures of Federal Awards (the “Schedule”) includes the federal 
+award activity of Oklahoma Panhandle State University (the “University”) under programs of the federal 
+government for the year ended June 30, 2018. The information in the Schedule is presented in accordance 
+with the requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Because 
+the Schedule presents only a selected portion of the operations of the University, it is not intended to and 
+does not present the financial position, changes in net position, or cash flows of the University. 
+ 
+NOTE B--SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such expenditures 
+are recognized following the cost principles contained in the Uniform Guidance, wherein certain types of 
+expenditures are not allowable or are limited as to reimbursement.  The University has elected not to use 
+the 10-percent de minimis indirect cost rate allowed under the Uniform Guidance. 
+ 
+NOTE C--FEDERAL DIRECT STUDENT LOAN PROGRAM 
+ 
+The University participates in the Federal Direct Loan Program (the “Program”), CFDA number 84.268, 
+which includes the Federal Subsidized Direct Loan, the Federal Unsubsidized Direct Loan, the Federal 
+Graduate Student PLUS Direct Loan and Federal Direct Loans Parents of Undergraduate Students. The 
+Federal Direct Loan Program requires the University to draw down cash; and the University is required to 
+perform certain administrative functions under the Program. Failure to perform such functions may require 
+the University to reimburse the loan guarantee agencies.  The University is not responsible for the collection 
+of these loans. The value of loans made during the audit period are considered Federal awards expended 
+for the audit period. 
+ 
+NOTE D--FEDERAL PERKINS LOANS  
+ 
+The University has $35,958 in Federal Perkins loans outstanding at June 30, 2018. These loan balances 
+outstanding are included as federal expenditures in the Schedule. During the year ended June 30, 2018, the 
+University issued Perkins loans totaling $0.   
+ 
+NOTE E--SUBRECIPIENTS  
+ 
+During the year ended June 30, 2018, the University did not provide any federal awards to subrecipients.
+
+60
+
+
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+ 
+Year Ended June 30, 2018 
+ 
+Section I--Summary of Auditor’s Results 
+ 
+Financial statements 
+ 
+Type of auditor’s report issued on whether the financial statements 
+ were in accordance with GAAP:  Unmodified 
+ 
+Internal control over financial reporting: 
+ 
+• Material weakness(es) identified?    yes  X  no 
+
+• Significant deficiency(ies) identified?    yes  X  no 
+ 
+Noncompliance material to financial statements noted?    yes  X  no 
+ 
+Federal Awards 
+ 
+Internal control over major federal programs: 
+ 
+• Material weakness(es) identified?    yes  X  no 
+
+• Significant deficiency(ies) identified?    yes  X  no 
+ 
+Type of auditor’s report issued on compliance for major federal programs: Unmodified 
+ 
+Any audit findings disclosed that are required to be reported in 
+accordance with 2 CFR 200.516(a)?    yes  X  no 
+ 
+Identification of major federal programs: 
+
+CFDA Number
+Student Financial Assistance Cluster *
+Program
+
+ 
+ 
+*Refer to the Schedule of Expenditures of Federal Awards for CFDA numbers related to these programs. 
+ 
+Dollar threshold used to distinguish between type A and type B programs: $750,000 
+ 
+Auditee qualified as low-risk auditee?  X  yes    no 
+
+61
+
+
+
+ 
+ 
+OKLAHOMA PANHANDLE STATE UNIVERSITY 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+ 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS--Continued 
+ 
+Year Ended June 30, 2018 
+ 
+ 
+Section II--Findings Required to be Reported in Accordance with Government Auditing Standards: 
+ 
+None to report for the June 30, 2018, period. 
+ 
+Section III--Finding Required to be Reported in Accordance with the Uniform Guidance: 
+ 
+None to report for the June 30, 2018, period. 
+ 
+ 
+ 
+ 
+ 
+
+62
+
+
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+ 
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS AND QUESTIONED COSTS 
+ 
+Year Ended June 30, 2018 
+ 
+ 
+Finding 2017-001 Special Tests and Provisions - Return of Title IV Funds 
+ 
+Federal Program: CFDA # 84.063, 84.268, 84.007, 84.033, 84.038 – Student Financial Assistance 
+Cluster  
+ 
+Criteria: The total number of calendar days in a payment or enrollment period includes all days within the 
+period except for institutionally scheduled breaks of at least five consecutive calendar days including days 
+in which the student was on an approved leave of absence are excluded from the total number of calendar 
+days in a payment period or period of enrollment. (34 CFR Section 668.22(f)). The Federal Student Aid 
+Handbook (Handbook) provides an example of how the enrollment period is calculated. The Handbook 
+states, “…the break is calculated using the first day after the last day of class scheduled and the last day of 
+the scheduled break is the day before the next class held.” (2017 Federal Student Aid Handbook, Volume 
+5). 
+ 
+Condition:  We recalculated the scheduled breaks to determine the number of days to exclude for return 
+calculation purposes. We calculated Thanksgiving Break to include five days and Spring Break to include 
+nine days. The University calculated Thanksgiving Break as three days and Spring Break as five days and 
+did not include Saturdays and Sundays as appropriate. 
+ 
+Questioned Costs: None 
+ 
+Cause and Effect:  The University did not use Saturdays and Sundays in their calculations which resulted 
+in inaccurate calculations and inaccurate amounts being refunded to the US Department of Education. 
+ 
+Recommendation:  We recommend the University correct its calculation within their automated system and 
+implements a procedure to periodically review these calculations.  
+ 
+Current Year Status: This finding has been corrected in the current period. 
+
+63
+
+
+
+OKLAHOMA PANHANDLE STATE UNIVERSITY 
+(An Organizational Unit of the Board of Regents for the 
+Oklahoma Agricultural and Mechanical Colleges) 
+ 
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS AND QUESTIONED COSTS--
+Continued 
+ 
+Year Ended June 30, 2018 
+ 
+ 
+Finding 2017-002: Special Tests and Provisions - Common Origination Documentation (COD) 
+Reconciliation  
+
+Federal Program: CFDA # 84.063, 84.268, 84.007, 84.033, 84.038 – Student Financial Assistance 
+Cluster   
+ 
+Criteria: In accordance with 34 CFR section 685.300(b) “In the program participation agreement, the 
+school must promise to comply with the Act and applicable regulations and must agree to – (5) On a 
+monthly basis, reconcile institutional records with Direct Loan funds received from the Secretary and Direct 
+Loan disbursement records submitted to and accepted by the Secretary.” 
+ 
+Institutions must report all loan disbursements and submit required records to the Direct Loan Servicing 
+System (DLSS) via the COD within 15 days of disbursement (OMB No. 1845-0021).  Each month, the 
+COD provides institutions with a School Account Statement (SAS) data file which consists of a Cash 
+Summary, Cash Detail, and (optional at the request of the school) Loan Detail records.  The school is 
+required to reconcile these files to the institution’s financial records.   
+ 
+Condition:  During our School Account Statement (SAS) data file reconciliation testwork, we noted that 
+the University did not perform the required monthly reconciliation process throughout the year.  
+ 
+Questioned Costs: Unknown 
+ 
+Cause and Effect: During fiscal 2017, the University implemented new software that was understood to 
+automatically reconcile the differences between the SAS data files and the University’s financial records.  
+The new software did not reconcile the SAS data file to the University’s records as intended and 
+management then failed to perform these reconciliations on a monthly basis. 
+ 
+Recommendation:  We recommend the University perform/review the required reconciliations between the 
+SAS data file and the University’s financial records and follow up on any differences noted.   
+ 
+Current Year Status: This finding has been corrected in the current period. 
+
+64
+
+
+	Oklahoma Panhandle State
+	University
+
+
+

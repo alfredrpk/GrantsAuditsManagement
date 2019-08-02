@@ -1,0 +1,3515 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TOWN OF BOYNTON, OKLAHOMA
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AUDIT REPORT 
+
+AND  
+
+SUPPLEMENTAL DATA FOR  
+
+ 
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+ 
+
+ 
+
+SEPTEMBER 30, 2018 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE             607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401         PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040              WEB: KERSHAWCPA.COM                    PHONE (580) 762-1040 
+FAX (918) 684-1041         E-MAIL: RK@KERSHAWCPA.COM                          FAX (580) 762-1047 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+SEPTEMBER 30, 2018 
+
+ 
+
+ 2 
+
+TABLE OF CONTENTS 
+
+                    PAGE 
+
+INTRODUCTORY SECTION: 
+
+ 
+
+BOARD OF DIRECTORS            4 
+
+ 
+
+FINANCIAL SECTION: 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT               5-7 
+
+ 
+
+ REQUIRED SUPPLEMENTARY INFORMATION: 
+
+  MANAGEMENT’S DISCUSSION AND ANALYSIS      8-13 
+
+ 
+
+ BASIC FINANCIAL STATEMENTS: 
+
+ 
+
+ EXHIBIT A STATEMENT OF NET POSITION        14 
+
+  
+
+EXHIBIT B STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN  
+
+TOTAL NET POSITION         15  
+
+  
+
+ EXHIBIT C STATEMENT OF CASH FLOWS        16 
+
+ 
+
+NOTES TO THE FINANCIAL STATEMENTS                17-22 
+
+ 
+
+REQUIRED SUPPLEMENTARY INFORMATION:  
+
+ 
+
+SCHEDULE 1 SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS     23 
+
+ 
+
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS     23 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL 
+
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT  
+
+OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT 
+
+AUDITING STANDARDS         24-25 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR  
+
+FEDERAL PROGRAM AND REPORT ON INTERNAL CONTROL OVER COMPLIANCE 
+
+REQUIRED BY THE UNIFORM GUIDANCE       26-28 
+
+ 
+
+OTHER SUPPLEMENTARY INFORMATION: 
+
+ 
+
+SUMMARY STATUS OF PRIOR YEAR AUDIT FINDINGS             29  
+
+ 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS                30 
+
+ 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+SEPTEMBER 30, 2018 
+
+ 
+
+ 3 
+
+STATEMENT AND CERTIFICATION OF CAPITAL FUND PROJECT            31 
+
+ 
+
+FINANCIAL DATA SCHEDULE                32-39 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+SEPTEMBER 30, 2018 
+
+ 
+
+ Unaudited 
+
+4 
+
+BOARD OF DIRECTORS 
+
+ 
+
+NAME     POSITION   TERM EXPIRES 
+
+ 
+
+Steve Cline   Chairman   January 2021 
+
+ 
+
+Dorothy Leonard  Vice-Chairman  January 2019 
+
+ 
+
+Steven Blair   Member   January 2020 
+
+ 
+
+Mary Garrette   Member   January 2019 
+
+ 
+
+Debbie Pollard   Member   January 2020 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE                               607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401            PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040              WEB: KERSHAWCPA.COM                      PHONE (580) 762-1040 
+FAX (918) 684-1041         E-MAIL: RK@KERSHAWCPA.COM                             FAX (580) 762-1047 
+_____________________________________________________________________________________________________________________ 
+
+ 
+
+ 5 
+
+INDEPENDENT AUDITOR’S REPORT 
+
+ 
+
+To the Board of Directors 
+
+Housing Authority of the City of Miami 
+
+Miami, Oklahoma 
+
+ 
+
+Report on the Financial Statements 
+
+ 
+
+We have audited the accompanying financial statements of the Housing 
+
+Authority of the City of Miami, as of and for the fiscal year ended September 
+
+30, 2018, and the related notes to the financial statements.  
+
+ 
+
+Management’s Responsibility for the Financial Statements 
+
+ 
+
+Management is responsible for the preparation and fair presentation of these 
+
+financial statements in accordance with accounting principles generally 
+
+accepted in the United States of America; this includes the design, 
+
+implementation, and maintenance of internal control relevant to the 
+
+preparation and fair presentation of the financial statements that are free 
+
+from material misstatement, whether due to fraud or error. 
+
+ 
+
+Auditor’s Responsibility 
+
+ 
+
+Our responsibility is to express an opinion on these financial statements 
+
+based on our audit.  We conducted our audit in accordance with auditing 
+
+standards generally accepted in the United States of America, and the 
+
+standards applicable to financial audits contained in Government Auditing 
+
+Standards, issued by the Comptroller General of the United States, and in 
+
+accordance with Oklahoma Statutes. Those standards require that we plan and 
+
+perform the audit to obtain reasonable assurance about whether the financial 
+
+statements are free of material misstatement.  
+
+ 
+
+An audit involves performing procedures to obtain audit evidence about the 
+
+amounts and disclosures in the financial statements.  The procedures selected 
+
+depend on the auditor’s judgment, including the assessment of the risks of 
+
+material misstatement of the financial statements, whether due to fraud or 
+
+error.  In making those risk assessments, the auditor considers internal 
+
+control relevant to the Authority’s preparation and fair presentation of the 
+
+financial statements in order to design audit procedures that are appropriate 
+
+in the circumstances but not for the purpose of expressing an opinion on the 
+
+effectiveness of the Authority’s internal control.  Accordingly, we express 
+
+no such opinion.  An audit also includes evaluating the appropriateness of 
+
+accounting policies used, and the reasonableness of significant accounting 
+
+estimates made, by management, as well as evaluating the overall presentation 
+
+of the financial statements.  
+
+ 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE                               607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401            PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040              WEB: KERSHAWCPA.COM                      PHONE (580) 762-1040 
+FAX (918) 684-1041         E-MAIL: RK@KERSHAWCPA.COM                             FAX (580) 762-1047 
+_____________________________________________________________________________________________________________________ 
+
+ 
+
+ 6 
+
+We believe that the audit evidence we have obtained is sufficient and 
+
+appropriate to provide a basis for our audit opinion. 
+
+ 
+
+Opinion 
+
+ 
+
+In our opinion, the financial statements referred to above present fairly, in 
+
+all material respects, the respective financial position of the Housing 
+
+Authority of the City of Miami, as of September 30, 2018, and the respective 
+
+changes in financial position and, where applicable, cash flows thereof for 
+
+the year then ended in accordance with accounting principles generally 
+
+accepted in the United States of America. 
+
+ 
+
+Other Matters 
+
+ 
+
+Required Supplementary Information 
+
+ 
+
+Accounting principles generally accepted in the United States of America 
+
+require that the management’s discussion and analysis as listed in the table 
+
+of contents be presented to supplement the basic financial statements.  Such 
+
+information, although not a part of the basic financial statements, is 
+
+required by the Governmental Accounting Standards Board who considers it to 
+
+be an essential part of financial reporting for placing the basic financial 
+
+statements in an appropriate operational, economic, or historical context.  
+
+We have applied certain limited procedures to the required supplementary 
+
+information in accordance with auditing standards generally accepted in the 
+
+United States of America, which consisted of inquiries of management about 
+
+the methods of preparing the information and comparing the information for 
+
+consistency with management’s responses to our inquiries, the basic financial 
+
+statements, and other knowledge we obtained during out audit of the basic 
+
+financial statements.  We do not express an opinion or provide any assurance 
+
+on the information because the limited procedures do not provide us with 
+
+sufficient evidence to express an opinion or provide any assurance.   
+
+ 
+
+Other Information 
+
+ 
+
+Our audit was conducted for the purpose of forming an opinion on the 
+
+financial statements that collectively comprise the Housing Authority of the 
+
+City of Miami’s basic financial statements.  The accompanying schedule of 
+
+expenditures of federal awards, as required by Title 2 U.S. Code of Federal 
+
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, 
+
+and Audit Requirement for Federal Awards (Uniform Guidance) and Financial 
+
+Data Schedule, are presented for purposes of additional analysis and are not 
+
+a required part of the basic financial statements of the Housing Authority of 
+
+the City of Miami.   
+
+ 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE                               607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401            PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040              WEB: KERSHAWCPA.COM                      PHONE (580) 762-1040 
+FAX (918) 684-1041         E-MAIL: RK@KERSHAWCPA.COM                             FAX (580) 762-1047 
+_____________________________________________________________________________________________________________________ 
+
+ 
+
+ 7 
+
+Such information is the responsibility of management and was derived from and 
+
+relates directly to the underlying accounting and other records used to 
+
+prepare the consolidated financial statements.  The information has been 
+
+subjected to the auditing procedures applied in the audit of the financial 
+
+statements and certain additional procedures, including comparing and 
+
+reconciling such information directly to the underlying accounting and other 
+
+records used to prepare the financial statements or the financial statements 
+
+themselves, and other additional procedures in accordance with auditing 
+
+standards generally accepted in the United States of America.  In our 
+
+opinion, the information is fairly stated, in all material respects, in 
+
+relation to the financial statements as a whole. 
+
+ 
+
+The introductory section listed in the accompanying table of contents is 
+
+presented for the purpose of additional analysis and is not a required part 
+
+of the basic financial statements of the Authority.  Such additional 
+
+information has not been subjected to the auditing procedures applied in our 
+
+audit of the basic financial statements, and accordingly, we do not express 
+
+an opinion or provide any assurance on it.  
+
+ 
+
+Other Reporting Required by Government Auditing Standards 
+
+ 
+
+In accordance with Government Auditing Standards, we have also issued our 
+
+report dated March 19, 2019, on our consideration of the Housing Authority of 
+
+the City of Miami’s internal control over financial reporting and on our 
+
+tests of its compliance with certain provisions of laws, regulations, 
+
+contracts and grant agreements and other matters.  The purpose of that report 
+
+is solely to describe the scope of our testing of internal control over 
+
+financial reporting and compliance and the results of that testing, and not 
+
+to provide an opinion on the effectiveness of the Housing Authority of the 
+
+City of Miami’s internal control over financial reporting or on compliance.  
+
+That report is an integral part of an audit performed in compliance with 
+
+Government Auditing Standards in considering Housing Authority of the City of 
+
+Miami’s internal control over financial reporting and compliance. 
+
+ 
+
+ 
+Kershaw CPA & Associates, PC 
+
+ 
+
+March 19, 2019 
+
+
+
+ 
+
+Unaudited 
+
+8 
+
+ 
+
+Housing Authority of the City of Miami 
+Miami, OK 
+
+Management’s Discussion and Analysis 
+
+September 30, 2018 
+
+ 
+
+Management’s Discussion and Analysis (MD&A) is an element of the reporting model adopted by the 
+
+Governmental Accounting Standards Board (GASB) in their Statement No. 34 Basic Financial 
+
+Statements – and Management’s Discussion and Analysis – for State and Local Governments issued 
+
+June 1999.  
+
+ 
+ 
+
+Financial Highlights 
+The most significant changes on the 2018 financial statements were in changes in net position. 
+
+ 
+
+ 
+
+Overview of the Financial Statements 
+The annual report includes a Management Discussion and Analysis report, the Basic Financial 
+
+Statements, the Notes to the Financial Statements, and the Financial Data Schedule (FDS) as referenced 
+
+in the section of Supplemental Information Required by HUD.  The financial statements are presented as 
+
+fund level financial statements because the Housing Authority only has proprietary funds. 
+
+ 
+
+The financial statements report information using accounting methods like those used by private sector 
+
+companies.  These statements offer short-term and long-term financial information about the Housing 
+
+Authority’s activities.  The Statement of Net Position includes assets and liabilities plus provides 
+
+information about the nature and amounts of investments in resources (assets) and obligations to 
+
+creditors (liabilities).  It also provides the basis for evaluating capital structure to include assessing 
+
+liquidity and financial flexibility. 
+
+ 
+
+For accounting purposes, the Housing Authority is classified as an enterprise fund.  Enterprise funds 
+
+account for activities like those found in the private business sector where the determination of net 
+
+position is necessary or useful to sound financial administration.  Enterprise funds are reported using the 
+
+full accrual method of accounting in which assets and liabilities, associated with the operation of these 
+
+funds, are included on the balance sheet.  Their focus is on income measurement which, together with 
+
+the maintenance of equity, is an important financial indicator.  Our discussion and analysis provides an 
+
+overview of the financial activities and performance for year-end September 30, 2018. 
+
+ 
+
+All the current year’s revenues and expenses are accounted for in the Statement of Revenues, Expenses, 
+
+and Changes in Fund Net Position.  This statement measures the ability of management to meet budgets, 
+
+maintain property (meets HUD specifications and inspections), and determines whether the Housing 
+
+Authority has successfully recovered costs through its rental fees and other charges.  It can also be used 
+
+to measure profitability and credit worthiness. 
+
+ 
+
+The Statement of Cash Flows reports cash receipts, cash payments, and net changes in cash resulting 
+
+from operating, investing, and financing activities.  It also provides answers to such questions as the 
+
+source, spending, and change in cash during the reporting period. 
+
+ 
+
+
+
+Housing Authority of the City of Miami, Oklahoma 
+Management’s Discussion and Analysis (MD & A) 
+September 30, 2018 
+
+Unaudited 
+
+9 
+
+ 
+
+The notes to the financial statements provide additional information that is essential to a full 
+
+understanding of the data provided in the basic financial statements. 
+
+ 
+
+The section Supplemental Information Required by HUD contains the Financial Data Schedule (FDS).  
+
+HUD has established Uniform Financial Reporting Standards that require the Housing Authority to 
+
+submit financial information electronically to HUD using the FDS format. 
+
+ 
+
+Financial Analysis 
+One of the most important questions concerning finances is the following; “Is the Housing Authority as 
+
+a whole better, or worse, because of the achievements of the reported fiscal year?” The purpose of the 
+
+information presented in this Management’s Discussion and Analysis is to assist the reader in answering 
+
+this question. 
+
+ 
+
+The basic financial statements are the Statement of Net Position and the Statement of Revenues, 
+
+Expenses, and Changes in Fund Net Position.  The Statement of Net Position provides a summary of 
+
+assets and liabilities as of the close of business on September 30, 2018. The Statement of Revenues, 
+
+Expenses, and Changes in Fund Net Position summarize the revenues, and sources of those revenues 
+
+generated, and the expenses incurred in operating the Housing Authority for the year-ended September 
+
+30, 2018. 
+
+ 
+
+Miami Housing Authority has a low-rent program that provides housing for qualified tenants, a capital 
+
+fund program for improvements to its low-rent property, and a Section 8 Housing Choice Voucher 
+
+program that provides rental assistance to qualified individuals living in private housing.  The following 
+
+analysis focuses on the net position and the change in net position not the individual programs.  
+
+ 
+
+ 
+
+ 
+
+Net Position 
+
+September 30, 
+
+          % of 
+
+  2018   2017   Change  Change 
+
+           
+
+Current Assets $ 726,815   $ 711,820   $ 14,995   2.11% 
+
+Capital Assets, Net  4,121,763    4,477,338    (355,575)  -7.94% 
+
+   Total Assets $ 4,848,578   $ 5,189,158   $ (340,580)  -6.56% 
+
+           
+
+Current Liabilities  95,862    97,971    (2,109)  -2.15% 
+
+Noncurrent Liabilities  28,521    28,257    264   0.93% 
+
+   Total Liabilities $ 124,383   $ 126,228   $ (1,845)  -1.46% 
+
+           
+ 
+
+ 
+
+           
+
+
+
+Housing Authority of the City of Miami, Oklahoma 
+Management’s Discussion and Analysis (MD & A) 
+September 30, 2018 
+
+Unaudited 
+
+10 
+
+ 
+
+ 
+
+ 
+
+Net Position:           
+
+   Investment in Capital Assets  4,121,763    4,477,338    (355,575)  -7.94% 
+
+   Restricted Net Position  86,185    11,637    74,548   640.61% 
+
+   Unrestricted Net Position  516,247    573,955    (57,708)  -10.05% 
+
+      Total Net Position $ 4,724,195   $ 5,062,930   $ (338,735)  -6.69% 
+
+ 
+ 
+
+Capital Assets 
+(Net of Accumulated Depreciation) 
+
+September 30, 
+
+          % of 
+
+  2018   2017   Change  Change 
+
+Land $ 124,728   $ 124,728   $ 0   0.00% 
+
+Buildings  9,015,574    9,015,574    0   0.00% 
+
+Furniture & Equipment - Dwell  395,007    395,007    0   0.00% 
+
+Furniture & Equipment - Admin  207,894    207,894    0   0.00% 
+
+Leasehold Improvements  2,394,027    2,394,027    0   0.00% 
+
+Construction in Progress  223,215    186,407    36,808   19.75% 
+
+     Subtotal  12,360,445    12,323,637    36,808   0.30% 
+
+Accumulated Depreciation   (8,238,682)   (7,846,299)   (392,383)  5.00% 
+
+    Net Capital Assets $ 4,121,763   $ 4,477,338   $ (355,575)  -7.94% 
+
+ 
+
+ 
+
+Net Position 
+Total assets consist of current and capital assets.  Current assets are resources that are reasonably 
+
+expected, based on plans and intentions, to be converted into cash or its equivalent during the current 
+
+operating cycle.  Capital assets are long-term tangible assets obtained because of past transactions, 
+
+events, or circumstances and include buildings, equipment, and improvements to buildings and land. 
+
+ 
+
+Total liabilities consist of current and noncurrent payables.  Current liabilities are current debts that are 
+
+owed and due within 12 months.  It is expected that current liabilities will consume current financial 
+
+resources to satisfy debt.  Noncurrent liabilities are debts that are owed but not due within 12 months. It 
+
+is not expected that these liabilities will consume current financial resources to satisfy the debt. 
+
+ 
+
+Annual depreciation exceeded capital additions which decreased total assets.  Total liabilities decreased 
+
+due to payment in lieu of taxes. 
+
+ 
+
+The Housing Authority had $392,485 in Capital Grant revenue to draw down and spend in the future. 
+ 
+
+Total Net Position 
+As of September 30, 2018, the Housing Authority had $4,724,195 invested in total net position.  Of this 
+
+amount, $516,247 of unrestricted net position may be used to meet the Authority’s future ongoing 
+
+expenses and obligations.  Restricted net position of $86,185 was available for Section 8 Housing 
+
+
+
+Housing Authority of the City of Miami, Oklahoma 
+Management’s Discussion and Analysis (MD & A) 
+September 30, 2018 
+
+Unaudited 
+
+11 
+
+ 
+
+Assistance Payments (HAP).  The remainder of $4,121,763 represents the investment in capital assets of 
+
+land, buildings, furnishings, leasehold improvements, equipment, and construction in progress. 
+
+  
+
+ 
+
+Debt 
+The Authority had no long-term obligations such as notes or bonds payable. 
+
+ 
+
+ 
+
+Expendable Fund Balance 
+
+          % of 
+
+  2018   2017   Change  Change 
+
+           
+
+Expendable Fund Balance $ 582,761   $ 584,172   $ (1,411)  -0.24% 
+
+           
+
+Number of Months Expendable Fund  5.64    5.40    0.25   4.58% 
+
+ 
+
+Expendable Fund Balance 
+
+If current assets, less materials inventory, were converted to cash and all current liabilities were paid, the 
+
+Authority’s cash balance (expendable fund balance) would be $582,761 which decreased $1,411.  
+
+ 
+
+Number of Months Expendable Fund Balance 
+The expendable fund balance is divided by average monthly expense (total expenses for the year, less 
+
+depreciation, divided by twelve (12) to determine the number of months expendable fund balance.  This 
+
+factor indicates the number of months the entity could operate without relying on additional funding.  As 
+
+of the fiscal year-end, the Authority could continue operations for 5.64 months. 
+
+ 
+ 
+
+Changes in Net Position 
+For the Year Ended September 30 
+
+          % of 
+
+  2018   2017   Change  Change 
+
+Revenue:           
+  Tenant Revenue $ 564,453   $ 596,027   $ (31,574)  -5.30% 
+
+  Federal Grants & Subsidy  1,639,822    1,549,927    89,895   5.80% 
+
+  Investment  2,052    1,406    646   45.95% 
+
+  Other Income  18,442    19,068    (626)  -3.28% 
+
+      Total Revenue  2,224,769    2,166,428    58,341   2.69% 
+
+           
+Expenses:           
+  Administrative  367,750    361,087    6,663   1.85% 
+
+  Tenant Services  40,009    39,989    20   0.05% 
+
+  Utilities  231,141    218,277    12,864   5.89% 
+
+  Routine Maintenance  454,000    528,378    (74,378)  -14.08% 
+
+  Protective Services  16,769    17,614    (845)  -4.80% 
+
+  General  128,787    133,997    (5,210)  -3.89% 
+
+
+
+Housing Authority of the City of Miami, Oklahoma 
+Management’s Discussion and Analysis (MD & A) 
+September 30, 2018 
+
+Unaudited 
+
+12 
+
+ 
+
+  Housing Assistance Payments  931,625    954,371    (22,746)  -2.38% 
+
+  Casualty Losses  1,040    0    1,040   100.00% 
+
+  Depreciation  392,383    393,273    (890)  -0.23% 
+
+       Total Operating Expenses  2,563,504    2,646,986    (83,482)  -3.15% 
+
+           
+Increase (Decrease) in Net Position $ (338,735)  $ (480,558)  $ 141,823   -29.51% 
+
+ 
+
+ 
+
+Changes in Net Position 
+Total revenue increased due to operating revenues received in 2018 as compared to 2019 and capital 
+
+grant projects in progress.  Total operating expenses decreased due to general maintenance repairs and 
+
+average monthly Section 8 HAP costs per unit leased.  The net effect was an increase in changes in net 
+
+position. 
+
+ 
+
+Investment revenue and other income along with tenant service expense, protective service expense, and 
+
+expenses for casualty losses had minimal effects on the 2018 financial statements which were not 
+
+included in the following graphs. 
+
+ 
+
+2018 Total Revenue 
+
+ 
+ 
+
+ 
+
+ 
+
+
+
+Housing Authority of the City of Miami, Oklahoma 
+Management’s Discussion and Analysis (MD & A) 
+September 30, 2018 
+
+Unaudited 
+
+13 
+
+ 
+
+ 
+
+Total 2018 Operating Expense 
+
+ 
+ 
+
+ 
+
+ 
+
+Economic Factors 
+The Housing Authority is primarily dependent upon HUD for the funding of operations.  The entity is 
+
+affected by both federal budgetary decisions and by local economic conditions. 
+ 
+
+ 
+
+Contacting the Housing Authority’s Financial Management 
+Our financial report is designed to provide our citizens, taxpayers, and creditors with a general overview 
+
+of the Authority’s finances and to show accountability for money it receives.  If you have questions or 
+
+need further clarification regarding the financial statements, contact Mr. J. Mark McDowell, Executive 
+
+Director, Housing Authority of the City of Miami, 205 B  Northeast, Miami, OK  74354, telephone 
+
+number (918)542-6691. 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+14 
+
+ 
+
+EXHIBIT A
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI
+
+MIAMI, OKLAHOMA
+
+STATEMENT OF NET POSITION
+
+SEPTEMBER 30, 2018
+
+Memorandum Only
+
+2018 2017
+
+ASSETS
+
+Current Assets:
+
+Cash - Unrestricted 178,312$                182,797$                   
+
+Cash - Other Restricted 30,454                    11,637                       
+
+Cash - Tenant Security Deposits 25,209                    22,393                       
+
+Accounts Receivable:
+
+Tenants, Net of Allowance for Doubtful Accounts 3,346                      5,448                         
+
+HUD -                              -                                 
+
+Other Government -                              -                                 
+
+Accrued Interest Receivable 173                         173                            
+
+Miscellaneous 7,500                      7,500                         
+
+Investments, Unrestricted 444,498                  442,974                     
+
+Prepaid Expenses and Other Assets 19,585                    20,858                       
+
+Inventory, Net of Allowance for Obsolete 17,738                    18,040                       
+
+Total Current Assets 726,815                  711,820                     
+
+Capital Assets, Net of Depreciation 4,121,763               4,477,338                  
+
+TOTAL ASSETS 4,848,578$             5,189,158$                
+
+LIABILITIES & NET POSITION
+
+Current Liabilities:
+
+Accounts Payable:
+
+Vendors 34,091$                  35,484$                     
+
+HUD -                              -                                 
+
+Other Government 31,315                    35,512                       
+
+Deferred Revenues 2,078                      1,443                         
+
+Other Current Liabilities -                              -                                 
+
+Accrued Compensated Absences 3,169                      3,139                         
+
+Tenants' Security Deposits 25,209                    22,393                       
+
+Total Current Liabilities 95,862                    97,971                       
+
+Accrued Compensated Absences - Non Current 28,521                    28,257                       
+
+Total Liabilities 124,383                  126,228                     
+
+NET POSITION
+
+Net investment in capital assets 4,121,763               4,477,338                  
+
+Restricted for debt service 30,454                    11,637                       
+
+Unrestricted 571,978                  573,955                     
+
+TOTAL NET POSITION 4,724,195               5,062,930                  
+
+TOTAL LIABILITIES AND NET POSITION 4,848,578$             5,189,158$                
+
+See Accountant's Audit Report & Notes Which Accompany These Financial Statements
+
+
+
+ 
+
+15 
+
+ 
+
+EXHIBIT B
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI
+
+MIAMI, OKLAHOMA
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN TOTAL NET POSITION
+
+FOR THE TWELVE MONTHS ENDED SEPTEMBER 30, 2018
+
+Memorandum
+
+Only
+
+2018 2017
+
+OPERATING REVENUE:
+
+Dwelling Rental 564,453$         596,027$         
+
+Investment Income, Unrestricted 2,052               1,406               
+
+PHA HUD Grants 1,603,014        1,517,410        
+
+Capital Grants 36,808             32,517             
+
+Other Government Grants -                       -                       
+
+Fraud Recovery 2,008               2,090               
+
+Investment Income, Restricted -                       -                       
+
+Other Income 16,434             16,978             
+
+Total Operating Revenue 2,224,769        2,166,428        
+
+OPERATING EXPENDITURES:
+
+Administration 367,750           361,087           
+
+Tenant Services 40,009             39,989             
+
+Utilities 231,141           218,277           
+
+Ordinary Maintenance and Operation 454,000           528,378           
+
+Extraordinary Maintenance -                       -                       
+
+Casualty Losses - Non-capitalized 1,040               -                       
+
+Protective Services 16,769             17,614             
+
+Housing Assistance Payment 931,625           954,371           
+
+Insurance Premiums 79,673             76,273             
+
+Other General Expenses 49,114             57,724             
+
+Depreciation 392,383           393,273           
+
+Total Operating Expenses 2,563,504        2,646,986        
+
+NET OPERATING INCOME (LOSS) (338,735)          (480,558)          
+
+TOTAL NET POSITION, BEGINNING OF YEAR 5,062,930        5,543,488        
+
+PRIOR YEAR ADJUSTMENTS -                       -                       
+
+TOTAL NET POSITION, END OF YEAR 4,724,195$      5,062,930$      
+
+See Accountant's Audit Report & Notes Which Accompany These Financial Statements
+
+ 
+
+ 
+
+
+
+ 
+
+16 
+
+ 
+
+EXHIBIT C
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI
+
+MIAMI, OKLAHOMA
+
+STATEMENT OF CASH FLOWS 
+
+FOR THE TWELVE MONTHS ENDED SEPTEMBER 30, 2018
+
+ Memorandum 
+
+ Only 
+
+2018 2017
+
+Cash Flows from Operating Activities:
+
+Cash Receipts from Customers & Other Resources 2,226,871$   2,179,925$        
+
+Payments to Suppliers & Employees for Goods & Services (2,174,207)    (2,259,552)        
+
+Tenant Security Deposits Received, Less Refunded 2,816            (1,337)               
+
+Net Cash Provided (Used) by Operating Activities 55,480          (80,964)             
+
+Cash Flows from Capital & Related Financing Activities:
+
+Additions to Capital Assets (36,808)         (32,517)             
+
+Proceeds from sale of Capital Assets -                    -                        
+
+Loan Proceeds Received -                    -                        
+
+Principal Payments on Long-Term Debt -                    -                        
+
+Interest Expense -                    -                        
+
+Net Cash Provided (Used) by Capital & Related Financing Activities (36,808)         (32,517)             
+
+Cash Flows from Investing Activities:
+
+(Increase)Decrease in Investments (1,524)           (889)                  
+
+Net Cash Provided (Used) by Investing Activities (1,524)           (889)                  
+
+Net Increase (Decrease) in Cash and Cash Equivalents 17,148          (114,370)           
+
+Cash & Cash Equivalents, Beginning of Year 216,827        331,195             
+
+Cash & Cash Equivalents, Prior Year Adjustment -                    2                        
+
+Cash & Cash Equivalents, End of Year 233,975$      216,827$           
+
+Reconciliation of operating income (loss) to net cash provided
+
+operating activities:
+
+Net Operating Income (Loss) (338,735)$     (480,558)$         
+
+Adjustments to reconcile operating income (loss) to net cash
+
+provided (used) by operating activities
+
+Depreciation 392,383        393,273             
+
+(Increase)Decrease in Accounts Receivable 2,102            13,497               
+
+(Increase)Decrease in Prepaid Expenses 1,273            (252)                  
+
+(Increase)Decrease in Inventory 302               1,036                 
+
+Increase(Decrease) in Accounts Payable (5,590)           (6,687)               
+
+Increase(Decrease) in Accrued Liabilities 929               64                      
+
+Increase(Decrease) in Tenant Security Deposits 2,816            (1,337)               
+
+Net Cash Provided (Used) by Operating Activities 55,480$        (80,964)$           
+
+See Accountant's Audit Report & Notes Which Accompany These Financial Statements
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+SEPTEMBER 30, 2018 
+ 
+
+17 
+
+ 
+
+NOTE 1 – THE REPORTING ENTITY 
+
+ 
+
+The agency was created under the provisions of the laws of the 
+
+State of Oklahoma.  The purpose of the agency is to administer 
+
+Public Housing Programs authorized by the United States Housing 
+
+Act.  The governing board is appointed by the Mayor of the City 
+
+of Miami.  The governing board employs executives; authorizes 
+
+contracts of subsidy with the U.S. Department of Housing and 
+
+Urban Development (Annual Contributions Contract) pursuant to 
+
+that agency’s regulations and statutory authorizations; and 
+
+causes the agency to construct, own, and operate public housing 
+
+facilities.  The financial liability of the housing agency is 
+
+essentially supported by the operating and debt service subsidies 
+
+received under contract from the Federal government. 
+
+ 
+
+Generally accepted accounting principles require that the 
+
+financial statements present the accounts and operations of the 
+
+entity and its component units, entities for which the entity is 
+
+considered to be financially accountable.  Blended component 
+
+units, although legally separate entities, are, in substance, 
+
+part of the entity’s operations.  If component units exist, data 
+
+from these units are combined with data from the entity.  Each 
+
+discretely presented component unit, if any, would be reported in 
+
+a separate column in the combined financial statements to 
+
+emphasize that it is legally separate from the entity.  As of 
+
+September 30, 2018, and for the fiscal year then ended, the 
+
+entity had no discretely presented component units or any 
+
+component units required to be blended in these financial 
+
+statements. 
+
+ 
+
+NOTE 2 – BASIS OF ACCOUNTING 
+
+ 
+
+The Housing Authority of the City of Miami uses a Proprietary 
+
+Fund Type to account for the activities of the housing authority 
+
+in a manner similar to commercial enterprises.  This proprietary 
+
+fund is accounted for using the economic resources measurement 
+
+focus.  Accordingly, this fund reports all assets and liabilities 
+
+on the balance sheet.  The reported fund equity is segregated 
+
+into contributed capital and retained earnings components.  
+
+Proprietary fund operating statements present increases 
+
+(revenues) and decreases (expenses) in net assets.  This fund 
+
+uses the accrual basis of accounting.  Revenues are recognized 
+
+when earned and become measurable and expenses are recognized 
+
+when incurred, if measurable.  The Housing Authority applies all 
+
+applicable accounting and financial reporting standards of the 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+SEPTEMBER 30, 2018 
+ 
+
+18 
+
+ 
+
+Financial Accounting Standards Board (FASB) issued through 
+
+November 30, 1989, in accounting and reporting for its 
+
+proprietary fund. 
+
+ 
+
+The preparation of financial statements in conformity with 
+
+accounting principles generally accepted in the United States of 
+
+America requires management to make estimates and assumptions 
+
+that affect the reported amounts of assets and liabilities and 
+
+disclosure of contingent assets and liabilities at the date of 
+
+the financial statements and the reported amounts of revenues and 
+
+expenses during the accounting period.  Actual results could 
+
+differ from those estimates. 
+
+ 
+
+Budgetary Information – Annual budgets are adopted, as required 
+
+by HUD Annual Contributions Contracts, for the Owned Rental 
+
+Housing and Section 8 Programs.  Annual budgets are not required 
+
+for Comprehensive Improvement Grants.  These budgets are prepared 
+
+on a regulatory basis (HUD) and do not contain certain accounts 
+
+as required by generally accepted accounting principles, such as 
+
+Provision for Uncollectible Accounts, Depreciation, and certain 
+
+accruals. 
+
+ 
+
+Cash Equivalents – For purposes of reporting cash flows, all 
+
+highly liquid investments (including restricted assets) with a 
+
+maturity of three months or less are considered to be cash 
+
+equivalents. 
+
+ 
+
+Investments – Investments are reported at fair value.  
+
+Investments consist of Certificates of Deposit which are reported 
+
+at carrying amount which reasonably estimates fair value. 
+
+ 
+
+Inventories – Inventories consist of expendable supplies held for 
+
+consumption.  They are valued at cost (first-in, first-out), 
+
+which is less than the current market value.   
+
+ 
+
+Prepaid Expenses – Certain payments to vendors reflect costs 
+
+applicable to future periods.  These payments are recorded as 
+
+prepaid expenses. 
+
+ 
+
+Capital Assets – capital assets are valued at historical cost.  
+
+It is the policy of the Housing Authority to capitalize all 
+
+assets with a cost of $500 or greater.  Donated capital assets 
+
+are valued at the estimated fair value at the date of the 
+
+donation.  Depreciation of all exhaustible capital assets is 
+
+charged as an expense against operations.  Accumulated 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+SEPTEMBER 30, 2018 
+ 
+
+19 
+
+ 
+
+depreciation is reported on the balance sheet.  Depreciation is 
+
+provided over the estimated useful lives using the straight-line 
+
+method.  Estimated useful lives, in years, for depreciable assets 
+
+are as follow: 
+
+ 
+
+ Dwelling Structures    15-40 years 
+
+ Non-dwelling Structures      40 years 
+
+ Equipment                 3-5 years 
+
+ 
+
+Compensated Absences – It is the Housing Authority’s policy to 
+
+allow employees to accumulate earned but unused vacation and sick 
+
+pay benefits up to certain limits.  These amounts are charged to 
+
+expense and a corresponding liability is established when earned.  
+
+ 
+
+NOTE 3 – CASH 
+
+ 
+
+At September 30, 2018, the Authority held deposits of approximately 
+
+$678,473 at financial institutions.  The Authority’s cash deposits, 
+
+including interest-bearing certificates of deposit are covered by 
+
+Federal Depository Insurance (FDIC) or collateralized with securities 
+
+held by the Authority or by its agent in the Authority’s name.   
+
+ 
+
+Investment Interest Rate Risk 
+
+ 
+
+The Authority does not have a formal investment policy that limits 
+
+investment maturities as a means of managing its exposure to fair 
+
+value losses arising from increasing interest rates. 
+
+ 
+
+Investment Credit Risk 
+
+ 
+
+The Authority has no policy that limits its investment choices other 
+
+than the limitation of state law as follows: 
+
+a. Direct obligations of the U.S. Government, its agencies and 
+
+instrumentalities to which the full faith and credit of the U.S. 
+
+Government is pledged, or obligations to the payment of which 
+
+the full faith and credit of the State is pledged. 
+
+b. Certificates of deposits or savings accounts that are either 
+
+insured or secured with acceptable collateral with in-state 
+
+financial institutions, and fully insured certificates of 
+
+deposit or savings accounts in out-of-state financial 
+
+institutions. 
+
+c. With certain limitation, negotiable certificates of deposit, 
+
+prime bankers’ acceptances, prime commercial paper and 
+
+repurchase agreements with certain limitations. 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+SEPTEMBER 30, 2018 
+ 
+
+20 
+
+ 
+
+d. County, municipal or school district tax supported debt 
+
+obligations, bond or revenue anticipation notes, money 
+
+judgments, or bond or revenue anticipation notes of public 
+
+trusts whose beneficiary is a county, municipality or school 
+
+district. 
+
+e. Notes or bonds secured by mortgage or trust deed insured by the 
+
+Federal Housing Administrator and debentures issued by the 
+
+Federal Housing Administrator, and in obligations of the 
+
+National Mortgage Association. 
+
+f. Money market funds regulated by the SEC and in which investments 
+
+consist of the investments mentioned in the previous paragraphs 
+
+(a.-d.). 
+
+ 
+
+NOTE 4 – ACCOUNTS RECEIVABLE 
+
+ 
+
+All receivables from tenants are for rentals and service charges.  
+
+These receivables are shown net of an allowance for uncollectible 
+
+amounts.  This amount is estimated based upon historical 
+
+information.  The allowance is $1,162 at September 30, 2018. 
+
+ 
+
+NOTE 5 – CAPITAL ASSETS 
+
+ 
+
+Capital assets are valued at historical cost.  Donated capital 
+
+assets are valued at the estimated fair value at the date of 
+
+donation.  Depreciation of all exhaustible capital assets is 
+
+charged as an expense against operations.  Accumulated 
+
+depreciation is reported on the statement of net position.  
+
+Depreciation is provided over the estimated useful lives using 
+
+the straight-line method.  Depreciation expense for September 30, 
+
+2018 is $392,383. 
+
+ 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+SEPTEMBER 30, 2018 
+ 
+
+21 
+
+ 
+
+A summary of the capital assets is as follows: 
+Balance at        
+
+Sept. 30, 
+
+2017 Additions Deductions
+
+Balance at        
+
+Sept. 30, 
+
+2018
+
+Land 124,728$    -$         -$          124,728$    
+
+Buildings 9,015,574   -          -           9,015,574   
+
+Improvements 2,394,027   -          -           2,394,027   
+
+Furniture, Equipment 
+
+& Machinery 602,901     -          -           602,901     
+
+    Subtotal 12,137,230  -          -           12,137,230  
+
+Less:  Accum. Depr. (7,846,299)  (392,383)   -           (8,238,682)  
+
+Net Capital Assets 4,290,931   (392,383)   -           3,898,548   
+
+Construction in 
+
+Progress 186,407     36,808     -           223,215     
+
+Total Capital Assets 4,477,338$  (355,575)$  -$          4,121,763$  
+
+ 
+
+NOTE 6 – CONTINGENCIES 
+
+ 
+
+The entity is subject to possible examinations by federal 
+
+regulators who determine compliance with terms, conditions, laws 
+
+and regulations governing grants given to the entity in the 
+
+current and prior years.  These examinations may result in 
+
+required refunds by the entity to the federal grantors and/or 
+
+program beneficiaries. 
+
+ 
+
+NOTE 7 – RETIREMENT PLAN 
+
+ 
+
+The Housing Authority participates in a defined contribution plan 
+
+administered by the Housing Renewal and Local Agency Retirement 
+
+Plan.  The Housing Authority and the participants are required to 
+
+contribute 8 ½% and 6%, respectively.  For the fiscal year, 
+
+actual contributions by the Housing Authority and the 
+
+participants were $39,462.36 and $30,817.12, respectively for a 
+
+total of $70,279.48.  Participating employees shall vest in 
+
+Employer contributions at the rate of twenty percent per each 
+
+full year of continuous and uninterrupted service with the 
+
+Employer. 
+
+ 
+
+No Other Post-Employment Benefits are provided by the Authority. 
+
+ 
+
+NOTE 8 – INTERPROGRAM ACCOUNTS 
+
+ 
+
+Inter-program receivables and payables arise from Inter-program 
+
+transactions and are recorded by all programs affected in the 
+
+period in which transactions are executed.  These receivables and 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+SEPTEMBER 30, 2018 
+ 
+
+22 
+
+ 
+
+payables are eliminated for presentation of the financial 
+
+statements. 
+
+  
+
+NOTE 9 – SUBSEQUENT EVENTS 
+
+ 
+
+The Authority did not have any subsequent events through March 19, 
+
+2019, which is the date the financial statements were issued, for 
+
+events requiring recording or disclosure in the financial statements 
+
+for the year ending September 30, 2018. 
+
+ 
+
+
+
+ 
+ 
+
+23 
+
+ 
+
+Schedule 1
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI
+
+MIAMI, OKLAHOMA
+
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+
+SEPTEMBER 30, 2018
+
+Federal Grantor/ Federal Agency Federal
+
+Program Title CFDA No. Number Expenditures
+
+U.S. Department of Housing and Urban Development:
+
+Direct Programs
+
+Low Rent Public Housing 14.850          OK027 453,866$      
+
+Section 8 Housing Choice Vouchers 14.871          OK027 1,058,106     
+
+Public Housing Capital Fund Program 14.872          OK027 127,850        
+
+Total 1,639,822$   
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI
+
+MIAMI, OKLAHOMA
+
+NOTES TO THE SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+
+SEPTEMBER 30, 2018
+
+NOTE 1 - GENERAL
+
+The accompanying Schedule of Expenditures of Federal Awards presents the activity of all federal
+
+awards of the Housing Authority of the City of Miami, Oklahoma (the "Housing Authority").
+
+The Housing Authority reporting entity is defined in Note 1 to the Housing Authority's basic financial
+
+statements.  Federal awards received directly from federal agencies, as well as federal awards
+
+passed through other government agencies, are included on the schedule.
+
+NOTE 2 - BASIS OF ACCOUNTING
+
+The accompanying Schedule of Expenditures of Federal Awards is present using the accrual basis
+
+of accounting, which is described in Note 1 to the Housing Authority's basic financial statements.
+
+NOTE 3 - RELATIONSHIP TO BASIC FINANCIAL STATEMENTS
+
+Federal awards revenues are reported in the Housing Authority's basic financial statements as 
+
+follows:
+
+Federal Sources
+
+General 1,639,822$   
+
+Total 1,639,822$   
+
+NOTE 4 - RELATIONSHIP TO FEDERAL FINANCIAL REPORTS
+
+Amounts reported in the accompanying schedule agree with the amounts reported in the related
+
+federal financial reports except for changes made to reflect amounts in accordance with 
+
+generally accepted accounting principles.
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+5300 WEST OKMULGEE AVENUE                  607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401             PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040              WEB: KERSHAWCPA.COM                        PHONE (580) 762-1040 
+FAX (918) 684-1041         E-MAIL: RK@KERSHAWCPA.COM                                   FAX (580) 762-1047 
+_____________________________________________________________________________________________ 
+
+ 
+
+ 24 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL 
+
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF 
+
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING 
+
+STANDARDS 
+
+ 
+
+To the Board of Directors 
+
+Housing Authority of the City of Miami 
+
+Miami, Oklahoma 
+
+ 
+We have audited, in accordance with the auditing standards generally 
+
+accepted in the United States of America and the standards applicable 
+
+to financial audits contained in Government Auditing Standards, issued 
+
+by the Comptroller General of the United States, and in accordance 
+
+with Oklahoma Statutes, the financial statements of the Housing 
+
+Authority of the City of Miami, as of and for the year ended September 
+
+30, 2018, and the related notes to the financial statements,  which 
+
+collectively comprise the Housing Authority of the City of Miami’s 
+
+basic financial statements, and have issued our report thereon dated 
+
+March 19, 2019.   
+
+ 
+
+Internal Control Over Financial Reporting 
+
+In planning and performing our audit of the financial statements, we 
+
+considered the Housing Authority of the City of Miami’s internal 
+
+control over financial reporting (internal control) to determine the 
+
+audit procedures that are appropriate in the circumstances for the 
+
+purpose of expressing our opinion on the financial statements, but not 
+
+for the purpose of expressing an opinion on the effectiveness of the 
+
+Housing Authority of the City of Miami’s internal control.  
+
+Accordingly, we do not express an opinion on the effectiveness of 
+
+Housing Authority of the City of Miami’s internal control. 
+
+ 
+
+A deficiency in internal control exists when the design or operation 
+
+of a control does not allow management or employees, in the normal 
+
+course of performing their assigned functions, to prevent, or detect 
+
+and correct misstatements on a timely basis.  A material weakness is a 
+
+deficiency, or combination of deficiencies, in internal control, such 
+
+that there is a reasonable possibility that a material misstatement of 
+
+the entity’s financial statements will not be prevented, or detected 
+
+and corrected on a timely basis.  A significant deficiency is a 
+
+deficiency, or a combination of deficiencies, in internal control that 
+
+is less severe than a material weakness, yet important enough to merit 
+
+attention by those charged with governance.  
+
+ 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+5300 WEST OKMULGEE AVENUE                  607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401             PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040              WEB: KERSHAWCPA.COM                        PHONE (580) 762-1040 
+FAX (918) 684-1041         E-MAIL: RK@KERSHAWCPA.COM                                   FAX (580) 762-1047 
+_____________________________________________________________________________________________ 
+
+ 
+
+ 25 
+
+Our consideration of internal control was for the limited purpose 
+
+described in the first paragraph of this section and was not designed 
+
+to identify all deficiencies in internal control that might be 
+
+material weaknesses or significant deficiencies.  Given these 
+
+limitations, during our audit we did not identify any deficiencies in 
+
+internal control that we consider to be material weaknesses.  However, 
+
+material weaknesses may exist that have not been identified.   
+
+ 
+
+Compliance and Other Matters 
+
+As part of obtaining reasonable assurance about whether the Housing 
+
+Authority of the City of Miami’s financial statements are free of 
+
+material misstatement, we performed tests of compliance with certain 
+
+provisions of laws, regulations, contracts and grant agreements, 
+
+noncompliance with which could have a direct and material effect on 
+
+the determination of financial statement amounts.  However, providing 
+
+an opinion on compliance with those provisions was not an objective of 
+
+our audit, and accordingly, we do not express such an opinion.  The 
+
+results of our tests disclosed no instances of noncompliance or other 
+
+matters that are required to be reported under Government Auditing 
+
+Standards.   
+
+ 
+
+Purpose of this Report 
+
+The purpose of this report is solely to describe the scope of our 
+
+testing of internal control and compliance and the results of that 
+
+testing, and not to provide an opinion on the effectiveness of the 
+
+entity’s internal control or on compliance.  This report is an 
+
+integral part of an audit performed in accordance with Government 
+
+Auditing Standards in considering the entity’s internal control and 
+
+compliance.  Accordingly, this communication is not suitable for any 
+
+other purpose. 
+
+ 
+
+ 
+Kershaw, CPA & Associates, PC 
+
+ 
+
+March 19, 2019 
+
+ 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE                     607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401                           PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040               WEB: KERSHAWCPA.COM                               PHONE (580) 762-1040 
+FAX (918) 684-1041          E-MAIL: RK@KERSHAWCPA.COM                          FAX (580) 762-1047 
+_____________________________________________________________________________________________________________________ 
+
+ 
+
+ 26 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR FEDERAL 
+
+PROGRAM AND REPORT ON INTERNAL CONTROL OVER COMPLIANCE REQUIRED BY 
+
+UNIFORM GUIDANCE 
+
+ 
+
+To the Board of Directors 
+
+Housing Authority of the City of Miami 
+
+ 
+
+Report on Compliance for Each Major Federal Program 
+
+We have audited the Housing Authority of the City of Miami’s 
+
+compliance with the types of compliance requirements described in the 
+
+OMB Compliance Supplement that could have a direct and material effect 
+
+on each of the Housing Authority of the City of Miami’s major federal 
+
+programs for the year ended September 30, 2018.  The Housing Authority 
+
+of the City of Miami’s major federal programs are identified in the 
+
+summary of auditor’s results section of the accompanying schedule of 
+
+findings and questioned costs.   
+
+ 
+
+Management’s Responsibility 
+
+Management is responsible for compliance with the requirements of 
+
+laws, regulations, contracts and grants applicable to its federal 
+
+programs.   
+
+ 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on compliance for each of 
+
+the Housing Authority of the City of Miami’s major federal programs 
+
+based on our audit of the types of compliance requirements referred to 
+
+above.  We conducted our audit of compliance in accordance auditing 
+
+standards generally accepted in the United States of America; the 
+
+standards applicable to financial audits contained in Government 
+
+Auditing Standards, issued by the Comptroller General of the United 
+
+States; and the audit requirements of Title 2 U.S. Code of Federal 
+
+Regulations Part 200, Uniform Administrative Requirements, Cost 
+
+Principles, and the Audit Requirements for Federal Awards (Uniform 
+
+Guidance), and in accordance with Oklahoma Statutes.  Those standards 
+
+and the Uniform Guidance require that we plan and perform the audit to 
+
+obtain reasonable assurance about whether noncompliance with the types 
+
+of compliance requirements referred to above that could have a direct 
+
+and material effect on a major federal program occurred.  An audit 
+
+includes examining, on a test basis, evidence about the Housing 
+
+Authority of the City of Miami’s compliance with those requirements 
+
+and performing such other procedures, as we considered necessary in 
+
+the circumstances.   
+
+ 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE                     607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401                           PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040               WEB: KERSHAWCPA.COM                               PHONE (580) 762-1040 
+FAX (918) 684-1041          E-MAIL: RK@KERSHAWCPA.COM                          FAX (580) 762-1047 
+_____________________________________________________________________________________________________________________ 
+
+ 
+
+ 27 
+
+We believe that our audit provides a reasonable basis for our opinion 
+
+on compliance for each major federal program.  However, our audit does 
+
+not provide a legal determination on Housing Authority of the City of 
+
+Miami’s compliance. 
+
+ 
+
+Opinion on Each Major Federal Program 
+
+In our opinion, the Housing Authority of the City of Miami complied, 
+
+in all material respects, with the types of compliance requirements 
+
+referred to above that could have a direct and material effect on each 
+
+of its major federal programs for the year ended September 30, 2018.   
+
+ 
+
+Report on Internal Control Over Compliance 
+
+Management of the Housing Authority of the City of Miami is 
+
+responsible for establishing and maintaining effective internal 
+
+control over compliance with the types of compliance requirements 
+
+referred to above.  In planning and performing our audit of 
+
+compliance, we considered the Housing Authority of the City of Miami’s 
+
+internal control over compliance with the types of requirements that 
+
+could have a direct and material effect on each major federal program 
+
+to determine the auditing procedures that are appropriate in the 
+
+circumstances for the purpose of expressing our opinion on compliance 
+
+for each major federal program and to test and report on internal 
+
+control over compliance in accordance with Uniform Guidance, but not 
+
+for the purpose of expressing an opinion on the effectiveness of 
+
+internal control over compliance.  Accordingly, we do not express an 
+
+opinion on the effectiveness of the Housing Authority of the City of 
+
+Miami’s internal control over compliance. 
+
+ 
+
+A deficiency in internal control over compliance exists when the 
+
+design or operation of a control does not allow management or 
+
+employees, in the normal course of performing their assigned 
+
+functions, to prevent, or to detect and correct, noncompliance with a 
+
+type of compliance requirement of a federal program a timely basis.  A 
+
+material weakness in internal control over compliance is a deficiency, 
+
+or combination of deficiencies, in internal control over compliance, 
+
+such that there is a reasonable possibility that material 
+
+noncompliance with a type of compliance requirement of a federal 
+
+program will not be prevented, or detected and corrected, on a timely 
+
+basis.  A significant deficiency in internal control over compliance 
+
+is a deficiency, or a combination of deficiencies, in internal control 
+
+over compliance with a type of compliance requirement of a federal 
+
+program that is less severe than a material weakness in internal 
+
+
+
+KERSHAW CPA & ASSOCIATES, PC 
+ 
+
+5300 WEST OKMULGEE AVENUE                     607 NORTH 1ST STREET 
+MUSKOGEE, OKLAHOMA 74401                           PONCA CITY, OKLAHOMA 74601 
+PHONE (918) 684-1040               WEB: KERSHAWCPA.COM                               PHONE (580) 762-1040 
+FAX (918) 684-1041          E-MAIL: RK@KERSHAWCPA.COM                          FAX (580) 762-1047 
+_____________________________________________________________________________________________________________________ 
+
+ 
+
+ 28 
+
+control over compliance, yet important enough to merit attention by 
+
+those charged with governance.   
+
+ 
+
+Our consideration of the internal control over compliance was for the 
+
+limited purpose described in the first paragraph of this section and 
+
+was not designed to identify all deficiencies in internal control over 
+
+compliance that might be material weaknesses or significant 
+
+deficiencies.  We did not identify any deficiencies in internal 
+
+control over compliance that we consider to be material weaknesses.  
+
+However, material weaknesses may exist that have not been identified. 
+
+ 
+
+The purpose of this report on internal control over compliance is 
+
+solely to describe the scope of our testing of internal control over 
+
+compliance and the results of that testing based on the requirements 
+
+of the Uniform Guidance.  Accordingly, this report is not suitable for 
+
+any other purpose. 
+
+ 
+
+ 
+Kershaw, CPA & Associates, PC 
+
+ 
+
+March 19, 2019 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+SUMMARY STATUS OF PRIOR AUDIT FINDINGS 
+
+SEPTEMBER 30, 2018 
+
+ 
+
+ 29 
+
+The prior report on the audit of the financial statements as of and 
+
+for the twelve months ended September 30, 2017, contained no findings. 
+
+ 
+
+
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI 
+
+MIAMI, OKLAHOMA 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+
+FOR THE YEAR ENDED SEPTEMBER 30, 2018 
+ 
+
+30 
+
+ 
+
+SECTION I – SUMMARY OF AUDITOR’S RESULTS 
+
+ 
+
+Financial Statements 
+
+Type of auditor’s report issue:    Unmodified 
+
+ 
+
+Internal control over financial reporting: 
+
+ Material weaknesses identified?   _____yes _____no 
+
+  
+
+ Significant deficiencies identified that 
+
+ are not considered to be material 
+
+ weaknesses?       _____yes _____none reported 
+
+ 
+
+Noncompliance material to financial  
+
+statements noted?      _____yes _____no 
+
+ 
+
+Federal Awards 
+
+Internal control over major programs: 
+
+ Material weaknesses identified?   _____yes _____no 
+
+ 
+
+ Significant deficiencies identified 
+
+ that are not considered to be  
+
+ material weaknesses?     _____yes _____none reported 
+
+ 
+
+Type of auditor’s report issued on compliance 
+
+ for major programs:     Unmodified 
+
+ 
+
+Any audit findings disclosed that are required 
+
+ to be reported in accordance with  
+
+ section 2 CFR 200.516(a)?    _____yes _____no 
+
+ 
+
+Identification of major programs: 
+
+   #14.871 Housing Choice Vouchers 
+
+         
+
+Dollar threshold used to distinguish between 
+
+ type A and type B programs:         $750,000 
+
+ 
+
+Auditee qualified as low-risk auditee?   _______yes _____no 
+
+ 
+
+SECTION II – FINANCIAL STATEMENT FINDINGS 
+
+ 
+
+ None reported 
+
+ 
+
+SECTION III – FEDERAL AWARD FINDINGS AND QUESTIONED COSTS 
+
+ 
+
+ None reported 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+
+
+ 
+
+31 
+
+ 
+
+HOUSING AUTHORITY OF THE CITY OF MIAMI
+
+MIAMI, OKLAHOMA
+
+STATEMENT AND CERTIFICATION OF CAPITAL FUND PROJECT
+
+SEPTEMBER 30, 2018
+
+As of September 30, 2018, the 2015, 2016 & 2017 Capital Fund Programs have not been completed.
+
+The following is a summary of the Capital Fund Program activity
+
+for the fiscal year ending September 30, 2018:
+
+2015 Capital Fund Program
+
+OK56P02750115 Project 
+
+Classification Y-T-D To Date Budget Variance
+
+1406 Operations 6,000$   36,500$    41,500$  5,000$    
+
+1430 Architect & Engineering Fees -        4,320      -        (4,320)    
+
+1450 Site Improvement -        2,700      500      (2,200)    
+
+1460 Dwelling Structures 19,217   198,604    201,054  2,450     
+
+1465.1 Dwelling Equipment -        -          2,000    2,000     
+
+1465.99 Non Depreciable Equipment -        2,000      -        (2,000)    
+
+1470 Nondwelling Structures -        -          500      500       
+
+1475.1 Non Dwelling Equipment -        -          250      250       
+
+Total Capital Grant Cost 25,217$  244,124$   245,804$ 1,680$    
+
+Advances Received 25,217$  244,124$   
+
+2016 Capital Fund Program
+
+OK56P02750116 Project 
+
+Classification Y-T-D To Date Budget Variance
+
+1406 Operations 55,511$  81,590$    55,511$  (26,079)$  
+
+1410 Administration -        -          26,079   26,079    
+
+1450 Site Improvement 500      500        500      -         
+
+1460 Dwelling Structures 20,121   20,121     174,304  154,183   
+
+1465.1 Dwelling Equipment -        -          3,000    3,000     
+
+1465.99 Non Depreciable Equipment -        1,604      -        (1,604)    
+
+1470 Nondwelling Structures -        -          1,000    1,000     
+
+1475.1 Non Dwelling Equipment -        -          399      399       
+
+1475.99 Non Depreciable Equipment 300      300        -        (300)      
+
+Total Capital Grant Cost 76,432$  104,116$   260,793$ 156,677$  
+
+Advances Received 76,432$  104,116$   
+
+2017 Capital Fund Program
+
+OK56P02750117 Project 
+
+Classification Y-T-D To Date Budget Variance
+
+1406 Operations 26,201$  26,201$    -$       (26,201)$  
+
+1408 Management Improvements -        -          31,441   31,441    
+
+1410 Administration -        -          26,201   26,201    
+
+1460 Dwelling Structures -        -          204,368  204,368   
+
+Total Capital Grant Cost 26,201$  26,201$    262,010$ 235,809$  
+
+Advances Received 26,201$  26,201$    
+
+
+
+Financial Data Schedule 
+
+32 
+
+ 
+
+Submission Type: 
+
+14.871 Housing 
+
+Choice Vouchers
+ELIM
+
+$83,276
+
+$30,454
+
+$113,730
+
+$7,500
+
+$0
+
+$7,500
+
+$791
+
+ 114  Cash - Tenant Security Deposits $25,209 $25,209 $25,209
+
+ 
+
+ 125  Accounts Receivable - Miscellaneous $0
+
+ 115  Cash - Restricted for Payment of Current Liabilities $0 $0
+
+Housing Authority of the City of Miami,Oklaho  (OK027)
+
+MIAMI, OK
+
+Entity Wide Balance Sheet Summary
+
+ Audited/Single Audit          Fiscal Year End:  09/30/2018
+
+Project Total Subtotal Total
+
+ 111  Cash - Unrestricted $95,036 $178,312 $178,312
+
+$0 $0
+
+ 113  Cash - Other Restricted $0 $30,454 $30,454
+
+ 112  Cash - Restricted - Modernization and Development $0
+
+$0
+
+ 100  Total Cash $120,245 $233,975 $233,975
+
+ 121  Accounts Receivable - PHA Projects $0 $0 $0
+
+ 122  Accounts Receivable - HUD Other Projects $0 $0 $0
+
+ 124  Accounts Receivable - Other Government $0 $0 $0
+
+$7,500 $7,500
+
+ 126  Accounts Receivable - Tenants $4,508 $4,508 $4,508
+
+-$1,162 -$1,162
+
+ 126.2  Allowance for Doubtful Accounts - Other $0 $0 $0
+
+ 126.1  Allowance for Doubtful Accounts -Tenants -$1,162
+
+$0 $0
+
+ 128  Fraud Recovery $0 $0 $0
+
+ 127  Notes, Loans, & Mortgages Receivable - Current $0
+
+$0 $0
+
+ 129  Accrued Interest Receivable $173 $173 $173
+
+ 128.1  Allowance for Doubtful Accounts - Fraud $0
+
+$11,019 $11,019
+
+ 
+
+ 120  Total Receivables, Net of Allowances for Doubtful Accounts $3,519
+
+$444,498 $444,498
+
+ 132  Investments - Restricted $0 $0 $0
+
+ 131  Investments - Unrestricted $444,498
+
+$0 $0
+
+ 142  Prepaid Expenses and Other Assets $18,794 $19,585 $19,585
+
+ 135  Investments - Restricted for Payment of Current Liability $0
+
+$19,709 $19,709 143  Inventories $19,709
+
+
+
+Financial Data Schedule 
+
+ 33 
+
+$122,021
+
+$27,263
+
+-$27,263
+
+$0
+
+$0
+
+$122,021
+
+$1,050
+
+$433
+
+ 143.1  Allowance for Obsolete Inventories -$1,971 -$1,971 -$1,971
+
+$0 $0
+
+ 145  Assets Held for Sale $0 $0 $0
+
+ 144  Inter Program Due From $0
+
+$726,815 $726,815
+
+ 
+
+ 150  Total Current Assets $604,794
+
+$124,728 $124,728
+
+ 162  Buildings $9,015,574 $9,015,574 $9,015,574
+
+ 161  Land $124,728
+
+$395,007 $395,007
+
+ 164  Furniture, Equipment & Machinery - Administration $180,631 $207,894 $207,894
+
+ 163  Furniture, Equipment & Machinery - Dwellings $395,007
+
+$2,394,027 $2,394,027
+
+ 166  Accumulated Depreciation -$8,211,419 -$8,238,682 -$8,238,682
+
+ 165  Leasehold Improvements $2,394,027
+
+$223,215 $223,215
+
+ 168  Infrastructure $0 $0 $0
+
+ 167  Construction in Progress $223,215
+
+$4,121,763 $4,121,763
+
+ 
+
+ 160  Total Capital Assets, Net of Accumulated Depreciation $4,121,763
+
+$0 $0
+
+ 172  Notes, Loans, & Mortgages Receivable - Non Current - Past Due $0 $0 $0
+
+ 171  Notes, Loans and Mortgages Receivable - Non-Current $0
+
+$0 $0
+
+ 174  Other Assets $0 $0 $0
+
+ 173  Grants Receivable - Non Current $0
+
+$0 $0
+
+ 180  Total Non-Current Assets $4,121,763 $4,121,763 $4,121,763
+
+ 176  Investments in Joint Ventures $0
+
+ 200  Deferred Outflow of Resources $0 $0 $0
+
+ 
+
+ 290  Total Assets and Deferred Outflow of Resources $4,726,557 $4,848,578 $4,848,578
+
+ 
+
+ 311  Bank Overdraft $0 $0 $0
+
+ 
+
+$34,091 $34,091
+
+ 313  Accounts Payable >90 Days Past Due $0 $0 $0
+
+ 312  Accounts Payable <= 90 Days $33,041
+
+$0 $0
+
+ 322  Accrued Compensated Absences - Current Portion $2,736 $3,169 $3,169
+
+ 321  Accrued Wage/Payroll Taxes Payable $0
+
+$0 $0
+
+ 325  Accrued Interest Payable $0 $0 $0
+
+ 324  Accrued Contingency Liability $0
+
+$0 $0 331  Accounts Payable - HUD PHA Programs $0
+ 
+
+
+
+Financial Data Schedule 
+
+ 34 
+
+$1,483
+
+$3,899
+
+$3,899
+
+$5,382
+
+$30,454
+
+$86,185
+
+$116,639
+
+ 332  Account Payable - PHA Projects $0 $0 $0
+
+$31,315 $31,315
+
+ 341  Tenant Security Deposits $25,209 $25,209 $25,209
+
+ 333  Accounts Payable - Other Government $31,315
+
+$2,078 $2,078
+
+ 343  Current Portion of Long-term Debt - Capital Projects/Mortgage Revenue $0 $0 $0
+
+ 342  Unearned Revenue $2,078
+
+$0 $0
+
+ 345  Other Current Liabilities $0 $0 $0
+
+ 344  Current Portion of Long-term Debt - Operating Borrowings $0
+
+$0 $0
+
+ 347  Inter Program - Due To $0 $0 $0
+
+ 346  Accrued Liabilities - Other $0
+
+$0 $0
+
+ 310  Total Current Liabilities $94,379 $95,862 $95,862
+
+ 348  Loan Liability - Current $0
+
+ 351  Long-term Debt, Net of Current - Capital Projects/Mortgage Revenue $0 $0 $0
+
+ 
+
+$0 $0
+
+ 353  Non-current Liabilities - Other $0 $0 $0
+
+ 352  Long-term Debt, Net of Current - Operating Borrowings $0
+
+$28,521 $28,521
+
+ 355  Loan Liability - Non Current $0 $0 $0
+
+ 354  Accrued Compensated Absences - Non Current $24,622
+
+$0 $0
+
+ 357  Accrued Pension and OPEB Liabilities $0 $0 $0
+
+ 356  FASB 5 Liabilities $0
+
+$28,521 $28,521
+
+ 
+
+ 350  Total Non-Current Liabilities $24,622
+
+ 300  Total Liabilities $119,001 $124,383 $124,383
+
+ 
+
+ 400  Deferred Inflow of Resources $0 $0 $0
+
+ 
+
+ 508.4  Net Investment in Capital Assets $4,121,763 $4,121,763 $4,121,763
+
+ 511.4  Restricted Net Position $30,454 $30,454
+
+ 512.4  Unrestricted Net Position $485,793 $571,978 $571,978
+
+ 513  Total Equity - Net Assets / Position $4,607,556 $4,724,195 $4,724,195
+
+ 
+
+
+
+Financial Data Schedule 
+
+35 
+
+ 
+
+Submission Type: 
+
+14.871 Housing 
+
+Choice Vouchers
+ELIM
+
+$0 $0
+
+$1,058,106
+
+$0
+
+$111
+
+$2,008
+
+$1,060,225 $0
+
+$36,808 $36,808
+
+ 70730  Book Keeping Fee
+
+ 70720  Asset Management Fee
+
+Project Total Subtotal Total
+
+ 70300  Net Tenant Rental Revenue
+
+ 70500  Total Tenant Revenue $564,453 $564,453
+
+$544,286 $544,286 $544,286
+
+Housing Authority of the City of Miami,Oklaho  (OK027)
+
+MIAMI, OK
+
+Entity Wide Revenue and Expense Summary
+
+ Audited/Single Audit          Fiscal Year End:  09/30/2018
+
+ 70400  Tenant Revenue - Other $20,167 $20,167 $20,167
+
+$564,453
+
+ 
+
+ 70600  HUD PHA Operating Grants $544,908 $1,603,014 $1,603,014
+
+ 70710  Management Fee
+
+ 70610  Capital Grants $36,808
+
+ 70740  Front Line Service Fee
+
+ 70700  Total Fee Revenue $0 $0
+
+ 70750  Other Fees
+
+ 70800  Other Government Grants $0 $0 $0
+
+ 
+
+$2,052 $2,052
+
+ 71200  Mortgage Interest Income $0 $0 $0
+
+ 71100  Investment Income - Unrestricted $1,941
+
+$0 $0
+
+ 71310  Cost of Sale of Assets $0 $0 $0
+
+ 71300  Proceeds from Disposition of Assets Held for Sale $0
+
+$2,008 $2,008
+
+ 71500  Other Revenue $16,434 $16,434 $16,434
+
+ 71400  Fraud Recovery $0
+
+$0 $0
+
+ 72000  Investment Income - Restricted $0 $0 $0
+
+ 71600  Gain or Loss on Sale of Capital Assets $0
+
+$2,224,769 $2,224,769
+
+ 
+
+ 70000  Total Revenue $1,164,544
+
+
+
+Financial Data Schedule 
+
+ 36 
+
+$66,313
+
+$1,750
+
+$29,929
+
+$3,129
+
+$1,404
+
+$7,305
+
+$109,830 $0
+
+$0 $0
+
+$0 $0
+
+$0 $0
+
+$233,889 $233,889
+
+ 91200  Auditing Fees $2,500 $4,250 $4,250
+
+ 91100  Administrative Salaries $167,576
+
+$0 $0
+
+ 91310  Book-keeping Fee $0 $0 $0
+
+ 91300  Management Fee $0
+
+$419 $419
+
+ 91500  Employee Benefit contributions - Administrative $57,952 $87,881 $87,881
+
+ 91400  Advertising and Marketing $419
+
+$11,403 $11,403
+
+ 91700  Legal Expense $0 $0 $0
+
+ 91600  Office Expenses $8,274
+
+$5,718 $5,718
+
+ 91810  Allocated Overhead $0 $0 $0
+
+ 91800  Travel $4,314
+
+$24,190 $24,190
+
+ 91000  Total Operating - Administrative $257,920 $367,750 $367,750
+
+ 91900  Other $16,885
+
+ 92000  Asset Management Fee $0 $0 $0
+
+ 
+
+$37,732 $37,732
+
+ 92200  Relocation Costs $0 $0 $0
+
+ 92100  Tenant Services - Salaries $37,732
+
+$2,277 $2,277
+
+ 92400  Tenant Services - Other $0 $0 $0
+
+ 92300  Employee Benefit Contributions - Tenant Services $2,277
+
+$40,009 $40,009
+
+ 
+
+ 92500  Total Tenant Services $40,009
+
+$27,304 $27,304
+
+ 93200  Electricity $153,081 $153,081 $153,081
+
+ 93100  Water $27,304
+
+$22,247 $22,247
+
+ 93400  Fuel $0 $0 $0
+
+ 93300  Gas $22,247
+
+$0 $0
+
+ 93600  Sewer $28,509 $28,509 $28,509
+
+ 93500  Labor $0
+
+$0 $0
+
+ 93800  Other Utilities Expense $0 $0 $0
+
+ 93700  Employee Benefit Contributions - Utilities $0
+
+$231,141 $231,141
+
+ 
+
+ 93000  Total Utilities $231,141
+
+$200,073 $200,073
+
+ 94200  Ordinary Maintenance and Operations - Materials and Other $45,763 $45,763 $45,763
+
+ 94100  Ordinary Maintenance and Operations - Labor $200,073
+
+$139,541 $139,541
+
+ 94500  Employee Benefit Contributions - Ordinary Maintenance $68,623 $68,623 $68,623
+
+ 94300  Ordinary Maintenance and Operations Contracts $139,541
+
+$454,000 $454,000
+
+ 
+
+ 94000  Total Maintenance $454,000
+
+ 
+
+
+
+Financial Data Schedule 
+
+ 37 
+
+$0 $0
+
+$2,581
+
+$2,581 $0
+
+$0 $0
+
+$0 $0
+
+$112,411 $0
+
+$0 $0
+
+ 95200  Protective Services - Other Contract Costs $16,769 $16,769 $16,769
+
+ 95100  Protective Services - Labor $0
+
+$0 $0
+
+ 95500  Employee Benefit Contributions - Protective Services $0 $0 $0
+
+ 95300  Protective Services - Other $0
+
+$16,769 $16,769
+
+ 
+
+ 95000  Total Protective Services $16,769
+
+$38,321 $38,321
+
+ 96120  Liability Insurance $5,576 $5,576 $5,576
+
+ 96110  Property Insurance $38,321
+
+$12,110 $12,110
+
+ 96140  All Other Insurance $23,666 $23,666 $23,666
+
+ 96130  Workmen's Compensation $9,529
+
+$79,673 $79,673
+
+ 
+
+ 96100  Total insurance Premiums $77,092
+
+$0 $0
+
+ 96210  Compensated Absences $0 $0 $0
+
+ 96200  Other General Expenses $0
+
+$31,315 $31,315
+
+ 96400  Bad debt - Tenant Rents $17,799 $17,799 $17,799
+
+ 96300  Payments in Lieu of Taxes $31,315
+
+$0 $0
+
+ 96600  Bad debt - Other $0 $0 $0
+
+ 96500  Bad debt - Mortgages $0
+
+$0 $0
+
+ 96000  Total Other General Expenses $49,114 $49,114 $49,114
+
+ 96800  Severance Expense $0
+
+ 96710  Interest of Mortgage (or Bonds) Payable $0 $0 $0
+
+ 
+
+$0 $0
+
+ 96730  Amortization of Bond Issue Costs $0 $0 $0
+
+ 96720  Interest on Notes Payable (Short and Long Term) $0
+
+$0 $0
+
+ 
+
+ 96700  Total Interest Expense and Amortization Cost $0
+
+$1,238,456 $1,238,456
+
+ 
+
+ 96900  Total Operating Expenses $1,126,045
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Financial Data Schedule 
+
+ 38 
+
+$947,814 $0
+
+$931,625
+
+$1,044,036 $0
+
+-$87,712
+
+$87,712
+
+$0 $0
+
+$16,189 $0
+
+$986,313 $986,313
+
+ 
+
+ 97000  Excess of Operating Revenue over Operating Expenses $38,499
+
+$0 $0
+
+ 97200  Casualty Losses - Non-capitalized $1,040 $1,040 $1,040
+
+ 97100  Extraordinary Maintenance $0
+
+$931,625 $931,625
+
+ 97350  HAP Portability-In $0 $0 $0
+
+ 97300  Housing Assistance Payments $0
+
+$392,383 $392,383
+
+ 97500  Fraud Losses $0 $0 $0
+
+ 97400  Depreciation Expense $392,383
+
+ 97700  Debt Principal Payment - Governmental Funds
+
+ 97600  Capital Outlays  - Governmental Funds
+
+$0 $0
+
+ 90000  Total Expenses $1,519,468 $2,563,504 $2,563,504
+
+ 97800  Dwelling Units Rent Expense $0
+
+ 10010  Operating Transfer In $87,712 $87,712 $0
+
+ 
+
+-$87,712 $0
+
+ 10030  Operating Transfers from/to Primary Government $0 $0 $0
+
+ 10020  Operating transfer Out -$87,712
+
+$0 $0
+
+ 10050  Proceeds from Notes, Loans and Bonds
+
+ 10040  Operating Transfers from/to Component Unit $0
+
+ 10070  Extraordinary Items, Net Gain/Loss $0 $0 $0
+
+ 10060  Proceeds from Property Sales
+
+$0 $0
+
+ 10091  Inter Project Excess Cash Transfer In $0 $0 $0
+
+ 10080  Special Items (Net Gain/Loss) $0
+
+$0 $0
+
+ 10093  Transfers between Program and Project - In $0 $0 $0
+
+ 10092  Inter Project Excess Cash Transfer Out $0
+
+$0 $0
+
+ 10100  Total Other financing Sources (Uses) $0 $0 $0
+
+ 10094  Transfers between Project and Program - Out $0
+
+ 10000  Excess (Deficiency) of Total Revenue Over (Under) Total Expenses -$354,924 -$338,735 -$338,735
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Financial Data Schedule 
+
+ 39 
+
+ 
+
+ 
+
+$0
+
+$100,450
+
+$86,184
+
+$30,455
+
+2485
+
+2406
+
+ 11020  Required Annual Debt Principal Payments $0 $0 $0
+
+$5,062,930 $5,062,930
+
+ 11040  Prior Period Adjustments, Equity Transfers and Correction of Errors $0 $0 $0
+
+ 11030  Beginning Equity $4,962,480
+
+ 11060  Changes in Contingent Liability Balance
+
+ 11050  Changes in Compensated Absence Balance
+
+ 11080  Changes in Special Term/Severance Benefits Liability
+
+ 11070  Changes in Unrecognized Pension Transition Liability
+
+ 11100  Changes in Allowance for Doubtful Accounts - Other
+
+ 11090  Changes in Allowance for Doubtful Accounts - Dwelling Rents
+
+$86,184 $86,184
+
+ 
+
+ 11170  Administrative Fee Equity $0
+
+$30,455 $30,455
+
+ 11190  Unit Months Available 2513 4998 4998
+
+ 11180  Housing Assistance Payments Equity
+
+4639 4639
+
+ 11270  Excess Cash $380,324 $380,324 $380,324
+
+ 11210  Number of Unit Months Leased 2233
+
+$0 $0
+
+ 11620  Building Purchases $36,808 $36,808 $36,808
+
+ 11610  Land Purchases $0
+
+$0 $0
+
+ 11640  Furniture & Equipment - Administrative Purchases $0 $0 $0
+
+ 11630  Furniture & Equipment - Dwelling Purchases $0
+
+ 11650  Leasehold Improvements Purchases $0 $0 $0
+
+ 11660  Infrastructure Purchases $0 $0 $0
+
+ 13510  CFFP Debt Service Payments $0 $0 $0
+
+ 13901  Replacement Housing Factor Funds $0 $0 $0
+ 
+
+

@@ -1,0 +1,3483 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+575.05 - CCHA 6-18 FS-final (CCHA - LCHC UG AU1018 [6/30/2018] (In Process))
+
+
+ 
+
+ 
+
+The Comanche County Hospital Authority 
+Independent Auditor’s Reports and Financial Statements 
+
+June 30, 2018 and 2017
+
+
+
+The Comanche County Hospital Authority 
+June 30, 2018 and 2017 
+
+ 
+ 
+
+ 
+
+Contents 
+ 
+Independent Auditor’s Report ................................................................................................................. 1 
+
+ 
+Management’s Discussion and Analysis ............................................................................................ 4 
+
+ 
+Financial Statements  
+
+Balance Sheets .................................................................................................................................. 10 
+Statements of Revenues, Expenses and Changes in Net Position .................................................... 11 
+Statements of Cash Flows ................................................................................................................ 12 
+Notes to Financial Statements .......................................................................................................... 13 
+ 
+
+Required Supplementary Information  
+Schedule of Changes in the Authority’s Net Pension Liability and Related Ratios ......................... 46 
+Schedule of the Authority’s Contributions ....................................................................................... 47 
+ 
+
+Supplementary Information  
+Combining Schedules – Balance Sheet Information ........................................................................ 48 
+Combining Schedules – Statement of Revenues, Expenses and Changes in Net Position 
+
+Information ................................................................................................................................... 50 
+Schedule of Expenditures of Federal Awards .................................................................................. 52 
+Notes to the Schedule of Expenditures of Federal Awards .............................................................. 53 
+ 
+
+Report on Internal Control Over Financial Reporting and on Compliance 
+and Other Matters Based on an Audit of Financial Statements 
+Performed in Accordance with Government Auditing Standards – 
+Independent Auditor’s Report ................................................................................................... 54 
+ 
+
+Report on Compliance for the Major Federal Program; Report on  
+Internal Control over Compliance; and Report on Schedule of  
+Expenditures of Federal Awards Required by the Uniform Guidance –  
+Independent Auditor’s Report ................................................................................................... 56 
+
+ 
+Schedule of Findings and Questioned Costs............................................................................ 59 
+ 
+Summary Schedule of Prior Audit Findings .............................................................................. 61 
+ 
+
+
+
+ 
+
+ 
+
+Independent Auditor’s Report  
+ 
+ 
+ 
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Lawton, Oklahoma 
+ 
+ 
+Report on the Financial Statements 
+
+We have audited the accompanying financial statements of The Comanche County Hospital Authority 
+(the Authority) as of and for the years ended June 30, 2018 and 2017, and the related notes to the 
+financial statements, which collectively comprise the Authority’s basic financial statements, as listed in 
+the table of contents. 
+
+Management’s Responsibility for the Financial Statements 
+
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes 
+the design, implementation and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on these financial statements based on our audits.  We 
+conducted our audits in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States.  Those standards require that we plan and perform 
+the audit to obtain reasonable assurance about whether the financial statements are free from material 
+misstatement. 
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements.  The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or error.  
+In making those risk assessments, the auditor considers internal control relevant to the entity’s preparation 
+and fair presentation of the financial statements in order to design audit procedures that are appropriate in 
+the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s 
+internal control.  Accordingly, we express no such opinion.  An audit also includes evaluating the 
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates 
+made by management, as well as evaluating the overall presentation of the financial statements.  
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion. 
+
+
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Page 2 
+ 
+ 
+
+ 
+
+Opinion 
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+financial position of the Authority as of June 30, 2018 and 2017, and the changes in its financial position 
+and its cash flows for the years then ended in accordance with accounting principles generally accepted in 
+the United States of America. 
+
+Emphasis of Matter 
+
+As discussed in Note 1 to the financial statements, in 2018, the Authority changed its method of 
+accounting for previously reported goodwill with the adoption of Governmental Accounting Standards 
+Board Statement No. 85, Omnibus 2017.  Our opinion is not modified with respect to this matter. 
+
+Other Matters 
+
+Required Supplementary Information 
+
+Accounting principles generally accepted in the United States of America require that the management’s 
+discussion and analysis and pension information, as listed in the table of contents, be presented to 
+supplement the basic financial statements.  Such information, although not a part of the basic financial 
+statements, is required by the Governmental Accounting Standards Board, who considers it to be an 
+essential part of financial reporting for placing the basic financial statements in an appropriate 
+operational, economic or historical context.   
+
+We have applied certain limited procedures to the required supplementary information in accordance with 
+auditing standards generally accepted in the United States of America, which consisted of inquiries of 
+management about the methods of preparing the information and comparing the information for 
+consistency with management’s responses to our inquiries, the basic financial statements and other 
+knowledge we obtained during our audits of the basic financial statements.  We do not express an opinion 
+or provide any assurance on the information because the limited procedures do not provide us with 
+sufficient evidence to express an opinion or provide any assurance. 
+
+Combining Information 
+
+Our audits were conducted for the purpose of forming an opinion on the financial statements that 
+collectively comprise the Authority’s basic financial statements.  The accompanying combining 
+information, as listed in the table of contents, is presented for purposes of additional analysis and is not a 
+required part of the financial statements.  The combining information is the responsibility of management 
+and was derived from and relates directly to the underlying accounting and other records used to prepare 
+the basic financial statements.  Such information has not been subjected to the auditing procedures 
+applied in the audits of the basic financial statements and, accordingly, we do not express an opinion or 
+provide any assurance on it. 
+
+Other Reporting Required by Government Auditing Standards 
+
+In accordance with Government Auditing Standards, we have also issued our report dated January 10, 
+2019, on our consideration of the Authority’s internal control over financial reporting and our tests of its 
+compliance with certain provisions of laws, regulations, contracts and grant agreements and other matters.  
+The purpose of that report is to describe the scope of our testing of internal control over financial 
+
+
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Page 3 
+ 
+ 
+
+ 
+
+reporting and compliance and the results of that testing, and not to provide an opinion on the internal 
+control over financial reporting or on compliance.  That report is an integral part of an audit performed in 
+accordance with Government Auditing Standards in considering the Authority’s internal control over 
+financial reporting and compliance. 
+ 
+
+ 
+ 
+Tulsa, Oklahoma 
+January 10, 2019 
+
+
+
+The Comanche County Hospital Authority 
+Management’s Discussion and Analysis 
+
+Years Ended June 30, 2018 and 2017 
+ 
+ 
+
+ 4 
+
+Introduction 
+
+This management’s discussion and analysis of the financial performance of The Comanche County 
+Hospital Authority (the Authority) provides an overview of the Authority’s financial activities for the 
+years ended June 30, 2018 and 2017.  It should be read in conjunction with the accompanying financial 
+statements of the Authority.  Unless otherwise indicated, dollar amounts are in thousands. 
+
+As described in Note 1 to the financial statements, the Authority’s financial statements include the 
+operations of Comanche County Memorial Hospital (CCMH), McMahon-Tomlinson Nursing Center 
+(MTNC) and Lawton Community Health Center (LCHC), which are considered operating divisions of the 
+Authority.  
+
+Financial Highlights 
+
+ Cash, cash equivalents and investments decreased in 2018 by $4,071 or 7% and increased in 2017 by 
+$3,660 or 7%. 
+
+ Capital assets, net decreased by $4,431 or 4% in 2018 and decreased by $4,398 or 4% in 2017. 
+
+ Long-term debt decreased by $6,577 or 7% in 2018 and increased by $1,384 or 1% in 2017. 
+
+ The Authority reported operating income of $2,751 and $2,791 in 2018 and 2017, respectively. 
+
+ The Authority’s net position increased by $1,422 or 2% in 2018 and increased by $2,379 or 3% in 
+2017. 
+
+Using This Annual Report 
+
+The Authority’s financial statements consist of three statements—a balance sheet; a statement of 
+revenues, expenses and changes in net position; and a statement of cash flows.  These statements provide 
+information about the activities of the Authority, including resources held by the Authority but restricted 
+for specific purposes by creditors, contributors, grantors or enabling legislation.  The Authority is 
+accounted for as a business-type activity and presents its financial statements using the economic 
+resources measurement focus and the accrual basis of accounting. 
+
+The Balance Sheet and Statement of Revenues, Expenses and Changes in Net Position 
+
+One of the most important questions asked about any health care organization’s finances is, “Is the 
+organization as a whole better or worse off as a result of the year’s activities?”  The balance sheet and the 
+statement of revenues, expenses and changes in net position report information about the Authority’s 
+resources and its activities in a way that helps answer this question.  These statements include all 
+restricted and unrestricted assets and deferred outflows of resources and all liabilities and deferred inflows 
+of resources using the accrual basis of accounting.  Using the accrual basis of accounting means that all of 
+the current year’s revenues and expenses are taken into account regardless of when cash is received or 
+paid. 
+
+
+
+ 
+
+ 5 
+
+These two statements report the Authority’s net position and changes in it.  The Authority’s total net 
+position—the difference between assets and deferred outflows of resources and liabilities and deferred 
+inflows of resources—is one measure of the Authority’s financial health or financial position.  Over time, 
+increases or decreases in the Authority’s net position are an indicator of whether its financial health is 
+improving or deteriorating.  Other nonfinancial factors, such as changes in the Authority’s patient base, 
+changes in legislation and regulations, measures of the quantity and quality of services provided to its 
+patients and local economic factors, should also be considered to assess the overall financial health of the 
+Authority.  
+
+The Statement of Cash Flows 
+
+The statement of cash flows reports cash receipts, cash payments and net changes in cash and cash 
+equivalents resulting from four defined types of activities.  It provides answers to such questions as where 
+did cash come from, what was cash used for and what was the change in cash and cash equivalents during 
+the reporting period.  
+
+The Authority’s Net Position 
+
+The Authority’s net position is the difference between its assets and deferred outflows of resources and 
+liabilities and deferred inflows of resources reported in the balance sheet.  The Authority’s net position 
+increased by $1,422 or 2% in 2018 and increased by $2,379 or 3% in 2017 as shown in Table 1. 
+
+
+
+ 
+
+ 6 
+
+Table 1: Assets and Deferred Outflows of Resources, Liabilities and Deferred Inflows of 
+Resources and Net Position 
+
+2018 2017 2016
+
+Assets
+Cash, cash equivalents and investments 52,960$            57,031$            53,371$            
+Patient accounts receivable, net 38,203              36,846              36,063              
+Other current assets 15,740              13,234              11,346              
+Capital assets, net 109,027            113,458            117,856            
+Other noncurrent assets 4,676                4,951                4,018                
+
+Total assets 220,606            225,520            222,654            
+
+Deferred Outflows of Resources 8,844                10,905              11,494              
+
+Total assets and deferred outflows of 
+resources 229,450$          236,425$          234,148$          
+
+Liabilities
+Long-term debt, including current portion 90,101$            96,678$            95,294$            
+Other liabilities 58,383              60,158              61,599              
+
+Total liabilities 148,484            156,836            156,893            
+
+Deferred Inflows of Resources 15                     60                     105                   
+
+Net Position
+Net investment in capital assets 32,022              30,018              37,759              
+Restricted – expendable for debt service 6,470                6,215                5,995                
+Unrestricted 42,459              43,296              33,396              
+
+Total net position 80,951              79,529              77,150              
+
+Total liabilities, deferred inflows of 
+resources and net position 229,450$          236,425$          234,148$          
+
+ 
+Cash, cash equivalents and investments decreased in 2018 compared to 2017 by $4,071 or 7% as the 
+Authority continued to see strong cash flows from operations coupled with a decline in cash flows from 
+investing activities.  Capital assets, net decreased in 2018 by $4,431 or 4% due to depreciation in the 
+current year exceeding capital asset additions.  Net pension liability decreased in 2018 compared to 2017 
+by $835 or 4% due primarily to increased Authority contributions in 2018. 
+
+Cash, cash equivalents and investments increased in 2017 compared to 2016 by $3,660 or 7% as the 
+Authority continued to see strong cash flows from operations coupled with the incurrence of new debt to 
+fund the completion of the emergency department renovation.  Capital assets, net decreased in 2017 by 
+$4,398 or 4% due to depreciation in the current year exceeding capital asset additions.  Net pension 
+liability increased in 2017 compared to 2016 by $1,964 or 10% due primarily to changes in actuarial 
+assumptions in 2017. 
+
+
+
+ 
+
+ 7 
+
+Operating Results and Changes in the Authority’s Net Position 
+
+In 2018, the Authority’s net position increased by $1,422 or 2%, as shown in Table 2, compared to the 
+increase in net position in 2017 of $2,379 or 3%. 
+
+Table 2: Operating Results and Changes in Net Position 
+
+2018 2017 2016
+
+Operating Revenues
+Net patient service revenue 265,752$          261,136$          246,127$          
+Grant revenue and other 9,093                9,239                11,212              
+
+Total operating revenues 274,845            270,375            257,339            
+
+Operating Expenses
+Salaries and wages and employee benefits 135,288            132,545            125,696            
+Purchased services and professional fees 61,723              58,542              60,532              
+Medical supplies and drugs 37,715              38,570              35,342              
+Depreciation and amortization 12,722              13,316              12,748              
+Supplies and other 24,646              24,611              24,537              
+
+Total operating expenses 272,094            267,584            258,855            
+
+Operating Income (Loss) 2,751                2,791                (1,516)              
+
+Nonoperating Revenues (Expenses)
+Noncapital grants and gifts 459                   1,010                663                   
+Gain on investments in joint ventures 307                   1,475                708                   
+Investment income 421                   69                     616                   
+Interest expense and other financing costs (3,563)              (3,053)              (3,174)              
+
+Total nonoperating revenues (expenses) (2,376)              (499)                 (1,187)              
+
+Capital Grants and Gifts 1,047                87                     1,500                
+
+Increase (Decrease) in Net Position 1,422$              2,379$              (1,203)$            
+
+ 
+Operating Income (Loss) 
+
+The first component of the overall change in the Authority’s net position is its operating income or loss—
+generally, the difference between net patient service and other operating revenues and the expenses 
+incurred to perform those services. 
+
+Operating results for 2018 decreased by $40 compared to the operating income in 2017 of $2,791.  The 
+primary components of the change in operating results are: 
+
+ An increase in net patient service revenue of $4,616 or 2% in conjunction with an increase in 
+outpatient oncology services 
+
+
+
+ 
+
+ 8 
+
+ An increase in operating expenses of $4,510 or 2%, the primary components of which are: 
+
+o An increase in salaries and wages and employee benefits of $2,743 or 2% in connection with the 
+Authority’s annual retention and recruitment efforts, particularly concerning registered nurses and 
+physicians 
+
+o An increase in purchased services and professional fees of $3,181 or 5% as a result of increases in 
+patient volumes 
+
+Operating results for 2017 increased by $4,307 compared to the operating loss in 2016 of $1,516.  The 
+primary components of the change in operating results are: 
+
+ An increase in net patient service revenue of $15,009 or 6% in conjunction with an increase of 10% 
+in inpatient days 
+
+ An increase in operating expenses of $8,729 or 3%, the primary components of which are: 
+
+o An increase in salaries and wages and employee benefits of $6,849 or 5% in connection with the 
+Authority’s annual retention and recruitment efforts, particularly concerning registered nurses and 
+physicians 
+
+o A decrease in purchased services and professional fees of $1,990 or 3% primarily related to 
+reductions in contract labor for registered nurses and locum physicians in conjunction with the 
+Authority’s retention and recruitment efforts 
+
+o An increase in medical supplies and drugs of $3,228 or 9% as a result of increases in patient 
+volumes in conjunction with increases in the costs of certain surgical supplies and implants 
+
+Nonoperating Revenues (Expenses) 
+
+Nonoperating revenues (expenses) consist primarily of investment income, gain on investments in joint 
+ventures, noncapital grants and gifts and interest expense.  The Authority’s total debt in 2018 and 2017 
+exceeded cash and investments and, as a result, interest expense exceeded investment income.   
+
+The Authority’s Cash Flows 
+
+Changes in the Authority’s cash flows are generally consistent with changes in operating income (loss) 
+and nonoperating revenues (expenses), with the exception of changes in capital assets, net and long-term 
+debt discussed above. 
+
+Capital Asset and Debt Administration 
+
+Capital Assets 
+
+At the end of 2018, the Authority had $109,027 invested in capital assets, net of accumulated 
+depreciation, as detailed in Note 5 to the accompanying financial statements.  In 2018, the Authority 
+acquired capital assets costing $7,712. 
+
+At the end of 2017, the Authority had $113,458 invested in capital assets, net of accumulated 
+depreciation, as detailed in Note 5 to the accompanying financial statements.  In 2017, the Authority 
+acquired capital assets costing $8,252. 
+
+
+
+ 
+
+ 9 
+
+Debt 
+
+At June 30, 2018 and 2017, the Authority had $90,101 and $96,678, respectively, in revenue bonds, notes 
+payable and capital lease obligations outstanding as detailed in Note 8 to the accompanying financial 
+statements.  During 2018, the Authority incurred $837 for the purchase of real estate.  During 2017, the 
+Authority incurred $1,008 for a new capital lease obligation, incurred $4,000 for a new note payable and 
+drew an additional $3,233 on an existing note payable.  At June 30, 2018 and 2017, the Authority’s debt 
+rating was BB+.  
+
+Contacting the Authority’s Financial Management 
+
+This financial report is designed to provide the Authority’s patients, suppliers, taxpayers and creditors 
+with a general overview of the Authority’s finances and to show the Authority’s accountability for the 
+money it receives.  Questions about this report and requests for additional financial information should be 
+directed to the Authority’s administration by telephoning 580.355.8620. 
+
+
+
+The Comanche County Hospital Authority 
+Balance Sheets 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+See Notes to Financial Statements         
+
+Assets and Deferred Outflows of Resources
+2018 2017
+
+Current Assets
+Cash and cash equivalents 10,482,926$     19,170,747$     
+Restricted cash and investments – current 6,520,011         6,408,402         
+Patient accounts receivable, net of allowance;
+
+2018 – $45,260,000, 2017 – $45,417,000 38,203,470       36,846,124       
+Accrued investment income 136,474            99,785              
+Due from related parties 3,088,668         2,658,773         
+Estimated amounts due from third-party payers 3,079,454         912,654            
+Supplies 5,777,877         5,415,310         
+Prepaid expenses and other 3,655,575         4,147,722         
+
+Total current assets 70,944,455       75,659,517       
+
+Noncurrent Cash and Investments
+Held by trustee for debt service 12,553,526       12,398,231       
+Less amount required to meet current obligations 6,520,011         6,408,402         
+
+6,033,515         5,989,829         
+Other long-term investments 29,923,831       25,461,623       
+
+Total noncurrent cash and investments 35,957,346       31,451,452       
+
+Capital Assets, Net 109,027,064     113,458,277     
+
+Other Assets
+Investments in joint ventures 3,290,351         3,349,335         
+Other 1,386,509         1,601,436         
+
+Total other assets 4,676,860         4,950,771         
+
+Deferred Outflows of Resources 8,843,836         10,905,435       
+
+Total assets and deferred outflows of resources 229,449,561$   236,425,452$   
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 10 
+
+Liabilities, Deferred Inflows of Resources and Net Position
+2018 2017
+
+Current Liabilities
+Current maturities of long-term debt 7,699,745$       7,396,455$       
+Accounts payable 17,963,228       19,136,857       
+Accrued expenses 14,152,052       13,780,710       
+Accrued interest payable 1,837,494         1,937,547         
+Due to related parties 2,655,211         1,855,185         
+
+Total current liabilities 44,307,730       44,106,754       
+
+Long-Term Debt 82,401,611       89,281,346       
+
+Net Pension Liability 21,024,546       21,859,450       
+
+Other Long-Term Obligations 749,739            1,588,788         
+
+Total liabilities 148,483,626     156,836,338     
+
+Deferred Inflows of Resources 15,367              60,568              
+
+Net Position
+Net investment in capital assets 32,021,950       30,018,056       
+Restricted – expendable for debt service 6,469,917         6,214,569         
+Unrestricted 42,458,701       43,295,921       
+
+Total net position 80,950,568       79,528,546       
+
+Total liabilities, deferred inflows of resources and net position 229,449,561$   236,425,452$   
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Statements of Revenues, Expenses and Changes in Net Position 
+
+Years Ended June 30, 2018 and 2017 
+ 
+ 
+
+See Notes to Financial Statements          11 
+
+2018 2017
+
+Operating Revenues
+Net patient service revenue, net of provision for uncollectible 
+
+accounts; 2018 – $52,596,730, 2017 – $51,174,070 265,752,153$   261,135,663$   
+Grant revenue 3,001,090         2,024,107         
+Other 6,091,444         7,214,425         
+
+Total operating revenues 274,844,687     270,374,195     
+
+Operating Expenses
+Salaries and wages 116,351,852     112,717,341     
+Employee benefits 18,935,915       19,827,177       
+Purchased services and professional fees 61,723,051       58,542,345       
+Medical supplies and drugs 37,715,228       38,570,340       
+Supplies and other 24,645,636       24,610,577       
+Depreciation and amortization 12,722,046       13,316,401       
+
+Total operating expenses 272,093,728     267,584,181     
+
+Operating Income 2,750,959         2,790,014         
+
+Nonoperating Revenues (Expenses)
+Noncapital grants and gifts 459,558            1,010,585         
+Gain on investments in joint ventures 306,748            1,475,415         
+Investment income 420,876            68,746              
+Interest expense and other financing costs (3,563,219)       (3,052,963)       
+
+Total nonoperating revenues (expenses) (2,376,037)       (498,217)          
+
+Excess of Revenues over Expenses Before Capital Grants and Gifts 374,922            2,291,797         
+
+Capital Grants and Gifts 1,047,100         87,395              
+
+Increase in Net Position 1,422,022         2,379,192         
+
+Net Position, Beginning of Year 79,528,546       77,149,354       
+
+Net Position, End of Year 80,950,568$     79,528,546$     
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Statements of Cash Flows 
+
+Years Ended June 30, 2018 and 2017 
+ 
+ 
+
+See Notes to Financial Statements           
+
+2018 2017
+
+Operating Activities
+Receipts from and on behalf of patients 262,228,007$   259,514,801$   
+Payments to suppliers and contractors (124,533,082)   (125,464,181)   
+Payments to or on behalf of employees (135,228,936)   (130,827,036)   
+Other receipts and payments, net 9,092,534         9,238,532         
+
+Net cash provided by operating activities 11,558,523       12,462,116       
+
+Noncapital Financing Activities
+Noncapital grants and gifts 459,558            1,010,585         
+
+Net cash provided by noncapital financing activities 459,558            1,010,585         
+
+Capital and Related Financing Activities
+Capital grants and gifts 1,047,100         87,395              
+Principal paid on long-term debt (6,835,347)       (6,236,733)       
+Interest paid on long-term debt (4,232,852)       (4,411,441)       
+Proceeds from issuance of long-term debt 837,000            7,232,891         
+Purchase of capital assets (7,686,107)       (7,324,803)       
+Proceeds from sale of capital assets 31,888              159,373            
+
+Net cash used in capital and related financing activities (16,838,318)     (10,493,318)     
+
+Investing Activities
+Interest on investments 753,353            488,532            
+Distributions from and investments in joint ventures 365,732            640,045            
+Purchase of investments (31,643,034)     (35,199,374)     
+Proceeds from disposition of investments 26,767,974       34,315,354       
+
+Net cash provided by (used in) investing activities (3,755,975)       244,557            
+
+Change in Cash and Cash Equivalents (8,576,212)       3,223,940         
+
+Cash and Cash Equivalents, Beginning of Year 25,579,149       22,355,209       
+
+Cash and Cash Equivalents, End of Year 17,002,937$     25,579,149$     
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 12 
+
+2018 2017
+
+Reconciliation of Cash and Cash Equivalents to the Balance Sheets
+Cash and cash equivalents in current assets 10,482,926$     19,170,747$     
+Cash and cash equivalents in noncurrent cash and investments
+
+Held by trustee for debt service 6,520,011         6,408,402         
+
+17,002,937$     25,579,149$     
+
+Reconciliation of Net Operating Revenues (Expenses) to Net Cash Provided 
+by Operating Activities
+
+Operating income 2,750,959$       2,790,014$       
+Depreciation and amortization 12,722,046       13,316,401       
+(Gain) loss on disposal of capital assets 7,377                (195,485)          
+Provision for uncollectible accounts 52,596,730       51,174,070       
+Changes in assets and liabilities
+
+Patient and other accounts receivable, net (53,954,076)     (51,957,822)     
+Supplies and prepaid expenses 129,580            308,813            
+Estimated amounts due to third-party payers (2,166,800)       (837,110)          
+Accounts payable and accrued expenses (1,618,555)       (1,569,226)       
+Change in pension liability 526,538            1,840,352         
+Due to/from related parties 370,131            (2,290,341)       
+Other assets and liabilities 194,593            (117,550)          
+
+Net cash provided by operating activities 11,558,523$     12,462,116$     
+
+Supplemental Cash Flows Information
+Capital asset acquisitions included in accounts payable 983,528$          1,006,309$       
+Capital lease obligations incurred for capital assets -$                     1,008,328$       
+Noncash distribution from and contribution to equity investee -$                     627,269$          
+
+ 
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 13 
+
+Note 1: Nature of Operations and Summary of Significant Accounting Policies 
+
+Nature of Operations and Reporting Entity 
+
+The Comanche County Hospital Authority (the Authority), a public trust, was created on 
+January 13, 1971, by the Board of Commissioners of Comanche County, Oklahoma (the County), 
+to operate, control and manage all matters concerning Comanche County Memorial Hospital 
+(CCMH), McMahon-Tomlinson Nursing Center (MTNC) and the trust estate.  The Board of 
+Commissioners of the County appoints the members of the Authority’s Board of Trustees. 
+
+On January 13, 1971, an indenture of lease was entered into between the County (the Lessor) and 
+the trustees of the Authority (the Lessee) leasing to the Authority all hospital and nursing center 
+sites, equipment and facilities owned and subsequently constructed or acquired by the Lessor or 
+under its custody, management or control.  The initial term of the lease was for a period of 30 years 
+and so long thereafter as any indebtedness incurred by the Lessee and secured by the revenues of 
+any of the leased property remains unpaid.  In addition, the lease agreement provided the Authority 
+certain renewal options.  Consideration for the lease is the installation and construction of 
+improvements to the leased property for the purpose of aiding the Lessor in the performance of its 
+public functions.  In July 2000, the Authority exercised an option to renew the lease for an 
+additional 30-year period ending in January 2031. 
+
+CCMH primarily earns revenue by providing inpatient, outpatient and emergency care services to 
+patients in southwestern Oklahoma.  CCMH also operates a rehabilitation unit, a psychiatric unit, 
+outpatient clinics, a home health agency and an ambulance service in the same geographic area.   
+
+MTNC earns revenues by providing intermediate nursing care services in a 146-bed nursing facility 
+in Lawton, Oklahoma. 
+
+On September 1, 2007, the Authority was awarded a grant by the Health Resources and Services 
+Administration of the U.S. Department of Health and Human Services to partially fund the 
+operations and activities of the Lawton Community Health Center (LCHC), a federally qualified 
+health center (FQHC).  LCHC is an operating division of the Authority and operates the FQHC 
+under a co-applicant agreement with Lawton Community Health Center, Inc., a not-for-profit 
+organization. 
+
+Under accounting principles generally accepted in the United States of America, the accompanying 
+financial statements of the Authority are comprised of CCMH, MTNC and LCHC, which are 
+considered operating divisions of the Authority.  All transactions and accounts between CCMH, 
+MTNC and LCHC have been eliminated in the accompanying financial statements. 
+
+Basis of Accounting and Presentation 
+
+The accompanying financial statements of the Authority have been prepared on the accrual basis of 
+accounting using the economic resources measurement focus.  Revenues, expenses, gains, losses, 
+assets and deferred outflows of resources and liabilities and deferred inflows of resources from 
+exchange and exchange-like transactions are recognized when the exchange transaction takes place, 
+while those from government-mandated nonexchange transactions (principally, federal and state 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 14 
+
+grants) are recognized when all applicable eligibility requirements are met.  Operating revenues 
+and expenses include exchange transactions and program-specific, government-mandated 
+nonexchange transactions.  Investment income and interest on capital assets-related debt are 
+included in nonoperating revenues and expenses.  The Authority first applies restricted net position 
+when an expense or outlay is incurred for purposes for which both restricted and unrestricted net 
+position are available. 
+
+Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally 
+accepted in the United States of America requires management to make estimates and assumptions 
+that affect the reported amounts of assets and deferred outflows of resources and liabilities and 
+deferred inflows of resources and disclosure of contingent assets and liabilities at the date of the 
+financial statements and the reported amounts of revenues and expenses during the reporting 
+period.  Actual results could differ from those estimates. 
+
+Cash Equivalents 
+
+The Authority considers all liquid investments with original maturities of three months or less to be 
+cash equivalents excluding investments in noncurrent cash and investments.  At June 30, 2018 and 
+2017, cash equivalents consisted of money market mutual funds with brokers. 
+
+Risk Management 
+
+The Authority is exposed to various risks of loss from torts; theft of, damage to and destruction of 
+assets; business interruption; errors and omissions; employee injuries and illnesses; natural 
+disasters; medical malpractice; and employee health, dental and accident benefits.  Commercial 
+insurance coverage is purchased for claims arising from such matters other than unemployment; 
+workers’ compensation; and employee health, dental and short-term disability.  Settled claims have 
+not exceeded this commercial coverage in any of the three preceding years. 
+
+The Authority is self-insured for a portion of its exposure to risk of loss from unemployment, 
+employee health, dental, short-term disability and workers’ compensation claims.  Annual 
+estimated provisions are accrued for the self-insured portion of these claims and include an 
+estimate of the ultimate costs for both reported claims and claims incurred but not yet reported. 
+
+Investments and Investment Income 
+
+The investments in joint ventures are reported on the equity method of accounting.  All other 
+investments are carried at fair value, which is determined using quoted market prices.  Investment 
+income includes dividend and interest income, realized gains and losses on investments carried at 
+other than fair value and the net change for the year in the fair value of investments carried at fair 
+value. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 15 
+
+Patient Accounts Receivable 
+
+The Authority reports patient accounts receivable for services rendered at net realizable amounts 
+from third-party payers, patients and others.  The Authority provides an allowance for uncollectible 
+accounts based upon a review of outstanding receivables, historical collection information and 
+existing economic conditions.  As a service to the patient, the Authority bills third-party payers 
+directly and bills the patient when the patient’s liability is determined.  Patient accounts receivable 
+are due in full when billed.  Accounts are considered delinquent and subsequently written off as 
+uncollectible accounts based on individual credit evaluation and specific circumstances of the 
+account. 
+
+Supplies 
+
+Supply inventories are stated at the lower of cost, determined using the first-in, first-out method, or 
+market. 
+
+Capital Assets 
+
+Capital assets are recorded at cost at the date of acquisition or acquisition value at the date of 
+donation if acquired by gift.  Depreciation is computed using the straight-line method over the 
+estimated useful life of each asset.  Assets under capital lease obligations are depreciated over the 
+shorter of the lease term or their respective estimated useful lives.  The following estimated useful 
+lives are being used by the Authority: 
+
+Land improvements 5–20 years
+Buildings and improvements 10–50 years
+Equipment 3–20 years
+
+ 
+ 
+
+The Authority capitalizes interest costs as a component of construction in progress based on the 
+weighted-average rates paid for long-term borrowing.  Total interest incurred was: 
+
+2018 2017
+
+Interest costs capitalized 48,554$            696,117$          
+Interest costs and other financing costs charged to expense 3,563,219         3,052,963         
+
+Total interest incurred 3,611,773$       3,749,080$       
+
+ 
+Compensated Absences 
+
+Authority policies permit most employees to accumulate paid days off benefits that may be realized 
+as paid time off or, in limited circumstances, as a cash payment.  Expense and the related liability 
+are recognized as benefits are earned whether the employee is expected to realize the benefit as 
+time off or in cash.  Compensated absence liabilities are computed using the regular pay rates in 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 16 
+
+effect at the balance sheet date plus an additional amount for compensation-related payments, such 
+as Social Security and Medicare taxes, computed using rates in effect at that date.   
+
+Defined Benefit Pension Plan  
+
+The Authority has a single-employer defined benefit pension plan, the Comanche County Hospital 
+Authority Employee Retirement Plan (the Plan).  For purposes of measuring the net pension 
+liability, deferred outflows of resources and deferred inflows of resources related to pensions and 
+pension expense, information about the fiduciary net position of the Plan and additions 
+to/deductions from the Plan’s fiduciary net position have been determined on the same basis as 
+they are reported by the Plan.  For this purpose, benefit payments (including refunds of employee 
+contributions) are recognized when due and payable in accordance with the benefit terms.  
+Investments are reported at fair value. 
+
+Deferred Outflows and Inflows of Resources 
+
+The Authority is required to account for certain transactions that do not qualify for treatment as 
+either assets or liabilities as deferred outflows or inflows of resources.  Deferred outflows and 
+inflows of resources are defined as a consumption (deferred outflows) or an acquisition (deferred 
+inflows) of net position by the Authority that is applicable to a future reporting period. 
+
+The Authority adopted Governmental Accounting Standards Board (GASB) Statement No. 85, 
+Omnibus 2017, regarding the classification of goodwill.  Prior to the fiscal year 2015 
+implementation of GASB Statement No. 69, Government Combinations and Disposals of 
+Government Operations, entities reported goodwill, or excess consideration paid in an acquisition, 
+as an asset.  For such amounts, GASB 85 clarifies that entities should reclassify goodwill as a 
+deferred outflow of resources.  Based on these requirements, the Authority now reports goodwill as 
+deferred outflows of resources.  This did not have a material impact on the accompanying financial 
+statements. 
+
+At June 30, 2018 and 2017, the deferred inflows and outflows of resources reported by the 
+Authority on the accompanying balance sheets consisted of the following items: 
+
+2018 2017
+
+Deferred inflows related to pensions 15,367$            60,568$            
+
+Loss on defeasance of long-term debt, net 955,676$          1,119,795$       
+Excess consideration paid in an acquisition 4,376,636         4,867,473         
+Deferred outflows related to pensions 3,511,524         4,918,167         
+
+Total deferred outflows 8,843,836$       10,905,435$     
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 17 
+
+Net Position 
+
+Net position of the Authority is classified in three components.  Net investment in capital assets 
+consists of capital assets, net of accumulated depreciation and reduced by the outstanding balances 
+of borrowings used to finance the purchase or construction of those assets.  Restricted expendable 
+net position is made up of noncapital assets that must be used for a particular purpose, as specified 
+by creditors, grantors or donors external to the Authority, including amounts deposited with 
+trustees as required by bond indentures, reduced by the outstanding balances of any related 
+borrowings.  Unrestricted net position is the remaining net position that does not meet the 
+definition of net investment in capital assets or restricted net position. 
+
+Net Patient Service Revenue 
+
+The Authority has agreements with third-party payers that provide for payments to the Authority at 
+amounts different from its established rates.  Net patient service revenue is reported at the 
+estimated net realizable amounts from patients, third-party payers and others for services rendered 
+and includes estimated retroactive revenue adjustments and a provision for uncollectible accounts.  
+Retroactive adjustments are considered in the recognition of revenue on an estimated basis in the 
+period the related services are rendered and such estimated amounts are revised in future periods as 
+adjustments become known. 
+
+Charity Care 
+
+The Authority provides care without charge or at amounts less than its established rates to patients 
+meeting certain criteria under its charity care policy.  Because the Authority does not pursue 
+collection of amounts determined to qualify as charity care, the amounts are not reported as net 
+patient service revenue. 
+
+Income Taxes 
+
+As an essential government function of the County, the Authority is exempt from federal and state 
+income taxes under Section 115 of the Internal Revenue Code and a similar provision of state law.  
+However, the Authority is subject to federal income tax on any unrelated business taxable income. 
+
+Foundation 
+
+The Authority is the beneficiary of Comanche County Memorial Hospital Foundation (the 
+Foundation), a separate legal entity with its own board of directors.  The Foundation has legal title 
+to all of the Foundation’s assets.  The Foundation is not a component unit of the Authority and, 
+thus, is not reflected in the accompanying financial statements. 
+
+Supplemental Hospital Offset Payment Program 
+
+On January 17, 2012, the Centers for Medicare and Medicaid Services (CMS) approved the State 
+of Oklahoma’s Supplemental Hospital Offset Payment Program (SHOPP).  The SHOPP is 
+currently scheduled to sunset on December 31, 2020.  The SHOPP is designed to assess Oklahoma 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 18 
+
+hospitals a supplemental hospital offset fee, which is placed in pools after receiving federal 
+matching funds.  The total fees and matching funds are then allocated to hospitals as directed by 
+legislation. 
+
+SHOPP revenue is recorded as part of net patient service revenue and SHOPP assessment fees are 
+recorded as part of other expenses on the accompanying statements of revenues, expenses and 
+changes in net position.  The amounts noted in the table below for the years ended June 30, 2018 
+and 2017, represent the approximate amounts received and paid by the Authority.  The annual 
+amounts to be received and paid by the Authority over the term of the SHOPP are subject to 
+change annually based on various factors involved in determining the amount of federal matching 
+funds.  Based on the current information available, the annual net benefit to the Authority over the 
+term of the SHOPP is not expected to be materially different from the net amounts received in 
+2018. 
+
+2018 2017
+
+SHOPP funds received 15,153,660$     14,272,000$     
+SHOPP assessment fees paid 6,103,000         6,023,000         
+
+Net SHOPP benefit 9,050,660$       8,249,000$       
+
+ 
+Electronic Health Records Incentive Programs  
+
+The Electronic Health Records Incentive Programs, enacted as part of the American Recovery and 
+Reinvestment Act of 2009, provide for one-time incentive payments under both the Medicare and 
+Medicaid programs to eligible hospitals and physicians that demonstrate meaningful use of 
+certified electronic health records (EHR) technology.  Payments under the Medicare program are 
+generally made for up to four years based on a statutory formula.  Payments under the Medicaid 
+program are generally made for three years based on a statutory formula, as determined by the 
+state, which is approved by CMS.  Payments under both programs are contingent on the hospital 
+continuing to meet escalating meaningful use criteria and any other specific requirements that are 
+applicable for the reporting period.  The final amount for any payment year is determined based on 
+an audit by the administrative contractor.  Events could occur that would cause the final amounts to 
+differ materially from the initial payments under the programs.  
+
+The Authority recognizes revenue ratably over the reporting period starting at the point when 
+management is reasonably assured it will meet all of the meaningful use objectives and any other 
+specific grant requirements applicable for the reporting period.   
+
+CCMH attested to meeting the fourth-year requirements under the Medicare program during the 
+year ended June 30, 2017.  The revenue related to these programs for the years ended June 30, 
+2018 and 2017, which is included in other revenue on the accompanying statements of revenues, 
+expenses and changes in net position, were approximately $12,000 and $598,000, respectively. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 19 
+
+Revisions  
+
+Certain immaterial revisions have been made to the 2017 financial statements for amounts reported 
+as estimated amounts due to third-party payers, patient accounts receivable, net of allowance and 
+disclosures about investments in joint ventures in Note 13.  These revisions did not have a 
+significant impact on the financial statement line items impacted. 
+
+Note 2: Net Patient Service Revenue 
+
+CCMH, MTNC and LCHC have agreements with third-party payers that provide for payments to 
+them at amounts different from their established rates.  Those payment arrangements include: 
+
+ Medicare – Substantially all inpatient acute care services and outpatient services rendered to 
+Medicare program beneficiaries, including physician services, are paid at prospectively 
+determined rates.  These rates vary according to patient classification systems that are based on 
+clinical, diagnostic and other factors.  CCMH, MTNC and LCHC are reimbursed for certain 
+services at tentative rates with final settlement determined after submission of annual cost 
+reports by the Authority and audits thereof by the Medicare administrative contractor.   
+
+ Medicaid – CCMH, MTNC and LCHC have also been reimbursed for services rendered to 
+patients covered by the state Medicaid program.  CCMH is reimbursed on a prospective basis 
+at prospectively determined rates per discharge and fee schedules with no retroactive 
+adjustment.  MTNC is reimbursed for services to residents who are Medicaid beneficiaries at 
+prospectively determined per diem rates with no retroactive adjustment.  LCHC is reimbursed 
+for services provided to Medicaid beneficiaries at prospectively determined rates with no 
+retroactive adjustment. 
+
+Approximately 61% and 63% of net patient service revenue is from participation in the Medicare 
+and state-sponsored Medicaid programs for the years ended June 30, 2018 and 2017, respectively.  
+Laws and regulations governing the Medicare and Medicaid programs are complex and subject to 
+interpretation and change.  As a result, it is reasonably possible that recorded estimates will change 
+materially in the near term. 
+
+The Authority has also entered into payment agreements with certain commercial insurance 
+carriers, health maintenance organizations and preferred provider organizations.  The basis for 
+payment under these agreements includes prospectively determined rates per discharge, discounts 
+from established charges and prospectively determined daily rates. 
+
+Grant Revenue 
+
+The Authority is the recipient of a Community Health Center (CHC) grant from the U.S. 
+Department of Health and Human Services.  The general purpose of the grant is to provide 
+expanded health care service delivery in Lawton, Oklahoma, and surrounding areas.  Terms of the 
+grant generally provide for funding of LCHC’s operations based on an approved budget.  Grant 
+revenue is recognized as qualifying expenditures are incurred over the grant period.  During the 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 20 
+
+years ended June 30, 2018 and 2017, the Authority received approximately $3,001,000 and 
+$2,024,000, respectively, in CHC grant funds. 
+
+Note 3: Deposits, Investments and Investment Income 
+
+Deposits 
+
+Custodial credit risk is the risk that in the event of a bank failure a government’s deposits may not 
+be returned to it.  The Authority’s deposit policy for custodial credit risk requires collateralization 
+of all deposits with federal depository insurance and other acceptable collateral in specific amounts.   
+
+At June 30, 2018 and 2017, approximately $162,000 and $0 of the Authority’s bank balances of 
+approximately $10,409,000 and $15,153,000, respectively, were exposed to custodial credit risk as 
+follows: 
+
+2018 2017
+
+Uninsured and uncollateralized 162,000$          -$                     
+Uninsured and collateralized by irrevocable letters of credit from the
+  Federal Home Loan Bank 10,247,000       15,153,000       
+
+Total interest incurred 10,409,000$     15,153,000$     
+
+ 
+Investments 
+
+The Authority has an investment policy related to its investment portfolio.  This policy does not 
+apply to investments held under trustee agreements related to bond indentures.   
+
+At June 30, the Authority had the following investments and maturities: 
+
+Less More
+Type Fair Value than 1 1–5 6–10 than 10
+
+Mortgage- and asset-backed 
+  securities of U.S. agencies 22,922,737$    1,089,766$      11,685,367$    3,765,383$      6,382,221$      
+Corporate bonds 3,532,141        -                      1,637,499        1,894,642        -                      
+Equity securities 3,732,553        3,732,553        -                      -                      -                      
+Money market mutual funds 12,805,791      12,805,791      -                      -                      -                      
+
+42,993,222      17,628,110$    13,322,866$    5,660,025$      6,382,221$      
+
+Accrued investment income 136,474           
+
+43,129,696$    
+
+2018
+Maturities in Years
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 21 
+
+Less More
+Type Fair Value than 1 1–5 6–10 than 10
+
+Mortgage- and asset-backed
+  securities of U.S. agencies 25,222,366$    2,113,031$      22,954,615$    -$                    154,720$         
+Equity securities 239,256           239,256           -                      -                      -                      
+Money market mutual funds 20,823,126      20,823,126      -                      -                      -                      
+
+46,284,748      23,175,413$    22,954,615$    -$                    154,720$         
+
+Accrued investment income 99,785             
+
+46,384,533$    
+
+2017
+Maturities in Years
+
+ 
+ Interest Rate Risk – Interest rate risk is the risk that changes in interest rates will adversely 
+
+affect the fair value of an investment.  As a means of limiting its exposure to fair value losses 
+arising from rising interest rates, the Authority’s investment policy limits the sale of securities 
+on the open market prior to maturity and directly investing in securities maturing more than 
+five years from the date of purchase.  The Authority has also adopted weighted-average 
+limitations not to exceed three years.  The money market mutual funds are presented as 
+investments with maturities of less than one year because the average maturity of the funds is 
+less than one year. 
+
+ Credit Risk – Credit risk is the risk that the issuer or other counterparty to an investment will 
+not fulfill its obligations.  It is the Authority’s policy to limit its investments to securities with a 
+Standard & Poor’s (S & P) credit rating of AAA or Moody’s credit rating of Aaa.  U.S. 
+Treasury obligations, U.S. government agency and instrumentality obligations, certificates of 
+deposit and money market mutual funds are acceptable security types under the Authority’s 
+investment policy.  At June 30, 2018 and 2017, the Authority’s investments not directly 
+guaranteed by the U.S. government were rated as follows: 
+
+Type Moody’s S & P Moody’s S & P
+
+Mortgage- and asset-backed 
+  securities of U.S. agencies Aaa AA+ Aaa AA+
+Money market mutual funds Aaa AAA Aaa AAA
+
+2018 2017
+
+ 
+ Custodial Credit Risk – For an investment, custodial credit risk is the risk that in the event of 
+
+the failure of the counterparty the Authority will not be able to recover the value of its 
+investment or collateral securities that are in the possession of an outside party.  At June 30, 
+2018 and 2017, the Authority’s investments in mortgage- and asset-backed securities are held 
+by counterparties in other than the Authority’s name.  The Authority’s investment policy does 
+not address how securities underlying repurchase agreements are to be held. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 22 
+
+ Concentration of Credit Risk – The Authority limits the types of securities purchased to U.S. 
+Treasury obligations, U.S. government agency and instrumentality obligations, money market 
+mutual funds, equity securities and certificates of deposit fully covered by FDIC limits.  The 
+Authority’s investment policy does not place a limit on the amount that may be invested in any 
+one issuer.  
+
+At June 30, 2018, the following investments exceeded 5% of the total fair value of all investments: 
+
+Percentage
+Investment Fair Value of Total
+
+Federal National Mortgage Association 6,511,755$       15.1%
+Federal Home Loan Mortgage Corporation 2,421,852$       5.6%
+Federal Home Loan Bank 3,590,896$       8.3%
+Federal Farm Credit Bank 7,524,277$       17.4%
+
+ 
+At June 30, 2017, the following investments exceeded 5% of the total fair value of all investments: 
+
+Percentage
+Investment Fair Value of Total
+
+Federal National Mortgage Association 9,587,544$       20.7%
+Federal Home Loan Mortgage Corporation 8,436,538$       18.2%
+Federal Home Loan Bank 4,106,946$       8.8%
+Federal Farm Credit Bank 2,448,150$       5.3%
+
+ 
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 23 
+
+Summary of Carrying Values 
+
+The carrying values of deposits and investments shown above are included in the accompanying 
+balance sheets as follows: 
+
+2018 2017
+
+Carrying value
+Deposits 9,967,061$       10,745,853$     
+Investments 43,129,696       46,384,533       
+
+53,096,757$     57,130,386$     
+
+Included in the following balance sheet captions
+Cash and cash equivalents 10,482,926$     19,170,747$     
+Restricted cash and investments – current 6,520,011         6,408,402         
+Noncurrent cash and investments 35,957,346       31,451,452       
+Accrued investment income 136,474            99,785              
+
+53,096,757$     57,130,386$     
+
+ 
+Investment Income 
+
+Investment income for the years ended June 30 consisted of: 
+
+2018 2017
+
+Interest and dividend income 790,042$          517,463$          
+Net decrease in fair value of investments (369,166)          (448,717)          
+
+420,876$          68,746$            
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 24 
+
+Note 4: Patient Accounts Receivable 
+
+The Authority grants credit without collateral to its patients, most of whom are residents of 
+southwestern Oklahoma and are insured under third-party payer agreements.  Patient accounts 
+receivable at June 30 consisted of: 
+
+2018 2017
+
+Medicare 13,022,831$     15,792,493$     
+Medicaid 5,842,738         5,286,219         
+Other third-party payers 41,216,046       40,533,440       
+Patients 23,381,855       20,650,972       
+
+83,463,470       82,263,124       
+Less allowance for uncollectible accounts 45,260,000       45,417,000       
+
+38,203,470$     36,846,124$     
+
+ 
+
+Note 5: Capital Assets 
+
+Capital assets activity for the years ended June 30 was:  
+
+Beginning Ending
+Balance Additions Disposals Transfers Balance
+
+Land 4,297,371$      -$                    -$                    -$                    4,297,371$      
+Land improvements 9,359,209        -                      -                      66,993             9,426,202        
+Buildings and improvements 162,277,011    -                      -                      1,965,327        164,242,338    
+Equipment 138,076,404    434,798           (745,788)         4,453,139        142,218,553    
+Construction in progress 3,089,313        7,277,082        -                      (6,485,459)      3,880,936        
+
+317,099,308    7,711,880        (745,788)         -                      324,065,400    
+
+Less accumulated depreciation
+Land improvements 7,184,034        297,428           -                      -                      7,481,462        
+Buildings and improvements 84,262,071      5,984,801        -                      -                      90,246,872      
+Equipment 112,194,926    5,852,042        (736,966)         -                      117,310,002    
+
+203,641,031    12,134,271      (736,966)         -                      215,038,336    
+
+Capital assets, net 113,458,277$  (4,422,391)$    (8,822)$           -$                    109,027,064$  
+
+2018
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 25 
+
+Beginning Ending
+Balance Additions Disposals Transfers Balance
+
+Land 3,944,883$      -$                    -$                    352,488$         4,297,371$      
+Land improvements 9,210,139        -                      -                      149,070           9,359,209        
+Buildings and improvements 138,619,700    -                      -                      23,657,311      162,277,011    
+Equipment 139,643,719    426,346           (4,487,893)      2,494,232        138,076,404    
+Construction in progress 21,917,075      7,825,339        -                      (26,653,101)    3,089,313        
+
+313,335,516    8,251,685        (4,487,893)      -                      317,099,308    
+
+Less accumulated depreciation
+Land improvements 6,892,396        291,638           -                      -                      7,184,034        
+Buildings and improvements 79,174,716      5,087,355        -                      -                      84,262,071      
+Equipment 109,411,956    7,258,967        (4,475,997)      -                      112,194,926    
+
+195,479,068    12,637,960      (4,475,997)      -                      203,641,031    
+
+Capital assets, net 117,856,448$  (4,386,275)$    (11,896)$         -$                    113,458,277$  
+
+2017
+
+ 
+
+Note 6: Medical Malpractice Claims 
+
+The Authority purchases medical malpractice insurance for services under a claims-made policy on 
+a fixed premium basis.  Accounting principles generally accepted in the United States of America 
+require a health care provider to accrue the expense of its share of malpractice claim costs, if any, 
+for any reported and unreported incidents of potential improper professional service occurring 
+during the year by estimating the probable costs of such incidents.  At June 30, 2018 and 2017, the 
+Authority accrued approximately $300,000 and $250,000, respectively, based on its claims 
+experience for these claims.  It is reasonably possible that these estimates could change materially 
+in the near term.  
+
+Because the Authority was created by the County, management believes the limit of liability for 
+any individual tort claim not covered by insurance would be limited to $125,000 under Oklahoma 
+state law. 
+
+Note 7: Self-Insured Claims 
+
+The Authority sponsors short-term disability, health and dental care plans and a workers’ 
+compensation plan for its employees.  These plans are self-insured to the extent of the deductible 
+amounts under the excess risk insurance policies the Authority has obtained.  These self-insured 
+amounts are currently as follows: 
+
+ Workers’ compensation – first $450,000 per accident 
+
+ Health and dental care – first $350,000 per person per year 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 26 
+
+A provision is accrued for self-insured workers’ compensation and health and dental care claim 
+costs, including both claims reported and claims incurred but not yet reported.  The accrual is 
+estimated based on consideration of prior claims experience, recently settled claims, frequency of 
+claims and other economic and social factors.  It is reasonably possible the Authority’s estimate 
+will change by a material amount in the near term.   
+
+Activity in the Authority’s accrued liability for self-insured plans, included in accrued expenses 
+and other long-term liabilities on the accompanying balance sheets, during the years ended June 30 
+is summarized as follows: 
+
+Employee
+Health and
+
+Dental Workers’
+Benefits Compensation
+
+Balance, beginning of year 1,326,864$       952,771$          
+Current year claims incurred and changes in estimates for claims
+  incurred in prior years 8,469,286         116,529            
+Claims and expenses paid (8,676,746)       (465,757)          
+
+Balance, end of year 1,119,404$       603,543$          
+
+2018
+
+ 
+
+Employee
+Health and
+
+Dental Workers’
+Benefits Compensation
+
+Balance, beginning of year 1,328,370$       1,001,312$       
+Current year claims incurred and changes in estimates for claims
+  incurred in prior years 8,032,615         585,955            
+Claims and expenses paid (8,034,121)       (634,496)          
+
+Balance, end of year 1,326,864$       952,771$          
+
+2017
+
+ 
+In June 2018 and 2017, the Oklahoma Workers’ Compensation Court required the Authority to 
+post collateral for self-insured claims in the form of letters of credit with a bank in the amount of 
+$500,000 and $792,000, respectively, in the event the Authority was unable to pay its claims.  As 
+of the date of the Independent Auditor’s Report, no amounts have been drawn on these letters of 
+credit. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 27 
+
+Note 8: Long-Term Obligations 
+
+The following is a summary of long-term obligation transactions for the Authority for the years 
+ended June 30: 
+
+Beginning Ending Current
+Balance Additions Deductions Balance Portion
+
+Long-term debt
+Series 2012A Revenue Bonds 34,790,009$    -$                    (1,081,734)$    33,708,275$    1,112,112$      
+Series 2012B Revenue Bonds 9,185,000        -                      (670,000)         8,515,000        695,000           
+Series 2015 Revenue Bonds 38,565,952      -                      (3,296,364)      35,269,588      3,391,429        
+Note payable to bank (A) 9,184,621        -                      (1,701,893)      7,482,728        1,758,694        
+Note payable to bank (B) 3,796,267        -                      (349,481)         3,446,786        361,864           
+Note payable to bank (C) -                      837,000           (50,236)           786,764           120,625           
+Note payable to third party 76,442             -                      (34,911)           41,531             35,545             
+Capital lease obligations 1,079,510        -                      (228,826)         850,684           224,476           
+
+Total long-term debt 96,677,801      837,000           (7,413,445)      90,101,356      7,699,745        
+ 
+
+Other long-term liabilities
+Estimated self-insurance costs 952,771           116,529           (465,757)         603,543           106,543           
+Deferred compensation plans 1,133,769        -                      (344,049)         789,720           536,981           
+
+Total long-term obligations 98,764,341$    953,529$         (8,223,251)$    91,494,619$    8,343,269$      
+
+2018
+
+Beginning Ending Current
+Balance Additions Deductions Balance Portion
+
+Long-term debt
+Series 2012A Revenue Bonds 35,841,207$    -$                    (1,051,198)$    34,790,009$    1,081,733$      
+Series 2012B Revenue Bonds 9,830,000        -                      (645,000)         9,185,000        670,000           
+Series 2015 Revenue Bonds 41,755,450      -                      (3,189,498)      38,565,952      3,296,365        
+Note payable to bank (A) 7,634,444        3,232,891        (1,682,714)      9,184,621        1,701,814        
+Note payable to bank (B) -                      4,000,000        (203,733)         3,796,267        350,307           
+Note payable to third party 110,731           -                      (34,289)           76,442             34,911             
+Capital lease obligations 122,178           1,008,328        (50,996)           1,079,510        261,325           
+
+Total long-term debt 95,294,010      8,241,219        (6,857,428)      96,677,801      7,396,455        
+ 
+
+Other long-term liabilities
+Estimated self-insurance costs 1,001,312        585,955           (634,496)         952,771           455,771           
+Deferred compensation plans 1,846,043        306,529           (1,018,803)      1,133,769        41,981             
+
+Total long-term obligations 98,141,365$    9,133,703$      (8,510,727)$    98,764,341$    7,894,207$      
+
+2017
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 28 
+
+Revenue Bonds Payable 
+
+The revenue bonds payable consist of the following: 
+
+ Series 2012A Hospital Revenue Refunding Bonds (Series 2012A Revenue Bonds), in the 
+original amount of $36,790,000 dated December 14, 2012, bear interest at 3.00% to 5.00%, 
+payable semiannually.  Principal is payable in annual installments through July 2042.  The 
+Authority is required to make monthly deposits to the debt service fund held by the trustee.  All 
+of the bonds still outstanding may be redeemed at the Authority’s option on or after July 1, 
+2022, at a redemption price of 100%.  The bonds are secured by the net revenues of the 
+Authority and the assets restricted under the bond indenture agreement.  The principal of these 
+bonds was split between CCMH and MTNC.  The allocation of the principal amounts and 
+respective maturity dates related to CCMH and MTNC are as follows: 
+
+Principal Maturity 
+Amount Date
+
+Comanche County Memorial Hospital 24,765,000$     July 2032
+McMahon-Tomlinson Nursing Center 12,025,000       July 2042
+
+36,790,000$     
+
+ 
+When the Series 2012A Revenue Bonds were issued, the bonds were sold at a premium of 
+approximately $2,162,000.  At June 30, the outstanding balance of the Series 2012A Revenue 
+Bonds was as follows: 
+
+2018 2017
+
+Principal amount 32,445,000$     33,390,000$     
+Plus unamortized premium 1,263,275         1,400,009         
+
+Net amount outstanding 33,708,275$     34,790,009$     
+
+ 
+ Series 2012B Hospital Revenue Refunding Bonds (the Series 2012B Revenue Bonds), in the 
+
+original amount of $9,830,000 dated December 14, 2012, bear interest at 3.43% to 5.90%, 
+payable semiannually.  Principal is payable in annual installments through July 2027.  The 
+Authority is required to make monthly deposits to the debt service fund held by the trustee.  All 
+of the bonds still outstanding may be redeemed at the Authority’s option on or after July 1, 
+2022, at a redemption price of 100%.  The bonds are secured by the net revenues of the 
+Authority and the assets restricted under the bond indenture agreement. 
+
+ Series 2015 Hospital Revenue Refunding Bonds (the Series 2015 Revenue Bonds), in the 
+original amount of $41,575,000 dated April 7, 2015, bear interest at 3.13% to 5.00%, payable 
+semiannually.  Principal is payable in annual installments through July 2029 and was used to 
+refund the Series 2005 Revenue Bonds and a portion of one of the notes payable to bank.  The 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 29 
+
+Authority is required to make monthly deposits to the debt service fund held by the trustee.  All 
+of the bonds still outstanding may be redeemed at the Authority’s option on or after July 1, 
+2025, at a redemption price of 100%.  The bonds are secured by the net revenues of the 
+Authority and the assets restricted under the bond indenture agreement. 
+
+When the Series 2015 Revenue Bonds were issued, the bonds were sold at a premium of 
+approximately $3,754,000.  At June 30, 2018 and 2017, the outstanding balance of the Series 
+2015 Revenue Bonds was as follows: 
+
+2018 2017
+
+Principal amount 33,045,000$     35,900,000$     
+Plus unamortized premium 2,224,588         2,665,952         
+
+Net amount outstanding 35,269,588$     38,565,952$     
+
+ 
+The revenue bonds’ indenture agreements require that certain funds be established with the trustee.  
+Accordingly, these funds are included as assets held by trustee for debt service in the 
+accompanying balance sheets.  The indentures also require the Authority to comply with certain 
+restrictive covenants, including minimum insurance coverage, maintaining a debt service coverage 
+ratio of at least 1.10 to 1.00, restrictions on incurrence of additional debt and maintaining a 
+minimum days cash on hand.   
+
+In prior years, the Authority had advance refunded four different revenue bond issues and each of 
+these advance refunding transactions resulted in extinguishment of debt since the Authority was 
+legally released from its obligation on those bond series.   
+
+The prior advance refunding transactions resulted in an accounting loss on the extinguishment of 
+the long-term debt.  This loss on refunding is shown as deferred outflows of resources on the 
+accompanying balance sheets and is being amortized using the straight-line method over the life of 
+the respective new bond issues. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 30 
+
+The debt service requirements as of June 30, 2018, are as follows: 
+
+Total to
+Year Ending June 30, be Paid Principal Interest
+
+2019 8,821,994$       5,198,541$       3,623,453$       
+2020 8,785,897         5,391,665         3,394,232         
+2021 8,728,337         5,577,540         3,150,797         
+2022 8,674,436         5,780,963         2,893,473         
+2023 8,618,535         5,996,799         2,621,736         
+2024–2028 33,661,067       24,418,465       9,242,602         
+2029–2033 22,447,398       19,153,458       3,293,940         
+2034–2038 3,664,434         2,683,191         981,243            
+2039–2043          3,653,386          3,292,241             361,145 
+
+107,055,484$   77,492,863$     29,562,621$     
+
+ 
+Note Payable to Bank (A) 
+
+The first note payable to bank was entered into by the Authority in October 2013 in the original 
+amount of $27,000,000 with $18,000,000 being a variable rate note and $9,000,000 being a fixed 
+rate note.  The proceeds of the note were used by CCMH and MTNC.   
+
+In April 2015, the Authority amended the note payable to bank.  The amended debt combined the 
+two separate notes into one note carrying a fixed interest rate of 3.25% annually.  The amended 
+note matures on the earlier of April 7, 2025, or as the loan becomes due and payable pursuant to the 
+repayment schedule.  The amended note allowed for draws on the note up to $16,835,000 through 
+December 31, 2015.  Payments of principal and interest are due monthly in the amount of 
+$164,892. 
+
+In October 2016, the Authority further amended the note payable allowing for draws on the note 
+through December 31, 2017. 
+
+The debt service requirements as of June 30, 2018, are as follows: 
+
+Total to
+Year Ending June 30, be Paid Principal Interest
+
+2019 1,978,708$       1,758,694$       220,014$          
+2020 1,978,708         1,817,063         161,645            
+2021 1,978,708         1,878,206         100,502            
+2022 1,978,707         1,940,980         37,727              
+2023 88,022              87,785              237                   
+
+8,002,853$       7,482,728$       520,125$          
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 31 
+
+Note Payable to Bank (B) 
+
+In October 2015, the Authority obtained a $5,000,000 revolving bank line of credit for operations.  
+In October 2016, the revolving line of credit was converted to a note payable to bank in the amount 
+of $4,000,000 due October 1, 2026, with principal and interest at 3.25% payable monthly 
+beginning December 2016.  This note is secured by all pledged revenues of the Authority. 
+
+The debt service requirements as of June 30, 2018, are as follows: 
+
+Total to
+Year Ending June 30, be Paid Principal Interest
+
+2019 468,493$          361,864$          106,629$          
+2020 468,493            373,801            94,692              
+2021 468,492            386,132            82,360              
+2022 468,492            398,870            69,622              
+2023 468,492            412,028            56,464              
+2024–2027 1,601,699         1,514,091         87,608              
+
+3,944,161$       3,446,786$       497,375$          
+
+ 
+Note Payable to Bank (C) 
+
+In January 2018, the Authority entered into a third note payable to bank, which allows draws on the 
+note up to $1,237,000.  At June 30, 2018, $837,000 had been drawn against this note, the proceeds 
+of which were used by CCMH to purchase real property.  Payments of principal and interest at 
+4.5% are due monthly in the amount of $12,835 maturing January 16, 2028.  The note is secured by 
+certain real property of the Authority. 
+
+The debt service requirements as of June 30, 2018, are as follows: 
+
+Total to
+Year Ending June 30, be Paid Principal Interest
+
+2019 154,025$          120,625$          33,400$            
+2020 154,026            126,172            27,854              
+2021 154,025            132,124            21,901              
+2022 154,026            138,280            15,746              
+2023 154,025            144,722            9,303                
+2024–2028 127,461            124,841            2,620                
+
+897,588$          786,764$          110,824$          
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 32 
+
+Note Payable to Third Party 
+
+The note payable to third party is due July 1, 2019, including principal and interest of 1.8% 
+annually, payable monthly.  The note is secured by a mortgage of real property.  The debt service 
+requirements for the Authority’s note payable to third party as of June 30, 2018, are as follows: 
+
+Total to
+Year Ending June 30, be Paid Principal Interest
+
+2019 36,000$            35,545$            455$                 
+2020 6,000                5,986                14                     
+
+42,000$            41,531$            469$                 
+
+ 
+Capital Lease Obligations 
+
+The Authority is obligated under leases for equipment that are accounted for as capital leases.  
+Capital assets acquired using capital leases at June 30 consisted of the following: 
+
+2018 2017
+
+Capital assets, at cost 1,167,240$       1,167,240$       
+Less accumulated depreciation 332,477            57,329              
+
+834,763$          1,109,911$       
+
+ 
+The following is a schedule by year of future minimum lease payments under the capital leases, 
+including interest rates of 0.52% to 10.72%, together with the present value of the future minimum 
+lease payments as of June 30, 2018: 
+
+Year Ending June 30,
+
+2019 239,536$          
+2020 224,238            
+2021 224,238            
+2022 224,227            
+2023 6,233                
+Total minimum lease payments 918,472            
+Less amount representing interest 67,788              
+
+Present value of future minimum lease payments 850,684$          
+ 
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 33 
+
+Note 9: Charity Care and Other Community Benefits 
+
+In support of its mission, the Authority voluntarily provides free care to patients who lack financial 
+resources and are deemed to be medically indigent.  Because the Authority does not pursue 
+collection of amounts determined to qualify as charity care, they are not reported in net patient 
+service revenue.   
+
+The costs of charity care provided under the Authority’s charity care policy were approximately 
+$1,881,000 and $1,087,000 for 2018 and 2017, respectively.  The cost of charity care is estimated 
+by applying the ratio of costs to gross charges from the most recent Medicare cost report. 
+
+In addition to uncompensated care, the Authority also commits significant time and resources to 
+endeavors and critical services that meet otherwise unfilled community needs.  Many of these 
+activities are sponsored with the knowledge that they will not be self-supporting or financially 
+viable.  Such programs include health screenings and assessments, prenatal education and care, 
+community educational services, ambulance services, rural clinics and various support groups. 
+
+Note 10: Pension Plan 
+
+Plan Description 
+
+The Authority maintains the Comanche County Hospital Authority Employee Retirement Plan (the 
+Plan), a single-employer defined benefit pension plan covering substantially all employees.  The 
+Plan is administered by the Plan’s board of trustees whose members are appointed by the 
+Authority’s governing body.  Benefit provisions are contained in the plan document and were 
+established and can be amended by action of the Authority’s governing body.  The Plan does not 
+issue a separate report that includes financial statements and required supplementary information 
+for the Plan.   
+
+Benefits Provided 
+
+The Plan provides retirement, disability and death benefits to plan members and their beneficiaries.  
+Retirement benefits for employees are calculated as 0.6% of the participant’s Final Average 
+Compensation, as defined by the Plan, multiplied by the participant’s years of credited service at 
+retirement or termination.  Death benefits are equal to the vested benefits and allow for qualifying 
+surviving spouses to receive 50% of the amount the participant would have received.  The normal 
+retirement age under the Plan is 65, with certain defined exceptions. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 34 
+
+The employees covered by the Plan at June 30 are: 
+
+2018 2017
+
+Inactive employees or beneficiaries currently receiving benefits 322                   298                   
+Inactive employees entitled to but not yet receiving benefits 287                   266                   
+Active employees 959                   1,117                
+
+1,568                1,681                
+
+ 
+Contributions  
+
+The Authority’s governing body has the authority to establish and amend the contribution 
+requirements of the Authority and active employees.  The governing body establishes rates based 
+on an actuarially determined rate recommended by an independent actuary.  The actuarially 
+determined rate is the estimated amount necessary to finance the costs of benefits earned by 
+employees during the year with an additional amount to finance any unfunded accrued liability.  
+For the years ended June 30, 2018 and 2017, the Authority contributed approximately $4,065,000 
+and $2,305,000, respectively, to the Plan.  Participants do not contribute to the Plan. 
+
+Net Pension Liability 
+
+The Authority’s net pension liability was measured as of June 30, 2018 and 2017, and the total 
+pension liability used to calculate the net pension liability was determined by actuarial valuations 
+as of those dates. 
+
+The total pension liability in the June 30, 2018 and 2017, actuarial valuations was determined using 
+the following actuarial assumptions, applied to all periods included in the measurement: 
+
+2018 2017
+
+Inflation 2.000% 2.000%
+Salary increase (average, including inflation) 2.000% 3.000%
+Investment rate of return (net of pension plan investment expense)  6.500% 6.625%
+
+ 
+Mortality rates were based on the 2016 IRS Prescribed Mortality – Optional Combined Table for 
+Small Plans – Male and Female for the 2017 valuation and on the Adjusted RP-2014 Blue Collar 
+Mortality with Improvement Scale MP-2017 for the 2018 valuation. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 35 
+
+The long-term expected rate of return on pension plan investments was determined using a 
+building-block method in which expected future real rates of return (expected returns, net of 
+pension plan investment expense and inflation) are developed for each major asset class.  These 
+expected future real rates of return are combined to produce the long-term expected rate of return 
+by weighting the expected future real rates of return by the target asset allocation percentage and 
+by adding expected inflation.  The target allocation and best estimates of rates of return for each 
+major asset class are summarized in the following table: 
+
+Long-Term
+Target Expected
+
+Allocation Rate of Return
+
+Asset Class
+Domestic stocks – large cap 28.00% 7.85%
+Domestic stocks – mid cap 13.00% 8.10%
+Domestic stocks – small cap 8.00% 8.55%
+International stocks 16.00% 8.10%
+Real estate 15.00% 7.23%
+Core bond 15.00% 3.75%
+High-yield bonds 5.00% 6.70%
+
+100%
+
+ 
+Discount Rate 
+
+The discount rate used to measure the total pension liability was 6.500% and 6.625% for the years 
+ended June 30, 2018 and 2017, respectively.  The projection of cash flows used to determine the 
+discount rate assumed that the Authority’s contributions will be made at rates equal to the 
+actuarially determined contribution rates.  Based on those assumptions, the pension plan’s fiduciary 
+net position was projected to be available to make all projected future benefit payments of current 
+plan members.  Therefore, the long-term expected rate of return on pension plan investments was 
+applied to all periods of projected benefit payments to determine the total pension liability.   
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 36 
+
+Changes in the total pension liability, plan fiduciary net position and the net pension liability are: 
+
+Total Net
+Pension Plan Fiduciary Pension
+Liability Net Position Liability
+
+(a) (b) (a) - (b)
+
+Balance, beginning of year 66,240,428$     44,380,978$     21,859,450$     
+
+Changes for the year
+Service cost 567,909            -                       567,909            
+Interest 4,305,786         -                       4,305,786         
+Differences between expected and 
+  actual experience 335,027            -                       335,027            
+Contributions – employer -                       4,065,000         (4,065,000)       
+Net investment income -                       3,141,633         (3,141,633)       
+Benefit payments (3,448,693)       (3,448,693)       -                       
+Administrative expense -                       (103,077)          103,077            
+Change of assumptions 1,059,930         -                       1,059,930         
+
+Net changes 2,819,959         3,654,863         (834,904)          
+
+Balance, end of year 69,060,387$     48,035,841$     21,024,546$     
+
+2018
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 37 
+
+Total Net
+Pension Plan Fiduciary Pension
+Liability Net Position Liability
+
+(a) (b) (a) - (b)
+
+Balance, beginning of year 61,531,491$     41,635,791$     19,895,700$     
+
+Changes for the year
+Service cost 655,666            -                       655,666            
+Interest 4,087,742         -                       4,087,742         
+Differences between expected and 
+  actual experience 2,180,773         -                       2,180,773         
+Contributions – employer -                       2,305,000         (2,305,000)       
+Net investment income -                       3,717,334         (3,717,334)       
+Benefit payments (3,228,627)       (3,228,627)       -                       
+Administrative expense -                       (48,520)            48,520              
+Change of assumptions 1,013,383         -                       1,013,383         
+
+Net changes 4,708,937         2,745,187         1,963,750         
+
+Balance, end of year 66,240,428$     44,380,978$     21,859,450$     
+
+2017
+
+ 
+The net pension liability of the Authority has been calculated using a discount rate of 6.500%.  The 
+following presents the net pension liability using a discount rate 1% higher and 1% lower than the 
+current rate. 
+
+Current
+1% Decrease Discount Rate 1% Increase
+
+(5.50%) (6.50%) (7.50%)
+
+Net pension liability 29,676,300$     21,024,546$     13,907,949$     
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 38 
+
+Pension Expense, Deferred Outflows of Resources and Deferred Inflows of Resources 
+Related to Pensions 
+
+For the years ended June 30, 2018 and 2017, the Authority recognized pension expense of 
+approximately $4,592,000 and $4,145,000, respectively.  At June 30, 2018 and 2017, the Authority 
+reported deferred outflows of resources and deferred inflows of resources related to pensions from 
+the following sources: 
+
+Deferred Deferred
+Outflows of Inflows of
+ Resources  Resources
+
+Differences between expected and actual experience 1,178,154$       15,367$            
+Change in assumptions 1,661,871         -                       
+Net difference between projected and actual earnings on
+  pension plan investments 671,499            -                       
+
+Total 3,511,524$       15,367$            
+
+Deferred Deferred
+Outflows of Inflows of
+ Resources  Resources
+
+Differences between expected and actual experience 1,662,971$       60,568$            
+Change in assumptions 1,669,410         -                       
+Net difference between projected and actual earnings on
+  pension plan investments 1,585,786         -                       
+
+Total 4,918,167$       60,568$            
+
+2018
+
+2017
+
+ 
+Amounts reported as deferred outflows of resources and deferred inflows of resources at June 30, 
+2018, related to pensions will be recognized in pension expense as follows: 
+
+2019 2,551,174$       
+2020 1,184,128         
+2021 (193,925)          
+2022 (45,220)            
+
+Total 3,496,157$       
+
+ 
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 39 
+
+Pension Plan Fiduciary Net Position 
+
+As of June 30, the Plan’s fiduciary net position was comprised of the following: 
+
+2018 2017
+
+Pooled investments, at fair value
+Equities 33,976,020$      21,096,361$      
+Fixed income 13,915,590        18,165,177        
+Balanced asset allocation 56,437               1,999,071          
+Other 87,844               3,120,369          
+
+Total pooled investments, at fair value 48,035,891$      44,380,978$      
+
+Total plan fiduciary net position 48,035,891$      44,380,978$      
+
+ 
+Investment Policy – Investment policy decisions are established and maintained by the 
+Administrative Committee charged with overseeing the pension plan, as authorized by the 
+Authority’s Board of Trustees.  The Administrative Committee employs and selects investment 
+managers. 
+
+The primary goal of a pension fund is to help pay the cost of the pension plan while providing 
+adequate security to meet the benefits promised under the pension plan.  As a consequence, two 
+important dimensions of a pension plan’s investment program are expected return and expected 
+risk. 
+
+The pension plan trustees diversify pension plan investments among asset classes, recognizing that 
+there is a relationship between the level of risk assumed in an investment program and the level of 
+return that should be expected.  Appropriate diversification better enables balance of risk and 
+return.   
+
+Investment Rate of Return – The annual money-weighted rate of return on pension plan 
+investments, net of expenses, which expresses net investment performance adjusted for changing 
+amounts actually invested each month was approximately 7.1% for the 12 months ended June 30, 
+2018. 
+
+Credit Risk – Credit risk is the risk that the issuer or other counterparty to an investment will not 
+fulfill its obligations.  The Plan does not have a separate policy covering credit risk. 
+
+Custodial Credit Risk – For an investment, custodial credit risk is the risk that in the event of the 
+failure of the counterparty the Authority will not be able to recover the value of its investment or 
+collateral securities that are in the possession of an outside party.  The Plan’s investment policy 
+does not address how investments are to be held. 
+
+Concentration of Credit Risk – The Plan does not have a policy to limit its holdings in any one 
+issuer.  At June 30, 2018 and 2017, all of the Plan’s investments were held through the Plan’s 
+investment manager, The Principal Group. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 40 
+
+At June 30, the Plan’s investments had the following maturities: 
+
+Less More
+Type Fair Value than 1 1–5 6–10 than 10
+
+Pooled investments, at fair value
+Equities 33,976,020$      33,976,020$      -$                    -$                       -$                    
+Fixed income 13,915,590        3,117,064          3,735,475        3,075,799          3,987,252        
+Balanced asset allocation 56,437               40,378               6,265               4,124                 5,670               
+Other 87,844               87,844               -                      -                         -                      
+
+48,035,891$      37,221,306$      3,741,740$      3,079,923$        3,992,922$      
+
+Maturities in Years
+2018
+
+ 
+
+Less More
+Type Fair Value than 1 1–5 6–10 than 10
+
+Pooled investments, at fair value
+Equities 21,096,361$      21,096,361$      -$                    -$                       -$                    
+Fixed income 18,165,177        697,602             5,999,560        5,318,766          6,149,249        
+Balanced asset allocation 1,999,071          1,486,535          202,913           236,535             73,088             
+Other 3,120,369          3,120,369          -                      -                         -                      
+
+44,380,978$      26,400,867$      6,202,473$      5,555,301$        6,222,337$      
+
+2017
+Maturities in Years
+
+ 
+Following is a description of the valuation methodologies and inputs used for pension plan assets 
+measured at fair value on a recurring basis, as well as the general classification of pension plan 
+assets pursuant to the valuation hierarchy. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 41 
+
+The fair value of the pension plan assets at June 30 was as follows: 
+
+Quoted Prices
+in Active Significant 
+
+Markets for Other Significant 
+Identical Observable Unobservable 
+Assets Inputs Inputs
+
+Fair Value (Level 1) (Level 2) (Level 3)
+
+2018
+Pooled Investments by Fair 
+  Value Level
+
+Equities 33,976,020$     -$                     33,976,020$     -$                     
+Fixed income 13,915,590       -                       13,915,590       -                       
+Balanced asset allocation 56,437              -                       56,437              -                       
+Other 87,844              -                       87,844              -                       
+
+Total pooled investments 
+  by fair value level 48,035,891$     -$                     48,035,891$     -$                     
+
+Fair Value Measurements Using
+
+ 
+2017
+
+Pooled Investments by Fair
+  Value Level
+
+Equities 21,096,361$     -$                     21,096,361$     -$                     
+Fixed income 18,165,177       -                       18,165,177       -                       
+Balanced asset allocation 1,999,071         -                       1,999,071         -                       
+Other 3,120,369         -                       3,120,369         -                       
+
+Total pooled investments 
+  by fair value level 44,380,978$     -$                     44,380,978$     -$                     
+
+ 
+Where quoted market prices are available in an active market, securities are classified within 
+Level 1 of the valuation hierarchy.  If quoted market prices are not available, then fair values are 
+estimated by using quoted prices of securities with similar characteristics or independent asset 
+pricing services and pricing models, the inputs of which are market-based or independently sourced 
+market parameters, including, but not limited to, yield curves, interest rates, volatilities, 
+prepayments, defaults, cumulative loss projections and cash flows.  Such securities are classified in 
+Level 2 of the valuation hierarchy.  In certain cases where Level 1 or Level 2 inputs are not 
+available, securities are classified within Level 3 of the hierarchy.  The Plan did not hold any 
+Level 1 or Level 3 securities at June 30, 2018 or 2017. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 42 
+
+Note 11: Disclosures About Fair Value of Assets 
+
+Fair value is the price that would be received to sell an asset in an orderly transaction between 
+market participants at the measurement date.  Fair value measurements must maximize the use of 
+observable inputs and minimize the use of unobservable inputs.  There is a hierarchy of three levels 
+of inputs that may be used to measure fair value: 
+
+Level 1 Quoted prices in active markets for identical assets  
+
+Level 2 Observable inputs other than Level 1 prices, such as quoted prices for similar assets; 
+quoted prices in markets that are not active; or other inputs that are observable or can 
+be corroborated by observable market data for substantially the full term of the 
+assets 
+
+Level 3 Unobservable inputs supported by little or no market activity and significant to the 
+fair value of the assets 
+
+Recurring Measurements 
+
+The following tables present the fair value measurements of assets recognized in the accompanying 
+financial statements measured at fair value on a recurring basis and the level within the fair value 
+hierarchy in which the fair value measurements fall at June 30: 
+
+Quoted Prices
+in Active Significant
+
+Markets for Other Significant
+Identical Observable Unobservable
+Assets Inputs Inputs
+
+Type Fair Value (Level 1) (Level 2) (Level 3)
+
+2018
+Investments by Fair Value Level
+
+Mortgage- and asset-backed 
+  securities of U.S. agencies 22,922,737$     18,390,061$     4,532,676$       -$                     
+Corporate bonds 3,532,141         354,909            3,177,232         -                       
+Equity securities 3,732,553         3,732,553         -                       -                       
+Money market mutual funds 12,805,791       12,805,791       -                       -                       
+
+Total investments by 
+  fair value level 42,993,222$     35,283,314$     7,709,908$       -$                     
+
+Fair Value Measurements Using
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 43 
+
+Quoted Prices
+in Active Significant
+
+Markets for Other Significant
+Identical Observable Unobservable
+Assets Inputs Inputs
+
+Type Fair Value (Level 1) (Level 2) (Level 3)
+
+Fair Value Measurements Using
+
+2017
+Investments by Fair Value Level
+
+Mortgage- and asset-backed 
+  securities of U.S. agencies 25,222,366$     4,991,469$       20,230,897$     -$                     
+Equity securities 239,256            239,256            -                       -                       
+Money market mutual funds 20,823,126       20,823,126       -                       -                       
+
+Total investments by 
+  fair value level 46,284,748$     26,053,851$     20,230,897$     -$                     
+
+ 
+
+Note 12: Related-Party Information 
+
+Comanche County Memorial Hospital Foundation, Inc. 
+
+The Foundation, a not-for-profit corporation with a separate board of directors, was established in 
+February 1993 to support the educational and charitable purposes of CCMH.  CCMH provides 
+administrative services and supplies to the Foundation.  At June 30, 2018 and 2017, no amounts 
+were owed by the Foundation as a result of these purchases and services. 
+
+Cancer Centers of Southwest Oklahoma, LLC 
+
+As discussed below, the Authority is a member of Cancer Centers of Southwest Oklahoma, LLC 
+(CCSO).  For the years ended June 30, 2018 and 2017, the Authority recorded revenue from CCSO 
+in the amounts of approximately $7,936,000 and $7,231,000, respectively, for space rental, 
+purchases and services provided by the Authority to or on behalf of CCSO.  At June 30, 2018 and 
+2017, CCSO owed the Authority approximately $2,765,000 and $2,204,000, respectively, which is 
+included in due from related parties on the accompanying balance sheets. 
+
+CCSO provides cancer treatment services to the Authority’s patients.  For the years ended June 30, 
+2018 and 2017, the Authority incurred approximately $22,502,000 and $18,793,000, respectively, 
+of expense and owed CCSO approximately $2,655,000 and $1,855,000 at June 30, 2018 and 2017, 
+respectively, related to these services.  These amounts are included in the accompanying balance 
+sheets in due to related parties. 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 44 
+
+Note 13: Investments in Joint Ventures 
+
+The investments in joint ventures relate to a 25% ownership in MSO Healthcare of Oklahoma, LLC 
+(MSO), an approximate 46% ownership in CCSO and an approximate 10% ownership in LifeCare 
+Health Services, L.L.C. (LifeCare).  These investments in joint ventures are accounted for using the 
+equity method.   
+
+The financial position and results of operations of the investees are summarized below.  The 
+information summarized below represents the results of operations for CCSO, MSO and LifeCare 
+for the fiscal years ended June 30: 
+
+CCSO MSO LifeCare
+(Audited) (Unaudited) (Unaudited)
+
+Current assets 13,298,822$     145,025$          6,764,287$       
+Property and other long-term assets, net 16,076,390       292,013            304,243            
+
+Total assets 29,375,212$     437,038$          7,068,530$       
+
+Total liabilities 23,934,266$     147,813$          167,579$          
+Partners’ equity 5,440,946         289,225            6,900,951         
+
+Total liabilities and partners’ equity 29,375,212$     437,038$          7,068,530$       
+
+Revenues 37,970,552$     350,226$          2,132,596$       
+
+Excess (deficiency) of revenues over expenses 1,804,579$       (60,304)$          428,950$          
+
+2018
+
+ 
+
+CCSO MSO LifeCare
+(Audited) (Unaudited) (Unaudited)
+
+Current assets 13,207,609$     150,809$          6,146,385$       
+Property and other long-term assets, net 17,888,355       350,477            482,550            
+
+Total assets 31,095,964$     501,286$          6,628,935$       
+
+Total liabilities 26,659,597$     151,757$          212,074$          
+Partners’ equity 4,436,367         349,529            6,416,861         
+
+Total liabilities and partners’ equity 31,095,964$     501,286$          6,628,935$       
+
+Revenues 34,862,191$     216,106$          1,018,679$       
+
+Excess (deficiency) of revenues over expenses 830,152$          (90,579)$          122,410$          
+
+2017
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to Financial Statements 
+
+June 30, 2018 and 2017 
+ 
+ 
+
+ 45 
+
+Complete financial statements of the joint venture entities may be obtained by contacting the 
+Authority’s management. 
+
+Note 14: Contingencies 
+
+Litigation 
+
+In the normal course of business, the Authority is, from time to time, subject to allegations that may 
+or do result in litigation.  Some of these allegations are in areas not covered by commercial 
+insurance, for example, allegations regarding employment practices or performance of contracts.  
+The Authority evaluates such allegations by conducting investigations to determine the validity of 
+each potential claim.  Based upon the advice of legal counsel, management records an estimate of 
+the amount of ultimate expected loss, if any, for each.  Events could occur that would cause the 
+estimate of ultimate loss to differ materially in the near term. 
+
+ 
+
+
+
+ 
+
+  
+
+Required Supplementary Information 
+
+
+
+The Comanche County Hospital Authority 
+Required Supplementary Information 
+
+Schedule of Changes in the Authority’s Net Pension Liability and Related Ratios 
+ 
+ 
+
+ 46 
+
+2018 2017 2016 2015
+
+Total pension liability
+Service cost 567,909$          655,666$          682,446$          637,179$          
+Interest 4,305,786         4,087,742         3,984,688         3,863,517         
+Differences between expected and actual experience 335,027            2,180,773         252,114            (196,171)          
+Change of assumptions 1,059,930         1,013,383         1,756,164         58,934              
+Benefit payments (3,448,693)       (3,228,627)       (2,882,449)       (2,509,568)       
+Other changes -                       -                       11,184              -                       
+
+Net change in total pension liability 2,819,959         4,708,937         3,804,147         1,853,891         
+
+Total pension liability – beginning 66,240,428       61,531,491       57,727,344       55,873,453       
+
+Total pension liability – ending (a) 69,060,387       66,240,428       61,531,491       57,727,344       
+
+Plan fiduciary net position
+Contributions – employer 4,065,000         2,305,000         2,315,000         2,425,000         
+Net investment income 3,141,633         3,717,334         402,171            750,448            
+Benefit payments (3,448,693)       (3,228,627)       (2,882,449)       (2,509,568)       
+Administrative expense (103,077)          (48,520)            (73,190)            (44,173)            
+
+Net change in plan fiduciary net position 3,654,863         2,745,187         (238,468)          621,707            
+
+Plan fiduciary net position – beginning 44,380,978       41,635,791       41,874,259       41,252,552       
+
+Plan fiduciary net position – ending (b) 48,035,841       44,380,978       41,635,791       41,874,259       
+
+Net pension liability – ending (a) - (b) 21,024,546$     21,859,450$     19,895,700$     15,853,085$     
+
+Plan fiduciary net position as a percentage of the total
+pension liability 69.56% 67.00% 67.67% 72.54%
+
+Covered employee payroll 47,064,691$     50,454,740$     56,460,170$     51,828,978$     
+
+Net pension liability as a percentage of covered
+employee payroll 44.67% 43.32% 35.24% 30.59%
+
+ 
+Notes to Schedule 
+
+Change in assumptions: 
+
+ Investment rate of return reduced from 6.625% to 6.500% 
+
+ Mortality table updated to Adjusted RP-2014 Blue Collar Mortality with Improvement Scale 
+MP-2017 
+
+This schedule is intended to show a 10-year trend.  Additional years will be reported as they 
+become available. 
+
+
+
+The Comanche County Hospital Authority 
+Required Supplementary Information 
+
+Schedule of the Authority’s Contributions 
+ 
+ 
+
+ 47 
+
+2018 2017 2016 2015
+
+Actuarially determined contributions 3,977,101$       3,723,996$       2,818,799$       2,365,504$       
+
+Contributions in relation to the actuarially determined contributions 4,065,000         2,305,000         2,315,000         2,425,000         
+
+Contribution deficiency (excess) (87,899)$          1,418,996$       503,799$          (59,496)$          
+
+Covered employee payroll 47,064,691$     50,454,740$     56,460,170$     51,828,978$     
+
+Contributions as a percentage of covered employee payroll 8.64% 4.57% 4.10% 4.68%
+
+ 
+Notes to Schedule 
+
+This schedule is intended to show a 10-year trend.  Additional years will be reported as they 
+become available. 
+
+Valuation date: June 30, 2018
+
+Methods and assumptions used to determine contribution rates:
+
+Actuarial cost method: Entry Age
+Amortization method: Initial unfunded actuarial accrued liability – 15 years
+
+Amendments and assumption changes – 10 years
+Remaining amortization period: Initial unfunded actuarial accrued liability – 12 years
+Asset valuation method: Market Value
+Inflation: 2.000%
+Salary increases: 2.000%
+Investment rate of return: 6.500%
+Retirement age: If hired on or after July 1, 1992 – the later of age 65 or 
+
+10 years of vested service
+If hired before July 1, 1992 – attained age 65
+
+Mortality: Adjusted RP-2014 Blue Collar Mortality with Improvement
+Scale MP-2017
+
+ 
+
+
+
+ 
+
+  
+
+Supplementary Information 
+
+
+
+The Comanche County Hospital Authority 
+Combining Schedule – Balance Sheet Information 
+
+June 30, 2018 
+ 
+ 
+
+  
+
+Comanche McMahon- Lawton
+County Tomlinson Community
+
+Memorial Nursing Health Combined
+Hospital Center Center Eliminations Balance
+
+Assets and Deferred Outflows of Resources
+
+Current Assets
+Cash and cash equivalents 7,494,206$       230,073$          2,758,647$       -$                     10,482,926$     
+Restricted cash and investments – current 6,035,019         484,992            -                       -                       6,520,011         
+Patient accounts receivable, net; $45,260,000 36,353,692       756,971            1,092,807         -                       38,203,470       
+Accrued investment income 136,474            -                       -                       -                       136,474            
+Due from related parties 9,383,156         -                       111,843            (6,406,331)       3,088,668         
+Estimated amounts due from third-party payers 3,079,454         -                       -                       -                       3,079,454         
+Supplies 5,705,803         13,877              58,197              -                       5,777,877         
+Prepaid expenses and other 3,558,354         48,250              48,971              -                       3,655,575         
+
+Total current assets 71,746,158       1,534,163         4,070,465         (6,406,331)       70,944,455       
+
+Noncurrent Cash and Investments
+Held by trustee for debt service 10,521,731       2,031,795         -                       -                       12,553,526       
+Less amount required to meet current obligations 6,035,019         484,992            -                       -                       6,520,011         
+
+4,486,712         1,546,803         -                       -                       6,033,515         
+Other long-term investments 29,923,831       -                       -                       -                       29,923,831       
+
+Total noncurrent cash and investments 34,410,543       1,546,803         -                       -                       35,957,346       
+
+Capital Assets, Net 89,505,768       16,721,794       2,799,502         -                       109,027,064     
+
+Other Assets
+Investments in joint ventures 3,290,351         -                       -                       -                       3,290,351         
+Other 1,386,509         -                       -                       -                       1,386,509         
+
+Total other assets 4,676,860         -                       -                       -                       4,676,860         
+
+Deferred Outflows of Resources 8,514,056         329,780            -                       -                       8,843,836         
+
+Total assets and deferred outflows of
+resources 208,853,385$   20,132,540$     6,869,967$       (6,406,331)$     229,449,561$   
+
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 48 
+
+Comanche McMahon- Lawton
+County Tomlinson Community
+
+Memorial Nursing Health Combined
+Hospital Center Center Eliminations Balance
+
+Liabilities, Deferred Inflows of Resources and Net Position
+
+Current Liabilities
+Current maturities of long-term debt 6,496,489$       1,203,256$       -$                     -$                     7,699,745$       
+Accounts payable 17,321,707       175,025            466,496            -                       17,963,228       
+Accrued expenses 13,419,227       732,825            -                       -                       14,152,052       
+Accrued interest payable 1,579,473         258,021            -                       -                       1,837,494         
+Due to related parties 2,767,054         6,294,488         -                       (6,406,331)       2,655,211         
+
+Total current liabilities 41,583,950       8,663,615         466,496            (6,406,331)       44,307,730       
+
+Long-Term Debt 69,982,849       12,418,762       -                       -                       82,401,611       
+
+Net Pension Liability 19,568,087       1,456,459         -                       -                       21,024,546       
+
+Other Long-Term Obligations 749,739            -                       -                       -                       749,739            
+
+Total liabilities 131,884,625     22,538,836       466,496            (6,406,331)       148,483,626     
+
+Deferred Inflows of Resources 14,427              940                   -                       -                       15,367              
+
+Net Position
+Net investment in capital assets 24,575,869       4,646,579         2,799,502         -                       32,021,950       
+Restricted – expendable for debt service 6,242,946         226,971            -                       -                       6,469,917         
+Unrestricted 46,135,518       (7,280,786)       3,603,969         -                       42,458,701       
+
+Total net position 76,954,333       (2,407,236)       6,403,471         -                       80,950,568       
+
+Total liabilities, deferred inflows of
+resources and net position 208,853,385$   20,132,540$     6,869,967$       (6,406,331)$     229,449,561$   
+
+ 
+Note to Schedule 
+
+The Authority’s investment in CCSO is presented in the Comanche County Memorial Hospital 
+column of these combining schedules. 
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Combining Schedule – Balance Sheet Information 
+
+June 30, 2017 
+ 
+ 
+
+  
+
+Comanche McMahon- Lawton
+County Tomlinson Community
+
+Memorial Nursing Health Combined
+Hospital Center Center Eliminations Balance
+
+Assets and Deferred Outflows of Resources
+
+Current Assets
+Cash and cash equivalents 16,114,102$     269,712$          2,786,933$       -$                     19,170,747$     
+Restricted cash and investments – current 5,880,082         528,320            -                       -                       6,408,402         
+Patient accounts receivable, net; $45,417,000 35,362,121       1,058,147         425,856            -                       36,846,124       
+Accrued investment income 99,785              -                       -                       -                       99,785              
+Due from related parties 7,769,510         -                       -                       (5,110,737)       2,658,773         
+Estimated amounts due from third-party payers 912,654            -                       -                       -                       912,654            
+Supplies 5,367,619         23,400              24,291              -                       5,415,310         
+Prepaid expenses and other 3,860,173         59,818              227,731            -                       4,147,722         
+
+Total current assets 75,366,046       1,939,397         3,464,811         (5,110,737)       75,659,517       
+
+Noncurrent Cash and Investments
+Held by trustee for debt service 10,323,108       2,075,123         -                       -                       12,398,231       
+Less amount required to meet current obligations 5,880,082         528,320            -                       -                       6,408,402         
+
+4,443,026         1,546,803         -                       -                       5,989,829         
+Other long-term investments 25,461,623       -                       -                       -                       25,461,623       
+
+Total noncurrent cash and investments 29,904,649       1,546,803         -                       -                       31,451,452       
+
+Capital Assets, Net 93,923,168       17,780,803       1,754,306         -                       113,458,277     
+
+Other Assets
+Investments in joint ventures 3,349,335         -                       -                       -                       3,349,335         
+Other 1,601,436         -                       -                       -                       1,601,436         
+
+Total other assets 4,950,771         -                       -                       -                       4,950,771         
+
+Deferred Outflows of Resources 10,264,829       776,219            -                       (135,613)          10,905,435       
+
+Total assets and deferred outflows of
+resources 214,409,463$   22,043,222$     5,219,117$       (5,246,350)$     236,425,452$   
+
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+ 49 
+
+Comanche McMahon- Lawton
+County Tomlinson Community
+
+Memorial Nursing Health Combined
+Hospital Center Center Eliminations Balance
+
+Liabilities, Deferred Inflows of Resources and Net Position
+
+Current Liabilities
+Current maturities of long-term debt 6,230,270$       1,166,185$       -$                     -$                     7,396,455$       
+Accounts payable 18,408,130       426,700            302,027            -                       19,136,857       
+Accrued expenses 13,195,365       585,345            -                       -                       13,780,710       
+Accrued interest payable 1,677,676         259,871            -                       -                       1,937,547         
+Due to related parties 1,855,185         4,773,407         337,330            (5,110,737)       1,855,185         
+
+Total current liabilities 41,366,626       7,211,508         639,357            (5,110,737)       44,106,754       
+
+Long-Term Debt 76,038,965       13,242,381       -                       -                       89,281,346       
+
+Net Pension Liability 20,383,937       1,475,513         -                       -                       21,859,450       
+
+Other Long-Term Obligations 1,588,788         -                       -                       -                       1,588,788         
+
+Total liabilities 139,378,316     21,929,402       639,357            (5,110,737)       156,836,338     
+
+Deferred Inflows of Resources 192,093            4,088                -                       (135,613)          60,568              
+
+Net Position
+Net investment in capital assets 23,344,710       4,919,040         1,754,306         -                       30,018,056       
+Restricted – expendable for debt service 5,946,120         268,449            -                       -                       6,214,569         
+Unrestricted 45,548,224       (5,077,757)       2,825,454         -                       43,295,921       
+
+Total net position 74,839,054       109,732            4,579,760         -                       79,528,546       
+
+Total liabilities, deferred inflows of
+resources and net position 214,409,463$   22,043,222$     5,219,117$       (5,246,350)$     236,425,452$   
+
+ 
+Note to Schedule 
+
+The Authority’s investment in CCSO is presented in the Comanche County Memorial Hospital 
+column of these combining schedules. 
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Combining Schedule – Statement of Revenues, Expenses and Changes in Net 
+
+Position Information 
+Year Ended June 30, 2018 
+
+ 
+ 
+
+ 50 
+
+Comanche McMahon- Lawton
+County Tomlinson Community
+
+Memorial Nursing Health Combined
+Hospital Center Center Eliminations Balance
+
+Operating Revenues
+Net patient service revenue, net of provision for 
+
+uncollectible accounts; $52,596,730 247,407,761$   9,749,857$       8,594,535$       -$                     265,752,153$   
+Grant revenue -                       -                       3,001,090         -                       3,001,090         
+Other 5,720,616         4,579                423,432            (57,183)            6,091,444         
+
+Total operating revenues 253,128,377     9,754,436         12,019,057       (57,183)            274,844,687     
+
+Operating Expenses
+Salaries and wages 105,106,586     4,949,831         6,295,435         -                       116,351,852     
+Employee benefits 16,203,406       1,514,194         1,218,315         -                       18,935,915       
+Purchased services and professional fees 58,527,700       2,206,903         988,448            -                       61,723,051       
+Medical supplies and drugs 36,281,699       694,402            739,127            -                       37,715,228       
+Supplies and other 22,530,989       1,241,075         930,755            (57,183)            24,645,636       
+Depreciation and amortization 11,445,449       1,086,324         190,273            -                       12,722,046       
+
+Total operating expenses 250,095,829     11,692,729       10,362,353       (57,183)            272,093,728     
+
+Operating Income (Loss) 3,032,548         (1,938,293)       1,656,704         -                       2,750,959         
+
+Nonoperating Revenues (Expenses)
+Noncapital grants and gifts 344,852            -                       114,706            -                       459,558            
+Gain on investments in joint ventures 306,748            -                       -                       -                       306,748            
+Investment income 363,207            5,368                52,301              -                       420,876            
+Interest expense and other financing costs (2,979,176)       (584,043)          -                       -                       (3,563,219)       
+
+Total nonoperating revenues (expenses) (1,964,369)       (578,675)          167,007            -                       (2,376,037)       
+
+Excess (Deficiency) of Revenues over Expenses
+Before Capital Grants and Gifts 1,068,179         (2,516,968)       1,823,711         -                       374,922            
+
+Capital Grants and Gifts 1,047,100         -                       -                       -                       1,047,100         
+
+Increase (Decrease) in Net Position 2,115,279         (2,516,968)       1,823,711         -                       1,422,022         
+
+Net Position, Beginning of Year 74,839,054       109,732            4,579,760         -                       79,528,546       
+
+Net Position, End of Year 76,954,333$     (2,407,236)$     6,403,471$       -$                     80,950,568$     
+
+ 
+Note to Schedule 
+
+The Authority’s earnings on its investment in CCSO are presented in the Comanche County 
+Memorial Hospital column of these combining schedules. 
+
+
+
+The Comanche County Hospital Authority 
+Combining Schedule – Statement of Revenues, Expenses and Changes in Net 
+
+Position Information 
+Year Ended June 30, 2017 
+
+ 
+ 
+
+ 51 
+
+Comanche McMahon- Lawton
+County Tomlinson Community
+
+Memorial Nursing Health Combined
+Hospital Center Center Eliminations Balance
+
+Operating Revenues
+Net patient service revenue, net of provision for 
+
+uncollectible accounts; $51,174,070 246,369,425$   8,183,420$       6,582,818$       -$                     261,135,663$   
+Grant revenue -                       -                       2,024,107         -                       2,024,107         
+Other 6,894,663         10,514              366,431            (57,183)            7,214,425         
+
+Total operating revenues 253,264,088     8,193,934         8,973,356         (57,183)            270,374,195     
+
+Operating Expenses
+Salaries and wages 103,798,663     4,208,048         4,710,630         -                       112,717,341     
+Employee benefits 17,944,108       1,014,652         868,417            -                       19,827,177       
+Purchased services and professional fees 56,175,439       1,606,377         760,529            -                       58,542,345       
+Medical supplies and drugs 36,927,574       590,138            1,052,628         -                       38,570,340       
+Supplies and other 22,571,760       1,299,443         796,557            (57,183)            24,610,577       
+Depreciation and amortization 12,069,738       1,084,993         161,670            -                       13,316,401       
+
+Total operating expenses 249,487,282     9,803,651         8,350,431         (57,183)            267,584,181     
+
+Operating Income (Loss) 3,776,806         (1,609,717)       622,925            -                       2,790,014         
+
+Nonoperating Revenues (Expenses)
+Noncapital grants and gifts 361,155            -                       649,430            -                       1,010,585         
+Gain on investments in joint ventures 1,475,415         -                       -                       -                       1,475,415         
+Investment income 39,418              5,395                23,933              -                       68,746              
+Interest expense and other financing costs (2,445,171)       (607,792)          -                       -                       (3,052,963)       
+
+Total nonoperating revenues (expenses) (569,183)          (602,397)          673,363            -                       (498,217)          
+
+Excess (Deficiency) of Revenues over Expenses
+Before Capital Grants and Gifts 3,207,623         (2,212,114)       1,296,288         -                       2,291,797         
+
+Capital Grants and Gifts 87,395              -                       -                       -                       87,395              
+
+Increase (Decrease) in Net Position 3,295,018         (2,212,114)       1,296,288         -                       2,379,192         
+
+Net Position, Beginning of Year 71,544,036       2,321,846         3,283,472         -                       77,149,354       
+
+Net Position, End of Year 74,839,054$     109,732$          4,579,760$       -$                     79,528,546$     
+
+ 
+Note to Schedule 
+
+The Authority’s earnings on its investment in CCSO are presented in the Comanche County 
+Memorial Hospital column of these combining schedules. 
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Schedule of Expenditures of Federal Awards 
+
+Year Ended June 30, 2018 
+ 
+ 
+
+The accompanying notes are an integral part of this Schedule.                52 
+
+Pass-Through
+Federal Grantor/Pass- Entity Passed Total
+
+Through Grantor/ Federal CFDA Identifying Through to Federal
+Program or Cluster Title Number Number Subrecipients Expenditures
+
+U.S. Department of Health and Human Services
+Health Center Program Cluster
+
+Consolidated Health Centers  93.224  $                      -  $           255,674 
+
+Grants for New and Expanded Services
+Under the Health Center Program  93.527                          -            2,020,201 
+
+Total Health Center Program Cluster                          -            2,275,875 
+
+Grants for Capital Development in Health Centers  93.526                          -               694,089 
+
+ $                      -  $        2,969,964 
+
+ 
+
+
+
+The Comanche County Hospital Authority 
+Notes to the Schedule of Expenditures of Federal Awards 
+
+Year Ended June 30, 2018 
+ 
+ 
+
+                      53 
+
+Notes to Schedule 
+
+1. The accompanying schedule of expenditures of federal awards (Schedule) includes the federal 
+award activity of The Comanche County Hospital Authority (Authority) under programs of the 
+federal government for the year ended June 30, 2018.  The information in this Schedule is 
+presented in accordance with the requirements of Title 2 U.S. Code of Federal Regulations Part 
+200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance).  Because the Schedule presents only a selected portion of 
+the operations of the Authority, it is not intended to and does not present the financial position, 
+changes in net position or cash flows of the Authority. 
+
+2. Expenditures reported on the Schedule are reported on the accrual basis of accounting.  Such 
+expenditures are recognized following the cost principles contained in the Uniform Guidance, 
+wherein certain types of expenditures are not allowable or are limited as to reimbursement.  
+Negative amounts shown on the Schedule, if any, represent adjustments or credits made in the 
+normal course of business to amounts reported as expenditures in prior years.  The Authority 
+has elected not to use the 10% de minimis indirect cost rate allowed under the Uniform 
+Guidance. 
+
+3.  The Comanche County Hospital Authority did not have any federal loan programs during the 
+year ended June 30, 2018.
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Report on Internal Control Over Financial Reporting and on 
+Compliance and Other Matters Based on an 
+
+Audit of Financial Statements Performed in Accordance with 
+Government Auditing Standards 
+
+ 
+Independent Auditor’s Report 
+
+ 
+ 
+ 
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Lawton, Oklahoma 
+ 
+ 
+We have audited, in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States, the financial statements of The Comanche County 
+Hospital Authority (Authority), which comprise the balance sheet as of June 30, 2018, and the related 
+statements of revenues, expenses and changes in net position and cash flows for the year then ended, and 
+the related notes to the financial statements, and have issued our report thereon dated January 10, 2019, 
+which contained an Emphasis of Matter paragraph regarding a change in accounting principles. 
+
+Internal Control over Financial Reporting 
+
+In planning and performing our audit of the financial statements, we considered the Authority’s internal 
+control over financial reporting (internal control) to determine the audit procedures that are appropriate in 
+the circumstances for the purpose of expressing our opinion on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of the Authority’s internal control.  Accordingly, 
+we do not express an opinion on the effectiveness of the Authority’s internal control. 
+
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent or 
+detect and correct misstatements on a timely basis.  A material weakness is a deficiency, or a combination 
+of deficiencies, in internal control such that there is a reasonable possibility that a material misstatement 
+of the entity’s financial statements will not be prevented or detected and corrected on a timely basis.  A 
+significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less 
+severe than a material weakness, yet important enough to merit attention by those charged with 
+governance. 
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies.  Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses.  However, material 
+weaknesses may exist that have not been identified.
+
+
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Page 55 
+ 
+ 
+
+  
+
+Compliance and Other Matters 
+
+As part of obtaining reasonable assurance about whether the Authority’s financial statements are free 
+from material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts and grant agreements, noncompliance with which could have a direct and material 
+effect on the determination of financial statement amounts.  However, providing an opinion on 
+compliance with those provisions was not an objective of our audit and, accordingly, we do not express 
+such an opinion.  The results of our tests disclosed no instances of noncompliance or other matters that 
+are required to be reported under Government Auditing Standards. 
+
+Purpose of This Report 
+
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal 
+control or on compliance.  This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the entity’s internal control and compliance.  
+Accordingly, this communication is not suitable for any other purpose. 
+
+ 
+
+Tulsa, Oklahoma 
+January 10, 2019 
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+Report on Compliance for the Major Federal Program; Report on  
+Internal Control over Compliance; and Report on Schedule of  
+
+Expenditures of Federal Awards Required by the Uniform Guidance 
+ 
+
+Independent Auditor’s Report 
+ 
+ 
+ 
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Lawton, Oklahoma 
+ 
+ 
+Report on Compliance for the Major Federal Program 
+
+We have audited The Comanche County Hospital Authority’s (Authority) compliance with the types of 
+compliance requirements described in the OMB Compliance Supplement that could have a direct and 
+material effect on its major federal program for the year ended June 30, 2018.  The Authority’s major 
+federal program is identified in the summary of auditor’s results section of the accompanying schedule of 
+findings and questioned costs. 
+
+Management’s Responsibility 
+
+Management is responsible for compliance with the federal statutes, regulations and the terms and 
+conditions of its federal awards applicable to its federal programs. 
+
+Auditor’s Responsibility 
+
+Our responsibility is to express an opinion on compliance for the Authority’s major federal program 
+based on our audit of the types of compliance requirements referred to above.  We conducted our audit of 
+compliance in accordance with auditing standards generally accepted in the United States of America; the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (Uniform Guidance).  Those standards and the Uniform Guidance require that we plan 
+and perform the audit to obtain reasonable assurance about whether noncompliance with the types of 
+compliance requirements referred to above that could have a direct and material effect on a major federal 
+program occurred.  An audit includes examining, on a test basis, evidence about the Authority’s 
+compliance with those requirements and performing such other procedures as we considered necessary in 
+the circumstances.   
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for the major federal 
+program.  However, our audit does not provide a legal determination of the Authority’s compliance. 
+
+
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Page 57 
+ 
+ 
+
+  
+
+Opinion on the Major Federal Program 
+
+In our opinion, the Authority complied, in all material respects, with the types of compliance 
+requirements referred to above that could have a direct and material effect on its major federal program 
+for the year ended June 30, 2018.   
+
+Report on Internal Control over Compliance  
+
+Management of the Authority is responsible for establishing and maintaining effective internal control 
+over compliance with the types of compliance requirements referred to above.  In planning and 
+performing our audit of compliance, we considered the Authority’s internal control over compliance with 
+the types of requirements that could have a direct and material effect on its major federal program to 
+determine the auditing procedures that are appropriate in the circumstances for the purpose of expressing 
+an opinion on compliance for the major federal program and to test and report on internal control over 
+compliance in accordance with the Uniform Guidance, but not for the purpose of expressing an opinion 
+on the effectiveness of internal control over compliance.  Accordingly, we do not express an opinion on 
+the effectiveness of the Authority’s internal control over compliance. 
+
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis.  A material weakness in internal control over compliance is a 
+deficiency, or combination of deficiencies, in internal control over compliance, such that there is a 
+reasonable possibility that material noncompliance with a type of compliance requirement of a federal 
+program will not be prevented, or detected and corrected, on a timely basis.  A significant deficiency in 
+internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over 
+compliance with a type of compliance requirement of a federal program that is less severe than a material 
+weakness in internal control over compliance, yet important enough to merit attention by those charged 
+with governance. 
+
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control over 
+compliance that might be material weaknesses or significant deficiencies.  We did not identify any 
+deficiencies in internal control over compliance that we consider to be material weaknesses.  However, 
+material weaknesses may exist that have not been identified. 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of the 
+Uniform Guidance.  Accordingly, this report is not suitable for any other purpose. 
+
+
+
+Board of Trustees 
+The Comanche County Hospital Authority 
+Page 58 
+ 
+ 
+
+  
+
+Report on Schedule of Expenditures of Federal Awards Required by the Uniform Guidance 
+
+We have audited the financial statements of the Authority as of and for the year ended June 30, 2018, and 
+issued our report thereon dated January 10, 2019, which contained an unmodified opinion on those 
+financial statements and an Emphasis of Matter paragraph regarding a change in accounting principles.  
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a whole.  
+The accompanying schedule of expenditures of federal awards is presented for purposes of additional 
+analysis as required by the Uniform Guidance and is not a required part of the financial statements.  Such 
+information is the responsibility of management and was derived from and relates directly to the 
+underlying accounting and other records used to prepare the financial statements.  The information has 
+been subjected to the auditing procedures applied in the audit of the financial statements and certain 
+additional procedures, including comparing and reconciling such information directly to the underlying 
+accounting and other records used to prepare the financial statements or to the financial statements 
+themselves, and other additional procedures in accordance with auditing standards generally accepted in 
+the United States of America.  In our opinion, the schedule of expenditures of federal awards is fairly 
+stated in all material respects in relation to the financial statements as a whole. 
+
+ 
+
+Tulsa, Oklahoma 
+March 12, 2019 
+
+
+
+The Comanche County Hospital Authority 
+Schedule of Findings and Questioned Costs 
+
+Year Ended June 30, 2018 
+ 
+ 
+
+59 
+
+Summary of Auditor’s Results 
+
+Financial Statements 
+
+1. The type of report the auditor issued on whether the financial statements audited were prepared in 
+accordance with accounting principles generally accepted in the United States of America (GAAP) 
+was: 
+
+ Unmodified    Qualified    Adverse   Disclaimer 
+ 
+
+2. The independent auditor’s report on internal control over financial reporting disclosed: 
+
+Significant deficiency(ies)?  Yes  None reported  
+Material weakness(es)?  Yes   No  
+
+ 
+
+3. Noncompliance considered material to the financial statements was disclosed by the audit? 
+
+  Yes  No 
+ 
+
+Federal Awards 
+
+4. The independent auditor’s report on internal control over compliance for the major federal award 
+program disclosed: 
+
+Significant deficiency(ies)?  Yes  None reported  
+Material weakness(es)?  Yes   No  
+
+ 
+
+5. The opinion expressed in the independent auditor’s report on compliance for the major federal award 
+was: 
+
+ Unmodified    Qualified    Adverse   Disclaimer 
+ 
+
+6. The audit disclosed findings required to be reported by 2 CFR 200.516(a)? 
+
+  Yes  No 
+
+
+
+The Comanche County Hospital Authority 
+Schedule of Findings and Questioned Costs (Continued) 
+
+Year Ended June 30, 2018 
+ 
+ 
+
+ 60 
+
+7. The Authority’s major program was: 
+
+Cluster/Program CFDA Number 
+  
+
+Health Center Program Cluster               93.224 and 93.527 
+
+ 
+
+8. The threshold used to distinguish between Type A and Type B programs was $750,000. 
+
+ 
+
+9. The Authority qualified as a low-risk auditee?  Yes  No  
+ 
+
+Findings Required to be Reported by Government Auditing Standards 
+
+Reference 
+Number Finding 
+
+  
+ No matters are reportable. 
+
+ 
+ 
+
+Findings Required to be Reported by the Uniform Guidance 
+
+Reference 
+Number Finding 
+
+  
+ No matters are reportable. 
+
+
+
+The Comanche County Hospital Authority 
+Summary Schedule of Prior Audit Findings  
+
+Year Ended June 30, 2018 
+ 
+
+ 61 
+
+Reference 
+Number Summary of Finding Status 
+
+   
+ No matters are reportable.  
+ 
+
+

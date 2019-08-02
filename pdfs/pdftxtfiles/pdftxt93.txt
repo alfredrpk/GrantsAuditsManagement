@@ -1,0 +1,1851 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LOUIS SANDMAN SENIOR HOUSING, INC. 
+Project No. 118-EE042 
+
+ 
+ 
+ 
+
+Financial Statements and Supplementary Information 
+With Independent Auditors’ Reports 
+
+ 
+For the Years ended December 31, 2018 and 2017 
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+1 
+ 
+
+Contents 
+ 
+
+LEAD AUDITOR DISCLOSURE INFORMATION ....................................................................................................... 2 
+
+INDEPENDENT AUDITORS’ REPORT ..................................................................................................................... 3 
+
+NOTES TO FINANCIAL STATEMENTS .................................................................................................................. 10 
+
+INDEX TO SUPPLEMENTARY INFORMATION REQUIRED BY HUD ...................................................................... 14 
+
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS ........................................................................................ 15 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING AND ON COMPLIANCE 
+AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH 
+GOVERNMENT AUDITING STANDARDS .............................................................................................................. 25 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND ON INTERAL CONTROL 
+OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE .......................................................................... 27 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS .......................................................................................... 30 
+
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS ............................................................................................ 31 
+
+CERTIFICATE OF OWNER .................................................................................................................................... 32 
+
+INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING AGREED-UPON PROCEDURE ...................................... 33 
+
+ATTACHMENT TO INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING ....................................................... 35 
+
+AGREED-UPON PROCEDURE .............................................................................................................................. 35 
+
+ 
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+2 
+ 
+
+LEAD AUDITOR DISCLOSURE INFORMATION 
+ 
+
+Lead Auditor:   John Flusche, CPA 
+ 
+Firm Address:   John Flusche, CPA 
+    6851 South Canton 
+    Tulsa, OK  74136 
+ 
+Telephone Number:  (918) 488-8753 
+ 
+Fax Number:   (918) 488-9256 
+ 
+E-mail Address:  cpa@oklahoma.net 
+ 
+Member:   American Institute of Certified Public Accountants (AICPA) 
+    Oklahoma Society of Certified Public Accountants (OSCPA) 
+ 
+Registered with the Oklahoma Accountancy Board (OAB) to perform audits of Government Entities 
+ 
+Date of Submission:  March 12, 2019 
+ 
+
+mailto:cpa@oklahoma.net
+
+
+ 
+
+ 
+
+John Flusché  
+Certified Public Accountant 
+6851 South Canton Avenue 
+
+Tulsa, Oklahoma 74136-3405 
+ 
+ 
+
+INDEPENDENT AUDITORS’ REPORT 
+ 
+
+To the Board of Directors 
+Louis Sandman Senior Housing, Inc. 
+ 
+Report on the Financial Statements 
+ 
+We have audited the accompanying financial statements of LOUIS SANDMAN SENIOR HOUSING, Project No. 
+118-EE042, (the Project) which comprise the statement of financial position as of December 31, 2018 and 
+2017 and the related statements of activities and cash flows for the years then ended, and the related notes 
+to the financial statements. 
+ 
+Management’s Responsibility for the Financial Statements  
+ 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes the 
+design, implementation and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or error. 
+ 
+Auditor’s Responsibility  
+ 
+Our responsibility is to express an opinion on these financial statements based on our audit.  We conducted 
+our audit in accordance with auditing standards generally accepted in the United States of America and the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States.  Those standards require that we plan and perform the audit to 
+obtain reasonable assurance about whether the financial statements are free from material misstatement. 
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the 
+financial statements.  The procedures selected depend on the auditor’s judgement, including the assessment 
+of the risks of material misstatement of the financial statements, whether due to fraud or error.  In making 
+those risk assessments, the auditor considers internal control relevant to the entity’s preparation and fair 
+presentation of the financial statements in order to design audit procedures that are appropriate in the 
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity’s internal 
+control.  Accordingly, we express no such opinion.  An audit also includes evaluation the appropriateness of 
+accounting policies used, and the reasonableness of significant accounting estimates made by management, 
+as well as evaluation the overall presentation of the financial statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our 
+audit opinion
+
+
+
+ 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT 
+
+ 
+Opinion  
+ 
+In our opinion, the financial statement referred to above present fairly, in all material respects, the financial 
+position of the Project as of December 31, 2018 and 2017, and the changes in its net assets and its cash flows 
+for the years then ended in accordance with accounting principles generally accepted in the United States of 
+America. 
+ 
+Other Matters 
+ 
+Other Information 
+ 
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a whole.  The 
+accompanying supplementary information is presented for the purposes of additional analysis as required 
+by the Consolidated Audit Guide for Audits of HUD Programs issued by the U.S. Department of Housing and 
+Urban Development, Office of the Inspector General, and is not a required part of the financial statements. 
+The accompanying schedule of expenditures of federal awards, as required by Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards, is presented for purposes of additional analysis and is not a required part of the financial 
+statements.  Such information is the responsibility of management and was derived from and relates directly 
+to the underlying accounting and other records used to prepare the financial statements.  The information 
+has been subjected to the auditing procedures applied in the audit of the financial statements and certain 
+additional procedures, including comparing and reconciling such information directly to the underlying 
+accounting and other records used to prepare the financial statements or to the financial statements 
+themselves, and other additional procedures in accordance with auditing standards generally accepted in 
+the United States of America.  In our opinion, the information is fairly stated, in all material respects, in 
+relation to the financial statements as a whole. 
+ 
+Other Reporting Required by Government Auditing Standards  
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated March 12, 2019, on 
+our consideration of the Projects internal control over financial reporting and on our tests of its compliance 
+with certain provisions of laws, regulations, contracts, and grant agreements and other matters.  The purpose 
+of that report is to describe the scope of our testing of internal control over financial reporting and 
+compliance and the results of that testing, and not to provide an opinion on internal control over financial 
+reporting or on compliance.  That report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the Project’s internal control over financial reporting and 
+compliance. 
+ 
+ 
+ 
+ 
+John Flusche, CPA 
+Tulsa, Oklahoma 
+March 12, 2019 
+ 
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+5 
+ 
+
+STATEMENT OF FINANCIAL POSITION 
+December 31, 2018 and 2017 
+
+ASSETS 
+
+CURRENT ASSETS 2018 2017
+Cash - Operations $ 7,404          3,473           
+PrePaid Expense 6,122          6,023           
+
+Total Current Assets 13,526        9,496           
+
+PROPERTY AND EQUIPMENT
+Buildings and Improvements $ 1,164,270  1,164,270   
+Building Equipment 5,150          5,150           
+Furniture & Fixtures 15,258        10,034         
+Office Furniture and Fixtures 5,640          5,640           
+
+Total Fixed Assets $ 1,190,318  1,185,094   
+Accumulated Depreciation 438,447     395,281      
+
+Land 1,000          1,000           
+
+Total Property and Equipment 752,871     790,813      
+
+RESTRICTED DEPOSITS AND FUNDED RESERVES
+Tenant Security Deposits 5,294          4,903           
+
+Replacement Reserve 58,787        50,743         
+Residual Receipts 19,064        17,317         
+Insurance Escrow 20,000        15,500         
+
+Total Deposits 103,952     89,661         
+
+TOTAL ASSETS $ 875,643     894,873      
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+6 
+ 
+
+STATEMENT OF FINANCIAL POSITION 
+December 31, 2018 and 2017 
+
+LIABILITIES AND NET ASSETS 
+
+CURRENT LIABILITIES 2018 2017
+Accounts Payable $ 1,338          1,264           
+
+Total Current Liabilities 1,839          1,737           
+
+DEPOSITS LIABILITIES
+Tenant Deposits Held in Trust 5,294          4,903           
+
+LONG-TERM LIABILITIES
+Capital Advance 1,204,700  1,204,700   
+
+Total Long-term Liabilities 1,204,700  1,204,700   
+
+TOTAL LIABILITIES $ 1,211,833  1,211,340   
+
+NET ASSETS (Deficit)
+
+Net Assets with Donor Restrictions 6,101          6,101           
+Net Assets without Donor Restrictions (342,291)    (322,568)     
+
+TOTAL NET ASSETS (336,190)    (316,467)     
+
+TOTAL LIABILITIES AND NET ASSETS $ 875,643     894,873      
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+7 
+ 
+
+STATEMENT OF ACTIVITIES AND CHANGES IN NET ASSETS 
+For the Years ended December 31, 2018 and 2017 
+
+REVENUES: 2018 2017
+Rental revenue $ 81,534        74,901         
+Financial 44                40                 
+Other Revenue 4,317          2,207           
+
+Total Revenue 85,895        77,148         
+
+EXPENSES:
+Administrative 31,462        30,343         
+Utilities 4,452          4,584           
+Operating and Maintenance 13,767        19,906         
+Taxes and Insurance 12,771        11,731         
+Depreciation 43,166        42,701         
+
+Total Expenses 105,618     109,265      
+
+Change in Net Assets without Donor Restrictions (19,723)      (32,117)       
+Prior Period Adjustment -                   -
+
+Net Assets without Donor Restrictions at Beginning of Year (322,568)    (290,451)     
+Net Assets without Donor Restrictions at End of Year $ (342,291)    (322,568)     
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+8 
+ 
+
+STATEMENT OF CASH FLOW 
+For the Years ended December 31, 2018 and 2017 
+
+Cash Flows from Operating Activities 2018 2017
+Rent Receipts $ 81,534         74,901          
+Interest Income 44                 40                  
+Other Operating Receipts 4,317           2,207            
+
+Total Receipts 85,895         77,148          
+
+Administrative (13,706)       (22,822)        
+Administrative - Management Fee (5,788)         (5,410)          
+Utilities (4,452)         (4,584)          
+Salaries and Wages (11,940)       (11,577)        
+Operating and Maintenance (13,693)       (18,968)        
+Property Insurance (10,953)       (10,777)        
+Payroll Taxes and Insurance (1,917)         (1,287)          
+
+Total Disbursements (62,449)       (75,425)        
+
+Net Cash Provided by Operating Activities 23,446         1,723            
+
+Cash Flows from Investing Activities
+Net Deposits to the Reserve for Replacement (8,044)         (4,862)          
+Net Deposits to Other Reserves (4,500)         -                      
+Net Deposits to Residual Receipts (1,747)         (905)              
+Net Purchase of Fixed Assets (5,224)         (5,150)          
+
+Net Cash used in Investing (19,515)       (10,917)        
+
+Cash Flows from Financing Activities
+
+Net Increase (decrease) in Cash and Cash Equivalents 3,931           (9,194)          
+
+Cash at Beginning of Year 9,574           18,768          
+Cash at End of Year $ 13,505         9,574            
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+9 
+ 
+
+STATEMENT OF CASH FLOW 
+For the Years ended December 31, 2018 and 2017 
+
+2018 2017
+Change in Total Net Assets from Operations $ (19,723)       (32,117)        
+
+Depreciation Expense 43,166         42,701          
+Decrease (Increase) in Accounts Receivable - Other -                     1,500            
+Decrease (Increase) in PrePaid Expenses (99)               (333)              
+Increase (Decrease) in Accounts Payable 74                 (9,996)          
+Increase (Decrease) in Accrued Liabilities 28                 (32)                 
+
+Net Cash provided by Operating Activities $ 23,446         1,723            
+
+Adjustments to reconcile Change in Net Assets to
+    Net Cash provided by Operating Activities:
+
+Reconciliation of Changes in Net Assets to
+    Net Cash provided by Operating Activities:
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report 
+ 
+
+10 
+
+NOTES TO FINANCIAL STATEMENTS 
+ 
+(A)   ORGANIZATION AND PRESENTATION 
+ 
+
+Louis Sandman Senior Housing (the Project) is a 17-unit residential apartment complex 
+organized under Section 202 of the Housing Act of 1959. Such projects are regulated by the 
+Department of Housing and Urban Development (HUD) as to construction costs, rent charges 
+and operating methods. The Section 202 Capital Advance is the only major HUD Program. The 
+Project is owned by Louis Sandman Senior Housing, Inc., an Oklahoma not-for-profit 
+corporation (the Corporation). The accompanying financial statements have been prepared 
+on the accrual basis of accounting, include only the transactions of the Project, and do not 
+represent the financial statements of the Corporation. 
+ 
+
+(B) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+ 1. Basis of Accounting 
+ 
+
+The accompanying financial statements have been prepared on the accrual basis of 
+accounting, include only the transactions of the Project, and do not represent the financial 
+statements of the Corporation. 
+
+ 
+ 2. Basis of Presentation 
+ 
+
+Financial statement presentation follows the recommendations of the Financial Accounting 
+Standards Board (FASB), Accounting Standards Codification (ASC) 958, update 2016-14.  
+Under those provisions, net assets and revenues, gains, and losses are classified as without 
+donor-imposed restrictions or with donor-imposed restrictions based on the existence or 
+absence of donor-imposed restrictions. The project currently has no donor-imposed 
+restrictions on net assets, nor does it have any board-imposed restrictions. All net assets are 
+accounted for as without donor restrictions. 
+ 
+
+ 3. Property and Equipment 
+   
+
+Property and equipment are recorded at cost when acquired.  Depreciation is computed using 
+the straight-line method over the estimated useful lives of the assets.  Maintenance and 
+repairs are charged expense when incurred.  Expenditures greater than $1,500 which are 
+new capital additions or significantly extend the life of the fixed asset, are capitalized.  The 
+cost of property and equipment sold or retired and related accumulated depreciation are 
+removed from the accounts when the asset is sold or retired, and any resulting gain or loss is 
+included in operations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report 
+ 
+
+11 
+
+ 
+NOTES TO FINANCIAL STATEMENTS 
+
+(B) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONT.) 
+ 
+
+4. Income Taxes 
+  
+
+The Project is a not-for-profit organization that is exempt from income taxes under Section 
+501(c) (3) of the Internal Revenue Code.  The Project is not a private foundation within the 
+meaning of Section 509(a) of the Internal Revenue Code.  As a result, no provision for current 
+or deferred income tax liability is recognized in the Project’s books or records.   
+ 
+The Project does not believe that it has engaged in any activity that would result in an 
+uncertain tax position. As a result, management does not believe that any uncertain tax 
+position currently exists, and no loss contingency has been recognized in the accompanying 
+financial statements.  Federal and state income tax statutes dictate that tax returns filed in 
+any of the previous three reporting periods remain open to examination.  Currently, the 
+Project has no open examination with either the Internal Revenue Service or state taxing 
+authorities. 
+
+  
+5. Distributions 
+ 
+
+The housing project is a not-for-profit operation and therefore, the HUD Regulatory 
+Agreement states that there will be no distributions of surplus cash from current or future 
+operations to any of its officers or directors. 
+
+  
+6. Cash and Cash Equivalents 
+  
+
+For purposes of the statement of cash flows, the Project considers all highly liquid debt 
+instruments purchased with a maturity of three months or less to be cash equivalents. 
+
+  
+7. Estimates 
+  
+
+The preparation of financial statements in conformity with accounting principles generally 
+accepted in the United States of America requires management to make estimates and 
+assumptions that affect the reported amounts of assets and liabilities and disclosures of 
+contingent assets and liabilities at the date of the financial statements and the reported 
+amounts of revenues and expenses during the reporting period.  Actual results could differ 
+from these estimates. 
+
+   
+8. Rent Increases 
+ 
+
+Under the Regulatory Agreement, the project may not increase rents charged to tenants 
+without prior HUD approval. 
+
+ 
+(C) TENANT SECURITY DEPOSITS - The tenant security deposits are held in separate accounts in the 
+
+name of the Project.  At December 31, 2018, the cash set aside in the separate bank account equals 
+the security deposit liability.  
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report 
+ 
+
+12 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+(D) ESCROW DEPOSIT - The property sets aside cash to pay insurance and audit fees when funds are 
+available.  
+
+ 
+(E) REPLACEMENT RESERVE - In accordance with the provisions of the HUD Regulatory Agreement, 
+
+restricted cash is held in an interest-bearing checking account to be used for the replacement of 
+property and other project expenditures with the approval of HUD.  The required monthly deposits 
+into this reserve account of $356 per month were made during the year as agreed.   
+
+ 
+(F) RESIDUAL RECEIPTS ACCOUNT - Use of the residual receipts account is contingent upon HUD’s prior 
+
+written approval. The property had $1,736 in surplus cash at year ended December 31, 2017. This 
+surplus cash from 2017 was deposited into the residual receipts account during 2018. 
+
+ 
+(G) PROPERTY AND EQUIPMENT - Property and equipment at December 31, 2018, is summarized as 
+
+follows. 
+ 
+
+Land   $           1,000     
+Building and Improvements   1,169,420 
+Furniture and Equipment   20,898 
+    
+Total   $     1,191,318 
+
+ 
+ All property and equipment are pledged as collateral for the capital advance.  Building and 
+
+improvements are depreciated over 27.5 years and furniture and equipment over 5-7 years on the 
+straight-line method. 
+
+ 
+(H) MANAGEMENT FEE - The Project entered into an agreement with Westchester Realty & Management 
+
+LLC to manage the property.  The Management agreement stipulated a fee of 9% of gross rent 
+collections per month.  These payments were made in accordance with the management agreement 
+during the current year. 
+
+ 
+(I) CAPITAL ADVANCE - HUD made a capital advance commitment of $1,204,700 to the Corporation to 
+
+purchase the land, construct the apartment building, and to make the initial funding of the Reserve 
+for Replacement. This advance is secured by a mortgage on all property and all funds received by the 
+Project. The advance bears no interest and requires no repayment so long as the housing remains 
+available for no less than forty years for persons with disabilities. 
+
+ 
+(J) MISC REVENUE - ROYALTIES - During 2012, the Project started receiving royalty payments from 
+
+drilling on the property. When the Project receives a payment, HUD has instructed them to deposit it 
+into the Replacement Reserve account. During the current year, the Project received $3,740 in 
+royalties. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report 
+ 
+
+13 
+
+NOTES TO FINANCIAL STATEMENTS 
+
+(K) REGULATORY AGREEMENT - Certain agreements are in effect between the Corporation and HUD 
+which regulate the activities of the Project.  HUD makes housing assistance payments on behalf of 
+qualifying individuals and families.  To ensure the Project remains well maintained and managed, 
+HUD imposes certain restrictions upon the Corporation.  These restrictions included tenant rental 
+charges, maintenance, marketing, accounting and record keeping.  The regulatory agreement 
+stipulates that the Project will not make distributions of assets or income to any of its offices or 
+directors. 
+
+ 
+ The Project’s major HUD program is the Section 202 Capital Advance.  The Project’s non-major HUD 
+
+program is the Section 8 Housing Assistance Payment Program. 
+ 
+(L) DISCLOSURES ABOUT FAIR VALUE OF FINANCIAL INSTRUMENTS - The carrying amounts of cash 
+
+equals it fair value.  It is not practicable to estimate the fair value of the long-term debt because of the 
+unique nature of the project and its dependence on the HUD housing assistance payments. 
+
+ 
+(M) CURRENT VULNERABILITY DUE TO CERTAIN CONCENTRATIONS - The Project’s sole operating asset 
+
+is a 17-unit apartment project.  The Project’s operations are concentrated in the multifamily real 
+estate market.  In addition, the Project operates in a heavily regulated environment.  The operations 
+of the Project are subject to the administrative directives, rules and regulations of federal, state and 
+local regulatory agencies, including, but not limited to, HUD.  Such administrative directives, rules 
+and regulations are subject to acts of Congress and administrative changes mandated by HUD.  Such 
+changes may occur with little notice of inadequate funding to pay for the related costs, including the 
+additional administrative burden, to comply with changes. 
+
+ 
+(N) SUBSEQUENT EVENTS - Subsequent events have been evaluated my management through the date 
+
+of the audit report, which is the date the financial statements were available to be issued. 
+ 
+(O) MISC. REVENUE – INSURANCE CLAIM – During 2017, the property received an insurance claim for 
+
+roof damage incurred in 2016 of $29,593. From the insurance claim, $28,368 was used towards 
+damage repairs, and the remaining $1,225 is miscellaneous revenue. 
+
+ 
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+14 
+ 
+
+INDEX TO SUPPLEMENTARY INFORMATION REQUIRED BY HUD 
+ 
+
+STATEMENT OF FINANCIAL POSITION DATA     15 
+
+STATEMENT OF ACTIVITES DATA      17 
+
+STATEMENT OF EQUITY DATA      19 
+
+STATEMENT OF CASH FLOWS DATA      20 
+
+SCHEDULE OF REPLACEMENT RESERVE     22 
+
+SCHEDULE OF RESIDUAL RECEIPTS      22 
+
+COMPUTATION OF SURPLUS CASH      23 
+
+SCHEDULE OF CHANGES IN FIXED ASSET ACCOUNTS    23 
+
+  
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+15 
+ 
+
+STATEMENT OF FINANCIAL POSITION 
+December 31, 2018 and 2017 
+
+ASSETS 
+
+CURRENT ASSETS 2018 2017
+1120 Cash - Operations $ 7,404 3,473
+1175 Short Term Investments - Entity 6,101          6,101           
+1200 Prepaid Expenses 6,122          6,023           
+
+1100T Total Current Assets 19,627        15,597         
+
+RESTRICTED DEPOSITS  AND FUNDED RESERVES
+1191 Tenant/Patient Deposits Held in Trust 5,294          4,903           
+
+1310 Escrow Deposits 20,000        15,500         
+1320 Replacement Reserve 58,787        50,743         
+1340 Residual Receipts Reserve 19,064        17,317         
+
+1300T Total Deposits 97,851        83,560         
+
+PROPERTY AND EQUIPMENT 
+1410 Land 1,000          1,000           
+1420 Buildings 1,164,270  1,164,270   
+1440 Building Equipment (Portable) 5,150          5,150           
+1450 Furniture for Project/Tenant Use 15,258        10,034         
+1465 Office Furniture and Equipment 5,640          5,640           
+
+1400T Total Fixed Assets 1,191,318  1,186,094   
+
+1495 Accumulated Depreciation 438,447     395,281      
+
+1400N Net Fixed Assets 752,871     790,813      
+
+1000T Total Assets $ 875,643     894,873      
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+16 
+ 
+
+STATEMENT OF FINANCIAL POSITION 
+December 31, 2018 and 2017 
+
+LIABILITIES AND NET ASSETS 
+
+CURRENT LIABILITIES 2018 2017
+2110 Accounts Payable - Operations 1,338          1,264           
+2123 Accrued Management Fee Payable 501 473
+
+2122T Total Current Liabilities 1,839          1,737           
+
+DEPOSIT LIABILITIES
+2191 Tenant/Patient Deposits Held In Trust (Contra) 5,294          4,903           
+
+LONG-TERM LIABILITIES
+2390 Miscellaneous Long Term Liabilities 1,204,700  1,204,700   
+
+2300T Total Long Term Liabilities 1,204,700  1,204,700   
+
+2000T Total Liabilities $ 1,211,833  1,211,340   
+
+NET ASSETS
+3131 Net Assets without Donor Restrictions (342,291)    (322,568)     
+3133 Net Assets with Donor Restrictions 6,101          6,101           
+3130 Total Net Assets (336,190)    (316,467)     
+
+2033T Total Liabilities and Equity/Net Assets $ 875,643     894,873      
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+17 
+ 
+
+STATEMENT OF ACTIVITIES AND CHANGES IN NET ASSETS 
+For the Years ended December 31, 2018 and 2017 
+
+REVENUES: 2018 2017
+5120 Rent Revenue - Gross Potential $ 43,611         45,551          
+5121 Tenant Assistance Payments 40,641         38,701          
+
+5100T Total Rent Revenue 84,252         84,252          
+5220 Apartments 2,718           9,351            
+
+5200T Total Vacancies 2,718           9,351            
+5152N Net Rental Revenue (Rent Revenue Less Vacancies) 81,534         74,901          
+
+5430 Revenue from Investments - Residual Receipts 11                 11                  
+5440 Revenue from Investments - Replacement Reserve 33                 29                  
+
+5400T Total Financial Revenue 44                 40                  
+
+5910 Laundry and Vending Revenue 577 -                      
+5920 Tenant Charges -                     420
+5990 Miscellaneous Revenue 3,740 1,787
+
+5900T Total Other Revenue 4,317           2,207            
+
+5000T Total Revenue $ 85,895         77,148          
+
+COST & EXPENSES
+6210 Advertising and Marketing 215 227
+6311 Office Expenses 5,009 4,872
+6320 Management Fee 5,816 5,378
+6330 Manager or Superintendent Salaries 11,940 11,577
+6350 Audit Expense 5,100 5,050
+6351 Bookkeeping Fees/Accounting Services 864 864
+6390 Miscellaneous Administrative Expenses 2,518 2,375
+
+6263T Total Administrative Expenses 31,462         30,343          
+
+6450 Electricity 2,927 2,813
+6451 Water 1,305 1,511
+6452 Gas -                     260
+6453 Sewer 220 -                      
+
+6400T Total Utilities Expense $ 4,452           4,584            
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+18 
+ 
+
+STATEMENT OF ACTIVITIES AND CHANGES IN NET ASSETS - Continued 
+For the Years ended December 31, 2018 and 2017 
+
+COSTS & EXPENSES - Continued 2018 2017
+6515 Supplies 1,713 2,091
+6520 Contracts 8,735 16,538
+6525 Garbage and Trash Removal 814 784
+6546 Heating/Cooling Repairs and Maintenance 2,505 493
+
+6500T Total Operating and Maintenance Expenses 13,767        19,906         
+
+6711 Payroll Taxes (Project's Share) 917 889
+6720 Property & Liability Insurance (Hazard) 10,854 10,444
+6722 Workmen's Compensation 1,000 398
+
+6700T Total Taxes and Insurance 12,771        11,731         
+
+6000T Total Cost of Operations before Depreciation 62,452        66,564         
+
+5060T Profit (Loss) before Depreciation 23,443        10,584         
+
+6600 Depreciation Expenses 43,166        42,701         
+
+5060N Operating Profit or (Loss) (19,723)      (32,117)       
+
+3247 Change in Net Assets without Donor Restrictions (19,723)      (32,117)       
+3250 Change in Total Net Assets from Operations $ (19,723)      (32,117)       
+
+S1000-020 4,271          4,271           
+
+The total of all monthly reserve for replacement deposits 
+(usually 12 months) required during the audit period even if 
+deposits have been temporarily waived or suspended.
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+19 
+ 
+
+STATEMENT OF EQUITY DATA 
+For the Years ended December 31, 2018 and 2017 
+
+2018 2017
+S1100-060 Previous Year Net Assets without Donor Restrictions $ (322,568)    (290,451)     
+
+3247 Change in Net Assets without Donor Restrictions (19,723)      (32,117)       
+
+3131 Net Assets without Donor Restrictions (342,291)    (322,568)     
+
+S1100-080 Previous Year Net Assets with Donor Restrictions 6,101          6,101           
+
+3133 Net Assets with Donor Restrictions 6,101          6,101           
+
+S1100-050 Previous Year Total Net Assets (316,467)    (284,350)     
+
+3250 Change in Total Net Assets from Operations (19,723)      (32,117)       
+
+3130 Total Net Assets $ (336,190)    (316,467)     
+
+ 
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+20 
+ 
+
+STATEMENT OF CASH FLOW 
+For the Years ended December 31, 2018 and 2017 
+
+Cash Flows from Operating Activities 2018 2017
+S1200-010 Rental Receipts $ 81,534         74,901          
+S1200-020 Interest Receipts 44 40
+S1200-030 Other Operating Receipts 4,317           2,207            
+S1200-040 Total Receipts 85,895         77,148          
+
+S1200-050 Administrative (13,706)       (22,822)        
+S1200-070 Management Fee (5,788) (5,410)
+S1200-090 Utilities (4,452)         (4,584)          
+S1200-100 Salaries and Wages (11,940)       (11,577)        
+S1200-110 Operating and Maintenance (13,693)       (18,968)        
+S1200-140 Property Insurance (10,953)       (10,777)        
+S1200-150 Miscellaneous Taxes and Insurance (1,917)         (1,287)          
+S1200-230 Total Disbursements (62,449)       (75,425)        
+
+S1200-240 Net Cash provided by (used in) Operating Activities 23,446         1,723            
+
+Cash Flows from Investing Activities
+S1200-245 Net Deposits to the Mortgage Escrow account (4,500)         -                      
+S1200-250 Net Deposits to the Reserve for Replacement account (8,044)         (4,862)          
+S1200-260 Net Deposits to the Residual Receipts account (1,747)         (905)              
+S1200-330 Net Purchase of Fixed Assets (5,224)         (5,150)          
+S1200-350 Net Cash used in Investing Activities (19,515)       (10,917)        
+
+S1200-470 Net increase (decrease) in Cash and Cash Equivalents 3,931           (9,194)          
+
+S1200-480 Beginning of Period Cash 9,574           18,768          
+S1200T End of Period Cash $ 13,505         9,574            
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+21 
+ 
+
+STATEMENT OF CASH FLOW 
+For the Years ended December 31, 2018 and 2017 
+
+Reconciliation of Changes in Net Assets to
+Net Cash provided by Operating Activities:
+
+2018 2017
+3250 Change in Total Net Assets from Operations $ (19,723)      (32,117)       
+
+Adjustments to reconcile Change in Net Assets to
+Net Cash provided by Operating Activities
+
+6600 Depreciation Expenses 43,166        42,701         
+S1200-500 Decrease (increase) in Accounts Receivable - Other -                   1,500           
+S1200-520 Decrease (increase) in Prepaid Expenses (99)              (333)             
+S1200-540 Increase (decrease) in Accounts Payable 74                (9,996)         
+S1200-560 Increase (decrease) in Accrued Liabilities 28                (32)               
+S1200-610 Net Cash provided by (used in) Operating Activities $ 23,446        1,723           
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+22 
+ 
+
+SUPPLEMENTARY INFORMATION REQUIRED BY HUD 
+For the Years ended December 31, 2018 and 2017 
+
+Replacement Reserve
+2018 2017
+
+1320P Balance at Beginning of Year $ 50,743        45,881         
+1320DT Total Monthly Deposits 4,271          4,271           
+1320ODT Other Deposits 3,740          562              
+1320INT Interest on Replacement Reserve Accounts 33                29                 
+
+1320 Balance at End of Year, Confirmed by Mortgagee $ 58,787        50,743         
+
+Residual Receipts
+2018 2017
+
+1340P Balance at Beginning of Year $ 17,317        16,412         
+1340DT Total Deposits 1,736          902              
+1340INT Interest on Residual Receipt Accounts 11                3                   
+
+1340 Balance at Current Fiscal Year End $ 19,064        17,317         
+
+ 
+
+ 
+ 
+
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+See Independent Auditor’s Report and accompanying notes to the Financial Statements  
+ 
+
+23 
+ 
+
+SUPPLEMENTARY INFORMATION REQUIRED BY HUD 
+For the Years ended December 31, 2018 and 2017 
+
+Computation of Surplus Cash, Distributions, and Residual Receipts - Annual
+
+Part A 2018 2017
+S1300-010 Cash $ 12,698        8,376           
+S1300-040 Total Cash 12,698        8,376           
+Current Obligations
+
+S1300-075 Accounts Payable - 30 days 1,338          1,264           
+S1300-100 Accrued Expenses [not escrowed] 501             473              
+
+2191 Tenant/Patient Deposits Held In Trust (Contra) 5,294          4,903           
+
+S1300-140 Total Current Obligations 7,133          6,640           
+
+S1300-150 Surplus Cash (Deficiency) $ 5,565          1,736           
+
+ 
+
+ 
+ 
+
+Changes in Fixed Assets
+
+For Year Ended December 31, 2018:
+
+Beginning Additions Retirements Ending 
+Balance Balance
+
+Land $ 1,000           $ - $ -                  $ 1,000           
+Building and Improvements 1,164,270   -                 -                  1,164,270   
+Building Equipment 5,150           -                 -                  5,150           
+Furniture & Fixtures 10,034        5,224        * -                  15,258        
+Furnishings -                    -                 -                  -                    
+Office Furniture and Fixtures 5,640           -                 -                  5,640           
+Maintenance Equipment -                    -                 -                  -                    
+Misc. Fixed Assets -                    -                 -                  -                    
+Totals 1,186,094   $ 5,224        $ -                  $ 1,191,318   
+
+Accumulated Depreciation $ 395,281      43,166     -                  438,447      
+
+Total Fixed Assets $ 790,813      $ (37,942)    $ -                  $ 752,871      
+
+*Computer System, $5,224
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+ 
+24 
+
+ 
+
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+December 31, 2018 
+
+Total 
+U.S Department of Housing and Urban Development CFDA # Expenditures
+
+Major Programs:
+Section 202 Capital Advance 14.181 1,204,700$        
+
+Non-Major Programs:
+Section 8 Project Rental Assistance Contract 14.195 40,641$             
+
+Total Federal Awards 1,245,341$        
+
+ 
+ 
+ 
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+Year ended December 31, 2018 
+ 
+NOTE A - BASIS OF PRESENTATION 
+ 
+The accompanying schedule of expenditures of federal awards includes the federal awards includes the 
+federal activity of LOUIS SANDMAN SENIOR HOUSING, HUD Project No. 118-EE042, and is presented on the 
+accrual basis of accounting.  The information in this schedule is presented in accordance with the 
+requirements of the uniform guidance, Audits of States, Local Governments, and Non-Profit Organizations.  
+Therefore, some amounts presented in this schedule may differ from amounts presented in, or used in the 
+presentation of, the basic financial statements. 
+ 
+NOTE B - EXPENDITURES 
+ 
+Total Federal awards expended include current year accrued Section 8 Project Rental Assistance Contract 
+payments, and the Section 202 Capital Advance at inception of the Project. No payments of principal or 
+interest are due under the capital advance as long as the project is made available to low-income persons 
+with disabilities. In addition, after 40 years the mortgage is considered paid in full. 
+ 
+NOTE C – INDIRECT COST 
+ 
+The Project has elected not to use the 10-percent de minimus indirect cost rate allowed under the Uniform 
+Guidance. 
+ 
+
+
+
+John Flusche, CPA 
+6851 South Canton Avenue 
+
+Tulsa, Oklahoma 74136 
+ 
+
+ 
+25 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL 
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF 
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING 
+STANDARDS 
+
+ 
+Board of Directors 
+Louis Sandman Senior Housing, Inc. 
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of America 
+and the standards applicable to financial audits contained in Government Auditing Standards issued by the 
+Comptroller General of the United States, the financial statements of Louis Sandman Senior Housing, Inc. (the 
+Project), which comprise the statement of financial position as of December 31, 2018 and 2017, and the related 
+statements of activities, and cash flows for the years then ended, and the related notes to the financial statements, 
+and have issued our report thereon dated March 12, 2019. 
+ 
+Internal Control over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered the Project’s internal control over 
+financial reporting (internal control) to determine the audit procedures that are appropriate in the circumstances 
+for the purpose of expressing our opinion on the financial statements, but not for the purpose of expressing an 
+opinion on the effectiveness of the Project’s internal control.  Accordingly, we do not express an opinion on the 
+effectiveness of the Project’s internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis.  A material weakness is a deficiency, or a combination of deficiencies in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity’s financial statements 
+will not be prevented or detected and corrected on a timely basis.  A significant deficiency is a deficiency, or a 
+combination of deficiencies, in internal control that is less severe than a material weakness, yet important enough 
+to merit attention by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section 
+and was not designed to identify all deficiencies in internal control that might be material weaknesses or 
+significant deficiencies.  Given these limitations, during our audit we did not identify any deficiencies in internal 
+control that we consider to be material weaknesses.  However, material weaknesses may exist that have not been 
+identified.
+
+
+
+ 
+
+ 
+26 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINNANCIAL 
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF 
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING 
+STANDARDS 
+
+ 
+Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether the Project’s financial statements are free from material 
+misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and 
+grant agreements, noncompliance with which could have a direct and material effect on the determination of 
+financial statement amounts.  However, providing an opinion on compliance with those provisions was not an 
+objective of our audit, and accordingly, we do not express such an opinion.  The results of our tests disclosed no 
+instances of noncompliance or other matters that are required to be reported under Government Auditing 
+Standards. 
+ 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the 
+results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal control or 
+compliance. This report is an integral part of an audit performed in accordance with Government Auditing 
+Standards in considering the entity’s internal control and compliance.  Accordingly, this communication is not 
+suitable for any other purpose. 
+ 
+ 
+John Flusche, CPA 
+Tulsa, Oklahoma 
+March 12, 2019 
+
+
+
+John Flusche, CPA 
+6851 South Canton Avenue 
+
+Tulsa, Oklahoma 74136 
+
+ 
+27 
+
+ 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND 
+ON INTERAL CONTROL OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 
+
+ 
+Board of Directors 
+Louis Sandman Senior Housing, Inc. 
+ 
+Report on Compliance for Each Major Federal Program 
+ 
+We have audited Louis Sandman Senior Housing, Inc. (the Project) compliance with the types of compliance 
+requirements described in the OMB Compliance Supplement that could have a direct and material effect on each 
+of the Project’s major federal programs for the year then ended December 31, 2018.  The Project’s major federal 
+programs are identified in the summary of auditor’s results section of the accompanying schedule of findings and 
+questioned costs. 
+ 
+Management’s Responsibility 
+ 
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and grants 
+applicable to its federal programs. 
+ 
+Auditor’s Responsibility 
+ 
+Our responsibility is to express an opinion on compliance for each of the Project’s major federal programs based 
+on our audit of the types of compliance requirements referred to above.  We conducted our audit of compliance 
+in accordance with auditing standards generally accepted in the United States of America; the standards 
+applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller General of 
+the United States; and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform 
+Administrative Requirement, Cost Principles, and Audit Requirements for Federal Award (Uniform Guidance).  
+Those standards and the uniform guidance require that we plan and perform the audit to obtain reasonable 
+assurance about whether noncompliance with the types of compliance requirements referred to above that could 
+have a direct and material effect on a major federal program occurred.  An audit includes examining, on a test 
+basis, evidence about the Project’s compliance with those requirements and performing such other procedures 
+as we considered necessary in the circumstances. 
+ 
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal 
+program, However, our audit does not provide a legal determination of the Project’s compliance. 
+ 
+
+
+
+ 
+
+ 
+28 
+
+ 
+
+ 
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND 
+ON INTERAL CONTROL OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 
+
+   
+Opinion on Each Major Federal Program 
+ 
+In our opinion, the Project complied, in all material respects, with the types of compliance requirements referred 
+to above that could have a direct and material effect on each of its major federal programs for the year ended 
+December 31, 2018. 
+ 
+Other Matters 
+ 
+The results of our auditing procedures disclosed no other instances of noncompliance, which are 
+required to be reported in accordance with the Uniform Guidance.  
+ 
+Report on Internal Control over Compliance 
+ 
+Management of the Project is responsible for establishing and maintaining effective internal control over 
+compliance with the types of compliance requirements referred to above.  In planning and performing our audit 
+of compliance, we considered the Project’s internal control over compliance with the types of requirements that 
+could have a direct and material effect on each major federal program to determine the auditing procedures that 
+are appropriate in the circumstances for the purpose of expressing an opinion on compliance for each major 
+federal program and to test and report on internal control over compliance in accordance with the uniform 
+guidance, but not for the purpose of expressing an opinion on the effectiveness of internal control over 
+compliance.  Accordingly, we do not express an opinion on the effectiveness of the Project’s internal control over 
+compliance. 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance 
+does not allow management or employees, in the normal course of performing their assigned functions, to 
+prevent, or detect and correct, noncompliance with a type of compliance requirement of a federal program on a 
+timely basis.  A material weakness in internal control over compliance is a deficiency, or combination of 
+deficiencies, in internal control over compliance such that there is a reasonable possibility that material 
+noncompliance with a type of compliance requirement of q federal program will not be prevented, or detected 
+and corrected, on a timely basis.   A significant deficiency in internal control over compliance is a deficiency, or a 
+combination of deficiencies, in internal control over compliance with a type of compliance requirement of a 
+federal program that is less severe than a material weakness in internal control over compliance, yet important 
+enough to merit attention by those charged with governance.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+29 
+
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND 
+ON INTERNAL CONTROL OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 
+
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the first paragraph 
+of this section and was not designed to identify all deficiencies in internal control over compliance that might be 
+material weaknesses or significant deficiencies.  We did not identify any deficiencies in internal control over 
+compliance that we consider to be material weaknesses.  However, material weaknesses may exist that have not 
+been identified. 
+ 
+The purpose of this report of internal control over compliance is solely to describe the scope of our testing of 
+internal control over compliance and the results of that testing based on the requirements of the Uniform 
+Guidance.  Accordingly, this report is not suitable for any other purpose. 
+ 
+ 
+John Flusche, CPA 
+Tulsa Oklahoma 
+March 12, 2019 
+ 
+ 
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+ 
+30 
+
+ 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+For the Year ended December 31, 2018 
+
+ 
+
+A. SUMMARY OF AUDIT RESULTS
+Major Program - Section 202 Capital Advance
+
+Report on Financial Statements and on the Supplementary Schedule of Federal Awards
+
+S3400-020 Opinion Unmodified
+S3400-050 Going Concern" Issue N
+
+Report on Supplemental Data
+
+S3400-100 Opinion Unmodified
+
+Report on Internal Control Over Financial Reporting and on Compliance and 
+Other Matters Based on an Audit of Financial Statements Performed 
+in Accordance with Government Auditing Standards
+
+S3500-020 Instances of Fraud, Non-Compliance, or Abuse of Laws,
+Regulations, Contractors or Grants That Have A Material
+Effect on the Financial Statements N
+
+S3500-030 Significant Deficiencies or Material Weaknesses in Internal
+Controls Over Financial Reporting Indicator N
+
+Report on Compliance  and Internal Control over Compliance Applicable to  
+Each Major Program; Report on Internal Control Over Compliance; and Report 
+on Schedule of Expenditures of Federal Awards Required by Uniform Guidance
+
+S3600-015 Opinion on Compliance with Laws, Regulations, and Contracts
+Applicable to Each Major Program Unmodified
+
+S3600-020 Significant Deficiencies or Material Weaknesses in Internal 
+Controls Over Compliance Indicator N
+
+Schedule of Finding and Questioned Costs
+
+S3700-010 Indicator - Any audit findings disclosed that are required
+to be reported in accordance with section 200.516 
+of OMB Uniform Guidance N
+
+S3700-020 Dollar threshold used to distinguish between type A 
+and type B programs 750,000$  
+
+S3700-030 Low-Risk Auditee Indicator N
+
+B. FINDING - FINANCIAL STATEMENTS AUDIT
+Department of Housing and Urban Development: None
+
+C. FINDING - MAJOR FEDERAL AWARD PROGRAMS AUDIT
+Department of Housing and Urban Development: None
+
+  
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+ 
+31 
+
+ 
+
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS 
+ 
+
+There were no prior year audit findings. 
+
+  
+
+
+
+Louis Sandman Senior Housing 
+Project No. 118-EE042 
+
+ 
+
+ 
+32 
+
+ 
+
+CERTIFICATE OF OWNER 
+ 
+
+We hereby certify that we have examined the accompanying financial statements and supplemental data of 
+LOUIS SANDMAN SENIOR HOUSING, INC., and, to the best of our knowledge and belief, the same are complete 
+and accurate. 
+ 
+ Officers of the Corporation: 
+ 
+ 
+ _____________________________________________  March 12, 2019__________________________ 
+ Allen Leaird     Date 
+ Chairman 
+ 
+ 
+ _____________________________________________ March 12, 2019__________________________ 
+ Jim Girten     Date 
+ Board Member 
+ 
+ 86-1162137____________________________ 
+ Employer Identification Number (EIN) 
+ 
+
+ 
+CERTIFICATE OF MANAGEMENT COMPANY 
+
+ 
+I hereby certify that I have examined the accompanying financial statements and supplemental data of LOUIS 
+SANDMAN SENIOR HOUSING, INC., and, to the best of my knowledge and belief, the same are complete and 
+accurate. 
+ 
+ 
+ ______________________________________________ 
+ Rick Gowin, EIN 20-5383693 
+ Westchester Realty & Management LLC as agent for LOUIS SANDMAN SENIOR HOUSING 
+ 
+ 
+ ___________March 12, 2019__________________ 
+   Date 
+
+
+
+John Flusche, CPA 
+6851 South Canton Avenue 
+
+Tulsa, Oklahoma 74136 
+
+ 
+33 
+
+ 
+
+ 
+INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING AGREED-UPON PROCEDURE 
+
+ 
+Board of Directors 
+LOUIS SANDMAN SENIOR HOUSING 
+ 
+We have performed the procedure described in the second paragraph of this report, which was agreed to by 
+Louis Sandman Senior Housing, Inc. (the Project) and the U.S. Department of Housing and Urban 
+Development, Public Indian Housing-Real Estate Assessment Center (PIH-REAC), solely to assist them in 
+determining whether the electronic submission of certain information agrees with the related hard copy 
+documents included within the OMB Uniform Guidance reporting package.  The Project is responsible for the 
+accuracy and completeness of the electronic submission.  This agreed-upon procedure engagement was 
+conducted in accordance with attestation standards established by the American Institute of Certified Public 
+Accountants and the standards applicable to attestation engagements contained in Government Auditing 
+Standards issued by the Comptroller General of the United States.  The sufficiency of the procedure is solely 
+the responsibility of those parties specified in this report.  Consequently, we make no representation 
+regarding the sufficiency of the procedure described below either for the purpose for which this report has 
+been requested or for any other purpose. 
+ 
+We compared the electronic submission of the items listed in the “UFRS Rule Information” column with the 
+corresponding printed documents listed in the “Hard Copy Documents” column.  The results of the 
+performance of our agreed-upon procedure indicate agreement or no-agreement of the electronically 
+submitted information and hard copy documents as shown in the attached chart. 
+ 
+This agreed-upon procedure engagement was conducted in accordance with attestation standards 
+established by the American Institute of Certified Public Accountants and the standards applicable to 
+attestation engagements contained in Government Auditing Standards issued by the Comptroller General of 
+the United States.  We were not engaged to and did not conduct an examination or review, the objective of 
+which would be the expression of an opinion or conclusion, respectively, on whether the electronic 
+submission of the items listed in the “UFRS Rule Information” column agrees with the related hard copy 
+documents within the audit reporting package. Accordingly, we do not express such an opinion or conclusion. 
+Had we performed additional procedures, other matters might have come to our attention that would have 
+been reported to you. 
+ 
+We were engaged to perform an audit in accordance with the audit requirements of Title 2 U.S. Code of the 
+Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (Uniform Guidance), by the Project as of and for the year ended December 
+31, 2018, and 2017 have issued our reports thereon dated March 12, 2019.  The information in the “Hard 
+Copy Documents” column was included within the scope or was a by-product of that audit.  Further, our 
+opinion on the fair presentation of the supplementary information dated March 12, 2019, was expressed in 
+relation to the basic financial statements of Louis Sandman Senior Housing, Inc. taken as a whole. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+John Flusche, CPA 
+6851 South Canton Avenue 
+
+Tulsa, Oklahoma 74136 
+
+ 
+34 
+
+ 
+
+ 
+INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING AGREED-UPON PROCEDURE 
+ 
+A copy of the reporting package required by the Uniform Guidance, which includes the auditor’s reports, is 
+available in its entirety from the Project.  We have not performed any additional auditing procedures since 
+the date of the aforementioned audit reports.  Further, we take no responsibility for the security of the 
+information transmitted electronically to the U.S. Department of Housing and Urban Development, PHI-
+REAC. 
+ 
+This report is intended solely for the information and use of Louis Sandman Senior Housing, Inc. and the U.S. 
+Department of Housing and Urban Development, PIH-REAC, and is not intended to be and should not be used 
+by anyone other than these specified parties. 
+ 
+ 
+Tulsa, Oklahoma 
+March 12, 2019 
+
+
+
+ 
+
+ 
+35 
+
+ 
+
+ 
+
+ATTACHMENT TO INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING 
+AGREED-UPON PROCEDURE 
+
+ 
+ 
+ 
+
+UFRS RULE INFORMATION Hard Copy Document(s) Findings 
+Balance sheet, Revenue and Expense and 
+Cash Flow Data (account numbers 1120 
+to 7100T and the S1200 series) 
+
+Supplementary Information with 
+Financial Statement Data 
+
+Agrees 
+
+Surplus Cash (S1300 series of accounts) Computation of Surplus Cash, 
+Distributions and Residual Receipts 
+(Annual) 
+
+Agrees 
+
+Footnotes (S3100 series of accounts) Notes to the audited Financial 
+Statements 
+
+Agrees 
+
+Type of Opinion on the Financial 
+Statements and Auditor Reports (S3400, 
+S3500 and S3600 series of accounts) 
+
+Auditor’s Reports on the Financial 
+Statements, Compliance and Internal 
+Control 
+
+Agrees 
+
+Type of Opinion on Financial Data 
+Templates (i.e. Supplemental Data) 
+(account S3400-100) 
+
+Auditor’s Supplemental Report on 
+Financial Data Templates 
+
+Agrees 
+
+Audit Findings Narrative (S3800 series of 
+accounts) 
+
+Schedule of Findings and Questioned 
+Costs 
+
+Agrees 
+
+General Information (S3300, 3700 and 
+S3800 series of accounts) 
+
+Schedule of Findings and Questioned 
+Costs and Federal Awards Data 
+
+Agrees 
+
+ 
+ 
+ 
+
+
+	LEAD AUDITOR DISCLOSURE INFORMATION
+	INDEPENDENT AUDITORS’ REPORT
+
+	STATEMENT OF FINANCIAL POSITION
+	STATEMENT OF FINANCIAL POSITION
+	STATEMENT OF ACTIVITIES AND CHANGES IN NET ASSETS
+	STATEMENT OF CASH FLOW
+	STATEMENT OF CASH FLOW
+	NOTES TO FINANCIAL STATEMENTS
+	INDEX TO SUPPLEMENTARY INFORMATION REQUIRED BY HUD
+	STATEMENT OF FINANCIAL POSITION
+	STATEMENT OF FINANCIAL POSITION
+	STATEMENT OF ACTIVITIES AND CHANGES IN NET ASSETS
+	STATEMENT OF ACTIVITIES AND CHANGES IN NET ASSETS - Continued
+	STATEMENT OF EQUITY DATA
+	STATEMENT OF CASH FLOW
+	STATEMENT OF CASH FLOW
+	SUPPLEMENTARY INFORMATION REQUIRED BY HUD
+	SUPPLEMENTARY INFORMATION REQUIRED BY HUD
+	SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+	INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS
+	INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR PROGRAM AND ON INTERAL CONTROL OVER COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE
+
+	SCHEDULE OF FINDINGS AND QUESTIONED COSTS
+	SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS
+	CERTIFICATE OF OWNER
+	INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING AGREED-UPON PROCEDURE
+	INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING AGREED-UPON PROCEDURE
+	ATTACHMENT TO INDEPENDENT ACCOUNTANT’S REPORT ON APPLYING
+	AGREED-UPON PROCEDURE
+
+

@@ -1,0 +1,4337 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUDITED FINANCIAL STATEMENTS 
+AND REPORTS OF INDEPENDENT AUDITOR 
+
+MIDWEST CITY-DEL CITY SCHOOL DISTRICT NO. I-52, 
+OKLAHOMA COUNTY, OKLAHOMA 
+
+JUNE 30, 2018 
+
+JENKINS Be KEMPER 
+CERTIFIED PUBLIC ACCOUNTANTS, P.C. 
+
+
+
+TABLE OF CONTENTS 
+
+Table of Contents 
+
+School District Officials 
+
+Independent Auditor's Report 
+
+Management's Discussion and Analysis 
+
+BASIC FINANCIAL STATEMENTS: 
+
+Government-wide financial statements: 
+Statement of net position 
+Statement of activities 
+
+GOVERNMENTAL FUND FINANCIAL STATEMENTS: 
+
+Balance sheet 
+Reconciliation of the governmental funds balance sheet to the 
+
+statement of net position 
+Statement of revenues, expenditures, and changes in 
+
+fund balances 
+Reconciliation of the statement of revenues, expenditures, 
+
+and changes in fund balances of governmental funds to the 
+statement of activities 
+
+Statement of net position - proprietary fund 
+Statement of revenues, expenditures and changes in net position - 
+
+proprietary fund 
+Statement of cash flows - proprietary fund 
+Statement of net position - fiduciary funds 
+
+Notes to basic financial statements 
+
+-1- 
+
+Page No. 
+
+1-2 
+
+3 
+
+4-5 
+
+6-10 
+
+11 
+12 
+
+13-14 
+
+15 
+
+16-17 
+
+18 
+19 
+
+20 
+21 
+22 
+
+23-56 
+
+
+
+TABLE OF CONTENTS - contd. 
+
+REQUIRED SUPPLEMENTARY INFORMATION: 
+
+Oklahoma Teachers' Requirement System: 
+Schedule of the District's proportionate share of the net 
+pension liability 
+Schedule of District Contributions 
+
+Budgetary comparison schedule - general fund 
+Budgetary comparison schedule - building fund 
+
+OTHER SUPPLEMENTARY INFORMATION: 
+
+Combining balance sheet - other governmental funds 
+Combining statement of revenues, expenditures and changes 
+
+in fund balances - other governmental funds 
+Statement of changes in assets and liabilities - agency fund 
+Budgetary comparison schedule - debt service fund 
+Budgetary comparison schedule - child nutrition fund 
+Budgetary comparison schedule - tech center 
+Budgetary comparison schedule - tech center building fund 
+
+COMPLIANCE SECTION: 
+
+Schedule of expenditures of federal awards 
+Notes to schedule of expenditures of federal awards 
+Report on internal control over financial reporting and on 
+
+compliance and accordance with government auditing standards 
+Report on compliance for each major federal program; report 
+
+on internal control over compliance; and report on schedule of 
+expenditures of federal awards required by OMB Uniform Guidance 
+
+Schedule of findings and questioned costs 
+Summary schedule of prior audit findings 
+Schedule of Accountant's Professional Liability Insurance Affidavit 
+
+-2- 
+
+57 
+58 
+59 
+60 
+
+61-62 
+
+63-64 
+65 
+66 
+67 
+68 
+69 
+
+70-72 
+73 
+
+74-75 
+
+76-77 
+78 
+79 
+80 
+
+
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+SCHOOL DISTRICT OFFICIALS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+BOARD OF EDUCATION 
+
+President Mr. LeRoy Porter 
+
+Vice-President Mr. Tim Blanton 
+
+Clerk Mr. David Bibens 
+
+Deputy Clerk Senator Jim Howell 
+
+Member Mrs. Jimmie Nolen 
+
+SUPERINTENDENT OF SCHOOLS 
+
+Dr. Rick Cobb 
+
+SCHOOL DISTRICT TREASURER 
+and CHIEF FINANCIAL OFFICER 
+
+Ms. Kay Medcalf 
+
+-3- 
+
+
+
+JENKINS & KEMPER 
+CERTIFIED PUBLIC ACCOUNTANTS, P.C. 
+
+JACK JENKINS, CPA 
+MICHAEL KEMPER, CPA 
+
+INDEPENDENT AUDITOR'S REPORT 
+
+The Honorable Board of Education 
+Midwest City-Del City School District No. I-52 
+Midwest City, Oklahoma 73110 
+
+Report on the Financial Statements 
+We have audited the accompanying financial statements of the governmental activmes, each major fund and the 
+aggregate remaining fund information of Midwest City-Del City School District No. I-52, Midwest City, Oklahoma (the 
+"School District") as of and for the year ended June 30, 2018, and the related notes to the financial statements, which 
+collectively comprise the School District's basic financial statements as listed in the table of contents. 
+
+Management's Responsibility for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with accounting 
+principles generally accepted in the United States of America; this includes the design, implementation, and maintenance of 
+internal control relevant to the preparation and fair presentation of financial statements that are free from material misstatement, 
+whether due to fraud or error. 
+
+Auditor's Responsibility 
+Our responsibility is to express opinions on these financial statements based on our audit. We conducted our audit in accordance 
+with auditing standards generally accepted in the United States of America and the standards applicable to financial audits 
+contained in Government Auditing Standards, issued by the Comptroller General of the United States. Those standards require 
+that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material 
+misstatement. 
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. 
+The procedures selected depend on the auditor's judgment, including the assessment of the risks of material misstatement of 
+the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control 
+relevant to the entity's preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's internal 
+control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of accounting policies 
+used and the reasonableness of significant accounting estimates made by management, as well as evaluating the overall 
+presentation ofthe financial statements. 
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions. 
+
+Opinions 
+In our opinion, the basic financial statements referred to above present fairly, in all material respects, the respective financial 
+position of the governmental activities, each major fund, and the aggregate remaining fund information of the Midwest City- 
+Del City School District No.1-52, Oklahoma County, Oklahoma as of June 30, 2018, and the respective changes in financial 
+position for the year in accordance with accounting principles generally accepted in the United States of America. 
+
+Other Matters 
+Required Supplementary Information 
+Accounting principles generally accepted in the United States of America require that the management's discussion and 
+analysis on pages 6-11, budgetary comparison information on pages 42 and 43, and Teacher's Retirement Schedules on pages 
+40 and 41 be presented to supplement the basic financial statements. Such information, although not a part of the basic financial 
+statements, is required by the Governmental Accounting Standards Board, who considers it to be an essential part of financial 
+
+116 WEST BRECKENRllJGi!: AVE, BIXBY, OK 74008 
+PHONE: 918.366.4440 FAX: 918.366.4443 
+
+WWW.JENKINSKEMPER.COM 
+
+
+
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical context. We have 
+applied certain limited procedures to the required supplementary information in accordance with auditing standards generally 
+accepted in the United States of America, which consisted of inquiries of management about the method of preparing the 
+information and comparing the information for consistency with management's responses to our inquiries, the basic financial 
+statements, and other knowledge we obtained during our audit of the basic financial statements. We do not express an opinion 
+or provide any assurance on the information because the limited procedures do not provide us with sufficient evidence to 
+express an opinion or provide any assurance. 
+
+Other Information 
+Our audit was conducted for the purpose offorming an opinion on the financial statements that collectively comprise the School 
+District's basic financial statements. The introductory section, combining and individual nonmajor fund financial statements 
+and statistical section listed in the accompanying table of contents are presented for purpose of additional analysis, and are not 
+a required part of the basic financial statements. The schedule of expenditures of federal awards is presented for purposes of 
+additional analysis as required by Title 2 U.S. Code 0/ Federal regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements/or Federal Awards, and is also not a required part ofthe basic financial 
+statements. 
+
+The combining and individual nonmajor fund financial statements and the schedule of expenditures of federal awards are the 
+responsibility of management and were derived from and relate directly to the underlying accounting and other records used to 
+prepare the financial statements. Such information has been subjected to the auditing procedures applied in the audit of the 
+financial statements and certain additional procedures, including comparing and reconciling such information directly to the 
+underlying accounting and other records used to prepare the financial statements or to the financial statements themselves, and 
+other additional procedures in accordance with auditing standards generally accepted in the United States of America. In our 
+opinion, the combining and individual nonmajor fund financial statements and the schedule of expenditures of federal awards 
+are fairly stated in all material respects in relation to the financial statements as a whole. 
+
+The introductory and statistical sections have not been subjected to the auditing procedures applied in the audit of the basic 
+financial statements and, accordingly, we do not express an opinion or provide any assurance on them. 
+
+Other Reporting Required by Government Auditing Standards 
+In accordance with Government Auditing Standards, we have also issued a report dated November 26, 2018, on our 
+consideration of the School District's internal control over financial reporting and our tests of its compliance with certain 
+provisions oflaws, regulations, contracts and grant agreements and other matters. The purpose of that report is to describe the 
+scope of our testing of internal control over financial reporting and compliance and the results of that testing, and not to provide 
+an opinion on the internal control over financial reporting or on compliance. That report is an integral part of an audit performed 
+in accordance with Government Auditing Standards in considering the School District's internal control over financial reporting 
+and compliance. 
+
+J !~41 K U#<rx:a>~ ?c.. 
+Jenkins & Kemper 
+Certified Public Accountants, P.C. 
+
+November 26,2018 
+
+- 5 - 
+
+
+
+
+
+Management's Discussion & Analysis 
+
+
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+
+MIDWEST CITY - DEL CITY INDEPENDENT SCHOOL DISTRICT NO. I-52 
+
+June 30, 2018 
+
+This section of Midwest City-Del City Independent School District #52's annual financial report presents 
+the District's discussion and analysis of the District's financial performance during the fiscal year ended 
+June 30, 2018. Please read it in conjunction with the District's financial statements, which immediately 
+follow this section. 
+
+OVERVIEW OF THE FINANCIAL STATEMENTS 
+
+This annual report consists of three parts - Management's Discussion and Analysis (this section), the basic 
+financial statements, and supplementary information. The basic financial statements include two kinds of 
+statements that present different views of the District: 
+
+• The first two statements' are district-wide financial statements that provide both short-term and long- 
+term information about the District's overall financial status. 
+
+• The remaining statements are fund financial statements that focus on individual parts of the District, 
+reporting the District's operation in more detail than the district-wide statements. 
+
+• The governmental funds statements tell how basic services like regular and special education were 
+financed in the short term as well as what remains for future spending. 
+
+The financial statements also include notes that explain some of the information in the statements and 
+provide more detailed data. The statements are followed by a section of required supplementary 
+information that further explains and supports the financial statements with a comparison of the District's 
+budget for the year. 
+
+TABLE A-I 
+Major Features of District-Wide and Fund Financial Statements 
+
+District-Wide Statements Fund Financial Statements - Governmental Funds 
+Scope Entire district (except fiduciary funds) The activities of the district that are not proprietary or fiduciary such 
+
+as special education and building maintenance 
+
+Required Financial 
+Statements 
+
+1) Statement of Net Position 
+2) Statement of Activities 
+
+1) Balance Sheet 
+2) Statement of Revenue, Expenditures. and Changes in Fund Balances 
+
+Accounting Basis and 
+Measurement Focus 
+
+Accrual accounting and 
+economic resources focus 
+
+Modified accrual accounting and current financial resources focus. 
+
+Type of Asset! 
+Liability Information 
+
+All assets and liabilities, both financial 
+and capital. short-term and long-term 
+
+Generally, assets expected to be used up and liabilities that come due during 
+the year or soon thereafter; no capital assets or long-term liabilities included 
+
+Type of Inflow! 
+Outflow Information 
+
+All revenues and expenses during 
+the year, regardless of when 
+
+cash is recei-..ed or paid 
+
+Re-..enues for which cash is received during or soon after the end of the year. 
+expenditures when goods or services have been received and the related 
+liability is due and payable 
+
+Table A-I summarizes the major features of the District's financial statements. The remainder of this 
+overview section of management's discussion and analysis highlights the structure and contents of each of 
+the statements. 
+
+-6- 
+
+
+
+District-Wide Statements: The district-wide statements report information about the District as a whole 
+using accounting methods similar to those used by private-sector companies. The statement of net position 
+includes all of the district's assets and liabilities. All of the current year's revenues and expenses are 
+accounted for in the statement of activities regardless of when cash is received or paid. 
+
+The two district-wide statements report the District's net position. Net position - the difference between the 
+District's assets and liabilities is one way to measure the District's financial health or position. 
+
+• Over time, increases or decreases in the District's net position are an indicator of whether its financial 
+position is improving or deteriorating, respectively. 
+
+• To assess the overall health of the District, you need to consider additional non-financial factors such 
+as changes in the District's property tax base and the condition of school buildings and other facilities. 
+
+In the district wide financial statements, the District's activities are categorized as governmental activities. 
+
+• Governmental Activities - Most of the District's basic services are included here, such as regular and 
+special education, transportation, and administration. Property taxes and state aid formula finance 
+most of these activities. 
+
+Fund Financial Statements: The fund financial statements provide more detailed information about the 
+District's funds, focusing on its most significant or "major" funds not the District as a whole. Funds are 
+accounting devices the District uses to keep track of specific sources of funding and spending on particular 
+programs: 
+
+• Some funds are required by State law and by bond covenants. 
+
+• The District establishes other funds to control and manage money for particular purposes (like repaying 
+its long-term debts) or to show that it is properly using certain revenues. 
+
+Most of the District's basic services are included in governmental funds, which generally focus on 1) how 
+cash and other financial assets that can readily be converted to cash flow in and out; and 2) the balances 
+left at year-end that are available for spending. Consequently, the governmental funds statements provide 
+a detailed short-term view that helps you determine whether there are more or fewer financial resources 
+that can be spent in the near future to finance the District's programs. Because this information does not 
+encompass the additional long-term focus of the district-wide statements, the District provides additional 
+information with the governmental funds statements that explain the relationship (or differences) between 
+them. 
+
+-7- 
+
+
+
+FINANCIAL ANALYSIS OF THE DISTRICT AS A WHOLE 
+
+TABLEA2 
+Net Position 
+
+r 2018 " 2017 
+(in Millions) 
+
+ASSETS 
+Current and other assets $ 145.5 $ 67.8 
+Capital assets 173.7 172.1 
+
+TOTAL ASSETS $ 319.2 $ 239.9 
+
+Deferred Outflows of Resources $ 22.1 $ 39.9 
+
+LIABILITIES 
+Long-term liabilities $ 262.5 $ 208.4 
+Other liabilities 9.9 11.9 
+
+TOTAL LIABILITIES $ 272.4 $ 220.3 
+
+Deferred Inflows of Resources $ 14.9 $ 3.2 
+
+NET POSmON 
+Net investment in capital assets $ 113.8 $ 105.0 
+Restricted 29.3 31.1 
+Unrestricted (89.1) (79.8) 
+
+TOTAL NET POSmON $ 54.0 $ 56.3 
+
+TABLEA3 
+Changes in Net Position 
+
+EXPENSES 
+Instruction 
+Support services 
+Non-instruction 
+Interest on long-term debt 
+Facilities, acquisitions and construction 
+Other outlays/uses 
+
+2018 2017 Difference 
+(in Millions) 
+
+6.4 $ 6.4 $ 
+15.6 14.9 0.7 
+
+36.6 34.9 1.7 
+11.4 11.7 (0.3) 
+55.3 55.4 (0.1 ) 
+
+1.1 1.9 (0.8) 
+126.4 125.2 1.2 
+
+73.3 59.8 13.5 
+45.8 39.5 6.3 
+7.0 6.0 1.0 
+2.6 1.2 1.4 
+
+1.0 (1.0) 
+128.7 107.5 21.2 
+
+(2.3) 17.7 (20.0) 
+
+REVENUES 
+Program revenues: 
+
+Charges for services 
+Federal and State grants 
+
+$ 
+
+General revenues: 
+Property taxes 
+Other taxes 
+State entitlement 
+Other general revenues 
+
+TOTAL REVENUES 
+
+TOTAL EXPENSES 
+
+CHANGE IN NET POSITION 
+
+-8- 
+
+
+
+Changes in Net Position: Changes in Net Position: The ending net position decreased by approximately 
+$2.3 million from the prior fiscal year. The District saw an increase in State Aid revenue over the prior 
+year of about $310,629, flexible benefit allowance increased by $668,664 for all funds, state pension 
+contribution increased by $76,895 and the regular programs for the Tech Center decreased by ($111,560). 
+This made the state aid not restricted for specific programs with an overall increase of $944,628. Motor 
+vehicle tax revenue continues to decrease due to our drop in average daily attendance (ADA) by 
+$175,480. General Fund expenses increased by $1 million mainly due to step raises. 
+
+FINANCIAL ANALYSIS OF THE DISTRICT'S FUNDS 
+
+As the District completed the year, its governmental funds reported combined fund balances of $52.1 
+million, compared to $54.4 million in FYI7. 
+
+In analyzing our major funds identified for FY18 as the General Fund, Bond 33, and Debt Service Fund, 
+the only significant balances and transactions were in the General Fund by increasing the carryover from 
+9.13% to 10.27% which was helped by the healthy carryover from FY 17. The only significant transaction 
+from Bond 33 was the lease payment due in FY 18 leaving only 1 more payment due in FY 19 
+
+Significant balances and transactions in Bond Fund 33 had to do with the sale of GO Bonds of$14,140,000 
+in FY18 and $10,360,000 in FY19 used to make the lease revenue payment. This process will continue 
+through FY 2019. The additional payments were to fulfill the original resolution of Bond 33 and will decline 
+as we continue to complete projects as outlined. Bond 35and 39 will be sold each July with $3,100,000 
+going to projects that were identified and the remainder being used to make our lease payment in October 
+starting in FYI9. 
+
+The only limitations that affect the availability of fund resources for future use would be the carryover of 
+federal dollars in the General Fund of $1.32 million which is restricted to the use of only those respective 
+federal programs. Bond funds are only restricted in the sense that they must meet the 85% rule of what was 
+voted on by the patrons of the District and then used for like purposes. The Building Fund, Child Nutrition 
+Fund and Debt Service Fund are restricted only in regards to what is required by law to be used in those 
+respected funds. 
+
+General Fund Budgetary Highlights: The General Fund approved budget in FY18 decreased by $1.7 million 
+but expenditures increased by $1.6 million from FYI7. The fund balance for the General Fund increased in 
+FY18 from 9.13% or $8,014,260 in FY17 to 10.27% or $8,983,942. The increase in fund balance was due 
+to increased ad valorem taxes being collected for the other half of the calendar year 2017 with an increase 
+of 5.29%., when a local TIF was paid off early. 
+
+CAPITAL ASSET AND DEBT ADMINISTRATION 
+
+Capital Assets: By the end of 2018 the District had expended $12.6 million in a broad range of capital 
+assets, including new classroom additions and renovations, roof repairs and building renovations, computer 
+and technology equipment, security vestibules, security monitors and cameras, fencing, and furniture, 
+equipment. 
+
+-9- 
+
+
+
+Long-Term Debt: At year end the District had $47.30 million in total long-term GO debt outstanding. This 
+is an increase from last year's amount of $44.14 million. (More detailed information about the District's 
+long-term liabilities is presented in Note 5 to the financial statements.) 
+
+• The District continued to pay down its debt, retiring $49.8 million of outstanding GO bonds, leases 
+payable, pension liability and compensated absences in FYI8. 
+
+• $16.98 million in new GO debt and premium was issued during the year and that with the District's 
+rental payment of$3,000 made the District's seventh payment on the 2012 Lease Revenue Bonds. The 
+2018 Lease Revenue and premium on bonds were received in February, 2018 totaling $86.9 million 
+and were offset with the cash and investments in the Trust account shown as "Other Receivables" on 
+the Statement of Net Position. 
+
+FACTORS BEARING ON THE DISTRICT'S FUTURE 
+
+At the time these financial statements were prepared and audited, the District was not aware of any existing 
+circumstances that would adversely impact the finances of the district that have not already been presented 
+in the audit. 
+
+CONTACTING THE DISTRICT'S FINANCIAL MANAGEMENT 
+
+This financial report is designated to provide the District's citizens, taxpayers, customers, and investors and 
+creditors with a general overview of the District's finances and to demonstrate the District's accountability 
+for the money it receives. If you have questions about this report or need additional financial information, 
+contact the Superintendent, Mid-Del Schools, 7217 S.E. 15th, Midwest City, OK 73110. 
+
+-10- 
+
+
+
+Basic Financial Statements 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF NET POSITION 
+
+JUNE 30, 2018 
+
+Assets 
+Cash and cash equivalents 
+Property taxes receivable 
+Due from other governments 
+Other receivables 
+Inventory 
+Capital assets: 
+Land 
+Construction-in-progress 
+Other capital assets, net of accumulated depreciation 
+
+Total assets 
+
+Deferred outflows of resources, pension related deferred outflows 
+
+Liabilities 
+Accounts payable 
+Wages payable 
+Liabilities for incurred claims 
+Bond proceeds good faith deposit 
+Accrued interest 
+Long-term liabilities: 
+Due within one year 
+Due in more than one year 
+Total liabilities 
+
+Deferred inflows of resources 
+Pension related deferred inflows 
+Total deferred inflows of resources 
+
+Net Position 
+Net investment in capital assets 
+Restricted for: 
+Debt service 
+Child Nutrition 
+Building 
+
+Unrestricted (deficit) 
+Total net position 
+
+See Notes to Basic Financial Statements 
+
+-11- 
+
+Governmental 
+Activities 
+
+$ 56,215,271 
+1,330,010 
+2,918,079 
+
+84,556,191 
+536,449 
+
+16,552,576 
+5,137,899 
+
+151,979,685 
+319,226,160 
+
+22,142,987 
+
+586,753 
+6,782,475 
+665,796 
+180,000 
+
+1,758,118 
+
+26,617,232 
+235,872,682 
+272,463,056 
+
+14,923,172 
+14,923,172 
+
+113,787,691 
+
+15,256,982 
+2,352,936 
+
+11,709,661 
+(89,124,351) 
+
+$ 53,982,919 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF ACTIVITIES 
+
+FOR THE YEAR ENDED JUNE 30,2018 
+
+Programs/Functions 
+Governmental Activities: 
+
+Instruction 
+Support services 
+Non-instruction services 
+Other outlays 
+Interest on long-term debt 
+
+Total primary government 
+
+Expenses 
+
+$ 73,284,816 
+45,842,383 
+6,962,478 
+
+28,991 
+2,552,743 
+
+$ 128,671,411 
+
+General Revenues 
+Taxes: 
+
+Property taxes, levied for 
+general purposes 
+
+Property taxes, levied for 
+building purposes 
+
+Property taxes, levied for 
+debt service 
+
+General taxes 
+State aid not restricted for specific purposes 
+Support from other local governments 
+Interest, dividends, and investment earnings 
+Other general revenues 
+
+Total general revenues 
+
+Changes in net position 
+
+Net position, beginning of year 
+Net position, end of year 
+
+See Notes to Basic Financial Statements 
+
+-12- 
+
+Net (Expenses) 
+Revenue and 
+Changes in 
+
+Program Revenues Net Position 
+Operating 
+
+Charges for Grants and Governmental 
+Services Contributions Activities 
+
+5,040,794 9,817,746 (58,426,276) 
+(45,842,383) 
+
+1,341,292 4,722,186 (899,000) 
+(28,991) 
+
+(2,552,743) 
+
+6,382,086 14,539,932 (107,749,393) 
+
+$ 19,268,102 
+
+2,750,981 
+
+14,533,156 
+7,340,369 
+
+56,356,339 
+4,063,755 
+472,854 
+660,201 
+
+105,445,757 
+
+(2,303,636) 
+
+56,286,555 
+$ 53,982,919 
+
+
+
+
+
+Governmental Fund Financial Statements 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BALANCE SHEET-GOVERNMENTAL FUNDS 
+
+JUNE 30, 2018 
+
+General Debt Building 
+Fund Service Fund Fund 
+
+Assets 
+Cash and cash equivalents $ 15,197,571 16,487,836 7,597,873 
+Property taxes receivable 702,378 527,264 100,368 
+Receivables net of allowance for uncollectibles 2,107,913 
+Inventory 244,942 187,309 
+
+Total assets 18,252,804 17,015,100 7,885,550 
+
+Liabilities, Deferred Inflows of Resources, 
+and Fund Balances 
+
+Liabilities 
+Accounts payable 53,074 171,620 
+Accrued wages 6,213,629 
+Total liabilities 6,266,703 171,620 
+
+Deferred Inflows of Resources 
+Unavailable revenue - property taxes 389,296 287,484 55,667 
+Total deferred inflows of resources 389,296 287,484 55,667 
+
+Fund Balances 
+Nonspendable inventory 244,942 187,309 
+Restricted fund balances: 
+School construction 
+Retirement of long-term debt 16,727,616 
+Buildings 7,470,954 
+Child nutrition 
+
+Assigned 
+Unassigned 11,351,863 
+Total fund balances 11,596,805 16,727,616 7,658,263 
+
+Total liabilities, deferred inflows of 
+resources, and fund balances $ 18,252,804 17,015,100 7,885,550 
+
+See Notes to Basic Financial Statements 
+
+-13- 
+
+
+
+Other Total 
+Governmental Governmental 
+
+Bond 33 Funds Funds 
+
+$ 1,150,435 14,986,409 55,420,124 
+1,330,010 
+
+810,166 2,918,079 
+104,198 536,449 
+
+1,150,435 15,900,773 60,204,662 
+
+362,058 
+568,846 
+
+586,752 
+6,782,475 
+
+930,904 7,369,227 
+
+732,447 
+732,447 
+
+104,198 536,449 
+
+1,150,435 2,697,597 3,848,032 
+16,727,616 
+
+4,073,029 11,543,983 
+2,352,936 2,352,936 
+5,742,109 5,742,109 
+
+11,351,863 
+1,150,435 14,969,869 52,102,988 
+
+$ 1,150,435 15,900,773 60,204,662 
+
+-14- 
+
+
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+RECONCILIATION OF THE GOVERNMENTAL FUNDS BALANCE SHEET 
+
+TO THE STATEMENT OF NET POSITION 
+JUNE 30, 2018 
+
+Total governmental fund balances 
+
+Amounts reported for governmental activities in the statement 
+of net position are different because: 
+
+Capital assets used in governmental activities are not financial 
+resources and; therefore, are not reported as assets 
+in governmental funds. 
+
+Revenues receivable are not available soon enough to pay 
+for the current period's expenditures and, therefore, are deferred 
+in the funds. 
+Property taxes 
+
+An internal service fund is used by the District to charge the costs 
+of workers' compensation insurance to the individual funds. 
+The assets and liabilities of the internal service fund are included 
+with governmental activities. 
+
+Pension related deferred outflows of resources and deferred inflows of 
+resources are not due and payable in the current year and, therefore, 
+are not reported in the governmental funds, as follows: 
+Deferred outflows of resources 
+Deferred inflows of resources 
+
+Long-term liabilities, including bonds payable, are not due and 
+payable in the current period and; therefore, are not reported 
+as liabilities in the funds. Long-term liabilities at year-end consist of: 
+Bonds 
+Premium on bonds 
+Leases payable 
+Accrued interest 
+Compensated absences 
+Bond proceeds good faith deposit 
+Net pension liability 
+
+Funds available for drawdown under the capital lease are reported 
+as a receivable in the governmental activities, but not reported 
+in governmental funds. 
+
+Net position of governmental activities 
+
+See Notes to Basic Financial Statements 
+
+-15- 
+
+22,142,987 
+(14,923,172) 
+
+(47,300,000) 
+(9,909,471) 
+
+(87,229,189) 
+(1,758,118) 
+(2,421,243) 
+(180,000) 
+
+(115,630,010) 
+
+$ 52,102,988 
+
+173,670,160 
+
+732,447 
+
+129,349 
+
+7,219,815 
+
+(264,428,031) 
+
+84,556,191 
+
+$ 53,982,919 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES 
+
+IN FUND BALANCES - GOVERNMENTAL FUNDS 
+JUNE 30, 2018 
+
+General Debt Building 
+Fund Service Fund Fund 
+
+Revenues: 
+Property tax $ 19,130,236 14,448,444 2,731,293 
+Interest 57,135 29,838 
+County 4,063,755 
+State 57,080,825 606 109 
+Federal 6,857,486 553,908 
+Local 481,396 1,794 2,736 
+Other 148,359 1,401,332 
+
+Total revenues 87,819,192 15,882,014 3,288,046 
+
+Expenditures: 
+Instruction 53,267,750 
+Support services 32,876,939 4,890,137 
+Non-instruction services 1,538 
+Capital outlays 9,394 
+Other outlays 530,313 
+Debt service: 
+Principal paid 13,820,000 
+Interest paid 1,520,162 
+Judgements 28,991 
+
+Total expenditures 86,676,540 15,369,153 4,899,531 
+
+Excess (deficiency) of revenues 
+over expenditures 1,142,652 512,861 (1,611,485) 
+
+Other financing sources (uses) 
+Premium on bonds sold 498,949 
+Proceeds of bonds 
+Insurance loss recovery 
+
+Total other financing sources (uses) 498,949 
+
+Net change in fund balances 1,142,652 1,011,810 (1,611,485) 
+
+Fund balance, beginning of year 10,454,153 15,715,806 9,269,748 
+Fund balance, end of year $ 11,596,805 16,727,616 7,658,263 
+
+See Notes to Basic Financial Statements 
+
+-16- 
+
+
+
+Bond 33 
+
+Other 
+Governmental 
+
+Funds 
+Governmental 
+
+Funds 
+
+36,309,973 
+1,698 11,960 100,631 
+
+4,063,755 
+2,234,434 59,315,974 
+6,145,754 13,557,148 
+6,518,921 7,004,847 
+504,544 2,054,235 
+
+1,698 15,415,613 122,406,563 
+
+1,599,688 5,935,442 60,802,880 
+2,628,534 4,587,380 44,982,990 
+
+6,674,393 6,675,931 
+9,129,950 3,475,025 12,614,369 
+
+1,415,492 1,945,805 
+
+13,820,000 
+1,520,162 
+
+28,991 
+13,358,172 22,087,732 142,391,128 
+
+(13,356,474) (6,672,119) (19,984,565) 
+
+498,949 
+14,140,000 3,020,000 17,160,000 
+
+14,140,000 3,020,000 17,658,949 
+
+783,526 (3,652,119) (2,325,616) 
+
+366,909 18,621,988 54,428,604 
+$ 1,150,435 14,969,869 52,102,988 
+
+-17- 
+
+
+
+Because some revenues will not be collected for several months after the District's 
+year end, they are not considered "available" revenues in the governmental funds 
+and are, instead counted as deferred inflows of resources. They are, however, 
+recorded as revenues in the statement of activities. 
+
+Property taxes 242,266 
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+RECONCILIATION OF THE STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES 
+IN FUND BALANCES OF GOVERNMENTAL FUNDS TO THE STATEMENT OF ACTIVITIES 
+
+JUNE 30, 2018 
+
+Net change in fund balance - total governmental funds $ (2,325,616) 
+
+Amounts reported for governmental activities and the statement 
+of activities are different because: 
+
+Capital outlays to purchase or build capital assets are reported in 
+governmental funds as expenditures. However, for governmental activities, those 
+costs are shown in the statement of net position and allocated over their estimated 
+useful lives as annual depreciation expense in the statement of activities. This is the 
+amount by which the capital outlays exceeded depreciation and retirements 
+in the period. 
+
+Capital outlays 
+Depreciation expense 
+Loss on disposal of capital assets 
+
+$ 7,414,536 
+(5,871,271 ) 
+
+1,543,265 
+
+Drawdowns of capital lease funds of $2,393,468 used for the purchase of capital assets, 
+net of dividends earned of $365,313 (2,028,155) 
+
+Some of the capital assets acquired this year were financed with general obligation bonds. 
+The amount financed by the bonds and related premium is reported in tile governmental 
+funds as a source of financing, but increases long-term liabilities in the statement 
+of net position and does not affect the statement of activities. 
+
+An internal service fund is used by the District to charge the costs of workers 
+compensation insurance to the individual funds. The changes in net position of 
+the internal service fund is reported with governmental activities. (155,431 ) 
+
+(17,658,949) 
+
+Repayment of bond principal and repayment on capital lease purchases are an expense 
+in the governmental funds, but it reduces long-term liabilities in the statement 
+of net position and does not affect the statement of activities. Amortization of bond 
+premium is recorded in the statement of activities, but not in the governmental funds. 26,805,817 
+
+In the statement of activities, certain expenses do not require the use of current 
+financial resources and, therefore, are not reported as expenditures in govemmental funds. 
+Compensated absences 
+Pension expense, less state contributions 
+
+9,114 
+(7,703,366) 
+
+Interest on long-term debt in the statement of activities differs from the amount reported 
+in the governmental funds because interest is recorded as an expenditure 
+in the funds when it is due, and thus, requires the use of current financial 
+resources. In the statement of activities, interest expense is recognized 
+as the interest accrues, regardless of when it is due. (1,032,581 ) 
+
+Change in net position - statement of activities $ (2,303,636) 
+
+See Notes to Basic Financial Statements 
+
+-18- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+ST ATEMENT OF NET POSITION - PROPRIETARY FUND 
+
+JUNE 30, 2018 
+
+Assets 
+Cash and cash equivalents 
+
+Total assets 
+
+Liabilities 
+Liability for incurred claims 
+
+Net Position 
+Unrestricted 
+
+See Notes to Basic Financial Statements 
+
+-19- 
+
+Internal 
+Service Fund - 
+
+Workers' 
+Compensation 
+
+$ 795,145 
+795,145 
+
+665,796 
+
+$ 129,349 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES 
+
+IN NET POSITION - PROPRIETARY FUND 
+JUNE 30, 2018 
+
+Operating revenues: 
+Insurance contributions 
+Local 
+
+Total operating revenues 
+
+Operating expenses: 
+Management fees 
+Claims 
+
+Total operating expenses 
+
+Operating income 
+
+Nonoperating revenues, interest income 
+
+Changes in net position 
+
+Net position, beginning of year 
+Net position, end of year 
+
+See Notes to Basic Financial Statements 
+
+-20- 
+
+Internal 
+Service Fund - 
+
+Workers' 
+Compensation 
+
+$ 851,885 
+15,328 
+
+867,213 
+
+214,712 
+814,841 
+
+1,029,553 
+
+(162,340) 
+
+6,909 
+
+(155,431) 
+
+284,780 
+$ 129,349 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF CASH FLOWS 
+
+PROPRIETARY FUND 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Cash flows from operating activities: 
+Received from assessments made to other funds 
+Refunds received 
+Payments for workers' compensation claims and management fees 
+
+Net cash (used in) operating activities 
+
+Cash flows from investing activities, interest earnings 
+
+Net decrease in cash and cash equivalents 
+
+Cash and cash equivalents, beginning of year 
+Cash and cash equivalents, end of year 
+
+Reconciliation of operating income to net cash (used in) 
+operating activities: 
+
+Operating income 
+Adjustments to reconcile operating income to net cash (used in) 
+operating activities: 
+Change in liability for incurred claims 
+
+Net cash (used in) operating activities 
+
+See Notes to Basic Financial Statements 
+
+-21- 
+
+Internal 
+Service Fund - 
+
+Workers' 
+Compensation 
+
+$ 851,885 
+15,328 
+
+(1,237,524) 
+(370,311) 
+
+6,909 
+
+(363,402) 
+
+1,158,547 
+$ 795,145 
+
+$ (162,340) 
+
+(207,971) 
+
+$ (370,311) 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF NET POSITION - FIDUCIARY FUNDS 
+
+JUNE 30, 2018 
+
+Assets, cash 
+
+Liabilities 
+Accounts payable 
+Funds held for student activities 
+
+Total liabilities 
+
+Net Position, held in trust for the benefit of specific individuals 
+
+See Notes to Basic Financial Statements 
+
+-22- 
+
+Agency 
+Funds 
+Activity 
+Fund 
+
+1,938,763 
+
+56,488 
+1,882,275 
+1,938,763 
+
+
+
+Notes to the Basic Financial Statements 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies 
+
+The financial statements of the Midwest City-Del City Public Schools Independent District 
+No. 52 (the "District") have been prepared in conformity with accounting principles 
+generally accepted in the United States of America ("GAAP") as applied to government units 
+as promulgated by the Governmental Accounting Standards Board ("GASB"), the standard- 
+setting body for governmental accounting and financial reporting principles. The more 
+significant of the District's accounting policies are described below. 
+
+A. Reporting Entity 
+
+The District is a corporate body for public purposes created under Title 70 of the Oklahoma 
+Statutes and, accordingly, is a separate entity for operating and financial reporting purposes. 
+The District is part of the public school system of Oklahoma under the general direction and 
+control ofthe State Board of Education and is financially dependent on the State of Oklahoma 
+for support. The general operating authority for the public school system is the Oklahoma 
+School Code contained in Title 70, Oklahoma Statutes. The governing body of the District 
+is the Board of Education composed of five elected members. The appointed superintendent 
+is the executive officer of the District. 
+
+As required by accounting principles generally accepted in the United States of America, the 
+basic financial statements present the reporting entity which consists of the primary 
+government; organizations for which the primary government is financially accountable and 
+other organizations for which the nature and significance of their relationship with the 
+primary government are such that exclusion could cause the District's basic financial 
+statements to be misleading. 
+
+The District has presented the entities which comprise the reporting entity in the basic 
+financial statements for 2018. 
+
+The Midwest City-Del City Lewis Eubanks Technical Center (formerly the Mid-Del Area 
+Vo-Tech) became a designated Area Vocational-Technical School in 1977 by action of the 
+Oklahoma State Board of Vocational and Technical Education with no ad valorem millage 
+devoted specifically for its support. It is the only designated technology center in the State 
+of Oklahoma that shares a school board with a public school district. The Mid-Del School 
+District No. I-52 board of education serves as the Tech Center's board of education. The 
+Technical Center is reported as a blended component unit as a special revenue fund of the 
+primary government. 
+
+-23- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+I. Summary of Significant Accounting Policies- contd. 
+A. Reporting Entity - contd. 
+
+The government-wide financial statements (the statement of net position and the statement 
+of activity) report information on all of the non-fiduciary activities of the school district. For 
+the most part, the effect of inter-fund activity has been removed from these statements. 
+
+B. Fund Accounting 
+
+Governmental activities are normally supported by taxes and intergovernmental revenues 
+and are reported separately from business-type activities, which rely to a significant extent 
+on fees and charges for support. All ofthe District's activities are reported as governmental 
+activities. 
+
+The statement of activities demonstrates the degree to which the direct expenses of a given 
+function or segment is offset by program revenues. Direct expenses are those that are clearly 
+identifiable with a specific function. Indirect expenses of other functions are not allocated 
+to those functions but are reported separately in the statement of activities. Program revenues 
+include I) tuition or fees paid by students or citizens of the District and 2) grants and 
+contributions that are restricted to meeting the operational or capital requirements of a 
+particular function. Taxes and other items, including state aid, that are not properly included 
+among program revenues are reported as general revenues. 
+
+The school district segregates transactions related to certain functions or activities in separate 
+funds in order to aid financial management and to demonstrate legal compliance. 
+
+Separate financial statements are provided for governmental funds, proprietary, and fiduciary 
+funds, even though the latter are excluded from the government-side financial statements. 
+
+Governmental Fund Types 
+
+Governmental funds are used to account for all or most of a government's general activities, 
+including the collection and disbursement of earmarked monies (special revenue funds), the 
+acquisition or construction of general capital assets (capital projects funds), and the servicing 
+of general long-term debt (debt service funds). 
+
+General Fund - The general fund is used to account for all financial transactions except those 
+required to be accounted for in another fund. Major revenue sources include state and local 
+property taxes and state funding under the Foundation and Incentive Aid Program. 
+
+-24- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+B. Fund Accounting - contd. 
+
+Expenditures include all costs associated with the daily operations of the schools except for 
+programs funded for building repairs and maintenance, school construction and debt service 
+on bonds and other long-term debt. 
+
+Special Revenue Fund - The special revenue funds are the District's building, co-op and child 
+nutrition funds. 
+
+Building Fund - The building fund consists of monies derived property taxes levied for 
+the purpose of erecting, remodeling, repairing, or maintaining school buildings and for 
+purchasing furniture and equipment. 
+
+Co-op Fund - The co-op fund is established when the boards of education of two or 
+more school districts enter into cooperative agreements and maintain joint programs. 
+The revenues necessary to operate a cooperative program can come from federal, state, 
+or local sources, including the individual contributions of participating school districts. 
+The expenditures for this fund would consist of those necessary to operate and maintain 
+the joint programs. The District did not maintain this fund during the 2017-18 fiscal 
+year. 
+
+Child Nutrition Fund - The child nutrition fund is a special revenue fund used to 
+account for the operations of the child nutrition programs. Revenue sources include 
+meal ticket sales and Federal and State grants for free and reduced meals. 
+
+Technology Center Fund - The technology center fund is used to account for financial 
+resources to be used for the operation of vocational and technical education programs. 
+
+Debt Service Fund - The debt service (sinking fund) is used to account for the accumulation 
+of financial resources for the payment of general long-term debt principal, interest, and 
+related costs. The primary revenue sources are local property taxes levied specifically for 
+debt service and interest earnings from temporary investments. 
+
+Bond 33 Fund - The bond fund is a capital project fund used to account for the proceeds of 
+bond sales to be used exclusively for acquiring school sites, constructing and equipping new 
+school facilities, renovating existing facilities, and acquiring transportation equipment. 
+
+-25- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+B. Fund Accounting - contd. 
+
+Tech Center Building Fund - The tech center building fund is used to account for financial 
+resources restricted to the Technology Center's remodeling or repairing buildings and 
+purchasing furniture and equipment. 
+
+Bond 32,34,35,38, and 39 Funds - The bond funds are used to account for the proceeds of 
+bond sales to be used exclusively for acquiring school sites, constructing and equipping new 
+school 
+facilities, removing existing facilities, and acquiring transportation equipment. 
+
+Casualty/Insurance Funds - The insurance fund was established to account for revenues and 
+expenditures for all types of insurance coverage and major reimbursements and reserves for 
+property. 
+
+Proprietary Fund Types 
+
+Proprietary funds are used to account for activities similar to those found in the private sector, 
+where the determination of net income is necessary or useful to sound financial 
+administration. Goods or services from such activities can be provided either to outside 
+parties (enterprise funds) or to other departments or agencies primarily within the District 
+(internal service funds). Proprietary funds distinguish operating revenues and expenses from 
+non-operating items. Operating revenues and expenses generally result from providing 
+services in connection with a proprietary fund's principal ongoing operations. Operating 
+expenses for enterprise funds and internal service funds include the cost of sales and services, 
+administrative expenses and depreciation on capital assets. All revenues and expenses not 
+meeting this definition are reported as non-operating revenues and expenses. The District 
+reports the following non-major propriety fund: 
+
+Internal Service Fund - Worker's Compensation - The workers' compensation insurance 
+fund is an internal service fund used to account for the accumulation, recording and 
+disbursing of District contributions to the District's self-insured Workers' Compensation 
+Account. 
+
+Fiduciary Fund Types 
+Fiduciary funds are used to account for assets held on behalf of outside parties, including 
+other governments, or on behalf of other funds within the District. When these assets are 
+held under the terms of a formula trust agreement, either a private purpose trust fund or a 
+permanent fund is used. The terms "permanent" and "private purpose" refer to whether or 
+
+-26- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+B. Fund Accounting - contd. 
+
+not the District is under an obligation to maintain the trust principal. Agency funds generally 
+are used to account for assets that the District holds on behalf of others as their agent and do 
+not involve measurement of results of operations. 
+
+The District reports the following non-major fiduciary funds: 
+
+Private Purpose Trust Funds - Gifts Fund - The gifts fund is a private-purpose trust fund to 
+account for donations received for the benefit of specified individuals associated with the 
+District. This fund was not active during the current fiscal year. 
+
+Agency Fund - Activity Fund - The activity fund is used to account for monies collected 
+principally through fundraising efforts of the students and District sponsored groups. The 
+administration is responsible, under the authority of the Board, for collecting, disbursing, and 
+accounting for these activity funds. 
+
+The District's fiduciary funds have been excluded from the government-wide financial 
+statements. 
+
+Account Group 
+Account groups are not funds and consist of a self-balancing set of accounts used only to 
+establish accounting control over long-term debt and fixed assets. 
+
+General Long-Term Debt Account Group - This account group was established to account 
+for all long-term debt of the District, which is offset by the amount available in the debt 
+service fund and the amount to be provided in future years to complete retirement of the debt 
+principal. It is also used to account for other liabilities (judgments and lease purchases), 
+which are to be paid from funds provided in future years. 
+
+C. Basis of Accounting and Measurement Focus 
+
+The government-wide financial statements are reported using the economic resources 
+measurement focus and the accrual basis of accounting, as are the proprietary fund and 
+fiduciary fund financial statements. The economic resources measurement focus is not 
+applicable to the agency fund and therefore they have no measurement focus. Revenues are 
+recorded when earned and expenses are recorded when a liability is incurred, regardless of 
+the timing of related cash flows. Property taxes are recognized as revenues in the year for 
+which they are levied. 
+
+-27- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies - contd. 
+C. Basis of Accounting and Measurement Focus - contd. 
+
+Grants and similar items are recognized as revenue as soon as all eligibility requirements 
+imposed by the provider have been met. 
+
+Governmental fund financial statements are reported using the current financial resources 
+measurement focus and the modified accrual basis of accounting. Revenues are recognized 
+as soon as they are both measurable and available. Revenues are considered to be available 
+when they are collectible within the current period or soon enough thereafter to pay liabilities 
+of the current period. For this purpose, the government considers revenues to be available if 
+they are collected within 60 days of the end of the current fiscal period. Expenditures 
+generally are recorded when a liability is incurred, as under accrual accounting. However, 
+debt service expenditures, as well as expenditures related to compensated absences and 
+pension liabilities are recorded only when the payment is due. 
+
+Property taxes and interest and certain state and federal grants associated with the current 
+fiscal period are all considered to be susceptible to accrual and so have been recognized as 
+revenues of the current fiscal period. All other revenue items are considered to be measurable 
+and available only when cash is received by the government. 
+
+D. Budget and Budgetary Accounting 
+
+A budget is legally adopted by the Board of Education for the general fund, building fund, 
+debt service (sinking) fund, child nutrition fund, tech center, and tech center building fund 
+that included revenues and expenditures. These budgets are prepared on a modified cash 
+basis of accounting. Budgetary control is maintained by fund, function, and activity and 
+budgeted expenditures may not exceed appropriations at the fund level. Amendments may 
+be made to the budget without approval by the governing body at the function and activity 
+levels. Fund level budgetary amendments require approval of the governing body. 
+
+Encumbrances represent commitments related to unperformed contracts for goods or 
+services. Encumbrance accounting under which purchase orders, contracts and other 
+commitments for the expenditure of resources are recorded to reserve a portion of the 
+applicable fund balance is utilized in all governmental funds of the District. Appropriations 
+which are not spent lapse at the end of the fiscal year and encumbrances are reversed. On 
+the first day of the following fiscal year, the encumbrances are reinstated and the 
+expenditures are applied against the year's budget. At the beginning of the next year, prior 
+year encumbrances are reviewed and some are reestablished. There were no material 
+encumbrances which lapsed at June 30, 2017 and were reinstated during fiscal year 2018. 
+
+-28- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+E. Assets, Liabilities, Deferred Inflows/Outflows and Fund Balance/Net Position 
+
+Cash and Cash Equivalents and Investments - The District considers all cash on hand, 
+demand deposits interest bearing checking accounts, and highly liquid investments with an 
+original maturity of three months or less when purchased to be cash and cash equivalents. 
+As of June 30, 2018, all ofthe District's investments were in money market accounts which 
+meet the definition of cash equivalents. Investments, not meeting the definition of cash 
+equivalents, are recorded at fair value. 
+
+Inventories - Inventories in the governmental funds are recorded as expenditures when 
+purchased rather than when consumed. Inventories include fuel, maintenance supplies, 
+instructional supplies, and food service supplies. Cost of donated federal surplus 
+commodities is based on values established by the federal government at the time of 
+donation. 
+
+Capital Assets - Capital assets, which include property, plant and equipment, are reported in 
+the government-wide financial statements. 
+
+The capitalization threshold is $5,000. All purchased capital assets are valued at cost when 
+historical records exist and at an estimated historical cost where no historical records exist. 
+Donated capital assets are valued at their fair market value on the date donated. 
+
+The costs of normal maintenance and repairs that do not add to the value of the assets or 
+materially extend asset lives are not capitalized. Improvements are capitalized and 
+depreciated over the remaining useful lives of the related capital assets, as applicable. 
+
+Capital assets are depreciated using the straight-line method over the following useful lives: 
+
+Type of Asset Years 
+Buildings and renovations 
+Furniture and accessories 
+Equipment and appliances 
+Computer softwarelhardware 
+Vehicleslbuses 
+
+45 
+5-20 
+7-15 
+
+5 
+6 
+
+-29- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+E. Assets, Liabilities, Deferred Inflows/Outflows and Fund Balance/Net Position - contd. 
+
+Deferred Outflows of Resources - In addition to assets, the statement of net position will 
+sometimes report a separate section for deferred outflows of resources. This separate 
+financial statement element represents a consumption of net position that applies to a future 
+period(s). It will not be recognized as an outflow of resources (expense/expenditure) until 
+then. Deferred outflows of resources for the year ended June 30, 2018 consist of 
+unrecognized items not yet charged to pension expense and contributions from the District 
+after the measurement date but before the end of the District's reporting period. 
+
+Deferred Inflows of Resources - In addition to liabilities, financial statements will sometimes 
+report a separate section for deferred inflows of resources. This separate financial statement 
+element represents an acquisition of net position that applies to a future period(s). It will not 
+be recognized as an inflow of resources (revenue) until then. The governmental fund balance 
+sheet includes deferred inflows of resources related to unavailable revenue from property 
+taxes, federal revenue, and local revenue. These amounts are deferred and recognized as an 
+inflow of resources in the period that the amounts become available. 
+
+Deferred inflows of resources in the statement of net position for the year ended June 30, 
+2018 consist of succeeding year property tax receivables that will not be recognized until the 
+year for which it is levied and budgeted for and the unamortized portion of the net difference 
+between projected and actual earnings on pension plan investments and pension plan 
+expenence. 
+
+Compensated Absences - The District's policy allows employees to accumulate unused sick 
+leave from year to year as long as employees remain continuously in the Midwest City-Del 
+City School system. Maximum number of days that can be accumulated for purposes of sick 
+leave cannot exceed one hundred twenty (120) days at the beginning of the school year. For 
+the purposes of sick leave reimbursement upon retirement or resignation, the district pays for 
+all sick leave accrued during employment not previously paid for by the Midwest City-Del 
+City School District. 
+
+A twelve-month salaried employee is eligible for twelve (12) days paid vacation each year 
+accrued at the rate of one (1) day per month. Twelve month employees may carryover 
+vacation days up to a maximum of twenty-four (24) days. Upon retirement or resignation, 
+the District will reimburse an employee for accrued vacation at the employee's regular daily 
+rate of pay. 
+
+-30- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+Assets, Liabilities, Deferred Inflows/Outflows and Fund Balance/Net Position - contd. 
+
+Compensated Absences - contd. 
+The liability for compensated absences attributable to the District's governmental funds is 
+recorded in the government-wide financial statements. A liability for those amounts is 
+recorded in governmental funds only if the liability has matured as a result of employee 
+resignations or retirements. 
+
+Long-term Liabilities - In the government-wide financial statements and proprietary fund 
+types in the fund financial statements, long-term debt and other long-term obligations are 
+reported as liabilities in the applicable governmental activities statement of net position. 
+Bond premiums and discounts are deferred and amortized over the life of the bonds using 
+the straight-ling method which approximates the effective interest method. Bond issuance 
+costs are expensed when incurred. 
+
+In the governmental fund financial statements, the face amount of debt is reported as other 
+financing sources. Repayments of long-term debt are reported as expenditures. Premiums 
+received on debt issuances are reported as other financing sources, while discounts on debt 
+issuances are reported as other financing uses. Issuance costs, whether or not withheld from 
+the actual debt proceeds received, are reported as debt service expenditures. 
+
+Pensions - For purposed of measuring the net pension asset (liability), deferred outflows of 
+resources and deferred inflows of resources related to pensions, and pension expense, 
+information about the fiduciary net position of Oklahoma Teachers' Retirement System 
+(OTRS) and additions to/deductions from these fiduciary net positions has been determined 
+on the same basis as they are reported by OTRS. For this purpose, benefit payments 
+(including refunds of employee contributions) are recognized when due and payable in 
+accordance with the benefit terms. Investments are reported at fair value. 
+
+Net Position - The government-wide, proprietary fund, and fiduciary fund financial 
+statements utilize a net position presentation. Net position is categorized as net investment 
+in capital assets, restricted, and unrestricted. 
+
+Net Investment in Capital Assets - This component of net position reports capital assets less 
+both accumulated depreciation and the outstanding balance of debt (excluding unexpended 
+proceeds) that is directly attributable to the acquisition, construction, or improvement of 
+those assets. Any deferred outflows of resources and deferred inflows of resources that are 
+attributable to the acquisition, construction, or improvement of those assets or related debt 
+are also included in the component of net position. 
+
+-31- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+E. Assets, Liabilities, Deferred Inflows/Outflows and Fund Balance/Net Position - contd. 
+
+Restricted Net Position - This component of net position reports the difference between 
+assets, deferred inflows/outflows of resources and liabilities of certain programs or funds that 
+consist of assets with constraints placed on their use by either external parties and/or enabling 
+legislation. Net position restricted by enabling legislation consists of $15,256,982 for debt 
+service and $11,709,661 for buildings. 
+
+Umestricted Net Position - Net position that does not meet the definition of net investment 
+in capital assets or restricted are classified as unrestricted. 
+
+It is the District's policy to first use restricted net position prior to the use of unrestricted net 
+position when an expense is incurred for purposes for which both restricted and unrestricted 
+net position are available. 
+
+Fund Balance - Governmental fund equity is classified as fund balance. Fund balance 
+consists of five categories, defines as follows: 
+
+Nonspendable Fund Balance - The nonspendable fund balance classification includes 
+amounts that cannot be spent because they are either (a) not in spendable form or (b) 
+legally or contractually required to be maintained intact. This would include items 
+not expected to be converted to cash including inventories, long-term receivables, and 
+prepaid amounts. It may also include long-term loans and receivables, as well as 
+property acquired for resale and the corpus (principal) of a permanent fund. 
+
+Restricted Fund Balance - The restricted fund balance classification should be reported 
+when constraints placed on the use of resources are either (a) externally imposed by 
+creditors, grantors, contributors, or laws or regulations of other governments or (b) 
+imposed by law through constitutional provisions or enabling legislation. 
+
+Committed Fund Balance - The committed fund balance classification reflects specific 
+purposes pursuant to constraints imposed by formal action of the District's highest level 
+of decision-making authority (the District's Board of Education). Such constraints can 
+only be removed or changed by the same form of formal action. Funds set aside by the 
+Board of Education as committed fund balance requires the approval of a resolution by 
+a majority vote of the members of the Board of Education. Such approval must take 
+place prior to the District's fiscal year-end in order for it to be applicable to that fiscal 
+year. It is permitted for the specific amount of the commitment to be determined after 
+
+-32- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+E. Assets, Liabilities, Deferred Inflows/Outflows and Fund Balance/Net Position - contd. 
+
+Committed Fund Balance - contd. 
+the fiscal year-end if any additional information is required in order to determine the 
+exact amount. The Board of Education has the authority to remove or change the 
+commitment of funds with a resolution. 
+
+Assigned Fund Balance - The assigned fund balance classification reflects amounts 
+that are constrained by the government's intent to be used for specific purposes but 
+meet neither the restricted nor committed forms of constraint. Assigned funds cannot 
+cause a deficit in unassigned fund balance. For the purposes of assigned fund balance, 
+the District has given authority to the Superintendent and Deputy Superintendent of 
+Fiscal Services to assign funds for specific purposes. 
+
+Unassigned Fund Balance - The unassigned fund balance classification is the residual 
+classification for the General Fund only. It is also where negative residual amounts for 
+all other governmental funds must be reported. Unassigned fund balance essentially 
+consists of excess funds that have not been classified in the other four fund balance 
+categories mentioned above. 
+
+It is the District's policy to use restricted fund balance prior to the use of unrestricted fund 
+balance when an expense is incurred for purposes for which both restricted and unrestricted 
+fund balances are available. The District's policy for the use of unrestricted fund balance 
+amounts requires that committed amounts would be used first, followed by assigned and then 
+unassigned amounts when expenditures are incurred for purposes for which amounts in any 
+of those unrestricted fund balance classifications could be used. 
+
+F. Revenue and Expenditures 
+
+Property Tax Revenue and Receivables -The District is authorized by state law to levy 
+property taxes, which consist of ad valorem taxes on real and personal property within the 
+District. Property tax is levied each October 1 on the assessed valuation of real and personal 
+property within the District as of the preceding January 1, the lien date. The County 
+Assessor, upon receipt of the certification of tax levies from the county excise board, extends 
+the tax levies on the tax roll for submission to the county treasurer prior to October 1. The 
+county treasurer must commence tax collection within fifteen days of receipt of the tax rolls. 
+The first half of taxes are due prior to January 1. The second half is due prior to April 1. 
+
+-33- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+F. Revenue and Expenditures - contd. 
+
+Property Tax Revenue and Receivables - contd. 
+If the first payment is not made timely, the entire tax becomes due and payable on January 
+2. The second half of the tax become delinquent on April 1 of the year following the year of 
+assessment. If taxes are delinquent and unpaid for a period of three (3) years or more, the 
+real estate may be sold for taxes. 
+
+Uncollected taxes assessed on valuations made each year are recorded in the District's 
+financial statements. The delinquent taxes which are not collected within 60 days of year- 
+end are recorded in the financial statements as deferred inflows of resources. Uncollectible 
+personal and real property taxes are deemed to be immaterial because the property can be 
+sold for the amount of taxes due. 
+
+The District also enters into agreements each year between the Board of Education for the 
+Midwest City-Del City Lewis Eubanks Technical Center and the Board of Trustees for the 
+Rose State College Technical Area Education District. Under these agreements, the Mid- 
+Del School District receives 50 percent of total collections for the fiscal year. 
+
+State Revenues - Revenues from state sources for current operations are primarily governed 
+by the state aid formula under the provisions of Article XVIII, Title 70, Oklahoma Statutes. 
+The State Board of Education administers the allocation of state aid funds to school districts 
+based on information accumulated from the Districts. 
+
+After review and verification of reports and supporting documentation, the State Department 
+of Education may adjust subsequent fiscal period allocations of money for prior year errors 
+disclosed by review. Normally such adjustments are treated as reductions or additions of 
+revenue of the year when the adjustment is made. 
+
+The District receives revenue from the state to administer certain categorical educational 
+programs. State Board of Education rules require that revenue earmarked for these programs 
+be expended only for the program which the money is provided and require that the money 
+not expended as of the close of the fiscal year be carried forward into the following year to 
+be expended for the same categorical programs. The State Department of Education requires 
+that categorical education program revenues be accounted for in the general fund. 
+
+Inter-fund Transactions - Quasi-external transactions are accounted for as revenues, 
+expenditures or expenses. Transactions that constitute reimbursements to a fund for 
+expenditures/expenses initially made from it that are properly applicable to another fund, are 
+
+-34- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+F. Revenue and Expenditures- contd. 
+
+recorded as expenditures/expenses in the reimbursing fund and as reductions of 
+expenditures/expenses in the fund that is reimbursed. 
+
+Use of Estimates - The preparation of financial statements requires management to make 
+estimates and assumptions that affect the amounts reported in the financial statements and 
+accompanying notes. Actual results could differ from those estimates. 
+
+New/adopted pronouncements 
+The GASB has issued several new accounting pronouncements, which will be effective to 
+the District in both the reported and subsequent years. A description of the new accounting 
+pronouncements, the fiscal year in which they are effective, and the District's consideration 
+of the impact of these pronouncements are described below: 
+
+New Accounting Pronouncements Adopted as of June 30, 2018 
+
+• GASB Statement No. 74, Financial Reporting for Postemployment Benefit Plans Other Than 
+Pension Plans. GASB No. 74 was issued in June 2015 and will be effective for the District 
+beginning with its fiscal year ending June 30, 2018. The Statement replaces GASB 
+Statement No. 43, Financial Reporting for Postemployment Benefit Plans Other Than 
+Pension Plans, and addresses the financial reports of defined benefit OPEB plans that are 
+administered through trusts that meet specified criteria. The Statement follows the 
+framework for financial reporting of defined benefit OPEB plans in Statement No. 45 by 
+requiring a statement of fiduciary net position and a statement of changes in fiduciary net 
+position but requires more extensive note disclosures and Required Supplementary 
+Information related to the measurement of the OPEB liabilities for which assets have been 
+accumulated, including information about the annual money-weighted rates of return on 
+plan investments. The Statement also sets forth note disclosure requirements for defined 
+contribution OPEB plans. The District does not currently participate or sponsor 
+postemployment benefits plans other than pensions held in trusts . 
+
+• GASB Statement No. 75, Accounting and Financial Reporting/or Postemployment Benefits 
+Other Than Pensions, issued in June 2015, will be effective for the District beginning with 
+its fiscal year ending June 30, 2018. The Statement replaces the requirements of GASB 
+Statement No. 45, Accounting and Financial Reporting by Employers/or Postemployment 
+Benefits Other Than Pensions and requires governments to report a liability on the face of 
+the financial statements for the OPEB they provide and outlines the reporting requirements 
+
+-35- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies- contd. 
+F. Revenue and Expenditures- contd. 
+
+New Accounting Pronouncements Adopted as of June 30, 2018 - contd. 
+
+by governments for defined benefit OPEB plans administered through a trust. The 
+Statement also requires governments to present more extensive note disclosures and 
+required supplementary information about their OPEB liabilities. Some governments 
+are legally responsible to make contributions directly to an OPEB plan or make benefit 
+payments directly as OPEB comes due for employees of other governments. In certain 
+circumstances, called special funding situations, the Statement requires these 
+governments to recognize in their financial statements a share of the other 
+government's net OPEB liability. The District does not currently participate or sponsor 
+postemployment benefits plans other than pensions held in trusts. 
+
+• GASB issued Statement No. 81, Irrevocable Split-Interest Agreements. This Statement 
+requires that a government that receives resources pursuant to an irrevocable split- 
+interest agreement recognize assets, liabilities, and deferred inflows of resources at the 
+inception of the agreement. The requirements of this Statement are effective for periods 
+beginning after December 15, 2016. The District does not currently receive resources 
+pursuant to an irrevocable split-interest agreement. The District will continue to 
+evaluate the impact this new standard may have on future financial statements. 
+
+• GASB issued Statement No. 83, Certain Asset Retirement Obligations. Statement No. 
+83 requires the measurement and recognition of a legally enforceable liability for 
+retirement of an asset. Also requires the measurement of an Asset Retirement 
+Obligation CARO) be based on the best estimate of the current value of outlays to be 
+incurred. This estimate should include the probability weighting of all potential 
+outcomes, when the information is available or can be obtained at a reasonable cost. 
+The Statement pertains to certain kinds of assets, i.e., sewage treatment plants, 
+magnetic resonance imaging machines, research facilities owned by public universities 
+like nuclear research reactors, and retirement of x -ray machines. These kinds of assets 
+may have to be disposed in a certain way due to regulations. The effective date of the 
+Statement is for reporting periods beginning after June 15, 2018. Earlier application is 
+encouraged. The District currently does not have any asset retirement obligations which 
+fit the criteria for this Statement. The District will continue to evaluate this Statement 
+for future disclosure requirements. 
+
+-36- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies - contd. 
+F. Revenue and Expenditures- contd. 
+
+New Accounting Pronouncements Not Yet Adopted 
+
+• GASB issued Statement No. 84, Fiduciary Activities. Statement No. 84 improves 
+guidance regarding the identification of fiduciary activities for accounting and financial 
+reporting purposes and how those activities should be reported. The Statement 
+addresses the categorization of fiduciary activities for financial reporting, how 
+fiduciary activities are to be reported, and when liabilities to beneficiaries must be 
+disclosed. The requirements for the Statement are effective for reporting periods 
+beginning after December 15, 2018. Earlier application is encouraged. The District 
+currently has fiduciary activities and will evaluate the fiduciary activities that meet the 
+criteria state in Statement No. 84 and prepare disclosures under fiduciary funds in basic 
+financial statements. The District will report agency funds as custodial funds as 
+specified in the Statement. In addition, the District will continue to evaluate the effects 
+of this Statement on future financial reporting. 
+
+• GASB issued Statement No. 85, Omnibus 2017. The object of Statement No. 85 is to 
+address practice issues that have been identified during implementation and application 
+of certain GASB Statements. The topics are related to blending component units, 
+goodwill, fair value measurement and application, and postemployment benefits 
+(pension and other postemployment benefits (OPEB)). The ten topics addressed in the 
+Statement are as follows, 1) Blending a component unit in circumstances in which the 
+primary government is a business-type activity that reports in a single column for 
+financial statement presentation, 2) Reporting amounts previously reported as goodwill 
+and "negative" goodwill, 3) Classifying real estate held by insurance entities, 4) 
+Measuring certain money market investments and participating interest earning 
+investment contracts at amortized cost,S) Timing of the measurement of pension or 
+OPEB liabilities and expenditures recognized in financial statements prepared. Using 
+the current financial resources measurement focus, 6) Recognizing on-behalf payments 
+for pensions or OPEB in employer financial statements, 7) Presenting payroll-related 
+measures in required supplementary information for purposes of reporting by OPEB 
+plans and employers that provide OPEB, 8) Classifying employer-paid member 
+contributions for OPEB, 9) Simplifying certain aspects of the alternative measurement 
+method for OPEB, and 10) Accounting and financial reporting for OPEB provided 
+through certain multiple-employer defined benefit OPEB plans. The requirements of 
+this Statement are effective for reporting periods beginning after June 15,2017. Earlier 
+application is encouraged. The District will continue to evaluate the effects of this 
+
+-37- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. Summary of Significant Accounting Policies - contd. 
+F. Revenue and Expenditures- contd. 
+
+New Accmmting Pronouncements Not Yet Adopted - contd. 
+
+Statement on future financial reporting. 
+
+• GASB issued Statement No. 86, Certain Debt Extinguishment Issues. The object of 
+Statement No. 86 is to improve consistency in accounting and financial reporting for 
+in-substance defeasance of debt by providing guidance for transactions in which cash 
+and other monetary assets acquired with only existing resources. The Statement also 
+improves accounting and financial reporting for prepaid insurance on debt that is 
+extinguished and notes to financial statements for debt that is defeased in substance. 
+Criteria for determining an in-substance defeasance is that the trust hold only monetary 
+assets that are essentially risk-free. If substitution of essentially risk-free monetary 
+assets that are not essentially risk-free is not prohibited, governments should disclose 
+the fact in the period in which the debt is defeased in substance. The requirements of 
+this Statement are effective for reporting periods beginning after June 15, 2017. The 
+District does not currently have in-substance defeasance transactions nor do we have 
+prepaid insurance related to debt that has been extinguished. The District will continue 
+to evaluate the effects of this Statement on future financial reporting. 
+
+• GASB issued Statement No. 87, Leases. The object of Statement No. 87 is to better 
+meet the information needs of financial statement users by improving accounting and 
+financial reporting for leases by governments. This Statement increases the usefulness 
+of governments' financial statements by requiring recognition of certain lease assets 
+and liabilities for leases that previously were classified as operating leases and 
+recognized as inflows of resources or outflows of resources based on the payment 
+provisions of the contract. It establishes a single model for lease accounting based on 
+the foundational principle that leases are financings of the right to use an underlying 
+asset. Under this Statement, a lessee is required to recognize a lease liability and an 
+intangible right-to-use lease asset, and a lessor is required to recognize a lease 
+receivable and a deferred inflow of resources, thereby enhancing the relevance and 
+consistency of information about governments' leasing activities. The requirements of 
+this Statement are effective for reporting periods beginning after December 15,2019. 
+Although the District has been party to lease contracts in the past the District does not 
+currently nor plan to enter into lease contracts or lease agreements in the future. Should 
+this management decision change, the District will evaluate and report the leases 
+accurately according to the Statement. 
+
+-38- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+2. Deposits 
+
+Custodial Credit Risk - Deposits 
+Custodial credit risk is the risk that in the event of failure of a counterparty, the District will 
+not be able to recover its deposits. Deposits are exposed to credit risk if they are uninsured 
+or uncollateralized. The District's policy requires that all deposits in excess of amounts 
+covered by federal deposit insurance be fully collateralized by the entity holding the deposits. 
+As of June 30, 2018, all of the District's deposits were federally insured by FDIC or 
+collateralized. 
+
+The District had cash deposits at financial institutions with a book balance of approximately 
+$62,314,967 at June 30, 2018. The bank balance of these deposits was approximately 
+$54,411,989. The difference between the bank balance and book balance are the outstanding 
+checks and deposits. 
+
+Custodial Credit Risk - Investments 
+For an investment, custodial credit risk is the risk that the District will not be able to recover 
+the value of its investments or collateral securities that are in the possession of an outside 
+party. Investment securities are exposed to custodial credit risk if they are uninsured, are not 
+registered in the name of the District, and are held by counterparty or the counterparty's trust 
+department but not in the name of this District. The District's policy requires that all 
+investments in excess of amounts covered by federal deposit insurance be fully collateralized 
+by the entity holding the investments. As of June 30, 2018, all of the District's investments 
+were collateralized. 
+
+Concentration of Credit Risk: 
+The District's investment policies are governed by state statute. Permissible investments 
+include: 
+
+a. Direct obligations of the United State Government to the payment of which the full faith 
+and credit of the government is pledged. 
+
+b. Obligations to the payment of which the full faith and credit of the state is pledged. 
+
+c. Certificates of deposits of banks when such certificates of deposits are secured by 
+acceptable collateral as in the deposit of other public monies. 
+
+d. Savings accounts or savings certificates of saving and loan associations to the extent that 
+such accounts or certificates are fully insured by the Federal Saving and Loan Insurance 
+Corporation. 
+
+-39- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+2. Deposits - contd. 
+
+e. Repurchase agreements that have underlying collateral consisting of those items 
+specified in paragraphs 1 and 2 of this section including obligations of the United States, 
+its agencies and instrumentalities, and where collateral has been deposited with a trustee 
+of custodian bank in an irrevocable trust or escrow account established for such purposes. 
+
+f. County, municipal or school district direct debt obligations for which an ad valorem tax 
+may be levied or bond and revenue anticipation notes, money judgments against such 
+county, municipality or school district ordered by a court of record or bonds or bond 
+and revenue anticipation notes issued by a public trust for which such county, 
+municipality or school district is a beneficiary thereof. All collateral pledged to secure 
+public funds shall be valued at no more than market value. 
+
+g. Money market mutual funds regulated by the Securities and Exchange Commission and 
+which investments consist of obligations of the United States, its agencies and 
+instrumentalities, and investments in those items listed above. 
+
+h. Warrants, bonds, or judgments of the school district. 
+
+1. Qualified pooled investment programs, the investments of which consist of those items 
+specified above, as well as obligations of the United States agencies and 
+instrumentalities, regardless of the size of the district's budget. To be qualified, a pooled 
+investment program for the school funds must be governed through an Interlocal 
+cooperative agreement formed pursuant to Title 70 Section 5-117b, and the program must 
+competitively select its investment advisors and other professional. Any pooled 
+investment program must be approved by the Board of Education. 
+
+The investments held at June 30, 2018 are as follows: 
+
+T e 
+
+Weighted 
+Average 
+Maturity 
+(Months) Market Value Cost 
+
+Investments 
+Money Market 
+Municipal tax-supported money judgments 
+Certificate of Deposit 
+
+Total investments 
+
+$ ° 
+° 1,000,000 
+
+$ 1,000,000 
+
+$ ° 
+° 1,000,000 
+
+$1,000,000 
+
+-40- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Interest Rate Risk: 
+
+2. Deposits - contd. 
+
+The District places no limit on the amount it may invest in anyone issuer. The District has 
+the following of credit risk: 0% in Money Market funds, 0% in Municipal tax-supported 
+money judgments and 100% in CDs ($1,000,000). 
+
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value 
+of an investment. Investments are made based upon prevailing market conditions at the time 
+of the transaction with the intent to hold the instrument until maturity. However, the District 
+has no formal written policy addressing interest rate risk. 
+
+3. Receivables 
+
+Receivables at June 30, 2018, for the individual governmental and proprietary funds are as 
+follows: 
+
+Other Governmental Funds 
+Debt Child Tech Tech Internal 
+
+General Service Building Nutrition Center Building Service 
+Receivables 
+Ad valorem $ 702,378 527,264 100,368 
+Federal grants 1,823,032 176,017 
+Local & intermediate 109,165 1,725 421,445 168,090 
+State dedicated revenue 175,716 42,889 
+
+Total receivables $ 2,810,291 527,264 100,368 1,725 640,351 168,090 
+
+The government-wide financial statements also include other receivables of approximately 
+$84.5 million for amounts available to draw down on the capital lease (see Note 5). 
+
+-41- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+4. Capital Assets 
+
+A summary of changes in capital assets for the year ended June 30, 2018 follows: 
+
+Balance 
+June 30, 
+2017 
+
+Governmental activities: 
+
+Capital assets not being depreciated: 
+Land $ 16,552,576 
+Construction in progress 1,116,712 
+
+Total capital assets not being depreciated 17,669,288 
+
+Capital assets being depreciated: 
+Buildings and renovations 244,790,863 
+Furniture and assessories 529,410 
+Equipment and appliances 8,881,263 
+Computer software/hardware 7,270,274 
+Vehicleslbuses 7,846,518 
+
+Total capital assets being depreciated 269,318,328 
+
+Less: accumulated depreciation 114,860,722 
+
+Total capital assets being depreciated, net 154,457,606 
+Total Capital assets, net $ 172,126,894 
+
+Additions 
+
+5,551,356 
+5,551,356 
+
+120,302 
+
+213,583 
+355,837 
+
+1,173,459 
+1,863,181 
+
+5,871,271 
+
+(4,008,090) 
+1,543,266 
+
+Transfers 
+
+(1,530,169) 
+(1,530,169) 
+
+1,530,169 
+
+1,530,169 
+
+1,530,169 
+
+Disposals 
+
+Balance 
+June 30, 
+2018 
+
+16,552,576 
+5,137,899 
+
+21,690,475 
+
+246,441,334 
+529,410 
+
+9,094,846 
+7,626,111 
+9,019,977 
+
+272,711,678 
+
+120,731,993 
+
+151,979,685 
+173,670,160 
+
+Depreciation expense of $477,843 in the support services function and $5,393,428 IS 
+included in the instruction function on the government-wide statement of activities. 
+
+-42- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+5. General Long-Term Debt 
+
+State statutes prohibit the District from becoming indebted in an amount exceeding the 
+revenue to be received for any fiscal year without approval by the District's voters. Bond 
+issues have been approved by the voters and issued by the District for various capital 
+improvements. These bonds are required to be fully paid serially within 25 years from the 
+date of issue. 
+
+General long-term debt of the District consists of bond payable, and obligations for 
+compensated absences. Debt service requirements for bonds are payable solely from fund 
+balance and future revenues of the debt service fund. 
+
+The following is a summary of the long-term debt transactions of the District for the year 
+ended June 30, 2018: 
+
+13,805,000 
+
+1,393,043 
+
+11,419,189 
+
+Balance 
+
+June 30, 
+
+2017 
+
+Bonds payable $ 44,140,000 
+Premium on bonds 654,558 
+
+Leases payable 23,822,199 
+
+Compensated absences 2,430,357 
+
+Net pension liability 137,373,683 
+
+Total $ 208,420,797 
+
+16,980,000 
+
+9,823,278 
+
+77,060,000 
+
+Balance 
+
+June 30, 
+
+Retirements 2018 
+
+13,820,000 47,300,000 
+
+568,365 9,909,471 
+
+13,653,010 87,229,189 
+
+9,114 2,421,243 
+
+21,743,672 115,630,011 
+
+49,794,161 262,489,914 
+
+Due within 
+
+Additions one year 
+
+103,863,278 26,617,232 
+
+A brief description of the outstanding general obligation bond issues at June 30, 2018, is set forth 
+below: 
+
+Amount 
+outstanding 
+
+Building Bonds, Series 2014, original issue $13,720,000, 
+interest rate of 1.0-2.0%, due in annual installments of 
+$3,430,000 beginning 1-1-16, final payment due 1-1-19 $ 3,430,000 
+
+Building Bonds, Series 20 15A, original issue $10,680,000, 
+interest rate of 1.0-2.0%, due in annual installments 
+of $2,670,000 beginning 1-1-17, final payment due 1-1-20; 5,340,000 
+
+-43- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+5. General Long-Term Debt - cont'd 
+Amount 
+
+outstanding 
+
+Building Bonds, Series 2016A, original issue $9,840,000, 
+interest rate of 1.5-2.0%, due in annual installments 
+of $2,460,000 beginning 1-1-18, final payment due 1-1-21; $ 7,380,000 
+
+Building Bonds, Series 2017A, original issue $11,900,000, 
+interest rate of 3.0%, due in annual installments 
+of $2,975,000 beginning 1-1-19, final payment due 1-1-22; 11,900,000 
+
+Building Bonds, Series 2017B, original issue $2,270,000, 
+interest rate of 2.0%, due in one installment of $2,270,000 
+on 3-1-19; 2,270,000 
+
+Building Bonds, Series 2018, original issue $14,140,000, 
+interest rate of2.5-3.0%, due in annual installments of 
+$3,535,000 on 1-1-20; 14,140,000 
+
+Combined Purpose Bonds, Series 2018, original issue $2,840,000, 
+interest rate of 3.5%, due in one installment of $2,840,000 
+on 1-1-20; 2,840,000 
+
+Totals $ 47,300,000 
+
+The annual debt service requirements for the retirement of bond principal, and payment of 
+interest are as follows: 
+
+Year ending 
+June 30 Principal Interest Total 
+2019 $ 13,805,000 1,082,400 14,887,400 
+2020 14,480,000 1,396,050 15,876,050 
+2021 8,970,000 528,175 9,498,175 
+2022 6,510,000 301,350 6,811,350 
+2023 3,535,000 106,050 3,641,050 
+Total $ 47,300,000 3,414,025 50,714,025 
+
+-44- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+ 
+
+ 
+
+ 
+-45- 
+
+5.      General Long-Term Debt – cont’d 
+ 
+ Compensated Absences: 
+ 
+
+Compensating absences represent the estimated liability for employees accrued vacation and 
+sick leave for which employees are entitled to be paid upon termination or resignation. The 
+liability at June 30, 2018 totaled $2,421,243, and is recorded as long-term debt of the District 
+in the government-wide financial statements. The retirement of this liability is liquidated by 
+the general fund or special revenue funds based on the assignment of the employee at 
+termination or resignation. Below is the liquidation by fund: 
+
+ 
+
+ 
+
+General Fund 2,006,639$    
+
+Tech Center 260,163        
+
+Child Nutrition 154,441        
+
+Total 2,421,243$    
+ 
+
+ Capital Leases: 
+ 
+
+In February 2018, the school district entered into a Ground Lease Agreement with the 
+Oklahoma County Finance Authority (the “Authority”) under which the district is leasing 
+certain land upon which the Authority will construct improvements from the proceeds of 
+$77,060,000 in revenue bonds sold for that purpose. Improvements are to be constructed for 
+so long as there are obligations outstanding, which are secured by the Ground Lease 
+Agreement. The improvements to be constructed by the Authority consist of stadium 
+renovations to Carl Albert Harris, Del City Kalsu, and Midwest City Darnell Stadiums, 
+improvements to Kerr Middle School, Carl Albert Middle School, Monroney Middle School 
+and Schwartz Elementary, Del City and Midwest City High School Performing Arts Centers 
+renovations and various reoccurring District-wide projects. These facilities will be leased by 
+the Authority to the school district pursuant to a sublease agreement enter into as of February 
+1, 2018. The sublease agreement between the Authority and the Mid-Del School District 
+enables the district to lease back the property leased in the ground lease, and utilized the 
+proceeds of the revenue bonds (issued by the Authority) for the construction and 
+improvements on the property. The sublease agreement also provides a mechanism for the 
+district to obtain title to the improvements free and clear of security interest. The District 
+intends to finance the sublease agreements lease payments through a periodic issuance of 
+Building Bonds which were authorized and approved by school district voters at an election 
+held on October 10, 2017. These bonds are scheduled to be issued on dates, and in amounts, 
+which coincide with sublease rental payments. 
+ 
+ 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+5. General Long-Term Debt - cont'd 
+
+Capital Leases: 
+
+The trustee bank holds the cash and makes payments after authorization from the District. 
+Amounts held by the trustee and available for draw down at June 30, 2018 are recorded as a 
+receivable in the government wide statements. 
+
+Under the agreements, the District transferred ownership for land and facilities covered by 
+the ground lease to the Authority. Ownership will revert to the District upon payment of the 
+lease purchase acquisition payments. Accordingly, the original cost of the assets is expensed 
+if the item does not meet the District's capitalization criteria. 
+
+The present value of minimum sublease payments is recorded in the District's long-term debt. 
+Lease payments are primarily payable from the capital projects fund. 
+
+The future minimum lease obligations and the net present value of these lease payments as 
+of June 30, 2018, were as follows: 
+
+Year ending 
+June 30 Amount 
+2019 $ 15,924,078 
+2020 9,031,125 
+2021 9,357,125 
+2022 11,305,250 
+2023 15,595,125 
+
+Thereafter 47,878,875 
+Total minimum lease payments 109,091,578 
+Less amount representing interest (21,862,389) 
+Present value of minimum lease payments $ 87,229,189 
+
+Note: This table includes one final payment of $1 0,360,000 in the 2019 fiscal year for the 
+2012 Ground Lease Agreement. 
+
+-46- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+5. General Long-Term Debt - cont'd 
+
+Capital Leases - cont'd 
+
+Pursuant to the sublease agreement, the District is also required to make the following rental 
+payments: 
+
+Year ending Rental 
+June 30 Pai:ments 
+2017 $ 3,000 
+2018 3,000 
+2019 3,000 
+Total $ 9,000 
+
+6. Operating Leases 
+
+The District leases various business machines under operating lease agreements. The lease 
+agreements are generally for one-year terms and subject to annual ratification. Management 
+expects that in the normal course of business, leases that expire for the business machines will 
+be renewed or replaced by other leases. The total rent expenditures were approximately 
+$484,396 for the year ended June 30, 2018. 
+
+Minimum future lease commitments under lease are payable as follows: 
+
+Year ending 
+June 30 Amount 
+
+2019 $ 419,297 
+
+-47- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+7. Employee Retirement System 
+
+Oklahoma Teachers Retirement System 
+
+Plan Description: 
+
+The District participates in the OTRS, a cost-sharing multiple-employer public employee 
+retirement system that is self-administered. OTRS provides retirement, disability, and death 
+benefits to plan members and beneficiaries. Benefit provisions are established and may be 
+amended by the legislature of the State of Oklahoma. Title 70 of the Oklahoma State Statues 
+assigns the authority for management and operation ofOTRS to the Board of Trustees of the 
+System. OTRS issues a publicly available annual financial report that can be obtained at 
+www.ok.gov/TRS. 
+
+Benefits Provided: 
+
+OTRS provides defined retirement benefits based on members' final compensation, age, and 
+term of service. In addition, the retirement program provides for benefits upon disability and 
+to survivors upon the death of eligible members. Title 70 O. S. Sec. 17-105 defines all 
+retirement benefits. The authority to establish and amend benefit provisions rests with the 
+State Legislature. 
+
+Benefit Provisions Include: 
+
+o Members become 100% vested in retirement benefits earned to date after five years 
+of credited Oklahoma service. Member who joined OTRS on June 30, 1992 or prior 
+are eligible to retire at maximum benefits when age and years of creditable service 
+total 80. Members joining ORTS after June 30, 1992 are eligible for maximum 
+benefits when their age and year of creditable service total 90. Members whose age 
+and service do not equal the eligible limit may receive reduced benefits as early as 
+age 55, and at the age 62 receive unreduced benefits based on their years of service. 
+The maximum retirement benefit is equal to 2 percent of final compensation for 
+year of credited service. 
+
+o Final compensation for members who joined OTRS prior to July 1, 1992 is defined 
+as the average salary for the three highest years of compensation. Final 
+compensation for members joining OTRS after June 30, 1992 is defined as the 
+average of the five consecutive years of annual compensation in which 
+contributions have been made. The final average compensation is limited for 
+service credit accumulated prior to July 1, 1995 to $40,000 or $25,000, depending 
+
+-48- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+7. Employee Retirement System - cont'd 
+
+on the member's election. Monthly benefits are 1112 of the amount. Service credits 
+accumulated after June 30, 1995 are calculated based on each member's final 
+average compensation, except for certain employees of the two comprehensive 
+universities. Upon the death of a member who has not yet retired, the designated 
+beneficiary shall receive the member's total contributions plus 100 percent of 
+interest earned through the end of the fiscal year, with interest rates varying based 
+on time of service. A surviving spouse of a qualified member was entitled to at the 
+time of death as provided under the Joint Survivor Benefit Option. 
+
+o Upon the death of a retired member, OTRS will pay $5,000 to the designated 
+beneficiary, in addition to the benefits provided for the retirement option selected 
+by the member. 
+
+o A member is eligible for disability benefits after ten years of credited Oklahoma 
+service. The disability benefit is equal to 2% of final average compensation for the 
+applicable year of credited service. 
+
+o Upon separation from OTRS, members' contributions to a tax-sheltered annuity 
+program up to the exclusion allowance provided under the IRC under Code Section 
+403(b). 
+
+Contributions: 
+The contribution requirements of OTRS are at an established rate determined by Oklahoma 
+Statute and are not based on actuarial calculations. Employees are required to contribute 7 
+percent of their annual compensation. The District paid the employees' required contribution. 
+The amount paid by the District for employees totaled approximately $3.9 million for the 
+year ended June 30, 2018. The District's contribution rate is 9.5 percent for the year ended 
+June 30, 2018. In addition, the District is required to match the State's contribution rate on 
+salaries that are paid with federal funds. The District's contributions to OTRS in 2018 were 
+$6.3 million, equal to the annual required contributions each year. The District's matching 
+contributions to OTRS in 2018 were $0.5 million. 
+
+The State makes a contribution on behalf of each teacher meeting mnumum salary 
+requirements (known as the OTRS years of services credit). The credit amount is determined 
+based on years of services and ranges from $60.15 per year for 0 years of service to $1,410.53 
+per year for 25 years or more of service. For the fiscal year ended June 30, 2018, the State 
+paid approximately $680,000 on behalf of teachers employed at the District. In accordance 
+with generally accepted accounting practices, the District recognized the on-behalf-of 
+payments as revenue and expense/expenditure in the government wide and fund financial 
+statements. These on behalf payments do not meet the definition of a special funding 
+situation. 
+
+-49- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+7. Employee Retirement System - cont'd 
+
+The State of Oklahoma is also required to contribute to the System on behalf of the 
+participating employers. For 2018, the State of Oklahoma contributed 5 percent of state 
+revenues from sales and use taxes and individual income taxes, to the System on behalf of 
+participating employers. The District has estimated the amounts contributed to the System 
+by the State of Oklahoma on its behalf based on a contribution rate provided to the District. 
+For the year ended June 30, 2018, the total amount contributed to the System by the State of 
+Oklahoma on behalf of the District was approximately $5,273,076. In accordance with 
+generally accepted accounting practices, District recognized the on-behalf-of payments as 
+revenue and expense/expenditure in the government fund financial statements. These on- 
+behalf payments do not meet the definition of a special funding situation. 
+
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred 
+Inflows of Resources Related to Pensions: 
+
+At June 30, 2018, the District reported a liability of$115,630,011 for its proportionate share 
+of the net pension liability. The net pension liability was measured as of June 30, 2017 and 
+the total pension liability used to calculate the net pension liability was determined by an 
+actuarial valuation as of June 30, 2017. The District's proportion of the net pension liability 
+was based on the District's contributions to OTRS relative to total contributions of OTRS 
+for all participating employees for the year ended June 30, 2017. Based upon this 
+information, the District's proportion was 1.74632969 percent. 
+
+For the year ended June 30, 2018, the District recognized pension expense of $13.0 million. 
+June 30, 2018, the District reported deferred outflows of resources and deferred inflows of 
+resources related to pensions from the following sources: 
+
+Differences between expected and actual experience 
+Changes in Assumptions 
+Net difference between projected and actual earnings on 
+pension plan investments 
+Changes in proportionate and differences between District 
+contributions and proportionate share of contributions 
+
+District contributions subsequent to the measurement date 
+Total 
+
+Deferred Deferred 
+Outflows of Inflows of 
+Resources Resources 
+
+$ 7,894,368 
+13,722,103 6,912,145 
+
+1,643,631 
+
+116,659 
+6,777,253 
+
+$ 22,142,987 14,923,172 
+
+-50- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+7. Employee Retirement System - cont'd 
+
+Deferred pension outflows totaling $6.8 million resulting from the District's contributions 
+subsequent to the measurement date, will be recognized as a reduction of the net pension 
+liability in the subsequent fiscal year. The net deferred pension inflows totaling $14.9 million 
+resulting from the difference between expected and actual experience of $7.9 million, 
+changes in assumptions of $6.9 million and $.1 million in the proportional changes and 
+differences between District contributions and proportional share of contributions. The 
+deferred outflows totaling $13.7 million resulting from changes in assumptions, and deferred 
+outflows of $1.6 million resulting from the net difference between projected and actual 
+investment earnings on pension plan investments will be recognized in pension expense 
+using the average expected remaining life of the plan. The average expected remaining life 
+of the Plan is determined by taking the calculated total future service years of the Plan divided 
+by the number of people in the Plan including retirees. The total future service years of the 
+Plan are estimated at 5.59 years at June 30, 2017 and are determined using the mortality, 
+termination, retirement and disability assumptions associated with the Plan. 
+
+Deferred outflows of resources and deferred inflows of resources will be recognized in 
+pension expense as follows: 
+
+Year ended 
+June 30 Amount 
+2018 
+2019 
+2020 
+2021 
+2022 
+
+Thereafter 
+Total 
+
+$ (1,006,196) 
+6,010,311 
+3,743,539 
+(2,614,371) 
+(245,586) 
+
+1,332,118 
+$ 7,219,815 
+
+Actuarial Assumptions: 
+
+The total pension liability was determined based on an actuarial valuation prepared as of 
+June 30, 2017 using the following actuarial assumptions: 
+
+• Actuarial Cost Method-Entry Age Normal 
+• Amortization Method-Level Percentage of Payroll 
+• Amortization Period-Amortization over an open 30-year period 
+• Asset Valuation Method-5-year smooth market 
+
+-51- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+7. Employee Retirement System - cont'd 
+
+• Inflation-2.50 percent 
+• Salary Increases-Composed of 3.00 percent inflation, plus .75 percent productivity 
+
+increase rate, plus step-rate promotional increases for members with less than 25 years 
+of service 
+
+• Investment Rate of Return-7.50 percent, net of expenses and compounded annually 
+• Retirement Age-Experience-based table of rates based on age, service, and gender. 
+
+Adopted by the Board in May 2015 in conjunction with the five-year experience study 
+for the period ending June 2014 
+
+• Payroll Growth Rate-2.75 percent per year. This increase rate has no allowance for 
+future membership growth 
+
+The actuarial assumptions used in the June 30, 2017 valuation were based on the results of 
+an actuarial experience study, dated May 13,2015, for the period July 1, 2009-June 30, 2014 
+and in conjunction with the five-year-experience study for the period ending June 30, 2014. 
+
+Based on the stated assumptions and the projection of cash flows, the pension plan's 
+fiduciary net position and future contributions were projected to be available to finance all 
+projected future benefit payments of current plan members. Therefore, the long-term 
+expected rate of return on pension plan investments was applied to all periods of projected 
+benefit payments to determine the total pension liability. 
+
+The long-term expected rate of return on pension plan investments was determined using a 
+building block method in which best estimate ranges of expected future real rates of return 
+(expected returns, net of pension plan investment expense and inflation) are develop for each 
+major asset class. The ranges are combined to produce the long-term expected rate of return 
+by weighting the expected future real rates of return by the target asset allocation percentage 
+and by adding expected inflation. 
+
+-52- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+7. Employee Retirement System - cont'd 
+
+The target asset allocation and best estimates of arithmetic expected real rates of return for 
+each major asset class as of June 30, 2017, are summarized in the following table: 
+
+Long-Term 
+Target Asset Expected Real 
+
+Asset Class Allocation Rate of Return 
+Domestic Equity 
+International Equity 
+Fixed Income 
+Real Estate * 
+Alternative Assets 
+
+Total 
+* - The Real Estate total expected return is a combination of US Direct Real Estate (unlevered) and 
+US Value added Real Estate (un levered) 
+
+19.0% 8.5% 
+23.5% 2.5% 
+9.0% 
+10.0% 
+
+4.5% 
+6.1% 
+
+61.5% 
+
+Discount Rate: 
+
+The discount rate used to measure the total pension liability was 7.5 percent. The single 
+discount rate was based solely on the expected investment rate of return on pension plan's 
+fiduciary net position and future contributions were projected to be available to finance all 
+projected future benefit payments of current plan members. Therefore, the long-term 
+expected rate of return on pension plan investments was applied to all periods of projected 
+benefit payments to determine the total pension liability. 
+
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate: 
+
+The following table presents the net pension liability of the District calculated using the 
+discount rate of 7.5 percent, as well as what the District's net pension liability would be if 
+OTRS calculated the total pension liability using a discount rate that is l-percentage point 
+lower (6.5 percent) or I-percentage point higher (8.5 percent) than the current rate: 
+
+1% Decrease 
+(6.50%) 
+
+Current Discount 
+Rate (7.50%) 
+
+1% Increase 
+(8.50%) 
+
+District's net pension liability $ 164,836,758 $ 115,630,0 I 1 $ 79,276,065 
+
+-53- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+8. Sanctioned Organizations 
+
+The following entities are separately constituted and, accordingly, their financial position 
+and results of operations have not been presented in the accompanying financial statements. 
+The board of education does not appoint officers. The board of education is not responsible 
+for approving budgets, contracts, key personnel, fiscal matters or day-to-day operations of 
+the entity. 
+
+Barnes Elementary PTA 
+Cleveland Bailey PTSA 
+Country Estates Elem. PTA 
+
+Del City Elementary PTA 
+East Side Elementary PTA 
+Epperly Heights Elem. PTA 
+Highland Park Elementary PTA 
+Parkview Elementary PTA 
+Pleasant Hill Elementary PTA 
+Ridgecrest Elementary PTA 
+Schwartz Elementary PTA 
+Soldier Creek Elementary PTA 
+
+Soldier Creek Natural Notes 
+Parents Association 
+Tinker Elementary PTA 
+Townsend Elementary PTA 
+Carl Albert MS Band Parents 
+Club 
+CAMS Cheer Parent Assoc. 
+Carl Albert MS Porn 
+
+Carl Albert MS PTSA 
+Carl Albert MS Swim 
+
+Carl Albert MS Vocal Music 
+
+Carl Albert MS Mat Club 
+Del Crest MS Bank Boosters 
+Del Crest MS Orchestra 
+Del Crest MS Choral Booster 
+Del Crest MS PTA 
+
+Jarman MS Band Parents Assoc. 
+Jarman MS Cheerleaders 
+Jarman MS PTSA 
+
+Kerr MS Band Parent Association 
+Kerr MS Cheer Booster Club 
+KerrMS PTSA 
+Monroney MS Band Boosters 
+Monroney MS Orchestra 
+Monroney MS Cheer Booster Club 
+Monroney MS PTA 
+Carl Albert HS Band Boosters 
+Carl Albert HS Homerun Club 
+Carl Albert HS Basketball Tip In 
+Club 
+CAHS Cheerleader Parent Account 
+Carl Albert HS Cross Country 
+Carl Albert HS Quarterback Club 
+Carl Albert HS Porn Pon Booster 
+Club 
+Carl Albert HS PTSA 
+CAHS Titans Soccer Boosters 
+Carl Albert HS Softball Booster 
+Club 
+Carl Albert HS Swim Club 
+
+CAHS Vocal Music Booster Club 
+Carl Albert HS Sideout Booster 
+Club 
+Carl Albert Orchestra Booster 
+Carl Albert HS Track 
+Carl Albert HS Takedown Club 
+Del City HS Band Boosters 
+
+-54- 
+
+Del City HS Homerun Club 
+DC Tip-In-Club 
+Del City HS Quarterback Club 
+Del City HS Midfielders Booster 
+Club 
+MCHS Boys Basketball Tip In Club 
+Del City HS Fastpitch 
+DCHS Swim Team Parents Assc. 
+DCHS Aires Patrons Organization 
+DCHS Orchestra Boosters 
+Del City HS Volleyball Booster Club 
+Del City HS Take Down Club 
+MCHS Band Parents Association 
+
+Midwest City HS Homerun Club 
+MCHS Girls BB Booster Club 
+Midwest City HS Boys Basketball 
+MCHS Cheer Parent Booster 
+
+Midwest City HS Quarterback Club 
+MCHS Bomber Golf Boosters 
+Midwest City HS Porn Pon Squad 
+
+MCHS Soccer Booster Club 
+Midwest City HS Swim Club 
+MCHS Lady Bomber Softball 
+Booster 
+
+Midwest City HS Volleyball 
+MCHS Chorus Booster Club 
+Midwest City HS Bomber Mat Club 
+Mid-Del Orchestra 
+Mid-Del PTA Council 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+9. Risk Management 
+
+The District administers a self-insurance workers' compensation fund for District employees. 
+This program is administered by an independent third-party and covers workers' 
+compensation expenses for employees. In order to mitigate the risk associated with this 
+program, the District has purchased individual "stop loss" insurance of $1,000,000. The 
+District makes payments to the internal service fund based on estimates of the amounts 
+needed to pay prior and current year claims. As ofthe end of the fiscal year, it was determined 
+that the liability for incurred claims approximately $1,309,000. Changes in the claims 
+liability were as follows: 
+
+Fiscal 
+Year 
+
+Beginning 
+Balance 
+
+Claims 
+Incurred 
+
+Claims 
+Paid 
+
+Ending 
+Balance 
+
+2016-17 
+2017-18 
+
+$ 1,309,497 
+873,767 
+
+$ 52,762 
+814,841 
+
+$ (488,492) $ 873,767 
+(1,022,812) 665,796 
+
+The District purchases commercial insurance for all other types of risk including, but not 
+limited to, property, casualty, vehicles, and employee life. Settlements have not exceeded 
+insurance coverage for each of the past three fiscal years. 
+
+The full amount of the claims liability at June 30, 2018 is expected to be paid during fiscal 
+year 2018. 
+
+10. Surety Bonds 
+
+The District has a Position Schedule Bond with Travelers Casualty and Surety Company of 
+America Bond #106118502, for the period of July 1, 2017 to June 30, 2018, covering the 
+following positions/amounts: 
+
+Superintendent $100,000 Director of Finance $25,000 
+Treasurer 350,000 Child Nutrition Director 25,000 
+Assistant Treasurer 350,000 Accounts Payable Clerk 25,000 
+Encumbrance Clerk 100,000 Child Nutrition Clerk 25,000 
+Payroll Clerk 100,000 Activity Clerk 25,000 
+Treasurer's Clerk 100,000 Deputy Minutes Clerk 25,000 
+Minutes Clerk 25,000 
+
+-55- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE BASIC FINANCIAL STATEMENTS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+11. OCMAPS Program 
+
+The School District participates in a program administered through the Oklahoma City 
+Metropolitan Area Public Schools Trust, whereby the Trust reviews and approves project 
+applications from Oklahoma City and suburban school districts that educate Oklahoma City 
+resident students for improvements to school facilities utilized by Oklahoma City students. 
+The OCMP AS program is funded through a temporary Oklahoma City sales tax which began 
+on January 1,2002, and ended December 31, 2008. The Trust budgets sales tax collections 
+for Oklahoma City Public Schools and 23 suburban school districts and reviews and approves 
+applications for facilities improvement, from the 23 suburban school districts that educate 
+Oklahoma City resident students. The Trust maintains budget allocations for each 
+participating school district and notifies each district quarterly of funds remaining for 
+applications for the school. At June 30, 2018, the Oklahoma City Metropolitan Area Public 
+Schools Trust maintained an account balance of $0 for Mid-Del Public Schools applications 
+for program funding. Revenues and expenditures for this program are reported by the Mid- 
+Del School District through a special revenue fund entitled MAPS fund. 
+
+12. Interfund Loan Agreement 
+
+The District approved a loan agreement between the child nutrition services and the general 
+fund for the purpose of allowing adequate cash flow within the child nutrition fund until such 
+time during the fiscal year the child nutrition fund receives reimbursements from state, 
+federal, and lunch collections sufficient to meet cash flow needs. The loan agreement 
+provides that the District's general fund furnish the District's child nutrition fund the cost of 
+an amount not to exceed $402,041 as a contingent liability subject to repayment as funds 
+become available from the child nutrition fund. This loan agreement included items such as 
+utilities, insurance, maintenance and lease agreements, copier and postage expense, audit 
+expense, technology support, transportation expense, and the coverage of end-of-year 
+shortfalls (i.e., salaries, inventory, etc.). The loan was repaid during the fiscal year and no 
+outstanding amounts have been reported in the financial statements at June 30, 2018. 
+
+13. Subsequent Events 
+
+Management has evaluated subsequent events through the date of the audit report, which is 
+the date the financial statements were available to be issued and have determined that no 
+additional information needs to be added to the financial statements. 
+
+-56- 
+
+
+
+
+
+Required Supplementary Information 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+REQUIRED SUPPLEMENT ARY INFORMATION 
+
+SCHEDULE OF THE DISTRICT'S PROPORTIONATE SHARE OF THE NET PENSION LIABILITY 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+LAST 10 YEARS * 
+
+2017 
+As of June 30, 
+
+2016 2015 2014 
+
+Proportion of the net pension liability 1.75% 1.65% 1.66% 1.65% 
+
+Proportionate share of the net pension liability $ 115,630,011 $ 137,373,683 $ 100,913,059 $ 88,880,852 
+
+Covered payroll $ 64,032,397 $ 66,932,668 $ 66,929,860 $ 65,939,633 
+
+Proportionate share of the net pension liability as 
+percentage of covered-employee payroll 180.58% 205.24% 150.77% 134.79% 
+
+Plan's fiduciary net position $ 103,377,434 $ 100,706,830 $110,226,600 $101,021,665 
+
+Plan fiduciary net position as a percentage of the 
+total pension liability 89.40% 73.31% 109.23% 113.66% 
+
+Notes to schedule: 
+
+* GASB Statement No. 68 requires ten years of information to be presented in this table. The information for all periods for 
+the 10-year schedules that are required to be presented as required supplementary information is not available. During 
+this transition period, the information will be presented for as many years as are available. 
+
+-57- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+REQUIRED SUPPLEMENTARY INFORMATION 
+
+SCHEDULE OF THE DISTRICT CONTRIBUTIONS 
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Contributions 
+Contributions as a 
+in Relation to District's Percentage of 
+
+Statutorily the Statutorily Contributions Covered- Covered 
+Required Required Deficiency Employee Employee 
+
+Contribution Contribution (Excess) Payroll Payroll 
+
+2018 $ 6,777,253 6,777,253 65,819,885 10.30% 
+2017 6,648,486 6,648,486 64,032,397 10.38% 
+2016 6,993,055 6,993,055 66,932,668 10.45% 
+2015 6,934,426 6,934,426 66,929,860 10.36% 
+2014 6,840,819 6,840,819 65,939,633 10.37% 
+2013 6,812,170 6,812,170 66,114,485 10.30% 
+2012 6,607,386 6,607,386 65,723,481 10.05% 
+2011 6,841,166 6,841,166 67,665,314 10.11% 
+2010 7,079,734 7,079,734 70,634,308 10.02% 
+2009 $ 6,440,611 6,440,611 67,133,683 9.59% 
+
+Notes to Required Supplementary Information: 
+
+The Districts' statutorily required contribution rate has changed over the prior 10 years as follows: 
+
+1 July 1,2005 to December 31, 2006 
+2 January 1,2007 to June 30, 2007 
+3 July 1,2007 to December 31,2007 
+4 January 1,2008 to June 30, 2008 
+5 July 1,2008 to December 31, 2008 
+6 January 1,2009 to December 31, 2009 
+7 January 1, 2010 to present 
+
+7.05% 
+7.60% 
+7.85% 
+8.35% 
+8.50% 
+9.00% 
+9.50% 
+
+-58- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BUDGETARY COMPARISON SCHEDULE - GENERAL FUND 
+
+YEAR ENDED JUNE 30, 2018 
+
+Budgeted Amounts Actual Variance 
+Original Final Q2udgetary basis2 ~fmal budget2 
+
+Revenues: 
+Property tax $ 18,489,480 18,831,222 19,010,591 (179,369) 
+Interest 48,100 48,100 57,135 (9,035) 
+County 3,961,552 3,961,552 4,021,697 (60,145) 
+State 54,723,492 55,797,931 57,557,294 (1,759,363) 
+Federal 7,308,522 6,528,008 6,346,075 181,933 
+Local 260,800 268,665 481,532 (212,867) 
+Other 186,049 (186,049) 
+
+Total revenues 84,791,946 85,435,478 87,660,373 (2,224,895) 
+
+Expenditures: 
+Instruction 53,569,752 54,644,891 53,353,139 1,291,752 
+Support services 33,159,555 33,704,853 32,805,701 899,152 
+Non-instructional services 17,496 17,462 1,538 15,924 
+Other outlays 1,627,274 1,177,299 530,313 646,986 
+
+Total expenditures 88,374,077 89,544,505 86,690,691 2,853,814 
+
+Excess (deficiency) of 
+revenues over 
+(under) expenditures (3,582,131 ) (4,109,027) 969,682 (5,078,709) 
+
+Other financing sources (uses): 
+Non-revenue receipts 732,041 509,928 509,928 
+
+Total other financing 
+sources 732,041 509,928 509,928 
+
+Net change in fund 
+balance (2,850,090) (3,599,099) 969,682 (4,568,781 ) 
+
+Fund balance, beginning of year 5,129,374 8,014,260 8,014,260 
+
+Cash fund balance, end of year 
+budgetary basis $ 2,279,284 4,415,161 8,983,942 (4,568,781) 
+
+Adjustments to conform with GAAP 
+Inventory 244,942 
+Receivables at year end 
+
+less unavailable revenues 2,420,995 
+Accounts payable at year end (53,074) 
+
+Fund balance, end of year - 
+modified accrual basis $ 11,596,805 
+
+-59- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BUDGETARY COMPARISON SCHEDULE - BUILDING FUND 
+
+YEAR ENDED JUNE 30,2108 
+
+Bud~eted Amounts Actual Variance 
+Original Final (budgeta!1 basis) (final budgeQ 
+
+Revenues: 
+Property tax $ 2,641,664 2,641,705 2,714,210 (72,505) 
+State 40 40 109 (69) 
+Federal 500,000 553,908 (53,908) 
+Local 193 2,929 (2,736) 
+
+Total revenues 2,641,704 3,141,938 3,271,156 (129,218) 
+
+Expenditures: 
+Support services 5,421,287 6,102,931 4,843,054 1,259,877 
+Capital outlays 178,713 181,557 9,394 172,163 
+Other outlays 
+
+Total expenditures 5,600,000 6,284,488 4,852,448 1,432,040 
+
+Excess (deficiency) of 
+revenues over 
+(under) expenditures (2,958,296) (3,142,550) (1,581,292) (1,561,258) 
+
+Other financing sources (uses): 
+Non-revenue receipts 
+
+Total other financing 
+sources 
+
+Net change in fund 
+balance (2,958,296) (3,142,550) (1,581,292) (1,561,258) 
+
+Fund balance, beginning of year 
+
+Cash fund balance, end of year 
+budgetary basis 
+
+8,047,236 
+
+$ 5,088,940 
+
+9,179,166 9,179,165 
+
+6,036,616 7,597,873 (1,561,257) 
+
+187,309 
+
+154,712 
+(171,620) 
+
+$ 7,768,274 
+
+Adjustments to conform with GAAP 
+Inventory 
+Receivables at year end 
+less unavailable revenues 
+
+Accounts payable at year end 
+Fund balance, end of year - 
+
+modified accrual basis 
+
+-60- 
+
+
+
+
+
+Other Supplementary Information 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+COMBINING BALANCE SHEET - OTHER GOVERNMENTAL FUNDS 
+
+JUNE 30, 2018 
+
+Special Revenue Funds 
+
+Tech Center 
+Child Building 
+
+Nutrition Tech Center Fund 
+Assets 
+Cash and cash equivalents $ 2,740,401 4,130,807 3,940,423 
+Receivables net of allowance for uncollectibles 1,725 640,351 168,090 
+Inventories 104,198 
+Total assets 2,846,324 4,771,158 4,108,513 
+
+Liabilities, Deferred Inflows of 
+Resources, and Fund Balances 
+
+Liabilities 
+Accounts payable 108,198 28,062 35,484 
+Accrued wages 280,992 287,854 
+Total liabilities 389,190 315,916 35,484 
+
+Fund Balances 
+Nonspendable: 
+Inventory 104,198 
+
+Restricted fund balances: 
+School construction 
+Federal allocation carryover 
+Buildings 4,073,029 
+Child nutrition 2,352,936 
+
+Assigned 4,455,242 
+Total fund balances 2,457,134 4,455,242 4,073,029 
+
+Total liabilities, deferred inflows of 
+resources, and fund balances $ 2,846,324 4,771,158 4,108,513 
+
+See Notes to Basic Financial Statements 
+
+-61- 
+
+
+
+Capital Projects Funds 
+
+Total 
+Other 
+
+Casualty/ Govenunental 
+Bond 32 Bond 34 Bond 35 Bond 38 Bond 39 Insurance Funds 
+
+$ 1,445,356 1,410,669 27,024 1,291,729 14,986,409 
+810,166 
+104,198 
+
+1,445,356 1,410,669 27,024 1,291,729 15,900,773 
+
+362,058 
+568,846 
+
+9,424 176,028 4,862 
+
+9,424 176,028 4,862 930,904 
+
+104,198 
+
+1,435,932 1,234,641 27,024 2,697,597 
+
+4,073,029 
+2,352,936 
+
+1,286,867 5,742,109 
+1,435,932 1,234,641 27,024 1,286,867 14,969,869 
+
+$ 1,445,356 1,410,669 27,024 1,291,729 15,900,773 
+
+-62- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES 
+
+IN FUND BALANCES - GOVERNMENTAL FUNDS 
+JUNE 30, 2018 
+
+Special Revenue Funds 
+
+Tech Center 
+Child Building 
+
+Nutrition Tech Center Fund 
+
+Revenues: 
+Interest $ 3,105 4,159 
+State 489,242 1,745,192 
+Federal 4,664,941 1,480,813 
+Local 1,341,083 3,503,698 1,662,914 
+Other 3,287 1,466 
+
+Total revenues 6,501,658 6,735,328 1,662,914 
+
+Expenditures: 
+Instruction 3,655,687 43,864 
+Support services 2,847,843 303,992 
+Non-instruction services 6,674,393 
+Capital outlays 1,546,228 
+Other outlays 12,693 1,466 
+
+Total expenditures 6,687,086 6,504,996 1,894,084 
+
+Excess (deficiency) of revenues 
+over expenditures (185,428) 230,332 (231,170) 
+
+Other financing sources (uses) 
+Proceeds of bonds 
+Insurance loss recovery 
+
+Total other financing sources (uses) 
+
+Net change in fund balances (185,428) 230,332 (231,170) 
+
+Fund balance, beginning of year 2,642,562 4,224,910 4,304,199 
+Fund balance, end of year $ 2,457,134 4,455,242 4,073,029 
+
+See Notes to Basic Financial Statements 
+
+-63- 
+
+
+
+Capital Project Funds 
+Total 
+Other 
+
+Casualty/ Governmental 
+Bond 31 Bond 32 Bond 34 Bond 35 Bond 38 Bond 39 Insurance Funds 
+
+$ 23 3,495 695 483 11,960 
+2,234,434 
+6,145,754 
+
+3,025 7,992 6,518,712 
+500,000 504,753 
+
+23 6,520 695 483 507,992 15,415,613 
+
+1,716,997 518,894 5,935,442 
+163,547 67,160 1,173,459 31,379 4,587,380 
+
+6,674,393 
+1,928,797 3,475,025 
+
+396,978 133,754 346,921 523,680 1,415,492 
+396,978 133,754 3,809,341 586,054 346,921 1,697,139 31,379 22,087,732 
+
+(396,978) (133,731 ) (3,802,821 ) (585,359) (346,921) (1,696,656) 476,613 (6,672,119) 
+
+1,820,000 1,200,000 3,020,000 
+
+1,820,000 1,200,000 3,020,000 
+
+(396,978) (133,731) (3,802,821 ) 1,234,641 (346,921) (496,656) 476,613 (3,652,119) 
+
+396,978 133,731 5,238,753 346,921 523,680 810,254 18,621,988 
+$ 1,435,932 1,234,641 27,024 1,286,867 14,969,869 
+
+-64- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+STATEMENT OF CHANGES IN ASSETS AND LIABILITIES - AGENCY FUND 
+
+YEAR ENDED JUNE 30, 2018 
+
+Balance Balance 
+July 1, 2017 Additions Deletions June 30, 2018 
+
+Mid-Del Teclmology Center $ 393,020 488,065 344,093 536,992 
+Board of Education Building 122,067 326,962 279,644 169,385 
+Barnes Elementary 35,527 75,995 83,105 28,417 
+Cleveland Bailey Elementary 12,597 60,884 59,785 13,696 
+Country Estates Elementary 13,696 76,280 72,616 17,360 
+Del City Elementary 21,326 44,149 52,155 13,320 
+East Side Elementary 
+Epperly Heights Elementary 36,489 43,666 46,268 33,887 
+Pleasant Hill Elementary 14,347 65,930 66,615 13,662 
+Highland Park Elementary 16,243 31,037 28,543 18,737 
+Ridgecrest Elementary 72,473 88,594 132,629 28,438 
+Soldier Creek Elementary 39,310 108,247 116,483 31,074 
+Sooner-Rose Elementary 
+Steed Elementary 24,431 73,793 72,659 25,565 
+Tinker Elementary 18,238 44,537 43,412 19,363 
+Townsend Elementary 19,677 56,660 55,940 20,397 
+Traub Elementary 
+Parkview Elementary 23,343 97,370 96,233 24,480 
+Schwartz Elementary 42,839 58,364 54,906 46,297 
+Midwest City Elementary 48,311 87,186 92,556 42,941 
+Carl Albert Middle School 40,528 189,304 180,752 49,080 
+Del Crest Middle School 31,264 129,505 119,686 41,083 
+Jarman Middle School 24,126 132,638 130,393 26,371 
+Kerr Middle School 35,524 123,359 122,013 36,870 
+Monroney Middle School 53,391 182,240 180,284 55,347 
+Carl Albert Senior High 230,380 628,913 580,543 278,750 
+Del City Senior High 123,272 344,593 349,119 118,746 
+Midwest City Senior High 183,067 432,016 428,643 186,440 
+Special Services 1,267 343 1,610 
+Mid-Del Transportation 1,245 68 1,313 
+Mid-Del Schools Maintenance 636 3,102 3,314 424 
+Child NutritionlMid-Del 909 622,070 620,749 2,230 
+
+Total funds held for student activities $ 1,679,543 4,615,870 4,413,138 1,882,275 
+
+Summary - Activity Funds 
+
+Assets 
+Cash $ 1,710,668 4,672,358 4,444,263 1,938,763 
+
+Liabilities 
+Accounts payable $ 31,125 56,488 31,125 56,488 
+Funds held for student activities 1,679,543 4,615,870 4,413,138 1,882,275 
+
+Total liabilities $ 1,710,668 4,672,358 4,444,263 1,938,763 
+
+-65- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BUDGETARY COMPARISON SCHEDULE - DEBT SERVICE FUND 
+
+YEAR ENDED JUNE 30,2018 
+
+Budgeted Amounts Actual Variance 
+Original Final (budgetill::y basisl (final budgeQ 
+
+Revenues: 
+Property tax $ 14,954,689 14,165,884 14,366,510 (200,626) 
+Interest 29,837 (29,837) 
+Local 1,403,126 (1,403,126) 
+
+Total revenues 14,954,689 14,165,884 15,799,473 (1,633,589) 
+
+Expenditures: 
+Other outlays 10,000 10,000 
+Debt service 20,000,000 19,990,000 15,369,153 4,620,847 
+
+Total expenditures 20,000,000 20,000,000 15,369,153 4,630,847 
+
+Excess (deficiency) of 
+revenues over 
+(under) expenditures (5,045,311 ) (5,834,116) 430,320 (6,264,436) 
+
+Other financing sources, 
+bond premium 498,950 (498,950) 
+
+Net change in fund 
+balance (5,045,311 ) (5,834,116) 929,270 (6,763,386) 
+
+Fund balance, beginning of year 15,457,227 15,558,565 15,558,566 (1) 
+
+Cash fund balance, end of year 
+budgetary basis $ 10,411,916 9,724,449 16,487,836 (6,763,387) 
+
+Adjustments to conform with GAAP 
+Receivables at year end 
+
+less unavailable revenues 239,780 
+Fund balance, end of year - 
+
+modified accrual basis $ 16,727,616 
+
+-66- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BUDGETARY COMPARISON SCHEDULE - CHILD NUTRITION FUND 
+
+YEAR ENDED JUNE 30, 2018 
+
+Budgeted Amounts Actual Variance 
+Original Final (budgetary basis) (final budget) 
+
+Revenues: 
+Interest $ 2,500 2,500 3,105 (605) 
+State 447,439 447,439 489,242 (41,803) 
+Federal 4,991,045 5,011,424 4,685,320 326,104 
+Local 1,511,812 1,511,812 1,341,254 170,558 
+Other 3,219 (3,219) 
+
+Total revenues 6,952,796 6,973,175 6,522,140 451,035 
+
+Expenditures: 
+Support services 
+Non-instructional services 7,221,064 7,222,274 6,595,144 627,130 
+Other outlays 436,941 435,731 12,693 423,038 
+
+Total expenditures 7,658,005 7,658,005 6,607,837 1,050,168 
+
+Excess (deficiency) of 
+revenues over 
+(under) expenditures (705,209) (684,830) (85,697) (599,133) 
+
+Other financing sources (uses): 
+Cash or change 2,750 2,750 2,750 
+
+Total other financing 
+sources 2,750 2,750 2,750 
+
+Net change in fund 
+balance (702,459) (682,080) (85,697) (596,383) 
+
+Fund balance, beginning of year 2,318,674 2,545,106 2,545,106 
+
+Cash fund balance, end of year 
+budgetary basis $ 1,616,215 1,863,026 2,459,409 (596,383) 
+
+Adjustments to conform with GAAP 
+Inventory 104,198 
+Receivables at year end 1,725 
+Accounts payable at year end (108,198) 
+
+Fund balance, end of year - 
+modified accrual basis $ 2,457,134 
+
+-67- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BUDGETARY COMPARISON SCHEDULE - TECH CENTER 
+
+YEAR ENDED JUNE 30, 2018 
+
+Budgeted Amounts Actual Variance 
+Original Final ~budgeta!1 basis} (final budget} 
+
+Revenues: 
+Interest $ 3,000 3,000 4,159 (1,159) 
+State 1,936,647 1,866,923 1,749,334 117,589 
+Federal 1,299,180 1,278,000 1,175,188 102,812 
+Local 3,296,116 3,297,380 3,278,651 18,729 
+
+Total revenues 6,534,943 6,445,303 6,207,332 237,971 
+
+Expenditures: 
+Instruction 3,802,739 3,780,304 3,514,360 265,944 
+Support services 2,587,863 2,646,970 2,685,916 (38,946) 
+Other outlays 200,891 164,219 164,219 
+
+Total expenditures 6,591,493 6,591,493 6,200,276 391,217 
+
+Net change in fund 
+balance (56,550) (146,190) 7,056 (153,246) 
+
+Fund balance, beginning of year 3,553,025 3,835,897 3,835,897 
+
+Cash fund balance, end of year 
+budgetary basis $ 3,496,475 3,689,707 3,842,953 (153,246) 
+
+Adjustments to conform with GAAP 
+Receivables at year end 640,351 
+Accounts payable at year end (28,062) 
+
+Fund balance, end of year - 
+modified accrual basis $ 4,455,242 
+
+-68- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+BUDGETARY COMPARISON SCHEDULE - TECH CENTER BUILDING FUND 
+
+YEAR ENDED JUNE 30, 2018 
+
+Budgeted Amounts Actual Variance 
+Original Final ~budgetaEY basis~ (final budgeQ 
+
+Revenues: 
+Local $ 1,663,620 1,663,620 1,595,591 68,029 
+
+Total revenues 1,663,620 1,663,620 1,595,591 68,029 
+
+Expenditures: 
+Instruction 368,500 60,449 13,689 46,760 
+Support services 1,011,981 898,113 315,359 582,754 
+Capital outlays 1,619,519 2,128,876 1,546,228 582,648 
+
+Total expenditures 3,000,000 3,087,438 1,875,276 1,212,162 
+
+Net change in fund 
+balance (1,336,380) (1,423,818) (279,685) (1,144,133) 
+
+Fund balance, beginning of year 3,668,540 4,220,108 4,220,108 
+
+Cash fund balance, end of year 
+budgetary basis $ 2,332,160 2,796,290 3,940,423 (1,144,133) 
+
+Adjustments to conform with GAAP 
+Receivables at year end 168,090 
+Accounts payable at year end (35,484) 
+
+Fund balance, end of year - 
+modified accrual basis $ 4,073,029 
+
+-69- 
+
+
+
+Compliance Section 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO.1-52, OKLAHOMA COUNTY 
+SCHEDULE OF EXPENDITURES OF FEDERAL A WARDS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Pass-through 
+Federal Grantor's Program Beginning Ending 
+
+Federal GrantorlPass Through CFDA Project or Award Balance Revenue Total Balance 
+GrantorlProgram Title Number Number Amount 7/1/2017 Collected Expenditures 6130/2018 
+
+U.S. Department of Education 
+
+Direct Programs: 
+Impact Aid Cluster: 
+Title VII Impact Aid - GF 84.041 591/592 44,043 62,442 44,043 82,663 23,822 
+Title VII Impact Aid - BF 84.041 591 553,909 914,195 553,909 1,454,372 13,732 
+Subtotal - Title VII Impact Aid Program (Cluster) 597,952 976,637 597,952 1,537,035 37,554 
+
+Title VI-Part A, Indian Education 84.060 561 215,745 176,952 215,745 (38,793) 
+Title VI-Part A, Indian Education 2016-17 84.060 799 (96,750) 96,750 
+Pell Grant 84.063 770 283,330 283,330 283,330 
+Subtotal - Direct Programs 1,097,027 879,887 1,154,984 2,036,110 (1,239) 
+
+Passed Through State DeQartment of Education: 
+* Title I Cluster: 
+
+Title l-Part A, Improving Basic Programs 84.010 511 3,204,563 1,931,766 2,914,100 (982,334) 
+Title I-Part A, Improving Basic Programs 2016-17 84.010 799 (350,988) 350,988 
+Title I-School Improvement 84.010 515 50,000 13,980 17,960 (3,980) 
+Title I-Part A, Neglected 84.013 518 103,563 34,786 60,766 (25,980) 
+Title I-Part A, Neglected 2016-17 84.013 799 (9,855) 9,855 
+Subtotal - Title I Program (Cluster) 3,358,126 (360,843) 2,341,375 2,992,826 (1,012,294) 
+
+* Title If-Part A, Teacher & Principal Training 84.367 541 598,340 254,982 275,259 (20,277) 
+Title II-Part A 2016-17 84.367 799 (152,758) 152,758 
+Title III-Part A, English Language Acq. 84.365 572 60,971 33,115 38,904 (5,789) 
+Title III-Part A, English Language Acq. 2016-17 84.365 799 (4,410) 4,410 
+Special Education Cluster: 
+lDEA-B Discretionary 84.027 613 4,268 2,244 2,244 
+lDEA-B Discretionary 20 I 6-17 84.027 799 (63) 63 
+lDEA-B Staff Development 84.027 615 33,888 23,875 23,875 
+lDEA-B Flowthrough 84.027 621 3,027,086 2,105,527 2,705,916 (600,389) 
+lDEA-B Flowthrough 2016-17 84.027 799 (593,359) 593,359 
+lDEA-B Flowthrough, Private Schools 84.027 625 18,721 10,431 10,627 (196) 
+lDEA-B Preschool 84.173 641 69,011 47,605 62,721 (15,116) 
+lDEA-B Preschool 2016-17 84.173 799 (13,798) 13,798 
+Subtotal - Special Education Program (Cluster) 3,152,974 (607,220) 2,796,902 2,805,383 (615,701) 
+
+-70 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+SCHEDULE OF EXPENDITURES OF FEDERAL A WARDS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Pass-through 
+Federal Grantor's Program Beginning Ending 
+
+Federal GrantorlPass Through CFDA Project or Award Balance Revenue Total Balance 
+GrantorlProgram Title Number Number Amount 7/112017 Collected Expenditures 6/30/2018 
+
+Title X-Part C, Homeless 84.196 596 269,216 125,532 191,798 (66,266) 
+Title X-Part C, Homeless 2016-17 84.196 799 (31,412) 31,412 
+Subtotal - Passed Through State Dept of Education 7,439,627 (1,156,643) 5,740,486 6,304,170 (1,720,327) 
+
+Passed Through State Department of Career 
+and Technology Education: 
+Carl Perkins Cluster: 
+Carl Perkins Grant - GF 84.048 421 110,333 46,626 86,842 (40,216) 
+Carl Perkins Grant - GF 2016-17 84.048 799 (50,701) 50,701 
+Carl Perkins Grant - Tech 84.048 421 127,212 60,268 109,088 (48,820) 
+Carl Perkins Grant - Tech 2016-17 84048 799 (69,645) 69,645 
+Tech Centers That Work 84.048 429 12,000 6,870 11,970 (5,100) 
+Tech Centers That Work 2016-17 84.048 799 (3,910) 3,910 
+Subtotal - Carl Perkins Program (Cluster) 249,545 (124,256) 238,020 207,900 (94,136) 
+
+U.S. Department of Agriculture: 
+Passed Through State Department of Education: 
+Child Nutrition Cluster: 
+
+Cash Assistance: 
+National School Lunch Program 10.555 763 649,311 3,492,405 3,202,412 939,304 
+School Breakfast Program 10.553 764 1,172,536 1,172,536 
+Summer Food Program 10.559 766 5,956 20,379 18,792 7,543 
+
+Cash Assistance Subtotal 655,267 4,685,320 4,393,740 946,847 
+Passed Through State Department of Human Services: 
+
+Non-cash Assistance (Conunodities) 10.555 N/A 465,860 465,860 
+Subtotal- Child Nutrition Program (Cluster) 655,267 5,151,180 4,859,600 946,847 
+
+U. S. Department of Defense: 
+Direct Programs: 
+JROTC Program: 
+IROTC - Air Force 12.401 774 122,434 114,048 130,298 (16,250) 
+IROTC - Air Force 2016-17 12.401 799 (3,801) 3,801 
+IROTC - Navy 12.401 775 57,251 41,570 41,570 
+Subtotal - JROTC Program 179,685 (3,801) 159,419 171,868 (16,250) 
+
+-71 
+
+
+
+Federal GrantorlPass Through 
+Grantor/Program Title 
+
+Other Federal Assistance: 
+Johnson O'Malley 
+Temporary Assistance for Needy Families 
+Temporary Assistance for Needy Families 2016-17 
+OJT -Rehabilitation Services 
+Subtotal - Other Federal Assistance 
+
+Total Federal Assistance 
+
+* Major federal programs 
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+Pass-through 
+Federal Grantor's Program Beginning Ending 
+CFDA Project or Award Balance Revenue Total Balance 
+Number Number Amount 7/1/2017 Collected Expenditures 6/30/2018 
+
+15.130 563 $ 42,140 22,266 26,572 (4,306) 
+93.558 452 151,000 27,897 149,994 (122,097) 
+93.558 799 (40,758) 40,758 
+84.126 456 10,121 (602) 8,831 11,368 (3,139) 
+
+203,261 (41,360) 99,752 187,934 (129,542) 
+
+$ 9,169,145 209,094 12,543,841 13,767,582 (1,014,647) 
+
+-72 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+NOTES TO THE SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+
+FOR THE YEAR ENDED JUNE 30, 2018 
+
+1. General 
+
+The schedule of expenditures of federal awards presents the activity of all federal award 
+programs of Midwest City-Del City School District (the District). The District reporting 
+entity is defined in the notes to the District's basic financial statements. All federal awards 
+received directly from federal agencies as well as federal awards passed through from other 
+govermnent agencies are included on the schedule. There were no amounts passed to 
+subrecipients. 
+
+2. Basis of Accounting 
+
+The information in this schedule is presented in accordance with the requirements of Title 2 
+Us. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost 
+Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Expenditures 
+are reported on the regulatory basis of accounting, as prescribed by the Oklahoma State 
+Department of Education, which is considered an other comprehensive basis of accounting. 
+Therefore, some material presented in this schedule may differ from amounts presented in, 
+or used in the preparation of, the financial statements. The District has also elected to not use 
+the 10% de minimis indirect cost rate allowed under the Uniform Guidance. 
+
+3. Non-cash Federal Awards 
+
+The District receives food commodities from the U.S. Department of Agriculture for use in 
+its foodservice program. The commodities, in the amount of $465,860, are recognized as 
+revenue when received and are reported at fair market value. 
+
+4. Prior Year Reimbursements 
+
+These amounts represent reimbursements for pnor year expenditures which were not 
+received until the current fiscal year. 
+
+-73- 
+
+
+
+JENKINS & KEMPER 
+CERTIFIED PUBLIC ACCOUNTANTS, P.C. 
+
+JACK JENKINS, CPA 
+MICHAEL KEMPER, CPA 
+
+INDEPENDENT AUDITOR'S REPORT ON INTERNAL CONTROL 
+OVER FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS 
+
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN 
+ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS 
+
+The Honorable Board of Education 
+Midwest City-Del City School District 
+Midwest City, OK 73110 
+
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of the Midwest City- 
+Del City School District No. I-52, Midwest City, Oklahoma, as of and for the year ended June 30, 218, 
+and the related notes to the financial statements, which collectively comprise the School District's 
+basic financial statements, and have issued our report thereon dated November 26, 2018. This report 
+was unqualified with respect to the presentation of the financial statements in conformity with 
+accounting principles generally accepted in the United States. 
+
+Internal Control Over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered the School District's 
+internal control over financial reporting to determine the audit procedures that are appropriate in the 
+circumstances for the purpose of expressing our opinion on the financial statements, but not for the 
+purpose of expressing an opinion on the effectiveness of the School District's internal control. 
+Accordingly, we do not express an opinion on the effectiveness of the School District's internal control. 
+
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course ofperforming their assigned functions, to prevent or 
+detect misstatements on a timely basis. A material weakness is a deficiency, or a combination of 
+deficiencies, in internal control such that there is a reasonable possibility that a material misstatement 
+of the entity's financial statements will not be prevented or detected and corrected on a timely basis. 
+A significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less 
+severe than a material weakness, yet important enough to merit attention by those charged with 
+governance. 
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of 
+this section and was not designed to identify all deficiencies in internal control that might be significant 
+deficiencies or material weaknesses. Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses. However, material 
+weaknesses may exist that have not been identified. 
+
+-74- 
+116 WEST" BRECKENRIDGE AVE. BIXBY, OK 74008 
+PHONE: 91 8.366.4440 FAX: 918.366.4443 
+
+WWW.JENKINSKEMPER.COM 
+
+
+
+Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the School District's financial statements are 
+free of material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts and grant agreements, noncompliance with which could have a direct and 
+material effect on the determination of financial statement amounts. However, providing an opinion 
+on compliance with those provisions was not an objective of our audit and, accordingly, we do not 
+express such an opinion. The results of our tests disclosed no instances of noncompliance or other 
+matters that are required to be reported under Government Auditing Standards. 
+
+Purpose of this Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the 
+entity's internal control or on compliance. This report is an integral part of an audit performed in 
+accordance with Government Auditing Standards in considering the entity's internal control and 
+compliance. Accordingly, this communication is not suitable for any other purpose. 
+
+J e~~ I K ~~t.:f'~ f.c_. 
+Jenkins & Kemper 
+Certified Public Accountants, P.C. 
+
+November 26,2018 
+
+-75- 
+
+
+
+JENKINS & KEMPER 
+CERTIFIED PUBLIC ACCOUNTANTS, P.C. 
+
+JACK JENKINS, CPA 
+MICHAEL KEMPER, CPA 
+
+INDEPENDENT AUDITOR'S REPORT ON COMPLIANCE FOR EACH 
+MAJOR PROGRAM AND ON INTERNAL CONTROL OVER COMPLIANCE 
+
+REQUIRED BY THE UNIFORM GUIDANCE 
+
+The Honorable Board of Education 
+Midwest City-Del City School District No. I-52 
+Midwest City, Oklahoma 73110 
+
+Report on Compliance for Each Major Federal Program 
+We have audited the compliance of Midwest City-Del City School District No. I-52, Midwest City, 
+Oklahoma, with the types of compliance requirements described in the US. Office of Management and 
+Budget (OMB) Compliance Supplement that could have a direct and material effect on each of its major 
+federal programs for the year ended June 30, 2018. The District's major federal programs are identified in 
+the summary of auditor's results section of the accompanying schedule of findings and questioned costs. 
+
+Management's Responsibility 
+Management is responsible for compliance with federal statutes, regulations, and the terms and conditions 
+of its federal awards applicable to its federal programs. 
+
+Auditor's Responsibility 
+Our responsibility is to express an opinion on compliance for each of the District's major federal programs 
+based on our audit of the types of compliance requirements referred to above. We conducted our audit of 
+compliance in accordance with auditing standards generally accepted in the United States of America; the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the 
+Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code of Federal 
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for 
+Federal Awards (The Uniform Guidance). Those standards and the Uniform Guidance require that we plan 
+and perform the audit to obtain reasonable assurance about whether noncompliance with the types of 
+compliance requirements referred to above that could have a direct and material effect on a major federal 
+program occurred. An audit includes examining, on a test basis, evidence about the District's compliance 
+with those requirements and performing such other procedures as we considered necessary in the 
+circumstances. 
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal 
+program. However, our audit does not provide a legal determination of the District's compliance. 
+
+Opinion on Each Major Federal Program 
+In our opinion, Midwest City-Del City District No. I-52, Midwest City, Oklahoma complied, in all material 
+respects, with the types of compliance requirements referred to above that could have a direct and material 
+effect on each of its major federal programs for the year ended June 30, 2018. 
+
+- 76- 
+116 WESf BRECKENRIDGE AVE. BIXBY, OK 74008 
+
+PHONE: 918.366.4440 FAX: 918.366.4443 
+WWW.JENKINSKEMPER.COM 
+
+
+
+Report on Internal Control over Compliance 
+The management of Midwest City-Del City District No. I-52, Midwest City, Oklahoma is responsible for 
+establishing and maintaining effective internal control over compliance with the types of compliance 
+requirements referred to above. In planning and performing our audit, we considered the District's internal 
+control over compliance with the types of requirements that could have a direct and material effect on each 
+major federal program to determine our auditing procedures that are appropriate in the circumstances for 
+the purpose of expressing our opinion on compl iance for each major federal program and to test and report 
+on internal control over compliance in accordance with the Uniform Guidance, but not for the purpose of 
+expressing an opinion on the effectiveness of internal control over compliance. Accordingly, we do not 
+express an opinion on the effectiveness of the District's internal control over compliance. 
+
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a deficiency, 
+or combination of deficiencies, in internal control over compliance, such that there is a reasonable 
+possibility that material noncompliance with a type of compliance requirement of a federal program will 
+not be prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control 
+over compliance is a deficiency, or combination of deficiencies, in internal control over compliance with a 
+type of compliance requirement of a federal program that is less severe than a material weakness in internal 
+control over compliance, yet important enough to merit attention by those charged with governance. 
+
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control over 
+compliance that might be material weaknesses or significant deficiencies. We did not identify any 
+deficiencies in internal control over compliance that we consider to be material weaknesses. However, 
+material weaknesses may exist that have not been identified. 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing 
+of internal control over compliance and the results of that testing based on the requirements of the Uniform 
+Guidance. Accordingly, this report is not suitable for any other purpose. 
+
+J e,J:.n.t1J! K ~ru-:t..:P~ 1'. L. 
+Jenkins & Kemper 
+Certified Public Accountants, P.C. 
+
+November 26,2018 
+
+- 77- 
+
+
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+
+JULY 1,2016 TO JUNE 30, 2018 
+
+Summary of Auditor's Results 
+
+1. The auditor's report expresses an unqualified opinion on the basic financial statements in 
+conformity with generally accepted accounting principles. 
+
+2. No significant deficiencies relating to the audit of the financial statements are reported in 
+the Schedule of Findings and Questioned Costs. 
+
+3. No instances of noncompliance material to the financial statements of the District were 
+reported during the audit. 
+
+4. No significant deficiencies relating to the audit of the major federal award programs are 
+reported in the "Report on Compliance with Requirements Applicable to Each Major 
+Program and Internal Control over Compliance in Accordance with OMB Uniform 
+Guidance" 
+
+5. An unqualified OpInIOn report was issued on the compliance of major federal award 
+programs. 
+
+6. The audit disclosed no audit findings and questioned costs, which are required to be reported 
+under OMB Uniform Guidance. 
+
+7. Identification of Major Programs: Title I programs (84.010,84.013), which were clustered in 
+the determination, and the Title II program (84.367). 
+
+8. The dollar threshold used to determine between Type A and Type B programs was $750,000. 
+
+9. The District did qualify to be a low-risk auditee. 
+
+Findings - Financial Statement Audit 
+
+None 
+
+Findings and Questioned Costs - Major Federal Award Programs Audit 
+
+None 
+
+-78- 
+
+
+
+INDEPENDENT SCHOOL DISTRICT NO. I-52, OKLAHOMA COUNTY 
+DISPOSITION OF PRIOR YEAR FINDINGS 
+
+JULY 1,2016 TO JUNE 30, 2018 
+
+Findings Related to the Financial Statement Audit: 
+
+There were no prior year findings. 
+
+-79- 
+
+
+
+
+
+

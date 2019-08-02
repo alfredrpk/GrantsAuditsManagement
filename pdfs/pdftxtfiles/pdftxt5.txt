@@ -1,0 +1,4561 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TM
+
+FINANCIAL STATEMENTS AND SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+WITH REPORTS OF INDEPENDENT AUDITORS 
+
+AS OF AND FOR THE YEAR ENDED JUNE 30, 2018
+
+
+
+CAMERON UNIVERSITY 
+TABLE OF CONTENTS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+
+ 
+
+INDEPENDENT AUDITORS’ REPORT 1 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 4 
+
+FINANCIAL STATEMENTS 
+
+STATEMENT OF NET POSITION 10 
+
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION 12 
+
+STATEMENT OF CASH FLOWS 13 
+
+NOTES TO FINANCIAL STATEMENTS 15 
+
+REQUIRED SUPPLEMENTARY INFORMATION 
+
+SCHEDULE OF THE UNIVERSITY’S PROPORTIONATE SHARE OF THE NET 
+PENSION LIABILITY – OTRS (UNAUDITED) 59 
+
+SCHEDULE OF THE UNIVERSITY’S CONTRIBUTIONS – OTRS (UNAUDITED) 60 
+
+SCHEDULE OF CHANGES IN NET PENSION LIABILITY AND RELATED 
+RATIOS – PRESIDENT’S RETIREMENT PLAN – PLAN 2 (UNAUDITED) 61 
+
+SCHEDULE OF EMPLOYER CONTRIBUTIONS – PRESIDENT’S RETIREMENT 
+PLAN – PLAN 2 (UNAUDITED) 62 
+
+SCHEDULE OF CHANGES IN NET OPEB ASSET AND RELATED RATIOS – 
+OTRS OPEB (UNAUDITED) 63 
+
+SCHEDULE OF EMPLOYER CONTRIBUTIONS – OTRS OPEB (UNAUDITED) 64 
+
+REPORTS REQUIRED BY GOVERNMENT AUDITING STANDARDS AND 
+UNIFORM GUIDANCE 
+
+INDEPENDENT AUDITORS’ REPORT ON INTERNAL CONTROL OVER 
+FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS 
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN 
+ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS 65 
+
+INDEPENDENT AUDITORS’ REPORT ON COMPLIANCE FOR EACH MAJOR 
+FEDERAL PROGRAM AND REPORT ON INTERNAL CONTROL OVER 
+COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 67 
+
+
+
+CAMERON UNIVERSITY 
+TABLE OF CONTENTS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+
+ 
+
+OTHER SUPPLEMENTARY INFORMATION 
+
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 70 
+
+NOTE TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 71 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 72 
+
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS 75 
+
+ 
+
+
+
+CliftonLarsonAllen LLP
+CLAconnect.com
+
+ 
+
+(1) 
+
+ 
+INDEPENDENT AUDITORS’ REPORT 
+
+ 
+ 
+ 
+Board of Regents of the University of Oklahoma 
+Cameron University 
+Norman, Oklahoma 
+ 
+ 
+Report on the Financial Statements 
+We have audited the accompanying financial statements of the business type activities and aggregate 
+discretely presented component unit of Cameron University (the University) an organizational unit of the 
+Board of Regents of the University of Oklahoma (the Regents), which is a component unit of the state 
+of Oklahoma, which comprise the statement of net position as of June 30, 2018, and the related 
+statements of revenues, expenses, and changes in net position, and cash flows for the year then 
+ended, and the related notes to the financial statements which collectively comprise the entity’s basic 
+financial statements as listed in the table of contents. 
+Management’s Responsibility for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes 
+the design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+Auditors’ Responsibility 
+Our responsibility is to express an opinion on these financial statements based on our audit. We did not 
+audit the financial statements of the University’s aggregate discretely presented component unit, 
+Cameron University Foundation, as described in Note 1 of the financial statements. The Foundation’s 
+financial statements were audited by another auditor, whose report has been furnished to us, and our 
+opinion, insofar as it relates to the amounts included for the Foundation, is based solely on the report of 
+the other auditor. We conducted our audit in accordance with auditing standards generally accepted in 
+the United States of America and the standards applicable to financial audits contained in Government 
+Auditing Standards, issued by the Comptroller General of the United States. Those standards require 
+that we plan and perform the audit to obtain reasonable assurance about whether the financial 
+statements are free from material misstatement. The financial statements of the Foundation were 
+audited by other auditors and were not audited in accordance with Government Auditing Standards. 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements. The procedures selected depend on the auditors’ judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or 
+error. In making those risk assessments, the auditor considers internal control relevant to the entity’s 
+preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness 
+of the entity’s internal control. Accordingly, we express no such opinion. An audit also includes 
+evaluating the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluating the overall presentation of the 
+financial statements. 
+
+
+
+Board of Regents of the University of Oklahoma 
+Cameron University 
+ 
+
+(2) 
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion.  
+ 
+Opinion 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+financial position of the University as of June 30, 2018, and the respective changes in financial position 
+and its cash flows for the year then ended in accordance with accounting principles generally accepted 
+in the United States of America.  
+ 
+Emphasis of Matters 
+As discussed in Note 1, in 2018 the University adopted Governmental Accounting Standards Board 
+Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits Other Than 
+Pensions.  
+ 
+As discussed in Note 1, the financial statements of the University’s reporting entity are intended to 
+present the financial position, changes in financial position, and cash flows of only the activities of the 
+University and Foundation. They do not purport to, and do not, present fairly the financial position of the 
+Regents as of June 30, 2018, the changes in its financial position or its cash flows for the year then 
+ended, in accordance with accounting principles generally accepted in the United States of America. 
+Our opinion is not modified with respect to this matter. 
+ 
+Other Matters 
+Required Supplementary Information 
+Accounting principles generally accepted in the United States of America require that the 
+management’s discussion and analysis and the required supplementary information, as listed in the 
+table of contents, be presented to supplement the basic financial statements. Such information, 
+although not a part of the basic financial statements, is required by the Governmental Accounting 
+Standards Board who considers it to be an essential part of financial reporting for placing the basic 
+financial statements in an appropriate operational, economic, or historical context. We have applied 
+certain limited procedures to the required supplementary information in accordance with auditing 
+standards generally accepted in the United States of America, which consisted of inquiries of 
+management about the methods of preparing the information and comparing the information for 
+consistency with management’s responses to our inquiries, the basic financial statements, and other 
+knowledge we obtained during our audit of the basic financial statements. We do not express an 
+opinion or provide any assurance on the information because the limited procedures do not provide us 
+with sufficient evidence to express an opinion or provide any assurance. 
+ 
+Other Supplementary Information 
+Our audit was conducted for the purpose of forming opinions on the financial statements that 
+collectively comprise Cameron University’s basic financial statements. The schedule of expenditures of 
+federal awards, as required by Title 2 U.S. Code of Federal Regulations Part 200, Uniform 
+Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, is 
+presented for purposes of additional analysis and is not a required part of the basic financial 
+statements. 
+ 
+
+
+
+Board of Regents of the University of Oklahoma 
+Cameron University 
+ 
+
+(3) 
+
+The schedule of expenditures of federal awards is the responsibility of management and was derived 
+from and relates directly to the underlying accounting and other records used to prepare the basic 
+financial statements. Such information has been subjected to the auditing procedures applied in the 
+audit of the basic financial statements and certain additional procedures, including comparing and 
+reconciling such information directly to the underlying accounting and other records used to prepare the 
+basic financial statements or to the basic financial statements themselves, and other additional 
+procedures in accordance with auditing standards generally accepted in the United States of America. 
+In our opinion, the information is fairly stated, in all material respects, in relation to the basic financial 
+statements as a whole. 
+ 
+Other Reporting Required by Government Auditing Standards  
+In accordance with Government Auditing Standards, we have also issued our report dated October 11, 
+2018, on our consideration of the University’s internal control over financial reporting and on our tests of 
+its compliance with certain provisions of laws, regulations, contracts and grant agreements and other 
+matters. The purpose of that report is to describe the scope of our testing of internal control over 
+financial reporting and compliance and the results of that testing, and not to provide an opinion on 
+internal control over financial reporting or on compliance. That report is an integral part of an audit 
+performed in accordance with Government Auditing Standards in considering the University’s internal 
+control over financial reporting and compliance. 
+ 
+ 
+ 
+
+ 
+CliftonLarsonAllen LLP 
+
+St. Louis, Missouri 
+October 11, 2018 
+ 
+
+
+
+CAMERON UNIVERSITY 
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 
+
+JUNE 30, 2018 AND 2017 
+ 
+ 
+ 
+
+(4) 
+
+ 
+This section of Cameron University’s (the University) financial statements presents management’s 
+discussion and analysis of the University’s financial performance during the year ended June 30, 2018. 
+Since this management’s discussion and analysis is designed to focus on current activities, resulting 
+change, and current known facts, it should be read in conjunction with the University’s basic financial 
+statements and footnotes. The overview of the financial statements and financial analysis is presented 
+for fiscal year 2018, with fiscal year 2017 data presented for comparative purposes. 
+ 
+Financial Analysis of the University as a Whole 
+The basic financial statements of the University are the statement of net position; statement of 
+revenues, expenses, and changes in net position; and statement of cash flows. The statement of net 
+position presents the financial position of the University at June 30, 2018. The statement of revenues, 
+expenses, and changes in net position summarizes the University’s financial activity for the year ended 
+June 30, 2018. The statement of cash flows, presented using the direct method, reflects the effects on 
+cash that result from the University’s operating activities, investing activities, and capital and noncapital 
+financing activities for the year ended June 30, 2018. 
+ 
+The following schedules are prepared from the University’s basic financial statements. With the 
+exception of the statement of cash flows, the statements are presented on an accrual basis of 
+accounting whereby revenues are recognized when earned and expenses are recorded when incurred 
+and assets are capitalized and depreciated. 
+ 
+Statement of Net Position 
+This statement is presented in categories, namely assets, deferred outflows of resources, liabilities, 
+deferred inflows of resources, and net position. The assets are classified between current and 
+noncurrent assets. Current assets include cash and cash equivalents, short-term investments, accounts 
+receivable, and other assets. Noncurrent assets include cash, cash equivalents, and investments that 
+are restricted for long-term purposes, such as investment in capital assets, or have scheduled 
+maturities exceeding one year. Noncurrent assets also include receivables restricted for investment in 
+capital assets as well as capital assets. Capital assets include land, buildings and improvements, 
+infrastructure, equipment, library materials, and construction in progress. Capital assets, with the 
+exception of land and construction in progress, are shown net of depreciation. 
+ 
+Deferred outflows of resources are consumptions of net position that are applicable to a future period. It 
+includes costs associated with pensions. Deferred inflows of resources are acquisitions of net position 
+that are applicable to a future period. It includes credits associated with debt restructure and pensions. 
+ 
+Liabilities are also classified between current and noncurrent. Current liabilities include accounts 
+payable, accrued expenses, unearned revenue, and the portion of noncurrent liabilities expected to be 
+paid in the upcoming fiscal year. These liabilities represent obligations due within one year. Noncurrent 
+liabilities include the portion of accrued compensated absences, capital lease obligation, and net 
+pension obligation expected to be paid in fiscal year 2020 or thereafter. 
+ 
+At June 30, 2018, the University had approximately $17 million in outstanding capital leases. Additional 
+information related to the University’s long-term debt is presented in Note 5 to the financial statements. 
+ 
+Total net position increased to $19.1 million in fiscal year 2018 from $16.6 million in fiscal year 2017. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 
+
+JUNE 30, 2018 AND 2017 
+ 
+ 
+ 
+
+(5) 
+
+ 
+Financial Analysis of the University as a Whole (Continued) 
+Following is a comparison of the summarized financial position, net position, and capital assets of the 
+University at June 30: 
+ 
+Condensed Statements of Net Position 
+
+2018 2017
+(in Millions) (in Millions)
+
+ASSETS
+Current Assets 15.6$                15.5$                
+Noncurrent Assets:
+
+Capital Assets, Net of Depreciation 59.9                  60.8                  
+Other 4.0                    3.2                    
+
+Total Assets 79.5                  79.5                  
+
+DEFERRED OUTFLOWS OF RESOURCES 4.5                    13.1                  
+
+LIABILITIES
+Current Liabilities 4.6                    6.0                    
+Noncurrent Liabilities 52.4                  65.3                  
+
+Total Liabilities 57.0                  71.3                  
+
+DEFERRED INFLOWS OF RESOURCES 8.0                    4.7                    
+
+NET POSITION
+Net Investment in Capital Assets 41.5                  40.2                  
+Restricted - Expendable 4.5                    4.2                    
+Restricted - Nonexpendable 0.1                    0.1                    
+Unrestricted (27.0)                 (27.9)                 
+
+Total Net Position 19.1$                16.6$                
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 
+
+JUNE 30, 2018 AND 2017 
+ 
+ 
+ 
+
+(6) 
+
+ 
+Financial Analysis of the University as a Whole (Continued) 
+Analysis of Net Position (in Millions) 
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+
+Assets Deferred Outflows Liabilities Deferred Inflows Net Position
+
+FY 2018
+FY 2017
+
+ 
+ 
+
+2018 2017
+(in Millions) (in Millions)
+
+CAPITAL ASSETS, NET
+Land 0.4$                  0.4$                  
+Buildings and Improvements 101.5                100.7                
+Infrastructure 9.6                    9.3                    
+Equipment 13.7                  13.2                  
+Library Materials 10.9                  10.8                  
+Construction in Progress 0.8                    0.0                    
+
+Total Capital Assets 136.9                134.4                
+Less Accumulated Depreciation (77.0)                 (73.6)                 
+
+Net Capital Assets 59.9$                60.8$                
+ 
+
+In 2018, the University added $2.8 million in assets due to the costs associated with various 
+construction projects and acquisitions of equipment and library materials. The University disposed of 
+approximately $.4 million in partially depreciated equipment.  
+ 
+
+
+
+CAMERON UNIVERSITY 
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 
+
+JUNE 30, 2018 AND 2017 
+ 
+ 
+ 
+
+(7) 
+
+ 
+Financial Analysis of the University as a Whole (Continued) 
+Statement of Revenues, Expenses, and Changes in Net Position 
+This statement reflects the effect of operating and nonoperating activities on net position. The 
+statement is classified between operating and nonoperating revenues and expenses. 
+ 
+Following is a comparison of revenues, expenses, and other changes in net position for the years 
+ended June 30: 
+ 
+Condensed Statements of Revenue, Expenses, and Changes in Net Position 
+
+2018 2017
+(In Millions) (In Millions)
+
+OPERATING REVENUES
+Tuition and Fees, Net 18.9$                19.0$                
+Grants and Contracts 2.7                    2.5                    
+Sales and Services 0.7                    0.6                    
+Auxiliary Enterprises 4.0                    3.8                    
+Other 0.2                    0.5                    
+
+Total Operating Revenues 26.5                  26.4                  
+Less Operating Expenses 56.6                  58.4                  
+
+Operating Loss (30.1)                 (32.0)                 
+
+NONOPERATING REVENUES
+State Appropriations 16.6                  17.9                  
+Federal and State Grants 10.9                  11.1                  
+Onbehalf Payments 3.0                    3.1                    
+Endowment Income 0.1                    0.3                    
+Investment Income 0.1                    0.1                    
+Private Donations 1.4                    0.5                    
+Capital Appropriations 1.2                    1.2                    
+
+Total Nonoperating Revenues 33.3                  34.2                  
+Less Nonoperating Expenses 0.7                    1.2                    
+
+Net Nonoperating Revenue 32.6                  33.0                  
+
+CHANGE IN NET POSITION 2.5                    1.0                    
+
+Net Position - Beginning of Year 16.6                  17.4                  
+Restatement - Implementation of GASB 82 -                      (1.8)                   
+Net Position - Beginning of Year, as Restated 16.6                  15.6                  
+
+NET POSITION - END OF YEAR 19.1$                16.6$                
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 
+
+JUNE 30, 2018 AND 2017 
+ 
+ 
+ 
+
+(8) 
+
+ 
+Financial Analysis of the University as a Whole (Continued) 
+Operating revenues includes tuition and fees net of scholarship discounts and allowances, grants and 
+contracts, sales and services, auxiliary enterprises, and other. These revenues increased by $.1 million 
+in 2018. Tuition and fees revenue decreased by $.1 million from 2017 to 2018. Grants and contracts 
+and auxiliary enterprises had a combined increase of $.4 million in 2018. 
+ 
+The majority of nonoperating revenues are made up of state appropriations and Pell grant revenues. 
+There was a significant decrease of $1.3 million in state appropriations in fiscal year 2018 as compared 
+to fiscal year 2017.  
+ 
+The University’s operating expenses are classified by natural classification, including employee 
+compensation, scholarships, contractual services, etc. In fiscal year 2018, operating expenses 
+decreased by $1.8 million primarily due to decreases in compensation, supplies and materials, 
+scholarships, and depreciation expense. Compensation decreased due to vacancies in full-time faculty 
+and staff. Conserative spending resulted in a decrease in supplies and materials. The scholarship 
+decrease was due to the reduction in Oklahoma’s Promise scholarships and reduced funding for 
+Oklahoma Tuition Aid Grant recipients.  
+ 
+Analysis of Revenues and Expenses (in Millions) 
+
+0
+20
+40
+60
+80
+
+Operating Revenues Operating Expenses Nonoperating
+Revenues/Expenses
+
+FY 2018
+FY 2017
+
+ 
+ 
+
+2018 2017
+(In Millions) (In Millions)
+
+OPERATING EXPENSES
+Compensation 31.7$                33.8$                
+Contractual Services 5.3                    4.4                    
+Supplies and Materials 3.4                    3.6                    
+Depreciation 3.8                    4.4                    
+Utilities 1.5                    1.4                    
+Communications 0.3                    0.3                    
+Scholarships and Fellowships 8.4                    8.6                    
+Other Operating Expenses 2.2                    1.9                    
+
+Total Operating Expenses 56.6$                58.4$                
+ 
+
+
+
+CAMERON UNIVERSITY 
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 
+
+JUNE 30, 2018 AND 2017 
+ 
+ 
+ 
+
+(9) 
+
+ 
+Financial Analysis of the University as a Whole (Continued) 
+Statement of Cash Flows 
+This statement is used to determine the University’s ability to meet its obligations and to determine if 
+external financing is needed. It is presented using the direct method with four major classifications: 
+operating activities, noncapital financing activities, capital and related financing activities, and investing 
+activities. 
+ 
+Following is a comparison of cash flows for the years ended June 30: 
+ 
+
+2018 2017
+(In Millions) (In Millions)
+
+CASH PROVIDED (USED) BY
+Operating Activities (25.8)$               (25.1)$               
+Noncapital Financing Activities 27.5                  29.0                  
+Capital and Related Financing Activities (1.7)                   (8.4)                   
+Investing Activities 0.1                    0.1                    
+
+Net Change in Cash 0.1                    (4.4)                   
+
+Cash - Beginning of Year 14.4                  18.8                  
+
+CASH - END OF YEAR 14.5$                14.4$                
+ 
+
+Foundation 
+Cameron University Foundation, Inc. (the Foundation), is a legally separate, Oklahoma nonprofit 
+corporation organized for the purpose of receiving and administering gifts intended for the University. 
+Because the restricted resources held by the Foundation can only be used by, or for the benefit of, the 
+University, the University’s management believes that presenting the Foundation’s financial statements 
+as part of the University reporting entity provides users relevant and timely information about resources 
+available to the University. The most recent financial statements of the Foundation are included under 
+the heading “Foundation.” 
+ 
+Economic Outlook 
+The Oklahoma economy appears to be making a turn in the right direction and is gradually stabilizing. 
+The reduction in state appropriations for fiscal year 2019 is only .1% compared to 6% and 16% in 
+previous years. However, the University continues to see a decline in enrollment due to a decreasing 
+population in southwest Oklahoma. Even with the positive future of the economy, the University 
+continues to look for cost saving measures. Significant savings were realized when the University 
+outsourced custodial services in fiscal year 2018. Management continues to monitor expenditures to 
+ensure resources are used in the most effective and efficient manner. The University remains fully 
+committed to increasing and improving student success and student learning inside and outside the 
+classroom while continuing to be an engaged partner with common education, business, industry, civic 
+and government organizations. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+STATEMENT OF NET POSITION 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+See accompanying Notes to Financial Statements. 
+(10) 
+
+ 
+University Foundation
+June 30, June 30,
+
+2018 2018
+ASSETS
+
+CURRENT ASSETS
+Cash and Cash Equivalents 10,729,684$     421,844$          
+Accrued Interest Receivable 7,715                84,207              
+Accounts Receivable, Net 1,636,367         5,517                
+Receivables from OSRHE 969,326            -                        
+Prepaid Expenses and Other Assets 2,273,534         -                        
+
+Total Current Assets 15,616,626       511,568            
+
+NONCURRENT ASSETS
+Restricted Cash and Cash Equivalents 3,822,338         -                        
+Investments -                        26,867,083       
+Prepaid Bond Insurance Costs 999                   -                        
+Other Assets 227,940            541,218            
+Capital Assets, Net 59,854,344       238,000            
+
+Total Noncurrent Assets 63,905,621       27,646,301       
+
+Total Assets 79,522,247       28,157,869       
+
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred Outflows for Pensions 4,512,108         -                        
+
+Total Assets and Deferred Outflows of Resources 84,034,355$     28,157,869$     
+
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+STATEMENT OF NET POSITION (CONTINUED) 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+See accompanying Notes to Financial Statements. 
+(11) 
+
+ 
+University Foundation
+June 30, June 30,
+
+2018 2018
+LIABILITIES
+
+CURRENT LIABILITIES
+Accounts Payable and Accrued Expenses 588,156$          31,004$            
+Accrued Payroll 1,002,682         -                        
+Unearned Revenues 1,149,280         -                        
+Notes Payable -                        682,768            
+Deposits Held in Custody for Others 128,456            -                        
+Current Portion of Noncurrent Liabilities 1,692,567         -                        
+
+Total Current Liabilities 4,561,141         713,772            
+
+NONCURRENT LIABILITIES, NET OF CURRENT PORTION
+Accrued Compensated Absences 379,872            -                        
+Capital Lease Payable, Net of Premium 17,071,871       -                        
+Net Pension Liability 34,984,309       -                        
+
+Total Noncurrent Liabilities 52,436,052       -                        
+
+Total Liabilities 56,997,193       713,772            
+
+DEFERRED INFLOWS OF RESOURCES
+Deferred Inflows for Pensions 7,701,354         -                        
+Deferred Credit on OCIA Lease Restructure 260,116            -                        
+
+Total Deferred Inflows of Resources 7,961,470         -                        
+
+Total Liabilities and Deferred Inflows of Resources 64,958,663       713,772            
+
+NET POSITION
+Net Investment in Capital Assets 41,479,979       -                        
+Restricted for:
+
+Nonexpendable:
+Scholarships and Fellowships 66,000              12,002,032       
+
+Expendable:
+Educational Programs 707,335            9,127,990         
+Capital Projects 3,678,592         -                        
+Other 160,153            -                        
+
+Unrestricted (27,016,367)      6,314,075         
+
+Total Net Position 19,075,692$     27,444,097$     
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+See accompanying Notes to Financial Statements. 
+(12) 
+
+ 
+University Foundation
+
+Year Ended Year Ended
+ June 30,  June 30,
+
+2018 2018
+OPERATING REVENUES
+
+Student Tuition and Fees, Net of Scholarship Allowance
+of $8,250,943 18,908,897$        -$                        
+
+Federal Grants and Contracts 1,990,022            -                          
+State Grants and Contracts 154,126               -                          
+Nongovernmental Grants and Contracts 577,577               -                          
+Sales and Services of Educational Departments 700,457               -                          
+Auxiliary Enterprises 3,933,703            -                          
+Gifts and Contributions -                          1,752,626            
+Other Operating Revenues 230,810               116,141               
+
+Total Operating Revenues 26,495,592          1,868,767            
+
+OPERATING EXPENSES
+Compensation and Benefits 31,690,580          -                          
+Contractual Services 5,273,323            -                          
+Supplies and Materials 3,418,074            -                          
+Depreciation 3,812,443            -                          
+Utilities 1,502,296            -                          
+Communications 282,713               -                          
+Scholarships and Fellowships 8,404,578            323,495               
+Other Operating Expenses 2,202,494            2,469,787            
+
+Total Operating Expenses 56,586,501          2,793,282            
+
+OPERATING INCOME (LOSS) (30,090,909)        (924,515)             
+
+NONOPERATING REVENUES (EXPENSES)
+State Appropriations 16,600,117          -                          
+Federal and State Grants 10,909,711          -                          
+OTRS On-Behalf Contributions 1,458,994            -                          
+Oklahoma State Regents for Higher Education Endowment Income 118,930               -                          
+Investment Income 130,393               896,470               
+Net Depreciation on Investments -                          472,918               
+Interest Expense (695,883)             -                          
+Other Nonoperating Expense (44,675)               -                          
+
+Net Nonoperating Revenues 28,477,587          1,369,388            
+
+INCOME (LOSS) BEFORE OTHER REVENUES,
+EXPENSES, OR GAINS (LOSSES) (1,613,322)          444,873               
+
+OTHER REVENUES, EXPENSES, OR GAINS (LOSSES)
+On-Behalf State Appropriations Restricted for Debt Service 1,551,610            -                          
+Private Donations Restricted for Capital Purposes 1,365,000            -                          
+State Appropriations Restricted for Capital Purposes 1,205,645            -                          
+
+Total Other Revenues, Expenses, or Gains (Losses) 4,122,255            -                          
+
+CHANGE IN NET POSITION 2,508,933            444,873               
+
+Net Position - Beginning of year 16,566,759          26,999,224          
+
+NET POSITION - END OF YEAR 19,075,692$        27,444,097$        
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+STATEMENT OF CASH FLOWS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+See accompanying Notes to Financial Statements. 
+(13) 
+
+ 
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+Tuition and Fees 18,551,118$     
+Grants and Contracts 2,549,262         
+Payments to Employees (30,539,190)      
+Payments to Vendors (12,788,659)      
+Payments for Scholarships and Fellowships (8,404,578)        
+Sales and Services of Educational Departments 629,806            
+Auxiliary Enterprises 3,976,652         
+Other Operating Receipts 230,810            
+
+Net Cash Used by Operating Activities (25,794,779)      
+
+CASH FLOWS FROM NONCAPITAL FINANCING ACTIVITIES
+State Appropriations 16,600,117       
+Federal and State Grants 10,909,712       
+Direct Loans Received 13,649,378       
+Direct Loans Disbursed (13,649,378)      
+Agency Transactions 3,667                
+
+Net Cash Provided by Noncapital Financing Activities 27,513,496       
+
+CASH FLOWS FROM CAPITAL AND RELATED FINANCING ACTIVITIES
+Capital Appropriations 1,205,645         
+Private Donations Restricted for Capital Purposes 1,365,000         
+Payments on Bonds and Lease Payable (5,656,122)        
+Proceeds from Capital Lease Obligations 5,079,752         
+Interest Paid on Capital Debt and Leases (849,151)           
+Purchases of Capital Assets (2,828,472)        
+
+Net Cash Used by Related Financing Activities (1,683,348)        
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+Interest on Investments 128,625            
+
+NET CHANGE IN CASH AND CASH EQUIVALENTS 163,994            
+
+Cash and Cash Equivalents - Beginning of Year 14,388,028       
+
+CASH AND CASH EQUIVALENTS - END OF YEAR 14,552,022$     
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+STATEMENT OF CASH FLOWS (CONTINUED) 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+See accompanying Notes to Financial Statements. 
+(14) 
+
+ 
+RECONCILIATION OF OPERATING LOSS TO NET CASH
+
+USED BY OPERATING ACTIVITIES
+Operating Loss (30,090,909)$    
+Adjustments to Reconcile Operating Loss to Net Cash
+
+Used by Operating Activities:
+Depreciation Expense 3,812,443         
+OTRS On-Behalf Contributions 1,458,994         
+Changes in Assets and Liabilities:
+
+Accounts Receivable (313,621)           
+Prepaid Expenses and Other Assets (165,862)           
+Deferred Outflows for Pensions 8,538,944         
+Accounts Payable and Accrued Expenses (128,066)           
+Net Pension Liability (12,130,216)      
+Unearned Revenues (77,310)             
+Deferred Inflows for Pensions 3,300,824         
+
+Net Cash Used by Operating Activities (25,794,779)$    
+
+NONCASH CAPITAL AND RELATED FINANCING ITEMS
+Principal and Interest Paid by Other State Agencies 1,551,610$       
+
+RECONCILIATION OF CASH AND CASH EQUIVALENTS TO THE
+STATEMENTS OF NET POSITION
+
+Current Assets:
+Current Cash and Cash Equivalents 10,729,684$     
+
+Noncurrent Assets:
+  Restricted Cash and Cash Equivalents 3,822,338         
+
+Total Reconciliation of Cash and Cash Equivalents to the
+Statements of Net Position 14,552,022$     
+
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(15) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Nature of Operations 
+Cameron University (the University) is a regional University operating under the jurisdiction 
+of the Board of Regents of the University of Oklahoma (the Board of Regents) and the 
+Oklahoma State Regents for Higher Education. 
+ 
+Reporting Entity 
+The University is one of four institutions of higher education in Oklahoma that comprise the 
+Regents of the University of Oklahoma, which in turn is part of the Higher Education 
+Component Unit of the state of Oklahoma. 
+ 
+The Board of Regents has constitutional authority to govern, control, and manage the 
+Regents of the University of Oklahoma, which consists of Cameron University, Rogers State 
+University, University of Oklahoma-Norman Campus and University of Oklahoma Health 
+Sciences Center. This authority includes but is not limited to the power to designate 
+management, the ability to significantly influence operations, acquire and take title to real 
+and personal property in its name, and appoint or hire all necessary officers, supervisors, 
+instructors, and employees for member institutions. 
+ 
+Accordingly, the University is considered an organizational unit of the Board of Regents of 
+the University of Oklahoma reporting entity for financial reporting purposes due to the 
+significance of its legal, operational and financial relationships with the Board of Regents, as 
+defined in Section 2100 of the Governmental Accounting Standards Board (GASB) 
+Codification of Governmental Accounting and Financial Reporting Standards. 
+ 
+In prior years, the University reported itself as a component unit of the state of Oklahoma. 
+Based on an evaluation performed by management during 2015, it was determined that the 
+University is not a legally separate entity. Therefore, it is not a component unit of the State. 
+The University is an organizational unit with the Board of Regents as mentioned above. 
+ 
+Cameron University Foundation 
+Cameron University Foundation, Inc. (the Foundation), is a legally separate, Oklahoma 
+nonprofit corporation organized for the purpose of receiving and administering gifts intended 
+for the University. Because the restricted resources held by the Foundation can only be 
+used by, or for the benefit of, the University, the University’s management believes that 
+presenting the Foundation’s financial statements as part of the University reporting entity 
+provides users relevant and timely information about resources available to the University. 
+The Foundation reports under Financial Accounting Standards Board (FASB) Accounting 
+Standards Codification (ASC). As such, certain revenue recognition criteria and presentation 
+features are different from GASB revenue recognition criteria and presentation features. No 
+modifications have been made to the Foundation’s financial information for these 
+differences. The Foundation prepares separate, standalone financial statements that may 
+be obtained by contacting the Foundation’s management. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(16) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Financial Statement Presentation 
+The Governmental Accounting Standards Board (GASB) is the recognized standard-setting 
+body for accounting principles generally accepted in the United States of America (U.S. 
+GAAP) applicable to public sector institutions of higher education. The University applies all 
+applicable GASB pronouncements. 
+ 
+Basis of Accounting 
+The financial statements are prepared using the economic resources measurement focus 
+and the accrual basis of accounting in accordance with U.S. GAAP. Under the accrual basis, 
+revenues are recognized when earned, and expenses are recorded when an obligation has 
+been incurred. All significant intra-agency transactions have been eliminated. 
+ 
+Cash Equivalents 
+For purposes of the statement of cash flows, the University considers all highly liquid 
+investments with an original maturity of three months or less to be cash equivalents. Funds 
+invested through the State Treasurer’s OK Invest cash management investment policy are 
+considered cash equivalents. 
+ 
+Investments 
+The University accounts for its investments at fair market value based on quoted market 
+prices. Changes in unrealized gain (loss) on the carrying value of investments are reported 
+as a component of investment income in the statement of revenues, expenses, and changes 
+in net position. 
+ 
+Accounts Receivable 
+Accounts receivable consist of tuition and fee charges to students and auxiliary enterprise 
+services provided to students, faculty, and staff, the majority of each residing in the state of 
+Oklahoma. Accounts receivable also include amounts due from the federal, state, and local 
+governments or private sources, in connection with reimbursement of allowable 
+expenditures made pursuant to the University’s grants and contracts. Accounts receivable 
+are recorded net of estimated uncollectible amounts. The University determines its 
+allowance by considering a number of factors, including the length of time accounts 
+receivable are past due, the University’s previous loss history, and the condition of the 
+general economy and the industry as a whole. The University writes off specific accounts 
+receivable when they become uncollectible, and payments subsequently received on such 
+receivables are credited to the allowance for doubtful accounts. 
+ 
+Restricted Cash and Investments 
+Cash and investments that are externally restricted for debt service payments, maintain 
+sinking or reserve funds, long-term student loans, or to purchase capital or other noncurrent 
+assets are classified as noncurrent assets in the statement of net position. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(17) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Capital Assets 
+Capital assets are recorded at cost at the date of acquisition or fair market value at the date 
+of donation in the case of gifts. The University’s capitalization policy is all items with a unit 
+cost of $5,000 or more and an estimated useful life of greater than one year. Renovations to 
+buildings, infrastructure, and land improvements that significantly increase the value or 
+extend the useful life of the structure are capitalized. Routine repairs and maintenance are 
+charged to operating expense in the year in which the expense was incurred. 
+ 
+Costs incurred during construction of long-lived assets are recorded as construction in 
+progress and are not depreciated until placed in service. The University capitalizes interest 
+as a component of capital assets constructed for its own use. There was no capitalized 
+interest in 2018. 
+ 
+Depreciation is computed using the straight-line method over the estimated useful lives of 
+the assets, generally 40 years for buildings, 25 years for infrastructure and land 
+improvements, and 7 years for library materials and equipment, or the duration of the lease 
+term for capital leases. 
+ 
+Unearned Revenues 
+Unearned revenues include amounts received for tuition and fees and certain auxiliary 
+activities prior to the end of the fiscal year but related to the subsequent accounting period. 
+Unearned revenues also include amounts received from grant and contract sponsors that 
+have not yet been earned. 
+ 
+Compensated Absences 
+Employee vacation pay is accrued at year-end for financial statement purposes. The liability 
+and expense incurred are recorded at year-end as accrued expenses in the statement of net 
+position and as a component of compensation and benefit expense in the statement of 
+revenues, expenses, and changes in net position. 
+ 
+Noncurrent Liabilities 
+Noncurrent liabilities include (1) principal amounts of capital lease obligations with 
+contractual maturities greater than one year; (2) amounts for accrued compensated 
+absences; (3) net pension liability; and other liabilities that will not be paid within the next 
+fiscal year. Bond discounts and premiums are amortized over the life of the bonds using the 
+straight line method, which is not significantly different from the effective interest method. 
+Bond issuance costs are expensed as incurred regardless of whether they are included in 
+bond proceeds. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(18) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Pensions 
+For purposes of measuring the net pension liability, deferred outflows of resources and 
+deferred inflows of resources related to pensions and pension expense, information about 
+the fiduciary net position of the Oklahoma Teachers’ Retirement System (OTRS) and 
+additions to/deductions from OTRS’s fiduciary net position have been determined on the 
+same basis as reported by OTRS. For this purpose, benefit payments (including refunds of 
+employee contributions) are recognized when due and payable in accordance with the 
+benefit terms. Investments held by OTRS are reported at fair value. 
+ 
+Postemployment Benefits Other Than Pensions (OPEB) 
+For purposes of measuring the net OPEB liability, deferred outflows of resources and 
+deferred inflows of resources related to OPEB, and OPEB expense, information about the 
+fiduciary net position of Oklahoma Teacher’s Retirement System (OTRS) and additions 
+to/deductions from OTRS's fiduciary net position have been determined on the same basis 
+as they are reported by OTRS. For this purpose, OTRS recognizes benefit payments when 
+due and payable in accordance with the benefit terms. Investments are reported at fair 
+value, except for money market investments and participating interest-earning investment 
+contracts that have a maturity at the time of purchase of one year or less, which are 
+reported at cost. 
+ 
+Net Position 
+The University’s net position is classified as follows: 
+ 
+
+Net Investment in Capital Assets 
+The net investment in capital assets component of net position consists of capital assets, 
+net of accumulated depreciation, reduced by the outstanding balances of bonds, notes, 
+or other borrowings that are attributable to the acquisition, construction, or improvement 
+of those assets. Deferred outflows of resources and deferred inflows of resources that 
+are attributable to the acquisition, construction, or improvement of those assets or 
+related debt are also included in this component of net position. To the extent debt has 
+been incurred but not yet expended for capital assets, such amounts are not included as 
+a component of net investment in capital assets. 
+ 
+Restricted Net Position – Expendable 
+Restricted expendable net position includes resources in which the University is legally 
+or contractually obligated to spend said resources in accordance with restrictions 
+imposed by external third parties or through enabling legislation. 
+ 
+Restricted Net Position – Nonexpendable 
+Nonexpendable restricted net position consists of endowment and similar type funds in 
+which donors or other outside sources have stipulated, as a condition of the gift 
+instrument, that the principal is to be maintained inviolate and in perpetuity, and invested 
+for the purpose of producing present and future income, which may either be expended 
+or added to principal. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(19) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Net Position (Continued) 
+Unrestricted Net Position 
+Unrestricted net position represents resources derived from student tuition and fees, 
+state appropriations, and sales and services of educational departments and auxiliary 
+enterprises. These resources are used for transactions relating to the educational and 
+general operations of the University, and may be used at the discretion of the governing 
+board to meet current expenses for any purpose. These resources also include auxiliary 
+enterprises, which are substantially self-supporting activities that provide services for 
+students, faculty, and staff. 
+ 
+When an expense is incurred that can be paid using either restricted or unrestricted 
+resources, the University’s policy is to first apply the expense towards restricted 
+resources, and then towards unrestricted resources. 
+ 
+
+Classification of Revenues 
+The University has classified its revenues as either operating or nonoperating revenues 
+according to the following criteria: 
+ 
+
+Operating Revenues 
+Operating revenues include activities that have the characteristics of exchange 
+transactions, such as (1) student tuition and fees, net of scholarship discounts and 
+allowances, (2) sales and services of educational departments and of auxiliary 
+enterprises, and (3) certain federal, state, and nongovernmental grants and contracts 
+that relate specifically to revenues used for student financial assistance. 
+ 
+Nonoperating Revenues 
+Nonoperating revenues include activities that have the characteristics of nonexchange 
+transactions, such as gifts and contributions, and other revenue sources that are defined 
+as nonoperating revenues by GASB, such as state appropriations, certain governmental 
+grants, and investment income. 
+ 
+
+Scholarship Discounts and Allowances 
+Student tuition and fee revenues, and certain other revenues from students, are reported net 
+of scholarship discounts and allowances in the statement of revenues, expenses and 
+changes in net position. Scholarship discounts and allowances are the difference between 
+the stated charge for goods and services provided by the University, and the amount that is 
+paid by students and/or third parties making payments on the students’ behalf. Certain 
+governmental grants, such as Pell grants, and other federal, state or nongovernmental 
+programs, are recorded as either operating or nonoperating revenues in the University’s 
+financial statements. To the extent that revenues from such programs are used to satisfy 
+tuition and fees and other student charges, the University has recorded a scholarship 
+discount and allowance. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(20) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+Deferred Outflows of Resources 
+Deferred outflows are the consumption of net position by the University that are applicable 
+to a future reporting period. At June 30, 2018, the University’s deferred outflows of 
+resources were comprised of deferred outflows related to pensions. 
+ 
+Deferred Inflows of Resources 
+Deferred inflows are the acquisition of net position by the University that are applicable to a 
+future reporting period. At June 30, 2018, the University’s deferred inflows of resources were 
+comprised of credits realized on an OCIA lease restructure and deferred inflows related to 
+pensions, and deferred inflows related to other post employment benefits. 
+ 
+Income Taxes 
+As a state institution of higher education, the income of the University is generally exempt 
+from federal income taxes under Section 115(1) of the Internal Revenue Code (IRC), as 
+amended. However, the University may be subject to income taxes on unrelated business 
+income under IRC Section 511(a)(2)(B). Such amounts have historically been insignificant. 
+ 
+Use of Estimates 
+The preparation of financial statements in conformity with accounting principles generally 
+accepted in the United States of America requires management to make estimates and 
+assumptions that affect certain reported amounts and disclosures; accordingly, actual 
+results could differ from those estimates. 
+ 
+Subsequent Events 
+In preparing these financial statements, the University has evaluated events and 
+transactions for potential recognition or disclosure through October 11, 2018, the date the 
+financial statements were available to be issued.  
+ 
+New Accounting Pronouncements Adopted in Fiscal Year 2018 
+The University adopted the following new accounting pronoucements during the year ended 
+June 30, 2018: 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(21) 
+
+ 
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED) 
+
+New Accounting Pronouncements Adopted in Fiscal Year 2018 (Continued) 
+Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits 
+Other Than Pensions (GASB No. 75) was issued in June 2015, became effective for the 
+University beginning with its fiscal year ending June 30, 2018. The Statement replaces 
+the requirements of GASB Statement No. 45, Accounting and Financial Reporting by 
+Employers for Postemployment Benefits Other Than Pensions and requires 
+governments to report a liability on the face of the financial statements for the OPEB 
+they provide and outlines the reporting requirements by governments for defined benefit 
+OPEB plans administered through a trust, cost-sharing OPEB plans administered 
+through a trust and OPEB not provided through a trust. The Statement also requires 
+governments to present more extensive note disclosures and required supplementary 
+information about their OPEB liabilities. Some governments are legally responsible to 
+make contributions directly to an OPEB plan or make benefit payments directly as OPEB 
+comes due for employees of other governments. In certain circumstances, called special 
+funding situations, the Statement requires these governments to recognize in their 
+financial statements a share of the other government’s net OPEB liability. 
+
+ 
+New Accounting Pronouncements Issued Not Yet Adopted 
+GASB has also issued a new accounting pronouncement which will be effective for the 
+University in a future fiscal year. A description of the new accounting pronouncement and 
+the University’s consideration of the impact of this pronouncement is described below: 
+
+ 
+Statement No. 87, Leases (GASB No. 87) was issued in June 2017, will be effective for 
+the University beginning with its fiscal year ending June 30, 2020. The Statement is to 
+better meet the information needs of financial statement users by improving accounting 
+and financial reporting for leases by governments. This Statement increases the 
+usefulness of governments’ financial statements by requiring recognition of certain lease 
+assets and liabilities for leases that previously were classified as operating leases and 
+recognized as inflows of resources or outflows of resources based on the payment 
+provisions of the contract. It establishes a single model for lease accounting based on 
+the foundational principle that leases are financings of the right to use an underlying 
+asset. Under this Statement, a lessee is required to recognize a lease liability and an 
+intangible right-to-use lease asset, and a lessor is required to recognize a lease 
+receivable and a deferred inflow of resources, thereby enhancing the relevance and 
+consistency of information about governments’ leasing activities. 
+ 
+
+The University is currently evaluating the impact that this new standard will have on its 
+financial statements. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(22) 
+
+ 
+NOTE 2 DEPOSITS AND INVESTMENTS 
+
+Deposits 
+Custodial credit risk is the risk that in the event of a bank failure, the government’s deposits 
+may not be returned to it. The University’s deposit policy for custodial credit risk is described 
+as follows: 
+ 
+Oklahoma Statutes require the State Treasurer to ensure that all state funds either be 
+insured by Federal Deposit Insurance, collateralized by securities held by the cognizant 
+Federal Reserve Bank, or invested in U.S. government obligations. The University’s 
+deposits with the State Treasurer are pooled with the funds of other state agencies and 
+then, in accordance with statutory limitations, placed in financial institutions or invested as 
+the State Treasurer may determine, in the state’s name. 
+ 
+The University requires that balances on deposit with financial institutions, including trustees 
+related to the University’s bond indenture and capital lease agreements, be insured by 
+Federal Deposit Insurance or collateralized by securities held by the cognizant Federal 
+Reserve Bank, or invested in U.S. government obligations, in the University’s name. 
+ 
+At June 30, 2018, the carrying amounts of the University’s deposits were $14,552,022. This 
+amount consisted of deposits with the State Treasurer ($14,538,947) and petty cash and 
+change funds ($13,075) at June 30, 2018. 
+ 
+Some deposits with the State Treasurer are placed in the State Treasurer’s internal 
+investment pool OK INVEST. OK INVEST pools the resources of all state funds and 
+agencies and invests them in (a) U.S. treasury securities which are explicitly backed by the 
+full faith and credit of the U.S. government; (b) U.S. agency securities which carry an implicit 
+guarantee of the full faith and credit of the U.S. government; (c) money market mutual funds 
+which participate in investments, either directly or indirectly, in securities issued by the U.S. 
+treasury and/or agency and repurchase agreements relating to such securities; (d) 
+investments related to tri-party repurchase agreements which are collateralized at 102% 
+and, whereby, the collateral is held by a third party in the name of the State Treasurer; (e) 
+collateralized certificates of deposits; (f) commercial paper; (g) obligations of state and local 
+governments; and (h) State of Israel bonds. 
+ 
+Of funds on deposit with the State Treasurer, amounts invested in OK INVEST total 
+$4,345,770 at June 30, 2018. 
+ 
+For financial reporting purposes, deposits with the State Treasurer that are invested in OK 
+INVEST are classified as cash equivalents. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(23) 
+
+ 
+NOTE 2 DEPOSITS AND INVESTMENTS (CONTINUED) 
+
+Deposits (Continued) 
+At June 30, 2018, the distributions of deposits in OK INVEST are as follows: 
+ 
+
+Fair
+OK INVEST Portfolio Cost Value
+U.S. Agency Securities 1,979,929$       1,970,300$       
+Certificates of Deposit 163,373            163,373            
+Money Market Mutual Funds 424,172            424,172            
+Mortgage-Backed Agency Securities 1,716,679         1,711,560         
+Municipal Bonds 26,262              26,877              
+Foreign Bonds 15,715              15,694              
+U.S. Treasury Obligations 19,640              22,857              
+
+Total 4,345,770$       4,334,834$       
+ 
+
+Agencies and funds that are considered to be part of the State’s reporting entity in the 
+State’s Comprehensive Annual Financial Report are allowed to participate in OK INVEST. 
+Oklahoma statutes and the State Treasurer establish the primary objectives and guidelines 
+governing the investment of funds in OK INVEST. Safety, liquidity, and return on investment 
+are the objectives which establish the framework for the day to day OK INVEST 
+management with an emphasis on safety of the capital and the probable income to be 
+derived and meeting the State and its funds and agencies’ daily cash flow requirements. 
+Guidelines in the Investment Policy address credit quality requirements, diversification 
+percentages, and specify the types and maturities of allowable investments. The specifics 
+regarding these policies can be found on the State Treasurer’s website at 
+http://www.treasurer.state.ok.us/. 
+ 
+The State Treasurer, at his discretion, may further limit or restrict such investments on a day 
+to day basis. OK INVEST includes a substantial investment in securities with an overnight 
+maturity as well as in U.S. government securities with a maturity of up to ten years. OK 
+INVEST maintains an overall weighted average maturity of no more than four years. 
+ 
+Participants in OK INVEST maintain an interest in its underlying investments and, 
+accordingly, may be exposed to certain risks. As stated in the State Treasurer information 
+statement, the main risks are interest rate risk, credit/default risk, liquidity risk, and U.S. 
+government securities risk. Interest rate risk is the risk that during periods of rising interest 
+rates, the yield and market value of the securities will tend to be lower than prevailing 
+market rates; in periods of falling interest rates, the yield will tend to be higher. Credit/default 
+risk is the risk that an issuer or guarantor of a security, or a bank or other financial institution 
+that has entered into a repurchase agreement, may default on its payment obligations. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(24) 
+
+ 
+NOTE 2 DEPOSITS AND INVESTMENTS (CONTINUED) 
+
+Deposits (Continued) 
+Liquidity risk is the risk that OK INVEST will be unable to pay redemption proceeds within 
+the stated time period because of unusual market conditions, an unusually high volume of 
+redemption requests, or other reasons. U.S. government securities risk is the risk that the 
+U.S. government will not provide financial support to U.S. government agencies, 
+instrumentalities or sponsored enterprises if it is not obligated to do so by law. Various 
+investment restrictions and limitations are enumerated in the State Treasurer’s Investment 
+Policy to mitigate those risks; however, any interest in OK INVEST is not insured or 
+guaranteed by the State, the FDIC or any other government agency. 
+ 
+Interest Rate Risk 
+The University does not have a formal policy that limits investment maturities as a means of 
+managing its exposure to fair value losses arising from increasing interest rates. 
+ 
+Credit Risk 
+All United States government obligations are held by the Federal Reserve Bank in the name 
+of the University. Title 70, Section 4306, of the Oklahoma statutes directs, authorizes, and 
+empowers the University’s Board of Regents to hold, invest, or sell donor-restricted 
+endowments in a manner which is consistent with the terms of the gift as stipulated by the 
+donor and with the provision of any applicable laws. 
+ 
+The Board of Regents has authorized short-term funds to be invested in any security 
+currently available through the Oklahoma State Treasurer’s Office. Generally, these include 
+direct obligations of the United States government and its agencies, certificates of deposit, 
+and demand deposits. The board has authorized endowment and similar funds to be 
+invested in direct obligations of the United States government and its agencies, certificates 
+of deposit, prime commercial paper, bankers’ acceptances, demand deposits, corporate 
+debt (no bond below a Single A rating by Moody’s Investors Service or Standard & Poor’s 
+Corporation may be purchased), convertible securities, and equity securities. 
+ 
+Concentration of Credit Risk 
+The University places no limit on the amount the University may invest in any one issuer. 
+However, the majority of the investments are investments guaranteed by the U.S. 
+government. 
+ 
+ 
+
+NOTE 3 ACCOUNTS RECEIVABLE 
+
+Accounts receivable consisted of the following at June 30, 2018: 
+ 
+Student Tuition and Fees 1,234,143$       
+Auxiliary Enterprises and Other Operating Activities 698,330            
+Federal and State Agencies 519,586            
+
+Total Accounts Receivable 2,452,059         
+Less Allowance for Doubtful Accounts (815,692)           
+
+Accounts Receivable, Net 1,636,367$        
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(25) 
+
+ 
+NOTE 4 CAPITAL ASSETS, NET 
+
+Following are the changes in capital assets for the year ended June 30, 2018: 
+ 
+
+Balance Balance
+June 30, June 30,
+
+2017 Additions Transfers Retirements 2018
+Capital Assets not Being Depreciated:
+
+Land 421,978$         -$                     -$                     -$                     421,978$            
+Construction in Progress 47,425             1,803,504        (1,028,697)       -                       822,232              
+
+Total Capital Assets not Being
+Depreciated 469,403$         1,803,504$      (1,028,697)$     -$                     1,244,210$         
+
+Capital Assets Being Depreciated:
+Nonmajor Infrastructure Networks 9,264,781$      -$                     363,539$         -$                     9,628,320$         
+Building 100,717,499    -                       665,158           -                       101,382,657       
+Furniture, Fixtures, and Equipment 13,177,877      948,156           -                       (424,913)          13,701,120         
+Library Materials 10,837,841      89,144             -                       -                       10,926,985         
+
+Total Capital Assets Being
+Depreciated 133,997,998    1,037,300        1,028,697        (424,913)          135,639,082       
+
+Less Accumulated Depreciation for:
+Nonmajor Infrastructure Networks (4,954,281)       (413,019)          -                       -                       (5,367,300)         
+Building (48,088,138)     (2,562,638)       -                       -                       (50,650,776)       
+Furniture, Fixtures, and Equipment (10,419,412)     (640,454)          -                       415,044           (10,644,822)       
+Library Materials (10,169,718)     (196,332)          -                       -                       (10,366,050)       
+
+Total Accumulated Depreciation (73,631,549)     (3,812,443)       -                       415,044           (77,028,948)       
+
+Capital Assets Being Depreciated, Net 60,366,449$    (2,775,143)$     1,028,697$      (9,869)$            58,610,134$       
+
+Capital Asset Summary:
+Capital Assets not Being Depreciated 469,403$         1,803,504$      (1,028,697)$     -$                     1,244,210$         
+Capital Assets Being Depreciated 133,997,998    1,037,300        1,028,697        (424,913)          135,639,082       
+
+Total Cost of Capital Assets 134,467,401    2,840,804        -                       (424,913)          136,883,292       
+
+Less Accumulated Depreciation (73,631,549)     (3,812,443)       -                       415,044           (77,028,948)       
+
+Capital Assets, Net 60,835,852$    (971,639)$        -$                     (9,869)$            59,854,344$       
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(26) 
+
+ 
+NOTE 5 LONG-TERM LIABILITIES 
+
+Long-term liability activity for the year ended June 30, 2018 was as follows: 
+ 
+
+Balance Balance Amounts
+June 30, June 30, Due within
+
+2017 Additions Reductions 2018 One year
+Bonds and Capital Lease Obligations:
+
+OCIA Capital Lease Obligations 7,066,496$         -$                        (1,218,065)$        5,848,431$         91,297$              
+Premium on OCIA Lease Obligations 123,281              -                          (16,331)               106,949              -                          
+ODFA Master Lease Revenue Bonds 12,564,166         4,575,000           (5,989,666)          11,149,500         954,167              
+Premium on ODFA Lease Obligations 582,359              504,752              (74,656)               1,012,455           -                          
+
+Total Bonds and Capital Lease 20,336,302         5,079,752           (7,298,718)          18,117,335         1,045,464           
+
+Other Liabilities:
+Net Pension Liability - OTRS 45,773,344         -                          (11,928,915)        33,844,429         -                          
+Net Pension Liability - Supplemental 1,237,970           39,196                (12,557)               1,264,609           124,729              
+Accrued Compensated Absences 897,044              522,374              (517,173)             902,246              522,374              
+
+Total Other Liabilities 47,908,358         561,570              (12,458,645)        36,011,284         647,103              
+
+Total Long-Term Liabilities 68,244,660$       5,641,322$         (19,757,363)$      54,128,619$       1,692,567$         
+
+ 
+Oklahoma Capital Improvement Authority Lease Obligations 
+The Oklahoma Capital Improvement Authority (OCIA) periodically issues bonds, which are 
+allocated to the State Regents for Higher Education (the State Regents), to be used for 
+specific projects at Oklahoma higher education institutions. The University has participated 
+in these projects as discussed below. In each of the transactions, OCIA and the University 
+have entered into a lease agreement with terms characteristic of a capital lease. As a result, 
+the University recognizes its share of the liability and the related assets in connection with 
+the projects being constructed or acquired, in its financial statements. Annually, the State 
+Legislature appropriates funds to the State Regents to make the monthly lease principal and 
+interest payments on-behalf of the University. 
+ 
+In September 1999, OCIA issued its OCIA Bond Issues, 1999 Series A, B, and C. Of the 
+total bond indebtedness, State Regents allocated $1,200,000 to the University. Concurrently 
+with the allocation, the University entered into a lease agreement with OCIA, representing 
+the project being funded by the OCIA bonds. 
+ 
+Through June 30, 2018, the University has drawn its total allotment for expenditures 
+incurred in connection with the project. The expenditures have been capitalized as 
+investments in capital assets in accordance with University policy. The University has 
+recorded a lease obligation payable to OCIA for the total amount of the allotment, less 
+repayments made. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(27) 
+
+ 
+NOTE 5 LONG-TERM LIABILITIES (CONTINUED) 
+
+Oklahoma Capital Improvement Authority Lease Obligations (Continued) 
+In 2004, the University’s lease agreement with OCIA was restructured through a refunding 
+of the 1999 Series bonds to OCIA Bond Series 2004A. During fiscal year 2015, OCIA issued 
+Bond Series 2014B to refund Bond Series 2004A. The restructured lease agreement with 
+OCIA secures the OCIA bond indebtedness and any future indebtedness that might be 
+issued to refund earlier bond issues. The University’s aforementioned lease agreement with 
+OCIA was automatically restructured to secure the new bond issues. The lease restructuring 
+resulted in a reduction of principal, thus the University has recorded a deferred inflow of 
+resources of $31,856, which is the difference between the reacquisition price and the net 
+carrying amount of the old debt, that is being amortized over the remaining life of the old 
+debt or the life of the new debt, whichever is shorter. As of June 30, 2018, the unamortized 
+credit totaled $6,371. This refinancing resulted in an aggregate difference in principal and 
+interest between the original lease agreement and the refinanced lease agreement of 
+$54,471, which approximates the economic savings of the transaction. 
+ 
+In November 2005, the OCIA issued its OCIA Bond Issues, 2005 Series F. Of the total bond 
+indebtedness, the State Regents for Higher Education allocated $12,059,247 to the 
+University. Through June 30, 2018, these funds have earned $1,203,081 of interest income. 
+Concurrently with the allocation, the University entered into an individual lease agreement 
+with OCIA, representing the six projects being funded by the OCIA bonds. 
+ 
+Through June 30, 2018, the University has drawn $13,262,328 for expenditures incurred in 
+connection with the projects. The expenditures have been capitalized as investments in 
+capital assets in accordance with University policy. The University has recorded a lease 
+obligation payable to OCIA for the total amount of the allotment, less repayments made. 
+ 
+In 2011, the OCIA Series 2005F lease agreement was restructured through a partial 
+refunding of OCIA’s 2005F bond debt. OCIA issued two new bonds, Series 2010A and 
+2010B. The lease agreements with OCIA secure the OCIA bond debt and any future debt 
+that might be issued to refund earlier bond issues. OCIA issued this new debt to provide 
+budgetary relief for fiscal years 2011 and 2012 by extending and restructuring debt service. 
+Consequently, the lease agreement with OCIA automatically restructured to secure the new 
+bond issues. 
+ 
+This lease restructuring has extended certain principal payments into the future, resulting in 
+a charge or cost on restructuring. The University has recorded a deferred outflow of 
+resources of $1,007,459, which is the difference between the reacquisition price and the net 
+carrying amount of the old debt that is being amortized over the remaining life of the old debt 
+or the life of the new debt, whichever is shorter. The deferred outflow has been completely 
+amortized as of June 30, 2018. This restructuring resulted in an aggregate debt service 
+difference for principal and interest between the original lease agreement and the 
+restructured lease agreement of $49,791 which also approximates the economic cost of the 
+lease restructuring. Although this restructuring resulted in a cost to the University, it is 
+anticipated that the on-behalf payments provided to cover the original lease agreement will 
+also cover the deferred lease restructuring charge. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(28) 
+
+ 
+NOTE 5 LONG-TERM LIABILITIES (CONTINUED) 
+
+Oklahoma Capital Improvement Authority Lease Obligations (Continued) 
+During fiscal year 2015, the University’s remaining 2005 lease agreement with OCIA was 
+restructured through a partial refunding of the Series 2005F bonds. OCIA issued new bonds, 
+Series 2014A, to accomplish the refunding. The restructured lease agreement with OCIA 
+secures the OCIA bond indebtedness and any future indebtedness that might be issued to 
+refund earlier bond issues. The University’s aforementioned lease agreement with OCIA 
+was automatically restructured to secure the new bond issues. The lease restructuring 
+resulted in a reduction of principal, thus the University has recorded a deferred inflow of 
+resources of $343,613 on restructuring which is the difference between the reacquisition 
+price and the net carrying amount of the old debt, that is being amortized over the remaining 
+life of the old debt or the new debt, whichever is shorter. As of June 30, 2018, the 
+unamortized credit totaled $253,745. This refinancing resulted in an aggregate difference in 
+principal and interest between the original lease agreement and the refinanced lease 
+agreement of $802,126, which approximates the economic savings of the transaction. 
+ 
+During the year ended June 30, 2018, the State Regents made lease interest and principal 
+payments totaling $1,551,610 on behalf of the University. These on-behalf payments have 
+been recorded as on-behalf state appropriations restricted for debt service in the 
+University’s statement of revenues, expenses, and changes in net position. As stated above, 
+the on-behalf payments are subject to annual appropriations by the State Legislature. 
+ 
+Future minimum lease payments under the University’s obligation to the OCIA are as 
+follows: 
+ 
+
+Years Ending June 30, Principal Interest Total
+2019 91,297$          278,242$        369,539$        
+2020 -                      274,203          274,203          
+2021 -                      274,203          274,203          
+2022 536,666          274,202          810,868          
+2023 563,945          248,345          812,290          
+
+2024-2028 3,168,933       827,379          3,996,311       
+2029-2031 1,487,590       111,208          1,598,798       
+
+Total 5,848,431$     2,287,781$     8,136,213$     
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(29) 
+
+ 
+NOTE 5 LONG-TERM LIABILITIES (CONTINUED) 
+
+Oklahoma Development Finance Authority Master Lease 
+In May 2006, the University entered into a 15-year lease agreement with the Oklahoma 
+Development Finance Authority (the ODFA) and the State Regents as a beneficiary of a 
+portion of the proceeds from the ODFA State Regents for Higher Education Master Lease 
+Revenue Bonds, Series 2006A (the Master Lease 2006A). The University received a net 
+amount of $6,100,235 of the proceeds for implementation of an energy management 
+system. The University makes lease payments to the State Regents, who then forwards the 
+payments to the trustee bank. 
+ 
+During fiscal year 2016, the 2006 lease agreement with ODFA was restructured through a 
+refunding of the Series 2006A bonds. The ODFA issued new bonds, Series 2016A, to 
+accomplish the refunding. This refinancing resulted in an aggregate difference in principal 
+and interest between the original lease agreement and the refinanced lease agreement of 
+$228,927 which approximates the economic savings of the transaction. 
+ 
+The scheduled maturities of the bonds are as follows: 
+ 
+
+Years Ending June 30, Principal Interest Total
+2019 477,167$        42,940$          520,107$        
+2020 491,250          28,625            519,875          
+2021 462,916          13,887            476,803          
+Total 1,431,333$     85,452$          1,516,785$     
+
+ 
+In December 2007, the University entered into a 25-year lease agreement with the ODFA 
+and the State Regents as a beneficiary of a portion of the proceeds from the ODFA State 
+Regents for Higher Education Master Lease Revenue Bonds, Series 2007B (Master Lease 
+2007B). The University received a net amount of $7,099,000 of proceeds for the 
+construction of the McMahon Centennial Complex.  
+ 
+In October 2017, the 2007 lease agreement with ODFA was restructured through a 
+refunding of the Series 2007B bonds. The ODFA issued new bonds, Series 2017C, to 
+accomplish the refunding. The University entered into an 15-year lease agreement with the 
+ODFA and the State Regents as a beneficiary of a portion of the proceeds from the ODFA 
+State Regents for Higher Education Master Real Property Lease Revenue Refunding 
+Bonds, Series 2017C (Master Lease 2017C). The University received a net amount of 
+$4,575,000 of proceeds to refund the 2007B Revenue Bonds. This refinancing resulted in an 
+aggregate difference in principal and interest between the original lease agreement and the 
+refinanced lease agreement of $665,749, which approximates the economic savings of the 
+transaction. The University makes lease payments to the State Regents, who then forwards 
+the payments to the trustee bank. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(30) 
+
+ 
+NOTE 5 LONG-TERM LIABILITIES (CONTINUED) 
+
+Oklahoma Development Finance Authority Master Lease (Continued) 
+The scheduled maturities of the bonds are as follows: 
+ 
+
+Years Ending June 30, Principal Interest Total
+2019 227,333$        174,938$        402,272$        
+2020 241,917          170,392          412,308          
+2021 248,667          164,130          412,797          
+2022 256,083          156,670          412,753          
+2023 266,583          145,966          412,549          
+
+2024-2028 1,545,167       520,715          2,065,882       
+2029-2033 1,666,167       155,136          1,821,303       
+
+Total 4,451,917$     1,487,947$     5,939,864$     
+ 
+
+In June 2016, the University entered into an 18-year lease agreement with the ODFA and 
+the State Regents as a beneficiary of a portion of the proceeds from the ODFA State 
+Regents for Higher Education Master Real Property Lease Revenue Refunding Bonds, 
+Series 2016B (Master Lease 2016B). The University received a net amount of $5,760,000 of 
+proceeds to refund the 2004 Housing Revenue Bonds. This refinancing resulted in an 
+aggregate difference in principal and interest between the original lease agreement and the 
+refinanced lease agreement of $3,099,633, which approximates the economic savings of the 
+transaction. The University makes lease payments to the State Regents, who then forwards 
+the payments to the trustee bank. 
+ 
+The scheduled maturities of the bonds are as follows:  
+ 
+
+Years Ending June 30, Principal Interest Total
+2019 249,667$        190,588$        440,255$        
+2020 257,583          183,097          440,680          
+2021 264,917          175,150          440,067          
+2022 275,667          164,783          440,450          
+2023 283,917          156,277          440,194          
+
+2024-2028 1,599,333       601,667          2,201,000       
+2029-2033 1,942,833       259,754          2,202,587       
+
+2034 392,333          11,770            404,103          
+Total 5,266,250$     1,743,086$     7,009,336$     
+
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(31) 
+
+ 
+NOTE 6 RETIREMENT PLANS 
+
+The University’s academic and nonacademic personnel are covered by various retirement 
+plans depending on job classification. The plans available to University personnel include: 
+ 
+
+Name of Plan/System Type of Plan
+Oklahoma Teachersʼ Retirement System (OTRS) Cost Sharing Multiple Employer Defined Benefit Plan
+Cameron University Defined Contribution Plan Defined Contribution Plan
+Supplemental Retirement Annuity Defined Benefit Plan
+Cameron University Presidentʼs Retirement Plan (Plan 2) Defined Benefit Plan
+
+ 
+Oklahoma Teachers’ Retirement System 
+
+Plan Description 
+The University participates in the OTRS, a cost-sharing multiple-employer public 
+employee retirement system that is self-administered. OTRS provides retirement, 
+disability, and death benefits to plan members and beneficiaries. Benefit provisions are 
+established and may be amended by the legislature of the state of Oklahoma. Title 70 of 
+the Oklahoma State Statutes assigns the authority for management and operation of 
+OTRS to the board of regents of the System. OTRS issues a publicly available annual 
+financial report that can be obtained at www.ok.gov/TRS/. 
+ 
+Benefits Provided 
+OTRS provides defined retirement benefits based on members’ final compensation, age, 
+and term of service. In addition, the retirement program provides for benefits upon 
+disability and to survivors upon the death of eligible members. Title 70 O. S. Sec. 17-105 
+defines all retirement benefits. The authority to establish and amend benefit provisions 
+rests with the State Legislature. 
+ 
+Benefit provisions include: 
+ 
+Members become 100% vested in retirement benefits earned to date after five years of 
+credited Oklahoma service. Members who joined OTRS on June 30, 1992 or prior are 
+eligible to retire at maximum benefits when age and years of creditable service total 80. 
+Members joining OTRS after June 30, 1992 are eligible for maximum benefits when their 
+age and years of creditable service total 90. Members whose age and service do not 
+equal the eligible limit may receive reduced benefits as early as age 55, and as late as 
+age 65 receive unreduced benefits based on their years of service. The maximum 
+retirement benefit is equal to 2% of final compensation for each year of credited service. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(32) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+Benefits Provided (Continued) 
+Final compensation for members who joined OTRS prior to July 1, 1992 is defined as 
+the average salary for the three highest years of compensation. Final compensation for 
+members joining OTRS after June 30, 1992 is defined as the average of the highest five 
+consecutive years of annual compensation in which contributions have been made. The 
+final average compensation is limited for service credit accumulated prior to July 1, 1995 
+to $40,000 or $25,000, depending on the member’s election. Monthly benefits are 1/12 
+of this amount. Service credits accumulated after June 30, 1995 are calculated based on 
+each member’s final average compensation, except for certain employees of the two 
+comprehensive universities. Upon the death of a member who has not yet retired, the 
+designated beneficiary shall receive the member’s total contributions plus 100% of 
+interest earned through the end of the fiscal year, with interest rates varying based on 
+time of service. A surviving spouse of a qualified member may elect to receive, in lieu of 
+the aforementioned benefits, the retirement benefit the member was entitled to at the 
+time of death as provided under the Joint Survivor Benefit Option. 
+ 
+Upon the death of a retired member, OTRS will pay $5,000 to the designated 
+beneficiary, in addition to the benefits provided for the retirement option selected by the 
+member. 
+ 
+A member is eligible for disability benefits after ten years of credited Oklahoma service. 
+The disability benefit is equal to 2% of final average compensation for the applicable 
+years of credited service. 
+ 
+Upon separation from OTRS, members’ contributions are refundable with interest based 
+on certain restrictions provided in the plan, or by the IRC. 
+ 
+Members may elect to make additional contributions to a tax-sheltered annuity program 
+up to the exclusion allowance provided under the IRC under Code Section 403(b). 
+ 
+Contributions 
+The contribution requirements of OTRS are at an established rate determined by 
+Oklahoma Statute and are not based on actuarial calculations. Employees are required 
+to contribute 7% of their annual compensation. The University pays the employee 
+contributions as a pre-tax benefit to the employees. The University’s contribution rate is 
+8.55% for the years ended June 30, 2018 and 2017. The University’s contributions to 
+OTRS in 2018, including both the employer share and the employee share, was 
+approximately $3,490,000, equal to the required contributions. In addition, the state of 
+Oklahoma also contributed 5% of state revenues from sales, use and individual income 
+taxes to OTRS. The amounts contributed on-behalf of the University and recognized in 
+the University’s statement of revenues, expenses, and changes in net position as both 
+revenues and compensation and employee benefit expense in 2018 was $1,458,994. 
+These on-behalf payments do not meet the definition of a special funding situation. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(33) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred 
+Inflows of Resources Related to Pensions 
+At June 30, 2018, the University reported a liability of $33,844,429 for its proportionate 
+share of the net pension liability. The net pension liability was measured as of June 30, 
+2017 and the total pension liability used to calculate the net pension liability was 
+determined by an actuarial valuation as of June 30, 2017. The University’s proportion of 
+the net pension liability was based on the University’s contributions to OTRS relative to 
+total contributions to OTRS by all participating employers for the year ended June 30, 
+2017. Based upon this information, the University’s proportion was 0.51114353%. 
+ 
+For the year ended June 30, 2018, the University recognized pension expense of 
+$1,119,363. At June 30, 2018, the University reported deferred outflows of resources 
+and deferred inflows of resources related to pensions from the following sources: 
+ 
+
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+
+Differences Between Expected and Actual Experience -$                   2,310,649$    
+Changes of Assumptions 1,993,247      5,125,300      
+Net Difference Between Projected and Actual Investments
+
+Earnings on Pension Plan Investments 481,084         -                    
+University Contributions Made Subsequent to the
+
+Measurement Date 1,981,725      -                    
+Total 4,456,056$    7,435,949$    
+
+ 
+Deferred pension outflows totaling $1,981,725 resulting from the University’s 
+contributions subsequent to the measurement date, will be recognized as a reduction of 
+the net pension liability in the year ended June 30, 2018. The deferred outflows totaling 
+$481,084 resulting from the difference between projected and actual earnings on 
+pension plan investments will be recognized in pension expense over five years. The 
+deferred inflows totaling $2,310,649 resulting from differences between expected and 
+actual experience and deferred inflows totaling $5,125,300 resulting from the changes of 
+assumptions will be recognized in pension expense using the average expected 
+remaining service life of the plan participants. The average expected remaining life of the 
+plan participants is determined by taking the calculated total future service future service 
+years of the plan divided by the number of people in the plan including retirees. The total 
+future service years of the plan are estimated at 5.59 years at June 30, 2017 and are 
+determined using the mortality, termination, retirement and disability assumptions 
+associated with the plan. Deferred outflows of resources and deferred inflows of 
+resources will be recognized in pension expense as follows: 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(34) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred 
+Inflows of Resources Related to Pensions (Continued) 
+
+Year Ending June 30, Amount Amount
+2019 296,490$       (1,865,505)$  
+2020 1,960,288      (1,865,505)    
+2021 1,238,877      (1,807,568)    
+2022 (761,267)        (1,364,419)    
+2023 (260,057)        (532,952)       
+Total 2,474,331$    (7,435,949)$  
+
+ 
+Actuarial Assumptions 
+The total pension liability was determined based on an actuarial valuation prepared as of 
+July 1, 2017, using the following actuarial assumptions: 
+ 
+ Actuarial Cost Method - Entry Age Normal 
+ Amortization Method - Level percentage of Payroll 
+ Remaining Amortization Period – 20 Years 
+ Asset Valuation Method – 5-year smooth market 
+ Inflation – 2.50% 
+ Salary Increases - Composed of 2.50% inflation, plus 0.75% productivity increase 
+
+rate, plus step-rate promotional increases for members with less than 25 years of 
+service 
+
+ Investment Rate of Return – 7.5% 
+ Retirement Age - Experience-based table of rates based on age, service, and 
+
+gender. Adopted by the board in May 2015 in conjunction with the five year 
+experience study for the period ending June 30, 2014 
+
+ Mortality Rates after Retirement – Males: RP-2000 Combined Healthy mortality 
+table for males with White Collar Adjustments. Generational mortality 
+improvements in accordance with Scale BB from the table’s base year of 2000. 
+Females: GRS Southwest Region Teacher Mortality Table, scaled at 105%. 
+Generational mortality improvements in accordance with Scale BB from the table’s 
+base year of 2012. 
+
+ Mortality Rates for Active Members - RP-2000 Employee Mortality tables multiplied 
+by 60% for males and 50% for females 
+
+ 
+The long-term expected rate of return on pension plan investments was determined 
+using a building block method in which best estimate ranges of expected future real 
+rates of return (expected returns, net of pension plan investment expense and inflation) 
+are developed for each major asset class. These ranges are combined to produce the 
+long-term expected rate of return by weighting the expected future real rates of return by 
+the target asset allocation percentage and by adding expected inflation. 
+ 
+The target asset allocation and best estimates of arithmetic expected real rates of return 
+for each major asset class as of June 30, 2017 are summarized in the following table: 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(35) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+Actuarial Assumptions (Continued) 
+
+Long-Term
+Target Asset Expected Real
+
+Asset Class Allocation Rate of Return
+Domestic Equity 38.5%                 7.5%                   
+International Equity 19.0                    8.5                      
+Fixed Income 23.5                    2.5                      
+Real Estate** 9.0                      4.5                      
+Alternative Assets 10.0                    6.1                      
+
+Total 100.0%               
+
+**The Real Estate total expected return is a combination of U.S. Direct Real Estate 
+    (unleveraged) and U.S. Value added Real Estate (unleveraged)
+
+ 
+Discount Rate 
+The discount rate used to measure the total pension liability was 7.5%. The projection of 
+cash flows used to determine the discount rate assumed that contributions from plan 
+members will be made at the current contribution rate and that contributions from 
+employers will be made at contractually required rates, determined by state statutes. 
+Projected cash flows also assume the state of Oklahoma will continue contributing 5.0% 
+of sales, use and individual income taxes, as established by statute. Based on these 
+assumptions, OTRS’ fiduciary net position was projected to be available to make all 
+projected future benefit payments of current plan members. Therefore, the long-term 
+expected rate of return on pension plan investments was applied to all periods of 
+projected benefit payments to determine the total pension liability. 
+ 
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate 
+The following table presents the net pension liability of the University calculated using 
+the discount rate of 7.5%, as well as what the University’s net pension liability would be if 
+OTRS calculated the total pension liability using a discount rate that is 1-percentage 
+point lower (6.5%) or 1-percentage point higher (8.5%) than the current rate: 
+ 
+
+1% Decrease Current Discount 1% Increase
+(6.50%) Rate (7.50%) (8.50%)
+
+Net Pension Liability 48,144,571$   33,844,429$   23,154,497$   
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(36) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Defined Contribution Plan 
+Plan Description 
+The plan is a Section 401(a) defined contribution plan that became effective January 1, 
+2015, for certain FLSA nonexempt employees. The purpose of the plan is to provide 
+retirement benefits for the participants and to distribute the funds accumulated to the 
+participants or the eligible beneficiaries. All nonexempt employees hired after the 
+effective date are allowed a one-time election between participation in OTRS or the 
+defined contribution plan. 
+ 
+Funding Policy 
+The required contribution rate is 9.0% of pensionable compensation. The University 
+contributes the required amounts for participating members. The University’s 
+contributions for the year ended June 30, 2018 were approximately $168,000. 
+ 
+
+Supplemental Retirement Plan – Plan 1 
+Plan Description 
+The University maintains a supplemental retirement plan (Plan 1) for certain retired 
+employees. The plan is in substance a single-employer, defined benefit plan 
+administered by the University. Plan 1 has four participants, all of whom are retired and 
+currently receiving benefits. Plan 1 guarantees the participants a level of retirement 
+benefits when considering social security, OTRS and other retirement assets. The 
+authority to establish and amend benefit provisions rests with the Board of Regents. The 
+plan does not issue a separate financial report, nor is it included in the financial report of 
+another entity. 
+ 
+Funding Policy 
+The University has been funding the benefits of Plan 1 on a “pay-as-you-go” basis. 
+Benefits are not distributed to the participants until their retirement. During the year 
+ended June 30, 2018, the University contributed and paid benefits of $137,286 under 
+Plan 1. 
+ 
+Annual Pension Cost and Net Pension Obligation 
+The annual required contributions for the year ended June 30, 2018, were determined as 
+part of annual actuarial valuations as of the aforementioned dates, using the entry age 
+normal actuarial cost method. The actuarial assumptions for 2018 included (a) a 
+discount rate of 3.88% per year to determine the present value of future benefit 
+payments; (b) Mortality: RPA – 2000 Mortality Table projected to 2020 for males and 
+females; and (c) annual cost of living adjustment of 3.5%. 
+ 
+Components of the University’s annual pension cost, contributions, and net pension 
+obligation for Plan 1 for the year ended June 30, 2018 are as follows: 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(37) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Supplemental Retirement Plan – Plan 1 (Continued) 
+Annual Pension Cost and Net Pension Obligation (Continued) 
+Annual Required Contribution 203,582$          
+Interest on Net Pension Obligation 39,260              
+Adjustment to Annual Required Contribution (101,186)           
+
+Annual Pension Cost 141,656            
+Contributions Made (137,286)           
+
+Increase in Net Pension Obligation 4,370                
+Net Pension Obligation - Beginning of Year 1,011,858         
+
+Net Pension Obligation - End of Year 1,016,228$       
+ 
+
+Funded Status and Funding Progress 
+The funded status of Plan 1 as of June 30, 2018 was as follows: 
+ 
+Actuarial Accrued Liability (AAL) 1,805,466$       
+Actuarial Value of Plan Assets -                        
+
+Unfunded Actuarial Accrued Liability (UAAL) 1,805,466$       
+
+Funded Ratio (Actuarial Value of Plan Assets / AAL) 0.00%
+Annual Covered Payroll (Active Plan Members) -$                      
+
+ 
+The schedule of funding progress, presented as required supplementary information 
+following the notes to the financial statements, presents multi-year trend information, as 
+available, about whether the actuarial value of plan assets are increasing or decreasing 
+over time relative to the actuarial accrued liability for benefits. 
+ 
+Trend information: Three-year trend information on the percentage of the annual pension 
+cost funded through contributions and the change in the net pension obligation (asset) is 
+as follows for Plan 1: 
+ 
+
+Annual Percentage
+Pension of APC Net Pension
+
+Year Ended June 30, Cost (APC) Contributed Liability
+2018 141,656$        96.9% 1,016,228$     
+2017 162,308          84.6% 1,011,858       
+2016 174,986          78.5% 986,836          
+
+ 
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate 
+The following table presents the net pension liability of the University calculated using 
+the discount rate of 3.88%, as well as what the University’s net pension liability would be 
+using a discount rate that is 1-percentage point lower (2.88%) or 1-percentage point 
+higher (4.88%) than the current rate: 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(38) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Supplemental Retirement Plan – Plan 1 (Continued) 
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate (Continued) 
+
+1% Decrease Current Discount 1% Increase
+(2.88%) Rate (3.88%) (4.88%)
+
+Net Pension Liability 1,973,882$     1,805,466$     1,800,742$     
+ 
+
+Cameron University President’s Retirement Plan – Plan 2 
+Plan Description 
+The University maintains a supplemental retirement plan (Plan 2) for a retired University 
+President. The plan is in substance a single-employer, defined benefit plan administered 
+by the University. Plan 2 has one participant, who is retired and currently receiving 
+benefits. Plan 2 guarantees the participant a level of retirement benefits when 
+considering social security, OTRS and other retirement assets. The authority to establish 
+and amend benefit provisions rests with the Board of Regents. The plan does not issue 
+separate a financial report, nor is it included in the financial report of another entity. 
+ 
+Benefits Provided 
+Plan 2 is a defined benefit plan that may provide a University benefit for the life of the 
+participant. The retirement benefit which is to be provided to the participant will be a 
+guaranteed amount equal to the participant’s average compensation, as defined in the 
+plan document, when considering the OTRS benefit and other benefits. 
+ 
+Contributions 
+Contributions required to fund the cost of the pension and other benefits provided by 
+Plan 2 shall be made solely by the University. The University shall contribute to Plan 2 in 
+such amounts and at such times as the University shall determine, acting under the 
+advice of the actuary for Plan 2. Actual payments of contributions may be made at any 
+time permitted by law or regulation. 
+ 
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred 
+Inflows of Resources Related to Pensions 
+At June 30, 2018, the University reported a liability of $260,938 related to Plan 2. The 
+net pension liability was measured as of June 30, 2018 and the total pension liability 
+used to calculate the net pension liability was determined by an actuarial valuation as of 
+June 30, 2018. For the year ended June 30, 2018, the University recognized pension 
+expense of $60,311. Deferred outflows totaling $56,052 and deferred inflows of $79,197 
+resulting from the difference between projected and actual earnings on pension plan 
+investments will be recognized in pension expense over five years.  
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(39) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Cameron University President’s Retirement Plan – Plan 2 (Continued) 
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred 
+Inflows of Resources Related to Pensions (Continued) 
+The amortization schedule is as follows:  
+ 
+
+Deferred Outflows Deferred Inflows
+28,026$              24,564$              
+28,026                24,564                
+
+-                          24,564                
+-                          5,505                  
+
+56,052$              79,197$              Total
+
+Year Ending June 30,
+2019
+2020
+2021
+2022
+
+ 
+Actuarial Assumptions 
+The total pension liability was determined based on an actuarial valuation prepared as of 
+June 30, 2018 using the following actuarial assumptions: 
+ 
+ Actuarial Cost Method - Entry Age Normal 
+ Asset Method - Market Value of Assets 
+ Inflation - 3.00% 
+ Salary Increases - Not applicable. 
+ Discount Rate and Long-Term Expected Rate of Return - 6.00% 
+ Mortality - RP-2000 Combined Mortality Table, projected to 2017 using Scale AA 
+
+ 
+Discount Rate 
+The discount rate used to measure the total pension liability was 6.00%. The projection 
+of cash flows used to determine the discount rate assumed that plan member 
+contributions will be made at the current contribution rate and that contributions will be 
+made at rates equal to the difference between actuarially determined contribution rates 
+and the member rate. Based on those assumptions, the pension plan’s fiduciary net 
+position was projected to be available to make all projected future benefit payments of 
+current plan members. Therefore, the long-term expected rate of return on pension plan 
+investments was applied to all periods of projected benefit payments to determine the 
+total pension liability. 
+ 
+Long-Term Expected Rate of Return 
+The long-term expected rate of return on pension plan investments was determined 
+using a building-block method in which expected future real rates of return (expected 
+returns, net of pension plan investment expense and inflation) are developed for each 
+major asset class. These expected future real rates of return are combined to produce 
+the long-term expected rate of return by weighting the expected future real rates of 
+return by the target asset allocation percentage and by adding expected inflation. Best 
+estimates of arithmetic real rates of return for each major asset class included in the 
+pension plan’s target asset allocation as of June 30, 2018 are 7.0% with 85% of assets 
+being invested in equities, 3% with 3% of assets being invested in bonds, and 1.5% with 
+12% of assets being invested in cash. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(40) 
+
+ 
+NOTE 6 RETIREMENT PLANS (CONTINUED) 
+
+Cameron University President’s Retirement Plan – Plan 2 (Continued) 
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate 
+The following table presents the net pension liability of the University calculated using 
+the discount rate of 6.0%, as well as what the University’s net pension liability would be 
+using a discount rate that is 1-percentage point lower (5.0%) or 1-percentage point 
+higher (7.0%) than the current rate: 
+ 
+
+1% Decrease Current Discount 1% Increase
+(5.00%) Rate (6.00%) (7.00%)
+
+Net Pension Liability 432,919$        260,938$        112,828$        
+ 
+
+ 
+NOTE 7 OTHER POSTEMPLOYMENT INSURANCE BENEFITS 
+
+Oklahoma Teachers’ Retirement System 
+Plan Description 
+The University’s defined benefit OPEB plan, Oklahoma Teacher’s Retirement (OTRS), 
+provides OPEB for all Oklahoma teachers and other certified employees of common 
+schools, faculty and administrators in public colleges and universities, and administrative 
+personnel of state educational boards and employees of agencies. OTRS is a cost-
+sharing multiple-employer public employee retirement system that is self-administered. 
+ 
+Benefits Provided 
+OTRS pays a medical insurance supplement to elgible members who elect to continue 
+their employer provided health insurance. The supplement payment is between $100 
+and $105 per month provided the member has ten (10) years of Oklahoma service prior 
+to retirement.  
+ 
+Employees Covered by Benefit Terms 
+At June 30, 2018, the following employees were covered by the benefit terms: 
+ 
+
+Inactive plan members or beneficiaries 
+currently receiving benefit payments -              
+
+Inactive plan members entitled to but not 
+yet receiving benefit payments -              
+
+Active plan members 142         
+142         
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(41) 
+
+ 
+NOTE 7 OTHER POSTEMPLOYMENT INSURANCE BENEFITS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+A. Contributions  
+
+The contribution requirements of OTRS are at an established rate determined by 
+Oklahoma Statute and are not based on actuarial calculations. Employees are required 
+to contribute 7% of their annual compensation. The University pays the employee 
+contributions as a pre-tax benefit to the employees. The University’s contribution rate is 
+8.55% for the years ended June 30, 2018 and 2017. The University’s contributions to 
+OTRS in 2018, including both the employer share and the employee share, was 
+approximately $3,490,000, equal to the required contributions. In addition, the state of 
+Oklahoma also contributed 5% of state revenues from sales, use and individual income 
+taxes to OTRS. The amounts contributed on-behalf of the University and recognized in 
+the University’s statement of revenues, expenses, and changes in net position as both 
+revenues and compensation and employee benefit expense in 2018 was $1,458,994. 
+These on-behalf payments do not meet the definition of a special funding situation. 
+ 
+
+B. Net OPEB Liability 
+The University’s net OPEB liability was measured as of June 30, 2017, and the total 
+OPEB liability used to calculate the net OPEB liability was determined by an actuarial 
+valuation as of that date. 
+ 
+Actuarial Assumptions 
+The total OPEB liability in the June 30, 2018 actuarial valuation was determined using 
+the following actuarial assumptions, applied to all periods included in the measurement, 
+unless otherwise specified: 
+ 
+Inflation 3%
+Salary Increases Composed of 3.25% inflation, including 2.5% price inflation, 
+
+plus .75% productivity increase rate, plus step-rate promotional
+increased for members with less than 25 years of service. 
+
+Investment rate of return 7.5%
+Healthcare cost trend rates not applicable as the benefit provided is a set dollar amount not 
+
+impacted by health care costs  
+ 
+Mortality rates were based on the RP-2000 Combined Healthy mortality table for males 
+with White Collar Adjustments for males. GRS Southwest Region Teacher Moratality 
+Table, scales at 105% was used for females. 
+ 
+The actuarial assumptions used in the June 30, 2018 valuation were based on the 
+results of an actuarial experience study for the period ended June 30, 2017. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(42) 
+
+ 
+NOTE 7 OTHER POSTEMPLOYMENT INSURANCE BENEFITS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+B. Net OPEB Liability (Continued) 
+
+Actuarial Assumptions (Continued) 
+The long-term expected rate of return on pension plan investments was determined 
+using a building block method in which best estimate ranges of expected future real 
+rates of return (expected returns, net of pension plan investment expense and inflation) 
+are developed for each major asset class. These ranges are combined to produce the 
+long-term expected rate of return by weighting the expected future real rates of return by 
+the target asset allocation percentage and by adding expected inflation. 
+ 
+The target asset allocation and best estimates of arithmetic expected real rates of return 
+for each major asset class as of June 30, 2017 are summarized in the following table: 
+ 
+
+Long-Term
+Target Asset Expected Real
+
+Asset Class Allocation Rate of Return
+Domestic Equity 38.5%                 7.5%                   
+International Equity 19.0                    8.5                      
+Fixed Income 23.5                    2.5                      
+Real Estate** 9.0                      4.5                      
+Alternative Assets 10.0                    6.1                      
+
+Total 100.0%
+
+**The Real Estate total expected return is a combination of US Direct Real Estate 
+   (unleveraged) and US Value added Real Estate (unleveraged)  
+ 
+Discount Rate 
+The discount rate used to measure the total OPEB liability was 7.5 percent. The 
+projection of cash flows used to determine the single discount rate assumed that plan 
+member and employer contributions will be made at the current statutory levels and 
+remain a level percentage of payroll. Based on those assumptions, the OPEB plan's 
+fiduciary net position was projected to be available to make all projected OPEB 
+payments for current active and inactive employees. Therefore, the long-term expected 
+rate of return on OPEB plan investments was applied to all periods of projected benefit 
+payments to determine the total OPEB liability. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(43) 
+
+ 
+NOTE 7 OTHER POSTEMPLOYMENT INSURANCE BENEFITS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+C. Changes in the Net OPEB Liability 
+
+Net OPEB
+Plan Fiduciary Liability
+
+Total OPEB Net Position (Asset)
+Liability (a) (b) (a)-(b)
+
+Balances at 6/30/2017 2,222,874$       2,222,874$       -$                      
+
+Changes for the Year:
+Service Cost 33,980              -                        33,980              
+Interest 162,180            -                        162,180            
+Differences Between Expected
+and Actual Experience (72,512)             (72,512)             
+Contributions - Employer -                        33,292              (33,292)             
+Net Investment Income -                        
+Differences Between Projected 
+and Actual Investment Income -                        318,431            (318,431)           
+Benefit Payments (154,923)           (154,923)           -                        
+Administrative Expense -                        (135)                  135                   
+
+Net Changes (31,275)             196,665            (227,940)           
+
+Balances at 6/30/2018 2,191,599$       2,419,539$       (227,940)$         
+
+Increase (Decrease)
+
+ 
+ 
+Sensitivity of the net OPEB liability to changes in the discount rate. The following 
+presents the net OPEB liability of the University, as well as what the University’s net 
+OPEB liability would be if it were calculated using a discount rate that is 1-percentage-
+point lower (6.5 percent) or 1-percentage-point higher (8.5 percent) than the current 
+discount rate: 
+ 
+
+1% Decrease Discount Rate 1% Increase
+(6.50%) Rate (7.50%) (8.50%)
+
+Net OPEB Liability (Asset) (9,541)$             (227,940)$         (414,668)$         
+ 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(44) 
+
+ 
+NOTE 7 OTHER POSTEMPLOYMENT INSURANCE BENEFITS (CONTINUED) 
+
+Oklahoma Teachers’ Retirement System (Continued) 
+D. OPEB Expense and Deferred Outflows of Resources and Deferred Inflows of Resources 
+
+Related to OPEB 
+For the year ended June 30, 2018, the University recognized a negative OPEB expense 
+of $8,441. At June 30, 2018, the University reported deferred outflows of resources and 
+deferred inflows of resources related to OPEB from the following sources: 
+ 
+
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+
+Differences Between Expected and Actual Experience -$                    61,182$          
+Changes of Assumptions -                      -                      
+Net Difference Between Projected and Actual Investments
+
+Earnings on OPEB Plan Investments -                      125,026          
+Total -$                    186,208$         
+
+ 
+Amounts reported as deferred outflows of resources and deferred inflows of resources 
+related to OPEB will be recognized in OPEB expense as follows: 
+ 
+
+Year Ending June 30, Amount Amount
+2019 -$                    (42,587)$         
+2020 -                      (42,587)           
+2021 -                      (42,587)           
+2022 -                      (42,585)           
+2023 -                      (11,330)           
+
+Thereafter -                      (4,532)             
+Total -$                    (186,208)$        
+
+ 
+Other Postemployment Insurance Benefits 
+The University provides for the payment of premiums for a $4,000 life insurance policy to all 
+eligible individuals retiring from employment. To be eligible, the individuals need only have 
+completed the requirements to retire under the OTRS. The University funds the payments 
+out of current operations and does not prefund the expenses. For the year ended June 30, 
+2018, the amount of expense to the University was approximately $5,700. 
+ 
+Additionally, the University offers life insurance for all current employees in an amount equal 
+to twice the employee’s current salary. The University has ceded all claims over $75,000 to 
+an insurance company via the purchase of a group life insurance policy. As the employees 
+have no vested benefit in this program and the program can be discontinued at the 
+discretion of the University, the University has not recorded a liability in connection with any 
+future benefit payments. 
+ 
+At June 30, 2018, the University had approximately $1,871,000 of rate stabilization reserves 
+with the administrator of the programs discussed above. The rate stabilization reserves are 
+available upon request of the University and are reflected as prepaid expenses and other 
+assets in the statement of net position. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(45) 
+
+ 
+NOTE 8 FUNDS HELD IN TRUST BY OTHERS 
+
+Beneficial Interest in State School Land Funds 
+The University has a beneficial interest in the “Section Thirteen Fund State Educational 
+Institutions” and the “New College Fund” administered by the Commissioners of the Land 
+Office as trustees for the various educational institutions entitled thereto. The University has 
+the right to receive annually 3.7% of the distributions of income produced by the “Section 
+Thirteen Fund State Educational Institutions” assets and 100% of the distributions of income 
+produced by the University’s “New College Fund.” The University received approximately 
+$1,117,000 during the year ended June 30, 2018, which is restricted to the construction or 
+acquisition of buildings, equipment, or other capital items. These amounts are recorded as 
+state appropriations restricted for capital purposes in the statement of revenues, expenses, 
+and changes in net position. State law prohibits the distribution of any corpus of these funds 
+to the beneficiaries. 
+ 
+The total trust reserve for the University, held in trust by the Commissioners of the Land 
+Office, was approximately $19,336,000 at June 30, 2018. 
+ 
+Oklahoma State Regents Endowment Trust Fund 
+In connection with the Oklahoma State Regents’ Endowment Program (the Endowment 
+Program), the state of Oklahoma has matched contributions received under the Endowment 
+Program. The state match amounts, plus retained accumulated earnings, totaled 
+approximately $6,230,000 at June 30, 2018, and are invested by the State Regents for 
+Higher Education on behalf of the University. The University is entitled to receive an annual 
+distribution of earnings of 4.5% of the market value at year-end on these funds. Legal title of 
+these endowment funds is retained by the State Regents of Higher Education; only the 
+funds available for distribution, or approximately $600,500 at June 30, 2018, have been 
+reflected as assets in the statement of net position. 
+ 
+ 
+
+NOTE 9 RELATED PARTY TRANSACTIONS 
+
+The Cameron University Foundation (the Foundation) is a tax-exempt organization whose 
+objective is the betterment of the University and its related activities. The University is the 
+ultimate beneficiary of the Foundation. The University has an agreement with the 
+Foundation whereby the University will also provide certain administrative services for the 
+benefit of the Foundation. The following transactions occurred between the University and 
+the Foundation during the year ended June 30, 2018: 
+ 
+Scholarship Funds Awarded to the University 323,495$          
+
+Payment of Services by the Foundation for the
+Benefit of the University 1,940,487$       
+
+Administrative Services Provided by the University
+for the Benefit of the Foundation 310,093$           
+
+ 
+The Foundation provides scholarship awards to University students, and also supports the 
+University through payment of certain supplies, materials, and services. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(46) 
+
+ 
+NOTE 10 COMMITMENTS AND CONTINGENCIES 
+
+The University is party to litigation and claims arising in the normal course of business. In 
+the opinion of management, liabilities, if any, resulting from such litigation and claims will not 
+be material to the University. 
+ 
+The University conducts certain programs pursuant to various grants and contracts, which 
+are subject to audit by various federal and state agencies. Costs questioned as a result of 
+audits, if any, may result in refunds to these governmental agencies from various sources of 
+the University. 
+ 
+ 
+
+NOTE 11 RISK MANAGEMENT 
+
+The University is exposed to various risks of loss from torts; theft of, damage to, and 
+destruction of assets; business interruptions; errors and omission; employee injuries and 
+illnesses; natural disasters; and employee health, life, and accident benefits. Commercial 
+insurance coverage is purchased for claims arising from such matters other than torts, 
+property, and workers’ compensation. Settled claims have not exceeded this commercial 
+coverage in any of the three preceding years. 
+ 
+The University, along with other state agencies and political subdivisions, participates in the 
+state of Oklahoma Risk Management Program public entity risk pool currently operating as a 
+common risk management and insurance program for its members. The University pays 
+annual premiums to the pool for its workers’ compensation, tort, property, and liability 
+insurance coverage. The Oklahoma Risk Management pool’s governing agreement 
+specifies that the pool will be self-sustaining through member premiums and will reinsure 
+through commercial carriers for claims in excess of specified stop-loss amounts. 
+ 
+ 
+
+NOTE 12 CAMERON UNIVERSITY FOUNDATION 
+ 
+Note 1: Nature of Operations and Summary of Significant Accounting Policies 
+ 
+Nature of Operations 
+Cameron University Foundation, Inc. (the Foundation) is a not-for-profit organization whose 
+mission and principal activities are to promote the educational and cultural interest of 
+Cameron University (the University), a public institution of higher education. The 
+Foundation’s revenues and other support are derived principally from contributions and its 
+activities are conducted in the southwestern Oklahoma area. 
+ 
+Although the University does not control the timing or amount of receipts from the 
+Foundation, substantially all of the Foundation’s resources and related income are restricted 
+by donors for the benefit of the University. Because these restricted resources held by the 
+Foundation can only be used by, or for the benefit of, the University, the Foundation is 
+considered a component unit of the University and is discretely presented in the University’s 
+financial statements. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(47) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 1: Nature of Operations and Summary of Significant Accounting Policies 
+(Continued) 
+ 
+Basis of Presentation 
+The financial statements of the Foundation have been prepared on the accrual basis of 
+accounting. Net assets and revenues, gains, and losses are classified based upon the 
+existence or absence of donor-imposed restrictions as follows: 
+ 
+Unrestricted net assets: Net assets that are not subject to donor-imposed stipulations. 
+ 
+Temporarily restricted net assets: Net assets subject to donor-imposed stipulations that can 
+be fulfilled by actions of the Foundation pursuant to those stipulations or that expire by the 
+passage of time. 
+ 
+Permanently restricted net assets: Net assets subject to donor-imposed stipulations that 
+they be maintained permanently by the Foundation. Generally, the donors of such assets 
+permit the Foundation to use all or part of the income earned on the assets. 
+ 
+Income and gains on investments are reported as increases in permanently restricted net 
+assets if the terms of the gift that gave rise to the investment or applicable law require such 
+amounts to be added to permanent endowment principal. Income and gains are reported as 
+increases in temporarily restricted net assets if the terms of the gift or applicable law impose 
+restrictions on the use of the income and as increases in unrestricted net assets in all other 
+cases. 
+ 
+Use of Estimates 
+The preparation of financial statements in conformity with accounting principles generally 
+accepted in the United States of America requires management to make estimates and 
+assumptions that affect the reported amounts of assets and liabilities and disclosure of 
+contingent assets and liabilities at the date of the financial statements and the reported 
+amounts of revenues, expenses, gains, losses, and other changes in net assets during the 
+reporting period. Actual results could differ from those estimates. 
+ 
+Cash Equivalents 
+The Foundation considers all liquid investments with original maturities of three months or 
+less to be cash equivalents. At June 30, 2018 and 2017, cash equivalents consisted 
+primarily of money market and cash in banks. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(48) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 1: Nature of Operations and Summary of Significant Accounting Policies 
+(Continued) 
+ 
+Contributions 
+The Foundation reports gifts of cash and other assets as restricted contributions when they 
+are received with donor stipulations that limit the use of the donated assets. When the intent 
+of the donor is that the assets are to remain in perpetuity and the Foundation does not have 
+the right to invade the original principal, the assets are reported as permanently restricted. 
+When the donor restrictions expire, such as when the Foundation expends the funds in 
+accordance with the donor’s wishes, temporarily restricted net assets are released to 
+unrestricted net assets and reported in the statements of activities as net assets released 
+from restrictions. 
+ 
+Promises to Give 
+Unconditional promises to give are recognized as revenues or gains in the period received 
+and as assets, decreases of liabilities, or expenses, depending on the form of the benefits 
+received. Conditional promises to give are recognized only when the conditions on which 
+they depend are substantially met and the promises become unconditional. 
+ 
+Collections 
+All collections of works of art, historical treasures, and similar assets are capitalized. Items 
+added to the collections are capitalized at cost if purchased or at estimated fair value on the 
+acquisition date, if donated. Collection items sold or removed are reported as unrestricted or 
+temporarily restricted gains or losses depending on donor stipulations, if any, placed on the 
+items at the time of acquisition. 
+ 
+Credit Risk 
+The Foundation maintains cash balances at a financial institution located in Oklahoma. 
+From time to time, the account balance may exceed the limits insured by the Federal 
+Deposit Insurance Corporation. Management does not consider this to be an unreasonable 
+risk of loss. 
+ 
+Real Property 
+Real property consists primarily of land and farm property donated to the Foundation. 
+Management has made attempts to revalue portions of the real property assets at 
+subsequent dates. The Foundation’s management is of the opinion that revaluation of all the 
+real property would not have a significant impact on the Foundation’s statements of financial 
+position or changes in net assets. 
+ 
+Assets Held for Sale 
+The Foundation received contributed property during the year ended June 30, 2018 that 
+totaled $522,952. The Foundation recorded this in-kind contribution as assets held for sale. 
+The Foundation intends to sell this property as soon as possible.  
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(49) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 1: Nature of Operations and Summary of Significant Accounting Policies 
+(Continued) 
+ 
+Marketable Securities 
+Marketable securities are stated at fair value. Fair values are generally determined based 
+upon quoted market prices. Realized gains and losses on sales of marketable securities are 
+computed on the first-in, first-out basis. 
+ 
+The Foundation utilizes various investment instruments. Marketable securities, in general, 
+are exposed to various risks, such as interest rate, credit, and overall market volatility. Due 
+to the level of risk associated with certain investment securities, it is reasonably possible that 
+changes in the values of marketable securities will occur in the near term and that such 
+changes could materially affect the amounts reported in the statements of financial position. 
+Significant fluctuations in fair values could occur from year to year and the amounts the 
+Foundation will ultimately realize could differ materially. 
+ 
+Income Taxes 
+The Foundation is exempt from income taxes under Section 501(c)(3) of the Internal 
+Revenue Code and a similar provision of state law; and is classified as a public charity 
+under section 509(A)(3). However, the Foundation is subject to federal income tax on any 
+unrelated business taxable income. 
+ 
+Other Assets 
+Other assets consist of mineral interests stated at depletion value and property held for sale 
+stated at fair value at date of donation.  
+ 
+Subsequent Events 
+Subsequent events have been evaluated through September 21, 2018 which is the date the 
+financial statements were issued. 
+ 
+Note 2: Cash and Cash Equivalents 
+ 
+The Foundation maintains several bank accounts. The table below is designed to disclose 
+the level of custody credit risk assumed by the Foundation based upon how its deposits 
+were insured at June 30, 2018 and 2017. FDIC regulations state time and savings accounts 
+are insured up to a $250,000 maximum. 
+ 
+Category 1 – Insured by FDIC or collateralized with securities held by the Foundation or by 
+its agent in its name. 
+ 
+Category 2 – Uninsured but collateralized with securities held by the pledging financial 
+institution’s trust department or agent in the Foundation’s name. 
+ 
+Category 3 – Uninsured and uncollateralized. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(50) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 2: Cash and Cash Equivalents (Continued) 
+ 
+    Custody Credit Risk Category 
+
+Type of Deposits 
+
+ Total 
+Bank 
+
+Balance  1 
+
+  
+ 
+
+2 
+
+  
+ 
+
+3 
+June 30, 2018         
+Demand Deposits:         
+   BancFirst  $   252,824   $  250,000   $           —  $      2,824 
+Money Market Funds        
+   BancFirst  265,983   —          —  265,983 
+         
+Totals  $ 518,807   $  250,000   $           —  $  268,807  
+
+ 
+ 
+
+    Custody Credit Risk Category 
+
+Type of Deposits 
+
+ Total 
+Bank 
+
+Balance  1 
+
+  
+ 
+
+2 
+
+  
+ 
+
+3 
+June 30, 2017         
+Demand Deposits:         
+   BancFirst  $   550,335   $  250,000   $           —  $  300,335 
+Money Market Funds        
+   BancFirst  525,186   —          —  525,186  
+         
+Totals  $   1,075,521   $  250,000   $           —  $  825,521  
+
+ 
+Note 3: Investment Return 
+ 
+Investments are held for the production of income and consist of the following at June 30, 
+2018: 
+ 
+
+ Cost  Fair Value  
+U.S. Treasury notes   $  4,559,842   $ 4,543,935  
+U. S. Agencies 4,137 4,714 
+Corporate bonds 4,241,314 4,199,821 
+Certificates of deposits 115,000 115,000 
+Money market accounts 788,794 788,794 
+Common stock  12,746,082   15,641,979  
+     
+  $22,455,169   $25,294,243  
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(51) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 3: Investment Return (Continued) 
+ 
+Investments are held for the production of income and consist of the following at June 30, 
+2017: 
+ 
+
+ Cost  Fair Value  
+U.S. Treasury notes   $  3,984,017   $ 4,019,450  
+U. S. Agencies 6,576 7,646 
+Corporate bonds 4,403,069 4,604,175 
+Certificates of deposits 115,000 115,000 
+Money market accounts 1,309,426 1,309,426 
+Common stock  11,826,784   14,168,264  
+     
+  $21,644,872   $24,223,961  
+
+ 
+Total investment return is comprised of the following for the years ended June 30, 2018 and 
+2017: 
+ 
+
+ 2018  2017 
+Interest and dividend income, net of investment 
+ expenses  $ 896,470   $ 833,386 
+Unrealized gain/(loss) on investments 298,453 411,032 
+Realized gains on investments   174,465    424,911 
+    
+  $ 1,369,388   $ 1,669,329 
+
+ 
+Note 4: Pledges Receivable 
+ 
+Pledges receivable are due as follows at June 30: 
+ 
+
+ 2018  2017 
+    
+Receivable in less than one year  $ —   $ 500,000 
+Receivable in one to five years   —   — 
+     Total pledges receivable   —    500,000 
+Less discounts to present value   —    — 
+Less allowance for uncollectible pledges   —    — 
+    
+     Net pledges receivable  $ —   $ 500,000 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(52) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 5: Real Property 
+ 
+Real property consists of land and farm property donated to the Foundation and is held for 
+the production of income. Real property with a carrying amount of $235,000 at June 30, 
+2018 and 2017 is part of permanently restricted net assets. Real property with a carrying 
+value of $3,000 at June 30, 2018 and 2017 is part of unrestricted net assets. 
+ 
+Note 6: Notes Payable 
+ 
+On June 26, 2001, the Foundation entered into a non-recourse agreement with a bank 
+whereby the bank loaned the Foundation $1,000,000 for the purpose of allowing the 
+University’s graduate investment class to manage an active bond portfolio (see Note 8). This 
+non-recourse note had an original maturity date of June 30, 2002, but has been renewed 
+annually with a current maturity date of November 30, 2018. Interest accrues on this note at 
+the 90-day U.S. Treasury bill rate published in the Wall Street Journal plus 1.0% (2.89% at 
+June 30, 2018). The non-recourse note is secured by a first and prior security interest in 
+Cameron’s Investment Program fund. Income earned by the portfolio above the borrowing 
+rate shall be donated to the Foundation for the purpose of sponsoring upper-level business 
+majors in the pursuit of graduate degrees at the University. The balance at June 30, 2018 
+and 2017 was $682,768 and $703,031, respectively. The balance is due within the first year. 
+ 
+During the years ended June 30, 2018 and 2017, respectively, the Foundation paid $16,007 
+and $9,717 for interest associated with this note payable. 
+ 
+Note 7: Net Assets 
+ 
+
+Unrestricted net assets consist of the following at June 30: 
+                     2018     2017  
+Board Designated               
+  Foundation operations      $         248,500     $        263,500  
+  General University Support                 133,000               133,500  
+  Scholarships                     120,000               120,000  
+Undesignated                    5,812,575            5,453,701  
+    Total Unrestricted Net Assets    $      6,314,075     $     5,970,701  
+
+Temporarily restricted net assets consist of the following at June 30: 
+                     2018     2017  
+Endowed Chairs and Lectureships    $      4,216,647     $    4,246,585  
+Scholarships                    1,983,930           1,815,889  
+Athletics Support                     216,660               188,369  
+General University Support              2,710,753            2,975,434  
+    Total Temporarily Restricted Net Assets    $      9,127,990     $     9,226,277  
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(53) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 7: Net Assets (Continued) 
+ 
+
+Permanently restricted net assets consist of the following at June 30: 
+                     2018     2017  
+Endowed Chairs and Lectureships    $      5,724,624     $     5,554,469  
+Scholarships                    5,462,721            5,312,758  
+Athletics Support                     171,910               171,910  
+General University Support                 642,777               763,109  
+    Total Permanently Restricted Net Assets    $    12,002,032     $   11,802,246  
+                          
+
+Net assets released from restrictions were as follows at June 30: 
+                     2018     2017  
+
+Endowed Chairs and Lectureships    $       (169,661)    $     (419,741) 
+
+Scholarships                     (202,332)   
+  
+
+(222,579) 
+
+Athletics Support                     (96,543)   
+  
+
+(64,958) 
+General University Support            (1,674,282)        (1,000,243) 
+  Total Net assets released from restrictions:    $    (2,142,818)    $  (1,707,521) 
+
+ 
+Note 8: Cameron Investment Program 
+ 
+Investments are held for the production of income and consist of the following at June 30: 
+ 
+
+ 2018  2017 
+Cash  $ 126,269   $ 65,280 
+Accrued interest 25,623 25,655 
+Corporate bonds   1,420,948    1,495,544 
+      
+  $ 1,572,840   $ 1,586,479 
+
+ 
+All investments serve as collateral for the note payable as described in Note 6.  
+ 
+Note 9: Fair Value Measurements 
+ 
+The Foundation uses quoted market prices to determine the fair value of an asset or liability 
+when available. If quoted market prices are not available, the Foundation determines fair 
+value using valuation techniques that use market-based or independently-sourced market 
+data, such as interest rates. 
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(54) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 9: Fair Value Measurements (Continued) 
+ 
+The following methods and assumptions were used to estimate the fair value of assets and 
+liabilities in the financial statements. 
+ 
+
+Cash and Cash Equivalents: The carrying amount approximates the fair value due to the 
+short maturity of such amounts. 
+ 
+Investments: Investments in cash and cash equivalents, publicly traded securities, and 
+mutual funds are stated at market value based on quoted market prices. Investments, 
+common trust funds, certificates of deposit, government agency bonds and mortgage-
+backed securities are stated at market price as determined by the fund manager or 
+quoted market prices in non-active markets. Other investments are stated at fair value 
+based upon current market conditions and other factors deemed relevant to the 
+valuation as provided by the independent valuation specialist and or Foundation 
+management. 
+ 
+Cameron Investment Program: Investments in cash, accrued interest, and corporate 
+bonds are stated at market value based on quoted market prices.  
+ 
+Pledges and Accounts Receivable: The carrying amount of receivables is based on the 
+discounted value of expected future cash flows, which approximate fair value. 
+ 
+Other Assets: Remaining financial instruments are carried at cost, which approximates 
+fair value. 
+ 
+Accounts Payable and Other Liabilities: The carrying amount approximates fair value 
+due to the short maturity of those amounts. 
+
+ 
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a 
+liability in an orderly transaction between market participants at the measurement date. The 
+fair value hierarchy requires an entity to maximize the use of observable inputs and 
+minimize the use of unobservable inputs when measuring fair value. The three levels of 
+inputs that may be used to measure fair value are: 
+ 
+
+Level 1 Quoted prices in active markets for identical assets or liabilities. 
+ 
+Level 2 Observable inputs other than the Level 1 prices, such as quoted prices for 
+similar assets or liabilities; quoted prices in markets that are not active; or other inputs 
+that are observable or can be corroborated by observable market date for substantially 
+the full term of the asset or liabilities. 
+ 
+Level 3 Unobservable inputs that are supported by little or no market activity and that 
+are significant to the fair value of the assets or liabilities. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(55) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 9: Fair Value Measurements (Continued) 
+ 
+The following table presents the fair value measurements of assets and liabilities recognized 
+in the accompanying financial statements at fair value on a recurring basis and the level 
+within the fair market value hierarchy in which the fair value measurements fall at June 30, 
+2018 and 2017. 
+ 
+
+ As of June 30, 2018 
+ Level 1  Level 2  Level 3  Total 
+Money market funds $  788,794  $            —  $          —  $  788,794 
+Certificates of deposits 115,000  —  —  115,000 
+Equity securities 15,641,979  —  —  15,641,979 
+Corporate and other bonds —  5,620,769  —  5,620,769 
+U.S. government securities —  4,548,649  —  4,548,649 
+Cash and accrured interest 151,892  —  —  151,892 
+        
+ $16,697,665  $10,169,418  $          —  $26,867,083 
+
+ 
+ As of June 30, 2017 
+ Level 1  Level 2  Level 3  Total 
+Money market funds $  1,309,426  $            —  $          —  $  1,309,426 
+Certificates of deposits 115,000  —  —  115,000 
+Equity securities 14,168,264  —  —  14,168,264 
+Corporate and other bonds —  6,099,719  —  6,099,719 
+U.S. government securities —  4,027,096  —  4,027,096 
+Cash and accrued interest 90,935  —  —  90,935 
+        
+ $15,683,625  $10,126,815  $          —  $25,810,440 
+
+ 
+The following is a description of methodologies used for instruments measured at fair value 
+on a recurring basis: 
+ 
+Investments: Where quoted market prices are available in an active market, investments are 
+classified within Level 1 of the valuation hierarchy. Level 1 investments include equity 
+securities, mutual funds, and money market funds. If quoted market prices are not available, 
+then fair values are estimated by using pricing models, quoted prices of securities with 
+similar characteristics or discounted cash flows. Level 2 investments include equity 
+securities with similar characteristics or discounted cash flows, corporate and other bonds, 
+U.S. government securities, marketable alternative assets, inflation hedging and 
+opportunistic and other investments. In certain cases where Level 1 or Level 2 inputs are not 
+available, investments are classified within Level 3 of the hierarchy and include corporate 
+and other bonds and marketable and nonmarketable alternative assets. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(56) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 10: Endowments 
+ 
+The Foundation endowments consist of approximately 200 individual funds established for a 
+variety of purposes. As required by generally accepted accounting principles (GAAP), net 
+assets associated with endowment funds, including funds designated by the Board of 
+Directors to function as endowments, are classified and reported based upon the existence 
+or absence of donor-imposed restrictions. 
+ 
+Interpretation of Relevant Law: In accordance with the requirements of FAS 117-1, and the 
+Oklahoma Uniform Prudent Management of Institutional Funds Act (OUPMIFA), the 
+Foundation will report the market value of an endowment as perpetual in nature. As a result, 
+the Foundation classifies as permanently restricted (1) the original value of gifts donated to 
+the endowment, (2) the original value of subsequent gifts donated to the endowment, (3) all 
+realized and unrealized gains and losses of the endowment, and (4) less any income 
+distribution in accordance with the spending policy which will be classified as temporarily 
+restricted. In accordance with OUPMIFA, the Foundation considers the following factors in 
+making a determination to appropriate or accumulate donor-restricted endowment funds: 
+ 
+
+(1) The duration and preservation of the fund; 
+(2) The purpose of the foundation and the donor-restricted endowment fund; 
+(3) General economic conditions; 
+(4) The possible effect of inflation and deflation; 
+(5) The expected total return from income and the appreciation of investments; 
+(6) Other resources of the foundation; 
+(7) The investment policies of the foundation. 
+
+ 
+Return Objectives and Risk Parameters: The Foundation has adopted investment and 
+spending policies for endowment assets that attempt to provide a predictable stream of 
+funding to programs supported by the endowment while seeking to maintain the purchasing 
+power of the endowment assets. Under this policy, as approved by the board of directors, 
+the endowment assets are invested in a manner that is intended to produce results which 
+generate a dependable, increasing source of income and appreciation while assuming a 
+moderate level of investment risk. The goal of the Foundation is to provide a consistent rate 
+of return of 4% over the rate of inflation as measured by the national Consumer Price Index 
+(CPI), on a fee adjusted basis over a typical market cycle of no less than three years and no 
+more than five years. Actual returns in any given year may vary from this amount. 
+ 
+Strategies Employed for Achieving Objectives: To satisfy its long-term rate of return 
+objectives, the Foundation relies on a total return strategy in which investment returns are 
+achieved through both capital appreciation (realized and unrealized) and current yield 
+(interest and dividends). The Foundation targets a diversified asset allocation that places a 
+greater emphasis on equity-based investments to achieve its long-term return objectives 
+while reducing risk to acceptable levels. 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(57) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 10: Endowments (Continued) 
+ 
+Spending Policy and How the Investment Objectives Relate to Spending Policy: The 
+Foundation has a policy of appropriating for distribution at the end of each year earnings in 
+the form of dividends and interest that were earned during that year. In establishing this 
+policy, the Foundation considered the long-term expected return on its endowment. 
+Accordingly, over the long term, the Foundation expects the current spending policy to allow 
+its endowment to grow at an average of 3% annually. This is consistent with the 
+Foundation’s objective to maintain the purchasing power of the endowment assets held in 
+perpetuity or for a specified term as well as to provide additional real growth through new 
+gifts and investment return. 
+ 
+Endowment Net Asset Composition by Type of Fund as of June 30, 2018: 
+ 
+
+  
+Temporarily 
+Restricted  
+
+Permanently 
+Restricted 
+
+Donor-restricted endowment funds   $ 9,127,990   $12,002,032 
+ 
+Endowment Net Asset Composition by Type of Fund as of June 30, 2017: 
+ 
+
+  
+Temporarily 
+Restricted  
+
+Permanently 
+Restricted 
+
+Donor-restricted endowment funds   $ 9,226,277   $11,802,246 
+ 
+Changes in Endowment Net Assets for the year ending June 30, 2018: 
+ 
+
+ 
+Temporarily 
+Restricted  
+
+Permanently 
+Restricted 
+
+Endowment net assets - beginning  $ 9,226,277   $11,802,246 
+   Investment return 1,005,084  (91,949) 
+   Contributions 1,039,447  291,735 
+   Appropriations for expenditure (2,142,818)                     -- 
+    
+     Total endowment funds  $ 9,127,990   $12,002,032 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO FINANCIAL STATEMENTS 
+
+JUNE 30, 2018 
+ 
+ 
+ 
+
+(58) 
+
+ 
+NOTE 12 CAMERON UNIVERSITY FOUNDATION (CONTINUED) 
+
+Note 10: Endowments (Continued) 
+ 
+Changes in Endowment Net Assets for the year ending June 30, 2017: 
+ 
+
+ 
+Temporarily 
+Restricted  
+
+Permanently 
+Restricted 
+
+Endowment net assets - beginning  $ 7,932,475   $10,531,212 
+   Investment return 1,169,735  54,288 
+   Contributions 1,831,588  1,216,746 
+   Appropriations for expenditure (1,707,521)                    — 
+    
+     Total endowment funds  $ 9,226,277   $11,802,246 
+
+ 
+Note 11: Related Parties 
+ 
+Substantially all expenses are for the benefit of the students, faculty, or activities of the 
+University. Transactions between the Foundation and the University are covered under a 
+written agreement between the Foundation and the University. Under this agreement, the 
+University agrees to provide certain administrative services to the Foundation in exchange 
+for scholarships, endowments, grants, and payment of services for the benefit of the 
+University. The Foundation has recorded in-kind contributions received from the University 
+in the accompanying financial statements in the amount of $310,093 and $310,165, for the 
+years ended June 30, 2018 and 2017, respectively. 
+ 
+ 
+
+
+
+ 
+
+ 
+
+ 
+REQUIRED SUPPLEMENTARY INFORMATION 
+
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF THE UNIVERSITY’S PROPORTIONATE SHARE OF THE 
+
+NET PENSION LIABILITY – OTRS (UNAUDITED) 
+OKLAHOMA TEACHERS’ RETIREMENT SYSTEM (OTRS) 
+
+LAST 10 FISCAL YEARS* 
+ 
+ 
+ 
+
+(59) 
+
+ 
+
+2017 2016 2015 2014
+
+Universityʼs Proportion of the Net Pension Liability 0.5% 0.5% 0.6% 0.6%
+
+Universityʼs Proportionate Share of the Net Pension Liability 33,844,429$     45,773,344$     36,072,547$     32,936,521$     
+
+Universityʼs Covered-Employee Payroll 20,034,900$     21,628,553$     24,095,854$     25,550,629$     
+
+Universityʼs Proportionate Share of the Net Pension Liability as a
+  Percentage of its Covered-Employee Payroll 168.9% 211.6% 149.7% 128.9%
+
+Plan Fiduciary Net Position as a Percentage of the
+  Total Pension Liability 69.3% 62.2% 70.3% 72.4%
+
+* Only four fiscal years are presented because 10-year data
+  is not yet available.
+
+Measurement Date June 30, 
+
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF THE UNIVERSITY’S CONTRIBUTIONS – OTRS (UNAUDITED) 
+
+OKLAHOMA TEACHERS’ RETIREMENT SYSTEM (OTRS) 
+LAST 10 FISCAL YEARS* 
+
+ 
+ 
+ 
+
+(60) 
+
+ 
+2018 2017 2016 2015 2014
+
+Contractually Required Contribution 1,981,725$        2,111,814$        2,331,395$        2,472,233$        2,492,447$        
+Contributions in Relation to the
+
+Contractually Required Contribution (1,981,725)         (2,111,814)         (2,331,395)         (2,472,233)         (2,492,447)         
+Contribution Deficiency (Excess) -$                       -$                       -$                       -$                       -$                       
+
+Universityʼs Covered-Employee Payroll 20,034,900$      21,628,553$      24,095,854$      25,550,629$      25,739,234$      
+
+Contributions as a Percentage of
+Covered-Employee Payroll 9.89% 9.76% 9.68% 9.68% 9.68%
+
+Contractually Required Contribution 2013 2012 2011
+Contributions in Relation to the
+
+Contractually Required Contribution 2,487,250$        2,313,695$        2,317,445$        
+Contribution Deficiency (Excess)
+
+(2,487,250)         (2,313,695)         (2,317,445)         
+Universityʼs Covered-Employee Payroll -$                       -$                       -$                       
+
+Contributions as a Percentage of 25,628,455$      24,203,445$      23,726,504$      
+Covered-Employee Payroll
+
+9.71% 9.56% 9.77%
+
+* 10-year data is not yet available.
+
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF CHANGES IN NET PENSION LIABILITY AND RELATED RATIOS 
+
+PRESIDENT’S RETIREMENT PLAN – PLAN 2 (UNAUDITED) 
+LAST 10 FISCAL YEARS* 
+
+(DOLLAR AMOUNTS IN THOUANDS) 
+ 
+ 
+ 
+
+(61) 
+
+ 
+2018 2017 2016 2015
+
+Total Pension Liability
+Interest 103,624$   94,639$     101,019$   99,303$     
+Differences Between Expected and Actual Experience 40,303       171,961     (99,500)      34,301       
+Changes of Assumptions 2,650         2,571         2,760         -                 
+Benefit Payments (121,986)    (116,841)    (104,388)    (105,617)    
+
+Net Change in Total Pension Liability 24,591       152,330     (100,109)    27,987       
+
+Total Pension Liability - Beginning 1,788,071  1,635,741  1,735,850  1,707,863  
+Total Pension Liability - Ending 1,812,662  1,788,071  1,635,741  1,735,850  
+
+Plan Fiduciary Net Position
+Net Investment Income 117,251     181,625     (44,501)      94,843       
+Benefit Payments (121,986)    (116,841)    (104,388)    (105,617)    
+Administrative Expense (5,500)        -                 -                 -                 
+
+Net Change in Plan Fiduciary Net Position (10,235)      64,784       (148,889)    (10,774)      
+
+Plan Fiduciary Net Position - Beginning (a) 1,561,959  1,497,175  1,646,064  1,656,838  
+Plan Fiduciary Net Position - Ending (b) 1,551,724  1,561,959  1,497,175  1,646,064  
+
+Net Pension Liability - Ending (a)-(b) 10,235$     (64,784)$    138,566$   89,786$     
+
+Plan Fiduciary Net Position as a Percentage of
+  the Total Pension Liability 85.6% 87.4% 91.5% 94.8%
+Covered Employee Payroll -             -             -             -             
+
+Net Pension Liability as a Percentage of 
+  Covered-Employee Payroll N/A N/A N/A N/A
+
+* 10-year data is not yet available.  
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF EMPLOYER CONTRIBUTIONS 
+
+PRESIDENT’S RETIREMENT PLAN – PLAN 2 (UNAUDITED) 
+LAST 10 FISCAL YEARS* 
+
+ 
+ 
+ 
+
+(62) 
+
+ 
+2018 2017 2016 2015 2014
+
+Actuarially Determined Contribution 239,679$      177,063$      109,470$      75,524$        193,534$      
+Contributions in Relation to the Actuarially Determined
+
+Contribution -                    -                    -                    -                    (25,000)         
+Contribution Deficiency (Excess) 239,679$      177,063$      109,470$      75,524$        168,534$      
+
+Universityʼs Covered-Employee Payroll -$                  -$                  -$                  -$                  -$                  
+
+Contributions as a Percentage of Covered-Employee
+Payroll 0.00% 0.00% 0.00% 0.00% 0.00%
+
+2013 2012 2011
+
+Actuarially Determined Contribution 495,559$      359,557$      276,094$      
+Contributions in Relation to the Actuarially Determined
+
+Contribution (409,542)       (460,000)       (150,000)       
+Contribution Deficiency (Excess) 86,017$        (100,443)$     126,094$      
+
+Universityʼs Covered-Employee Payroll 374,755$      373,287$      365,638$      
+
+Contributions as a Percentage of Covered-Employee
+Payroll 132.24% 96.32% 75.51%
+
+* 10-year data is not yet available.  
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF CHANGES IN NET OPEB ASSET AND RELATED RATIOS 
+
+OTRS OPEB (UNAUDITED) 
+LAST 10 FISCAL YEARS* 
+
+ 
+ 
+ 
+
+(63) 
+
+ 
+2018
+
+Total OPEB Liability
+Service Cost 33,980$            
+Interest 162,180            
+Difference Between Expected and Actual Experience (72,512)             
+Benefit Payments (154,923)           
+Net Change in total OPEB Liability (31,275)             
+Total OPEB Liability - Beginning 2,222,874         
+Total OPEB Liability - Ending 2,191,599$       
+
+Plan Fiduciary Net Position
+Contributions - Employer 33,292$            
+Difference Between Projected and Actual Investment Income 318,432            
+Benefit Payments (154,923)           
+Administrative Expenses (135)                  
+Net Change in Plan Fiduciary Net Position 196,666            
+Plan Fiduciary Net Position - Beginning 2,222,874         
+Plan Fiduciary Net Position - Ending 2,419,540$       
+
+Net OPEB Liability (Asset) (227,941)           
+
+Plan Fiduciary Net Position as a Percentage
+of the Total OPEB Liability 110.40%
+
+Covered Employee Payroll 20,807,241$     
+
+University's Net OPEB Liability as a Percentage of the
+Covered Employee Payroll -1.10%
+
+* 10-year data is not yet available.  
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF EMPLOYER CONTRIBUTIONS 
+
+OTRS OPEB (UNAUDITED) 
+LAST 10 FISCAL YEARS* 
+
+ 
+ 
+ 
+
+(64) 
+
+ 
+2018
+
+Actuarially Determined Contribution 33,292$            
+Contribution in Relation to the Actuarially
+Determined Contribution 33,292              
+Contribution Deficiency (Excess) -$                      
+
+Covered Employee Payroll 20,807,241$     
+Contributions as a Percentage of
+Covered Employee Payroll 0.16%
+
+* 10-year data is not yet available.  
+ 
+
+
+
+ 
+
+ 
+
+ 
+REPORTS REQUIRED BY GOVERNMENT AUDITING 
+
+STANDARDS AND UNIFORM GUIDANCE 
+ 
+
+
+
+CliftonLarsonAllen LLP
+CLAconnect.com
+
+ 
+
+(65) 
+
+ 
+INDEPENDENT AUDITORS’ REPORT ON INTERNAL CONTROL OVER 
+
+FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS 
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN 
+
+ACCORDANCE WITH GOVERNMENT AUDITNG STANDARDS 
+ 
+ 
+ 
+Board of Regents of the Univeristy of Oklahoma 
+Cameron University 
+Norman, Oklahoma 
+ 
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of Cameron University 
+(the University), an organizational unit of the Regents of the University of Oklahoma (the Regents), 
+which is a component unit of the state of Oklahoma, which comprise the statement of net position as of 
+June 30, 2018, and the related statements of revenues, expenses, and changes in net position and 
+cash flows for the year then ended, and the related notes to the financial statements, and have issued 
+our report thereon dated October 11, 2018. Our report includes emphasis of matters paragraphs 
+acknowledging that the University is an organizational unit of the Regents and these financial 
+statements reflect only the assets, liabilities and revenues and expenses of the University and not the 
+Regents as a whole. The Cameron University Foundation, Inc. (the Foundation) has been presented as 
+part of the reporting entity. This legally separate organization was audited by other auditors. The 
+Foundation was not audited in accordance with Government Auditing Standards. 
+ 
+Internal Control Over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered the University’s internal 
+control over financial reporting (internal control) to determine the audit procedures that are appropriate 
+in the circumstances for the purpose of expressing our opinion on the financial statements, but not for 
+the purpose of expressing an opinion on the effectiveness of the University’s internal control. 
+Accordingly, we do not express an opinion on the effectiveness of the University’s internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a 
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a material 
+misstatement of the entity’s financial statements will not be prevented, or detected and corrected on a 
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control 
+that is less severe than a material weakness, yet important enough to merit attention by those charged 
+with governance. 
+ 
+
+
+
+Board of Regents of the University of Oklahoma 
+Cameron University 
+
+(66) 
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses. However, material 
+weaknesses may exist that have not been identified. 
+ 
+Compliance and Other Matters 
+As part of obtaining reasonable assurance about whether the University’s financial statements are free 
+of material misstatement, we performed tests of its compliance with certain provisions of laws, 
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and 
+material effect on the determination of financial statement amounts. However, providing an opinion on 
+compliance with those provisions was not an objective of our audit and, accordingly, we do not express 
+such an opinion. The results of our tests disclosed no instances of noncompliance or other matters that 
+are required to be reported under Government Auditing Standards. 
+ 
+Purpose of this Report 
+The purpose of this report is solely to describe the scope of our testing of internal control and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the 
+University’s internal control or on compliance. This report is an integral part of an audit performed in 
+accordance with Government Auditing Standards in considering the University’s internal control and 
+compliance. Accordingly, this communication is not suitable for any other purpose. 
+ 
+ 
+ 
+
+ 
+CliftonLarsonAllen LLP 
+
+St. Louis, Missouri 
+October 11, 2018 
+ 
+
+
+
+CliftonLarsonAllen LLP
+CLAconnect.com
+
+ 
+
+(67) 
+
+ 
+INDEPENDENT AUDITORS’ REPORT ON COMPLIANCE FOR EACH MAJOR 
+
+FEDERAL PROGRAM AND REPORT ON INTERNAL CONTROL OVER 
+COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 
+
+ 
+ 
+ 
+Board of Regents of the University of Oklahoma 
+Cameron University 
+Norman, Oklahoma 
+ 
+ 
+Report on Compliance for Each Major Federal Program 
+We have audited the compliance of Cameron University (the University) with the types of compliance 
+requirements described in the OMB Compliance Supplement that could have a direct and material 
+effect on each of the University’s major federal programs for the year ended June 30, 2018. The 
+University’s major federal programs are identified in the summary of auditors’ results section of the 
+accompanying schedule of findings and questioned costs. 
+ 
+Management’s Responsibility 
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and 
+grants applicable to its federal programs. 
+ 
+Auditors’ Responsibility 
+Our responsibility is to express an opinion on compliance for the University’s major federal program 
+based on our audit of the types of compliance requirements referred to above. We conducted our audit 
+of compliance in accordance with auditing standards generally accepted in the United States of 
+America; the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States; and the audit requirements of Title 2 U.S. Code 
+of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (Uniform Guidance). Those standards and the Uniform Guidance 
+require that we plan and perform the audit to obtain reasonable assurance about whether 
+noncompliance with the types of compliance requirements referred to above that could have a direct 
+and material effect on a major federal program occurred. An audit includes examining, on a test basis, 
+evidence about the University’s compliance with those requirements and performing such other 
+procedures as we considered necessary in the circumstances. 
+ 
+We believe that our audit provides a reasonable basis for our opinion on compliance for the major 
+federal program. However, our audit does not provide a legal determination of the University’s 
+compliance. 
+ 
+Opinion on Each Major Federal Program 
+In our opinion, the University complied, in all material respects, with the types of compliance 
+requirements referred to above that could have a direct and material effect on its major federal program 
+for the year ended June 30, 2018. 
+
+
+
+Board of Regents of the University of Oklahoma 
+Cameron University 
+
+(68) 
+
+Other Matters 
+The results of our auditing procedures disclosed instances of noncompliance, which is required to be 
+reported in accordance with the Uniform Guidance and which are described in the accompanying 
+schedule of findings and questioned costs as Finding 2018-001. Our opinion on the major federal 
+program is not modified with respect to these matters. 
+ 
+The University’s response to the noncompliance findings identified in our audit are described in the 
+accompanying schedule of findings and questioned costs. The University’s response was not subject to 
+the auditing procedures applied in the audit of compliance and, accordingly, we express no opinion on 
+the response. 
+ 
+Report on Internal Control Over Compliance 
+Management of the University is responsible for establishing and maintaining effective internal control 
+over compliance with the types of compliance requirements referred to above. In planning and 
+performing our audit of compliance, we considered the University's internal control over compliance 
+with the types of requirements that could have a direct and material effect on its major federal program 
+to determine the auditing procedures that are appropriate in the circumstances for the purpose of 
+expressing an opinion on compliance for the major federal program and to test and report on the 
+internal control over compliance in accordance with the Uniform Guidance, but not for the purpose of 
+expressing an opinion on the effectiveness of internal control over compliance. Accordingly, we do not 
+express an opinion on the effectiveness of the University’s internal control over compliance. 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their 
+assigned functions, to prevent, or detect and correct, noncompliance with a type of compliance 
+requirement of a federal program on a timely basis. A material weakness in internal control over 
+compliance is a deficiency, or combination of deficiencies, in internal control over compliance, such that 
+there is a reasonable possibility that material noncompliance with a type of compliance requirement of a 
+federal program will not be prevented, or detected and corrected, on a timely basis. A significant 
+deficiency in internal control over compliance is a deficiency, or combination of deficiencies, in internal 
+control over compliance with a type of compliance requirement of a federal program that is less severe 
+than a material weakness in internal control over compliance, yet important enough to merit attention by 
+those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control over 
+compliance that might be material weaknesses or significant deficiencies and therefore, material 
+weaknesses or significant deficiencies may exist that were not identified. We did not identify any 
+deficiencies in internal control over compliance that we consider to be material weaknesses. However, 
+we identified certain deficiencies in internal control over compliance, as described in the accompanying 
+schedule of findings and questioned costs as items 2018-001, that we consider to be significant 
+deficiencies. 
+ 
+Cameron University’s response to the internal control over compliance findings identified in our audit 
+are described in the accompanying Schedule of Findings and Questioned Costs. Cameron University’s 
+response was not subjected to the auditing procedures applied in the audit of compliance and, 
+accordingly, we express no opinion on the response. 
+
+
+
+Board of Regents of the University of Oklahoma 
+Cameron University 
+
+(69) 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of 
+the Uniform Guidance. Accordingly, this report is not suitable for any other purpose. 
+ 
+ 
+ 
+
+ 
+CliftonLarsonAllen LLP 
+
+St. Louis, Missouri 
+October 11, 2018 
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+See Notes to Schedule of Expenditures of Federal Awards. 
+(70) 
+
+ 
+Pass-Through
+
+Federal Entity Passed
+Federal Grantor/Pass through Grantor/ CFDA Identifying Through to Federal
+
+Program or Cluster Title Number Number Subrecipients Expenditures
+
+STUDENT FINANCIAL AID ASSISTANCE CLUSTER:
+Department of Education Direct Programs
+
+Federal Pell Grant 84.063 8,832,685$           
+Federal Supplemental Education Opportunity Grant 84.007 203,778                
+Federal Direct Student Loan Program 84.268 13,649,378           
+Federal Work Study 84.033 169,572                
+TEACH Grant 84.379 51,456                  
+Federal Perkins Loan Program 84.038 50,276                  
+
+Total Department of Education Direct Programs 22,957,145           
+
+TRIO CLUSTER:
+Department of Education Direct Programs
+
+Upward Bound 84.047A 281,079                
+Student Support Services 84.042A 448,793                
+Talent Search Grant 84.044A 365,754                
+
+Total TRIO Cluster 1,095,626             
+
+U.S. Small Business Administration Program
+Oklahoma Small Business Development Center Network 59.037 20,073                  
+
+Total U.S. Small Business Administration 20,073                  
+
+U.S. Department of Commerce Pass-Through Program:
+Economic Development Administration- Duncan Science Labs 11.300 430,386                
+
+Total U.S. Department of Commerce 430,386                
+
+Department of Education Pass-Through Program From:
+Oklahoma Department of Career and Technology Education
+Carl Perkins 84.048 73-6017987 123,314                
+
+Total Department of Education 123,314                
+
+National Aeronautics Space Administration Pass-Through Program:
+
+University of Oklahoma NASA Grant 43.008 73-1377584 60,949                  
+Total National Aeronautics Space Administration 60,949                  
+
+National Science Foundation Pass-Through Programs:
+Oklahoma State University - Oklahoma Lewis Stokes 
+      Alliance for Minority Participants 47.076 73-1383996 30,423                  
+Oklahoma EPSCoR - English and Applied Math Summer Academy 47.079 73-6017987 21,258                  
+
+Total National Science Foundation 51,681                  
+
+National Center for Research Resources Pass-Through Programs:
+University of Oklahoma - OK INBRE 93.859 73-1563627 19,796                  
+
+Total National Center for Research Resources 19,796                  
+
+National Endowment for the Humanities Pass-Through Program:
+Oklahoma Humanities Council 45.129 73-6017987 999                      
+
+Total National Endowment for the Humanities 999                      
+
+Total Expenditures of Federal Awards 24,759,969$          
+ 
+
+
+
+CAMERON UNIVERSITY 
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+(71) 
+
+ 
+NOTE 1 BASIS OF ACCOUNTING 
+
+The accompanying schedule of expenditures of federal awards includes the federal award 
+activity of Cameron University under programs of the federal government for the year ended 
+June 30, 2018. The information in this Schedule is presented in accordance with the 
+requirements of 2 CFR Part 200, Uniform Administrative Requirements, Cost Principles, and 
+Audit Requirements for Federal Awards (Uniform Guidance). Because the Schedule 
+presents only a selected portion of the operations of Cameron University, it is not intended 
+to and does not present the financial position, changes in net assets, or cash flows of 
+Cameron University. 
+ 
+ 
+
+NOTE 2 SIGNIFICANT ACCOUNTING POLICIES 
+
+Expenditures reported on the Schedule are reported on the accrual basis of accounting. 
+Such expenditures are recognized following the cost principles contained in the Uniform 
+Guidance, wherein certain types of expenditures are not allowable or are limited as to 
+reimbursement. The University has elected not to use the 10 percent de minimis indirect 
+cost rate allowed under the Uniform Guidance. 
+ 
+ 
+
+NOTE 3 FEDERAL DIRECT STUDENT LOAN PROGRAM 
+
+Under the Federal Direct Student Loan Program (Direct Loan Program), the U.S. 
+Department of Education makes loans to enable a student or parent to pay the costs of the 
+student’s attendance at a postsecondary school. The Direct Loan Program enables an 
+eligible student or parent to obtain a loan to pay for the student’s cost of attendance directly 
+from the U.S. Department of Education rather than through private lenders. The University 
+began participation in the Direct Loan Program on July 1, 2010. The University administers 
+the origination and disbursement of the loans to eligible students or parents. The University 
+is not responsible for the collection of these loans. 
+ 
+ 
+
+NOTE 4 LOANS OUTSTANDING 
+
+The University had $50,276 in Federal Perkins Loans outstanding at June 30, 2018. 
+ 
+ 
+
+NOTE 5 SUBRECIPIENTS 
+
+During the year ended June 30, 2018, the University did not provide any federal awards to 
+subrecipients. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+(72) 
+
+ 
+Section I – Summary of Auditors’ Results 
+
+ 
+Financial Statements
+
+Type of auditors' report issued: Unmodified
+
+Internal control over financial reporting:
+
+Material weakness(es) identified? yes x no
+
+Significant deficiency(ies) identified that are not
+considered to be material weakness(es)? yes x none reported
+
+Noncompliance material to financial
+statements noted? yes x no
+
+Federal Awards
+
+Internal control over major programs:
+
+Material weakness(es) identified? yes x no
+
+Significant deficiency(ies) identified that are not
+considered to be material weakness(es)? x yes none reported
+
+Type of auditors’ report issued on compliance for
+for major programs? Unmodified
+
+Any audit findings disclosed that are required to be
+reported in accordance with Uniform Guidance x yes no
+
+Identification of Major Programs:
+
+CFDA Number(s)
+SFA Cluster:
+
+84.063 Pell Grant
+84.007 Federal Supplemental Educational Opportunity Grants
+84.268 Federal Direct Student Loans
+84.033 Federal Work Study
+84.379 Teacher Education Assistance for College and Higher Education Grants
+84.038 Federal Perkins Loan Program
+
+* See the Schedule of Expenditures of Federal Awards for identification of CFDA numbers applicable to the major programs.
+
+Dollar threshold used to distinguish
+between type A and type B programs: $750,000/ $187,500
+
+Auditee qualified as low-risk auditee? x yes no
+
+Name of Federal Program or Cluster
+
+ 
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS (CONTINUED) 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+(73) 
+
+ 
+Section II – Financial Statement Findings 
+
+ 
+Current Year 
+None  
+ 
+ 
+
+Section III – Findings and Questioned Costs – Major Federal Programs 
+ 
+2018-001: Inadequate Controls Over Exit Counseling 
+ 
+Federal Agency:  Department of Education 
+Federal Program:  Title: Student Financial Assistance Cluster 
+CFDA Numbers: 84.007 – Federal Supplemental Education Opportunity Grants 
+
+84.033 – Federal Work Study Program 
+84.038 – Federal Perkins Loans 
+84.063 – Federal Pell Grant Program 
+84.268 – Federal Direct Student Loans 
+84.379 – Teacher Education Assistance for College and Higher Education 
+
+Grants 
+ 
+Award Period: July 1, 2017 to June 30, 2018 
+ 
+Type of Finding: Significant Deficiency in Internal Control over Compliance 
+ 
+Criteria or Specific Requirement:  
+The Code of Federal Regulations, 34 CFR 685.304 require entrance counseling be performed before 
+disbursing loan funds to the student for Direct Subsidized Loan, Direct Unsubsidized Loan and Direct 
+PLUS Loan to a graduate or professional student . The regulations also require exit counseling for all 
+students who ceases at least half-time study at the school. 
+ 
+Condition:  
+Exit Counseling—It was noted that the University did not send out exit counseling notifications within 
+the required 30 days of a student ceasing attendance. 
+ 
+Questioned Costs:  
+None 
+ 
+Cause:  
+The College’s processes and controls did not ensure that exit counseling was completed. 
+ 
+
+
+
+CAMERON UNIVERSITY 
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS (CONTINUED) 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+(74) 
+
+ 
+Section III – Findings and Questioned Costs – Major Federal Programs (Continued) 
+
+ 
+Effect:  
+Students are not receiving the proper loan counseling which may contribute to a higher default rate. 
+ 
+Repeat Finding 
+No 
+ 
+Recommendation:  
+We recommend the Institution review its policies and procedures around sending exit counseling 
+information to students to ensure students are receiving proper counseling. 
+ 
+Management Response:  
+The University has corrected its exit counseling process to ensure timely notification of borrower 
+responsibilities to departing students. Each month identified departing students are issued an electronic 
+communication instructing them to complete exit counseling and explaining their rights and 
+responsibilities as a borrower along with support resources. The Office of Financial Assistance and 
+Veteran Affairs reviews student exit counseling activity daily via download from EdConnect. Holds 
+preventing future loan disbursements are placed on student accounts where exit counseling 
+requirements have not been completed after two weeks of the original notification. 
+
+
+
+CAMERON UNIVERSITY 
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS 
+
+YEAR ENDED JUNE 30, 2018 
+ 
+ 
+ 
+
+(75) 
+
+ 
+Section IV – Prior Year Findings 
+
+ 
+2017 – 001 
+ 
+During our testing, we noted that the University used the incorrect withdrawal date for 7 of 40 students 
+tested when calculating the return of funds. We also noted that proper documentation for 1 of 40 
+students was not properly retained. 
+ 
+Status: Issue not repeated in the current year. 
+ 
+
+
+
+ 
+ 
+
+ 
+2800 West Gore Boulevard •Lawton, Oklahoma • (580) 581-2226 • Fax: (580) 581-5560 
+
+3100 West Bois D’Arc Avenue • Duncan, Oklahoma 73533 • 1-877-282-3626 
+
+ 
+
+            BUSINESS AND FINANCE
+
+ 
+Department of Education 
+
+Cameron University respectfully submits the following corrective action plan for the year ended June 30, 
+
+2018.  
+
+Audit period: July 1, 2017 – June 30, 2018 
+
+The findings from the schedule of findings and questioned costs are discussed below. The findings are 
+
+numbered consistently with the numbers assigned in the schedule.  
+
+FINDINGS—FEDERAL AWARD PROGRAMS AUDITS  
+
+DEPARTMENT OF EDUCATION  
+
+2018-001 Inadequate Controls Over Exit Counseling 
+
+Recommendation: We recommend the Institution review its policies and procedures 
+
+around sending exit counseling information to students to ensure students are receiving 
+
+proper counseling. 
+
+Explanation of disagreement with audit finding: There is no disagreement with the audit 
+
+finding. 
+
+Action taken in response to finding:  The University has corrected its exit counseling 
+
+process to ensure timely notification of borrower responsibilities to departing students. 
+
+Each month identified departing students are issued an electronic communication 
+
+instructing them to complete exit counseling and explaining their rights and 
+
+responsibilities as a borrower along with support resources. The Office of Financial 
+
+Assistance and Veteran Affairs reviews student exit counseling activity daily via 
+
+download from EdConnect. Holds preventing future loan disbursements are placed on 
+
+student accounts where exit counseling requirements have not been completed after two 
+
+weeks of the original notification. 
+
+ 
+
+Name(s) of the contact person(s) responsible for corrective action: Jerrett Phillips, Vice 
+
+President for Enrollment Management and Student Success; Gary Garoffolo, Director of 
+
+Financial Assistance 
+
+ 
+
+Planned completion date for corrective action plan: October 2018 
+
+ 
+
+If the Department of Education has questions regarding this plan, please call Ninette Carter at (580) 581-
+
+2226.  
+
+
+	Signed  Financial
+	Corrective Action Plan - Cameron 2018
+
+
+

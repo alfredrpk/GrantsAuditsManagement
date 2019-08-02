@@ -1,0 +1,3350 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+CUSHING SCHOOL DISTRICT NUMBER I-67 
+Payne County, Oklahoma 
+
+ 
+SCHOOL DISTRICT OFFICIALS 
+
+June 30, 2018 
+ 
+ 
+
+BOARD OF EDUCATION 
+ 
+
+ 
+President   Shawn Hubble  
+Vice-President  Dr. Randy Grellner 
+ 
+Member   J.R. Wood 
+Member   Brina Boyle  
+Member   Trudy Evans  
+ 
+
+ 
+CLERK OF BOARD OF EDUCATION 
+
+ 
+Trudy Evans 
+
+ 
+ 
+
+SCHOOL DISTRICT TREASURER 
+ 
+
+Karen Dooley 
+ 
+
+ 
+SUPERINTENDENT OF SCHOOLS 
+
+ 
+Koln Knight 
+
+ 
+ 
+ 
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67 
+Payne County, Oklahoma 
+
+ 
+ 
+ CONTENTS 
+ 
+
+ Page No. 
+School District Officials 
+ 
+Independent Auditor's Report 1-2 
+ 
+Management’s Discussion and Analysis 3-7 
+ 
+Basic Financial Statements: 
+ 
+
+Government-Wide Financial Statements: 
+ 
+ Statement of Net Position – Regulatory Basis 8 
+ 
+ Statement of Activities and Changes in Net Position – Regulatory Basis 9 
+ 
+
+Fund Financial Statements: 
+ 
+
+ Balance Sheet - Governmental Funds - Regulatory Basis 10 
+ 
+
+ Reconciliation of the Governmental Funds Balance Sheet to the 
+   Government-Wide Statement of Net Position – Regulatory Basis 11 
+
+ 
+ Statement of Revenues, Expenditures and Changes in Fund Balances 
+  - Governmental Funds - Regulatory Basis 12 
+
+ 
+ Reconciliation of the Governmental Funds Statement of Revenues, Expenditures and 
+
+ Changes in Fund Balance to the Government-Wide Statement of Activities and  
+ Changes in Net Position – Regulatory Basis 13 
+
+ 
+Statement of Changes in Fiduciary Net Position - Fiduciary Funds - Regulatory Basis 14-15 
+
+ 
+Notes to the Basic Financial Statements 16-29 
+ 
+Supplemental Information: 
+  
+ Statement of Revenues, Expenditures and Changes in Fund Balance -  
+ Budget and Actual - Governmental Funds 30-34 
+ 
+ Notes to Budgetary Information 35 
+ 
+ Combining Balance Sheet - Non-Major Governmental Funds - Regulatory Basis 36 
+ 
+
+Combining Statement of Revenues, Expenditures and Changes in Fund Balances -  
+  Non-Major Governmental Funds - Regulatory Basis 37 
+ 
+
+Schedule of Expenditures of Federal Awards 38-39 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67 
+Payne County, Oklahoma 
+
+ 
+ 
+
+CONTENTS 
+ 
+
+ Page No. 
+ 
+Reports Required by Government Auditing Standards: 
+ 
+ Independent Auditor’s Report on Internal Control over Financial Reporting and on  
+  Compliance and Other Matters Based on an Audit of Financial Statements 
+  Performed in Accordance with Government Auditing Standards    40-41 
+ 
+ Independent Auditor’s Report on Compliance for Each Major Program and on 
+  Internal Control Over Compliance Required by the Uniform Guidance 42-43 
+ 
+ Schedule of Findings and Questioned Costs 44 
+ 
+ Summary Schedule of Prior Audit Findings 45 
+ 
+Other Department of Education Required Information: 
+ 
+ Accountant’s Professional Liability Insurance Affidavit 46 
+ 
+ Audit Acknowledgement  
+ 
+
+
+
+1 
+ 
+
+ 
+  
+
+INDEPENDENT AUDITOR'S REPORT 
+ 
+August 14, 2018 
+ 
+The Honorable Board of Education 
+Cushing School District Number I-67 
+Cushing, Payne County, Oklahoma 
+ 
+Report on the Financial Statements 
+ 
+We have audited the accompanying basic financial statements—regulatory basis of the governmental activities, each major 
+fund, and the aggregate remaining fund information of the Cushing School District Number I-67, Payne County, Oklahoma 
+(District), as of and for the year ended June 30, 2018 and the related notes to the financial statements,  as listed in the table of 
+contents.   
+ 
+Management’s Responsibility for the Financial Statements  
+ 
+Management is responsible for the preparation and fair presentation of these financial statements in accordance with financial 
+reporting provisions of the Oklahoma State Department of Education to meet financial reporting requirements of the State of 
+Oklahoma; this includes determining that the regulatory basis of accounting is an acceptable basis for the preparation of the 
+financial statements in the circumstances.  Management is also responsible for the design, implementation, and maintenance 
+of internal control relevant to the preparation and fair presentation of financial statements that are free from material 
+misstatement, whether due to fraud or error. 
+ 
+Auditor’s Responsibility  
+ 
+Our responsibility is to express an opinion on these financial statements based on our audit.  We conducted our audit in 
+accordance with auditing standards generally accepted in the United States of America and the standards applicable to 
+financial audits contained in Government Auditing Standards, issued by the Comptroller General of the United States.   Those 
+standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements 
+are free from material misstatement. 
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial 
+statements.  The procedures selected depend on the auditor’s judgment, including the assessment of the risks of material 
+misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor 
+considers internal control relevant to the entity’s preparation and fair presentation of the financial statements in order to design 
+audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the 
+effectiveness of the entity’s internal control.  Accordingly, we express no such opinion.  An audit also includes evaluating the 
+appropriateness of accounting policies used and the reasonableness of significant accounting estimates made by 
+management, as well as evaluating the overall presentation of the financial statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions. 
+ 
+Basis for Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+ 
+As discussed in Note 1, the financial statements are prepared by the Cushing School District Number I-67, on the basis of the 
+financial reporting provisions of the Oklahoma State Department of Education, which is a basis of accounting other than 
+accounting principles generally accepted in the United States of America, to comply with the requirements of the Oklahoma 
+State Department of Education.  The effects on the financial statements of the variances between the regulatory basis of 
+accounting described in Note 1 and accounting principles generally accepted in the United States of America, although not 
+reasonably determined, are presumed to be material.  
+
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+P.O. Box 790 
+Cushing, OK 74023 
+918-225-4216  FAX 918-225-4315 
+ 
+
+
+
+2 
+ 
+
+ 
+Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+ 
+In our opinion, because the significance of the matter discussed in the “Basis for Adverse Opinion on U.S. Generally Accepted 
+Accounting Principles” paragraph, the basic financial statements referred to in the first paragraph do not present fairly, in 
+accordance with accounting principles generally accepted in the United States of America, the financial position of the 
+governmental activities, each major fund, and the aggregate remaining fund information of the Cushing School District Number 
+I-67, Payne County, Oklahoma as of June 30, 2018, the changes in its financial position, or, where applicable, its cash flows for 
+the year then ended.  
+ 
+Opinion on Regulatory Basis of Accounting 
+ 
+In our opinion, the basic financial statements referred to in the first paragraph present fairly, in all material respects, the 
+respective financial position—regulatory basis of the governmental activities, each major fund and the aggregate remaining 
+fund information of the Cushing School District Number I-67, Payne County, Oklahoma, as of June 30, 2018, and the 
+respective changes in financial position—regulatory basis for the year then ended on the regulatory basis of accounting 
+described in Note 1. 
+ 
+Other Matters  
+ 
+Other Information 
+ 
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively comprise the District’s 
+basic financial statements.  The combining statements—regulatory basis, are presented for purposes of additional analysis and 
+are not a required part of the basic financial statements.  The schedule of expenditures of federal awards is presented for 
+purposes of additional analysis as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, and is also not a required part of the basic 
+financial statements. Management’s discussion and analysis and budgetary comparison information and notes on pages 3–7 
+and 30–35, are presented for purposes of additional analysis as required by the Oklahoma State Department of Education, and 
+are also not a required part of the basic financial statements.     
+ 
+The combining statements—regulatory basis and the schedule of expenditures of federal awards are the responsibility of 
+management and were derived from and relate directly to the underlying accounting and other records used to prepare the 
+basic financial statements.  Such information has been subjected to the auditing procedures applied in the audit of the basic 
+financial statements and certain additional procedures, including comparing and reconciling such information directly to the 
+underlying accounting and other records used to prepare the basic financial statements or to the basic financial statements 
+themselves, and other additional procedures in accordance with auditing standards generally accepted in the United States of 
+America.  In our opinion, the combining statements—regulatory basis and the schedule of expenditures of federal awards are 
+fairly stated in all material respects, in relation to the basic financial statements as a whole arising from regulatory basis 
+transactions. 
+ 
+Management’s discussion and analysis and budgetary comparison information and notes on pages 3–7 and 30–35, which are 
+the responsibility of management, has not been subjected to the auditing procedures applied in the audit of the basic financial 
+statements, and accordingly, we do not express an opinion or provide any assurance on it. 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated August 14, 2018 on our 
+consideration of the District’s internal control over financial reporting and on our tests of its compliance with certain provisions 
+of laws, regulations, contracts and grant agreements and other matters.  The purpose of that report is to describe the scope of 
+our testing of internal control over financial reporting and compliance and the results of that testing, and not to provide an 
+opinion on the internal control over financial reporting or on compliance.  That report is an integral part of an audit performed in 
+accordance with Government Auditing Standards in considering the District’s internal control over financial reporting and 
+compliance.   
+ 
+
+CBEW Professional Group, LLP 
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+ 
+
+
+
+3 
+
+Cushing Public Schools 
+KOLN KNIGHT, SUPERINTENDENT 
+
+1401 NORTH LITTLE 
+CUSHING, OKLAHOMA 74023 
+
+ 
+ 
+
+MANAGEMENT’S DISCUSSION AND ANALYSIS 
+For the Fiscal Year Ended June 30, 2018 
+
+Unaudited 
+ 
+As management of the Cushing School District Number I-67 (the “District”), we offer readers of the District’s financial 
+statements this narrative overview and analysis of the financial activities of the District for the fiscal year ended June 
+30, 2018.  The intent of this discussion and analysis is to look at the District’s financial performance as a whole; 
+readers should also review the basic financial statements and the notes to the basic financial statements to enhance 
+their understanding of the District’s financial performance. 
+ 
+Financial Highlights 
+ 
+
+The total net position of the District increased $4,260,171 or (11.72%) over the fiscal year. 
+ 
+
+General revenues accounted for $19,835,188 or 94.2% of total governmental activities revenue.  Program specific 
+revenues accounted for $1,218,678 or 5.8% of total governmental activities revenue. 
+
+ 
+Governmental activities capital assets increased by a net of $1,352,206, primarily due to vo-ag classroom 
+improvements, parking lot improvements, softball complex improvements and depreciation. 
+
+ 
+The District had $15,786,140 in expenses related to governmental activities; $1,218,678 of these expenses was 
+offset by program specific charges for services, grants or contributions.  The remaining expenses of the 
+governmental activities were offset by property tax levies, state and county sources, and other miscellaneous 
+sources. 
+
+ 
+Overview of the Financial Statements 
+ 
+This discussion and analysis is intended to serve as an introduction to the District’s basic financial statements. The 
+District’s basic financial statements are comprised of three components: 1) government-wide financial statements, 2) 
+fund financial statements, and 3) notes to the financial statements.  This report also contains other supplementary 
+information. 
+ 
+Government-wide financial statements – The government-wide financial statements are designed to provide 
+readers with a broad overview of the District’s finances, in a manner similar to a private-sector business.   
+ 
+The Statement of Net position presents information on all of the District’s assets and liabilities, with the difference 
+between the two reported as net position.  Over time, increases or decreases in net position may serve as a useful 
+indicator of whether the financial position of the District is improving or deteriorating. 
+ 
+The Statement of Activities presents information showing how the District’s net position changed during the most 
+recent fiscal year.  All changes in net position are reported as soon as the underlying event giving rise to the change 
+occurs, regardless of the timing of the related cash flows.  Thus, revenues and expenses are reported in this 
+statement for some items that will only result in cash flows in future fiscal periods (e.g., uncollected property taxes). 
+ 
+The government-wide financial statements distinguish functions of the District that are principally supported by taxes 
+and intergovernmental revenues from other functions that are intended to recover all or a significant portion of their 
+costs through user fees and charges.  The government-wide financial statements can be found on pages 8–9 of this 
+report. 
+ 
+ 
+
+
+
+4 
+
+ 
+Fund financial statements – A fund is a grouping of related accounts that is used to maintain control over resources 
+that have been segregated for specific activities or objectives.  The District, like other state and local governments, 
+uses fund accounting to ensure and demonstrate compliance with finance-related legal requirements.  All of the funds 
+of the District can be divided into two categories – governmental funds and fiduciary funds. 
+ 
+Governmental Funds – Governmental funds are used to account for essentially the same functions reported as 
+governmental activities in the government-wide financial statements.  However, unlike the government-wide financial 
+statements, governmental fund financial statements focus on current sources and uses of spendable resources, as 
+well as on balances of spendable resources available at the end of the fiscal year.  Such information may be useful in 
+evaluating a government’s near-term financing requirements. 
+ 
+Because the focus of governmental funds is narrower than that of the government-wide financial statements, it is 
+useful to compare the information presented for governmental funds with similar information presented for 
+governmental activities in the government-wide financial statements.  By doing so, readers may better understand the 
+long-term effect of the government’s near-term financing decision.  Both the governmental funds balance sheet and 
+the governmental fund statements of revenues, expenditures, and changes in fund balances provide a reconciliation 
+to facilitate this comparison between governmental funds and governmental activities. 
+ 
+The District maintains six individual governmental funds.  Information is presented separately in the Governmental 
+Fund Balance Sheet and in the Governmental Fund Statement of Revenues, Expenditures, and Changes in Fund 
+Balances for the General, Building, Sinking and Building Bond funds, all of which are considered to be major funds.  
+Data from the other three funds are combined into a single, aggregated presentation.  Individual fund data for each of 
+these non-major governmental funds is provided in the form of combining statements elsewhere in this report. 
+ 
+The District adopts an annual appropriated budget for its General, Special Revenue (Building, CO-OP and Child 
+Nutrition Funds) and Debt Service Funds.  Budgetary comparison schedules have been provided for the major funds 
+to demonstrate compliance with the budget and are presented as required supplemental information. 
+ 
+The basic governmental fund financial statements can be found on pages 10–13 of this report. 
+ 
+Fiduciary Funds – Fiduciary funds are used to account for resources held for the benefit of parties outside the 
+District.  Fiduciary funds are not reflected in the government-wide financial statements because the resources of these 
+funds are not available to support the District’s own programs.   
+ 
+The District uses an agency fund to account for resources held for student activities and groups.  The basic fiduciary 
+fund financial statement can be found on pages 14-15 of this report. 
+ 
+Notes to the Financial Statements – The notes provide additional information that is essential to a full 
+understanding of the data provided in the government-wide and fund financial statements.  The notes to the financial 
+statements can be found on page 16–29 of this report.   
+ 
+Other Information  
+ 
+In addition to the basic financial statements and accompanying notes, this report also presents certain information 
+required by the Oklahoma State Department of Education concerning the District’s budgetary comparisons and notes.  
+Required supplementary information can be found on pages 30–35 of this report. 
+ 
+The combining statements referred to earlier in connection with non-major governmental funds are presented on 
+pages 36-37 of this report. 
+ 
+Governmental-wide Financial Analysis 
+ 
+As noted earlier, net position may serve over time as a useful indicator of a government’s financial position.  In the 
+case of the District, assets (excluding accumulated depreciation) exceed liabilities by $40,602,767 as of June 30, 
+2018. 
+ 
+ 
+ 
+
+
+
+5 
+
+The largest portion of the District’s net position (71.8%) reflects its investments in capital assets (e.g., land, buildings 
+and improvements, furniture, fixtures and equipment, and vehicles), less any debt used to acquire those assets that is 
+still outstanding.  The District uses these capital assets to provide service to students; consequently these assets are 
+not available for future spending.  Although the District’s investment in its capital assets is reported net of related debt, 
+it should be noted that the resources needed to repay this debt must be provided from other sources, since the capital 
+assets cannot be used to liquidate these liabilities. 
+ 
+District’s Net position 
+ 
+
+6/30/18 6/30/17
+Current and other assets $ 13,781,722      $ 10,659,308      
+Capital assets 57,302,019      55,949,813      
+
+Total assets 71,083,741      66,609,121      
+
+Long-term liabilities 28,140,000      28,140,000      
+Other liabilities 2,340,974        2,126,525        
+
+Total liabilities 30,480,974      30,266,525      
+
+Net position:
+Invested in capital assets, net of related debt 29,162,019      27,809,813      
+Restricted 9,682,349        6,773,274        
+Unrestricted 1,758,399        1,759,509        
+
+Total net position $ 40,602,767      $ 36,342,596      
+
+Governmental Activities
+
+ 
+ 
+An additional portion of the District’s net position (23.8%) represents resources that are subject to external restriction 
+on how they may be used.  The remaining balance of unrestricted net position $1,758,399 may be used to meet the 
+government’s ongoing obligation to citizens and creditors. 
+ 
+As of June 30, 2018, the District is able to report positive balances in all three categories of net position for the 
+government as a whole. 
+ 
+Analysis of the District’s Operations – The following table provides a summary of the District’s operations for the 
+year ended June 30, 2018 with comparative totals for the year ended June 30, 2017.  Governmental activities 
+increased the District’s total net position by $4,260,171.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+6 
+
+District’s Changes in Net position 
+ 
+
+6/30/18 6/30/17
+Revenues:
+Program revenues
+
+Charges for services $ 257,735           $ 295,232           
+Operating grants and contributions 960,943           1,010,865        
+
+General revenues:
+Property taxes 16,146,196      15,816,060      
+State and county aid not restricted to
+
+specific programs 3,492,349        3,564,373        
+Earnings on investments 93,306             16,330             
+Rental activities 70,742             51,891             
+Donations -                   325,000           
+Miscellaneous 31,921             138,033           
+Special items:
+
+Adjustment to prior year encumbrances 674                  644                  
+Total revenues 21,053,866      21,218,428      
+
+Expenses:
+Instructional services 8,459,814        8,146,119        
+Support services 6,105,993        5,801,617        
+Non-instructional services 256,504           300,111           
+Repayments 16,677             19,012             
+Food service 851,842           871,165           
+Interest and fiscal agent charges 95,310             1,308,485        
+Unallocated depreciation 1,007,555        1,090,309        
+
+Total expenses 16,793,695      17,536,818      
+Increase in net position 4,260,171        3,681,610        
+Net position - beginning of year 36,342,596      32,660,986      
+Net position - end of year $ 40,602,767      $ 36,342,596      
+
+Governmental Activities
+
+ 
+Financial Analysis of the Governments Funds 
+ 
+Governmental funds – The focus of the District’s governmental funds is to provide information on near-term inflows, 
+outflows, and balances of spendable resources.  Such information is useful in assessing the District’s financing 
+requirements.  In particular, unreserved fund balance may serve as a useful measure of a government’s net resources 
+available for spending at the end of the fiscal year. 
+ 
+At the end of the current fiscal year, the District’s governmental funds reported combined ending fund balances of 
+$40,602,767.  Approximately 76% of the total amount ($30,920,418) constitutes unreserved fund balance.  The 
+remainder of the fund balance is reserved to indicate that is not available for new spending because it has already 
+been committed 1) to pay for debt service ($342,294), 2) to pay for OTAC ($83,035), 3) to pay for Building 
+($1,689,251), 4) to pay for child nutrition ($177,719) and 5) to pay for capital projects ($7,390,050). 
+ 
+Capital Assets 
+ 
+The District’s investment in capital assets for its governmental activities as of June 30, 2018, amounts to $88,300,624 
+(excluding accumulated depreciation).  This investment in capital assets includes land, building and improvements, 
+furniture, fixtures and equipment, and vehicles. 
+ 
+Major capital asset events during the current fiscal year included the following: 
+ 
+
+The vo-ag building, parking lot and softball complex. 
+ 
+
+
+
+7 
+
+ 
+Capital Assets at Year-end Excluding Accumulated Depreciation 
+ 
+
+6/30/18 6/30/17
+Land $ 1,054,550        $ 1,054,550        
+Work in process -                   45,791             
+Buildings and improvements 76,036,648      74,615,547      
+Furniture, fixtures and equipment 7,735,636        7,735,636        
+Vehicles 3,473,790        2,489,339        
+
+Total $ 88,300,624      $ 85,940,863      
+
+Governmental Activities
+
+ 
+Additional information on the District’s capital assets can be found in note 2 on page 25 of this report. 
+ 
+Debt Administration 
+ 
+At the end of the current fiscal year, the District had a total of general obligation bonds payable of $8,470,000, which 
+are backed by the future revenues of the Debt Service Fund and a lease payable of $19,670,000, which is backed by 
+future revenues from general obligation bond issues. 
+ 
+Outstanding Debt at Year-end – General Obligation Bonds and Lease Payable 
+ 
+
+ 
+
+6/30/18 6/30/17
+General obligations $ 8,470,000        $ 8,470,000        
+Leases payable 19,670,000      19,670,000      
+Total $ 28,140,000      $ 28,140,000      
+
+Governmental Activities
+
+ 
+Additional information on the District’s long-term debt can be found in footnote 2 on pages 25–26 of this report. 
+ 
+Economic Factors and Next Year’s Budgets and Rates 
+ 
+In the 2018-19 Budget, General fund revenues are budgeted to increase from the 2017-18 Budget.  General property 
+taxes as certified assessed valuations have increased over this year.  The state sources of revenue make up 20% of 
+General fund revenues.  This revenue source is the most volatile and subject to decline if the State of Oklahoma is 
+unable to supplement its income.   
+ 
+As a result of the potential impact in revenue, the District has made a concerted effort to limit appropriations to only 
+those items truly necessary.   
+ 
+Request for Information 
+ 
+The financial report is designed to provide a general overview of the District’s finances for all those with an interest in 
+the government’s finances.  If you have questions about this report or need any additional information, contact Koln 
+Knight, Superintendent, 1401 North Little, Cushing, OK 74023, or call 918-225-3425.  
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF NET POSITION - REGULATORY BASIS
+June 30, 2018
+
+The accompanying notes are an integral part of the basic financial statements.
+8
+
+Assets:
+Cash and investments $ 13,781,722          
+Capital Assets:
+
+Land 1,054,550            
+Work in process -                       
+Depreciable buildings, property and equipment
+
+net of depreciation 56,247,469          
+
+Total assets 71,083,741          
+
+Liabilities:
+Warrants payable 2,340,974            
+Encumbrances -                       
+Leases payable currently 5,960,000            
+General obligation bonds payable currently 250,000               
+Long-term liabilities:
+
+Leases payable 13,710,000          
+General obligations bonds payable 8,220,000            
+
+Total liabilities 30,480,974          
+
+Net Position:
+Net Investment in capital assets 29,162,019          
+Restricted 9,682,349            
+Unrestricted 1,758,399            
+
+Total net position $ 40,602,767          
+
+Governmental
+Activities
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF ACTIVITIES AND CHANGES IN NET POSITION - REGULATORY BASIS
+For the Fiscal Year Ended June 30, 2018
+
+The accompanying notes are an integral part of the basic financial statements.
+9
+
+Net (Expense)
+Revenue and Changes
+
+in Net Position
+Operating Total
+
+Charges for Grants and Governmental
+Functions/Programs Expenses Services Contributions Activities
+
+Governmental activities:
+Instruction $ 8,459,814    $ 4,960           $ 310,930       $ (8,143,924)                   
+Support services 6,105,993    44,973         -               (6,061,020)                   
+Non-instructional services 256,504       -               -               (256,504)                      
+Other outlays 16,677         -               -               (16,677)                        
+Food Service 851,842       207,802       650,013       5,973                           
+Interest and fiscal agent charges 95,310         -               -               (95,310)                        
+Unallocated depreciation* 1,007,555    -               -               (1,007,555)                   
+
+Total school district $ 16,793,695  $ 257,735       $ 960,943       (15,575,017)                 
+
+General revenues:
+Property taxes, levied for general purposes 12,380,117                  
+Property taxes, levied for debt service 3,766,079                    
+State aid 2,847,654                    
+County sources not restricted to specific programs 644,695                       
+Earnings on investments 93,306                         
+Rental activities 70,742                         
+Miscellaneous 31,921                         
+Donations -                               
+Special items:
+
+Estoppell of warrants 674                              
+Total general revenues and transfers 19,835,188                  
+
+Change in net position 4,260,171                    
+
+Net position - beginning of year 36,342,596                  
+
+Net position - end of year $ 40,602,767                  
+
+*- This amount does not include the depreciation that is included in the direct expenses of various programs.
+
+Program Revenues
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+
+REGULATORY BASIS
+June 30, 2018
+
+The accompanying notes are an integral part of the basic financial statements. 
+10
+
+Special Capital
+Revenue Projects Other Total
+
+General Debt Governmental Governmental
+Fund Building General Service Funds Funds
+
+Assets:
+Cash and investments $ 3,858,773        $ 1,818,405        $ 7,470,000        $ 342,294           $ 292,250           $ 13,781,722      
+
+Total assets $ 3,858,773        $ 1,818,405        $ 7,470,000        342,294           $ 292,250           $ 13,781,722      
+
+Liabilities:
+Warrants payable $ 2,100,374        $ 129,154           $ 79,950             $ -                   $ 31,496             $ 2,340,974        
+Encumbrances -                   -                   -                   -                   -                   -                   
+
+Total liabilities 2,100,374        129,154           79,950             -                   31,496             2,340,974        
+
+Fund balances:
+Restricted for:  
+
+Debt service -                   -                   -                   342,294           -                   342,294           
+CO-OP -                   -                   -                   -                   83,035             83,035             
+Building -                   1,689,251        -                   -                   -                   1,689,251        
+Child nutrition -                   -                   -                   -                   177,719           177,719           
+Capital projects -                   -                   7,390,050        -                   -                   7,390,050        
+
+Unassigned 1,758,399        -                   -                   -                   -                   1,758,399        
+
+Total fund balances 1,758,399        1,689,251        7,390,050        342,294           260,754           11,440,748      
+
+Total liabilities
+and fund balances $ 3,858,773        $ 1,818,405        $ 7,470,000        $ 342,294           $ 292,250           $ 13,781,722      
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+RECONCILIATION OF THE GOVERNMENTAL FUNDS BALANCE SHEET TO THE GOVERNMENT-WIDE 
+STATEMENT OF NET POSITION - REGULATORY BASIS
+
+June 30, 2018
+
+The accompanying notes are an integral part of the basic financial statements.
+11
+
+Total Fund Balances - Total Governmental Funds $ 11,440,748   
+
+Amounts reported for governmental activities in the statement of net
+position are different because:
+
+Capital assets used in governmental activities are not financial resources
+and, therefore, are not reported in the funds.  These consist of:
+
+Land 1,054,550     
+Work in process -                
+Depreciable buildings, property and equipment
+
+net of depreciation 56,247,469   
+57,302,019   
+
+Long-term liabilities are not due and payable in the current period
+and, therefore, are not reported in the funds. (28,140,000)  
+
+Net position of governmental activities $ 40,602,767   
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+GOVERNMENTAL FUNDS
+
+REGULATORY BASIS
+For the Fiscal Year Ended June 30, 2018
+
+The accompanying notes are an integral part of the basic financial statements.
+12
+
+Special Capital
+Revenue Projects Other Total
+
+General Debt Governmental Governmental
+Fund Building General Service Funds Funds
+
+Revenues:
+Local sources $ 11,044,817       $ 1,545,817         $ 7,470,000         $ 3,767,573         $ 241,691           $ 24,069,898       
+Intermediate sources 644,695           -                   -                   -                   -                   644,695           
+State sources 2,847,619         10                    -                   25                    8,015               2,855,669         
+Federal sources 310,930           -                   -                   -                   641,998           952,928           
+Other sources -                   -                   -                   -                   -                   -                   
+
+Total revenues 14,848,061       1,545,827         7,470,000         3,767,598         891,704           28,523,190       
+
+Expenditures:
+Instruction 8,459,814         -                   -                   -                   -                   8,459,814         
+Support services 5,962,060         48,433             95,500             -                   -                   6,105,993         
+Non-instructional services 14,886             -                   -                   -                   1,093,460         1,108,346         
+Capital outlay 412,626           962,684           984,450           -                   -                   2,359,760         
+Other outlays 33                    -                   -                   -                   16,644             16,677             
+Repayments -                   -                   -                   -                   -                   -                   
+Debt service:
+
+Principal retirement -                   -                   -                   7,470,000         -                   7,470,000         
+Interest & fiscal agent charges -                   -                   -                   95,310             -                   95,310             
+
+Total expenditures 14,849,419       1,011,117         1,079,950         7,565,310         1,110,104         25,615,900       
+
+Excess of revenues over (under) 
+expenditures (1,358)              534,710           6,390,050         (3,797,712)       (218,400)          2,907,290         
+
+Adjustments to prior year 
+encumbrances 247                  -                   -                   -                   427                  674                  
+
+Net changes in fund balance (1,111)              534,710           6,390,050         (3,797,712)       (217,973)          2,907,964         
+
+Fund balance - beginning of year 1,759,510 1,154,541         1,000,000         4,140,006         478,727           8,532,784         
+
+Fund balance - end of year $ 1,758,399         $ 1,689,251         $ 7,390,050         $ 342,294           $ 260,754 $ 11,440,748
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+RECONCILIATION OF THE GOVERNMENTAL FUNDS STATEMENTS OF REVENUES, EXPENDITURES AND 
+CHANGES IN FUND BALANCE TO THE GOVERNMENT-WIDE STATEMENT OF ACTIVITIES AND CHANGES
+
+The accompanying notes are an integral part of the basic financial statements.
+13
+
+Net Change in Fund Balances - Total Governmental Funds $ 2,907,964      
+
+Amounts reported in governmental activities in the statement of activities are different because:
+
+Governmental funds report capital outlays as expenditures.  However, in the statement of  
+activities the cost of those assets have not been reflected.  This is the amount of capital
+outlays during the current period. 2,359,760      
+
+Depreciation expense on capital assets is reported in the Government-Wide Statement of
+Activities and Changes in Net Position, but they do not require the use of current financial
+resources.  Therefore, depreciation expense is not reported as expenditures in 
+Governmental Funds. (1,007,555)    
+
+Bond proceeds are reported as income in governmental funds, the receipt of bond proceeds
+increase long-term liabilities in the statement of net assets.  This is the amount of bond
+proceeds received during the current period. (7,470,000)    
+
+Repayment of long-term obligations is reported as an expenditure in governmental funds,
+the repayment reduces long-term liabilities in the statement of net position.  This is the
+amount of repayments during the current period. 7,470,000      
+
+Change in net position of governmental activities $ 4,260,169      
+
+For the Fiscal Year Ended June 30, 2018
+IN NET POSITION - REGULATORY BASIS
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF CHANGES IN FIDUCIARY NET POSITION
+AGENCY FUND
+
+REGULATORY BASIS
+June 30, 2017
+
+The accompnaying notes are an integral part of the basic financial statements.
+14
+
+Balance Balance
+July 1, June 30,
+2017 Additions Deletions Adjustments 2018
+
+Assets:
+Cash:
+
+High school $ 161,875       $ 417,736       $ 414,280       $ (21,213)        $ 144,118       
+Middle school 83,316         80,357         79,395         2,349           86,627         
+Central office 81,738         92,948         99,464         1,056           76,278         
+
+Total Assets $ 326,929       $ 591,041       $ 593,139       $ (17,808)        $ 307,023       
+
+Liabilities:
+Due to student groups:
+
+High school:
+Administration $ 27,319         $ 3,755           $ 6,748           $ 1,430           $ 25,756         
+Art 9                  4,780           4,703           (45)               41                
+Athletics 31,536         92,183         97,814         1,580           27,485         
+Band 3,382           26,589         31,655         2,840           1,156           
+FFA 12,255         96,871         98,091         199              11,234         
+FCCLA 327              2,600           2,611           -               316              
+Dance Team 1,904           13,908         14,963         (288)             561              
+Cheerleading 858              13,131         12,632         -               1,357           
+Spanish Club 47                356              357              12                58                
+Flowers 1,528           500              750              250              1,528           
+Media Center 378              557              630              -               305              
+Girls Basketball 6,126           6,927           8,241           -               4,812           
+All Sports 38,500         42,838         58,166         1,988           25,160         
+Drama 677              2,582           2,031           (265)             963              
+Student Council 3,208           24,452         22,937         410              5,133           
+Boys Basketball 3,233           5,450           7,892           225              1,016           
+Yearbook 19,376         16,385         14,346         73                21,488         
+Vocal Music 24                4,045           4,052           -               17                
+Academic Team 221              143              136              -               228              
+9th Cheerleaders 44                -               -               -               44                
+Math/Science/Physics 2,345           3,018           2,823           -               2,540           
+FCA 1,038           -               -               -               1,038           
+NHS/GT 1,007           5,391           5,183           156              1,371           
+Reese-MMR 104              -               -               -               104              
+Quarterback Club 681              -               -               -               681              
+Soccer 52                43,107         8,726           (30,533)        3,900           
+BPA 533              1,112           1,098           -               547              
+Key Club 173              6,852           6,997           755              783              
+Cross Country 4,990           204              698              -               4,496           
+
+School Activity Funds
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF CHANGES IN FIDUCIARY NET POSITION
+AGENCY FUND
+
+REGULATORY BASIS
+June 30, 2017
+
+The accompnaying notes are an integral part of the basic financial statements.
+15
+
+Balance Balance
+July 1, June 30,
+2017 Additions Deletions Adjustments 2018
+
+(Continued):
+Middle school:
+
+Administration 18,370         16,769         17,721         1,329           18,747         
+Tiny Tigers 591              7,868           3,173           -               5,286           
+Home-Ec -               -               -               -               -               
+Athletics 42,114         35,000         39,836         1,080           38,358         
+Student Council 10,986         7,032           5,106           -               12,912         
+Yearbook 8,200           3,760           3,850           -               8,110           
+Library 748              275              92                -               931              
+Art 398              849              991              -               256              
+Title I -               -               -               -               -               
+Tech-Ed -               -               -               -               -               
+Student Store 1,636           3,088           2,795           -               1,929           
+Communications -               -               -               -               -               
+Chorus 273              5,716           5,831           (60)               98                
+
+Central office: -               
+Clearing -               10,746         10,746         -               -               
+Community Education -               -               -               -               -               
+Demonstration Center 2,440           -               2,440           -               -               
+Office Fund 2,420           816              1,824           787              2,199           
+Deep Rock -               -               -               -               -               
+Lower Elementary 16,626         15,141         16,210         223              15,780         
+Harrison -               -               -               -               -               
+Upper Elementary 30,048         32,935         37,946         (113)             24,924         
+Pre-K 20,044         17,116         18,200         60                19,020         
+Banquet 2,093           -               -               -               2,093           
+Special Education 80                340              337              -               83                
+Wilson Child Enrichment 7,987           9,681           11,051         99                6,716           
+Technology -               6,173           710              -               5,463           
+
+Total Liabilities $ 326,929       $ 591,041       $ 593,139       $ (17,808)        $ 307,023       
+
+School Activity Funds
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 16 
+
+ 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+
+The basic financial statements of the Cushing School District Number I-67 (the “District”) have been prepared in 
+conformity with accounting principles generally accepted in the United States of America (GAAP) as applied to local 
+government units.  The Governmental Accounting Standards Board (GASB) is the accepted standard-setting body for 
+establishing governmental accounting and financial reporting principles.  The more significant accounting policies of 
+the District are described below. 
+ 
+A. Reporting Entity 
+
+ 
+The District is a corporate body for public purposes created under Title 70 of the Oklahoma Statutes and 
+accordingly is a separate entity for operating and financial reporting purposes.  The District is part of the public 
+school system of Oklahoma under the general direction and control of the State Board of Education and is 
+financially dependent on state of Oklahoma support.  The general operating authority for the public school system 
+is the Oklahoma School Code contained in Title 70, Oklahoma Statutes.  
+
+ 
+The governing body of the District is the Board of Education (Board) composed of five elected members.  The 
+appointed superintendent is the executive officer of the District.  The Board, constituting an on-going entity, is the 
+level of government, which has governance responsibilities over all activities, related to public elementary and 
+secondary school education within the jurisdiction of the Local Independent School District.  The Board receives 
+funding from local, state and federal government sources and must comply with the requirements of these funding 
+source entities.  However, the Board is not included in any other governmental "reporting entity" as defined in 
+Section 2100, Codification of Governmental Accounting and Financial Reporting Standards, since Board members 
+are elected by the public and have decision making authority, the power to designate management, the 
+responsibility to significantly influence operations and primary accountability for fiscal matters. 
+
+ 
+These financial statements present only the activities of the District.  The Cushing Public School Foundation is not 
+included in the reporting entity since the District does not appoint any of the board members or exercise any 
+oversight authority over the Foundation.  The Foundation is an independently operated non-profit organization that 
+was developed to assist teachers in improving the quality of education and to provide scholarships.  The 
+Foundation exists outside the operational boundaries of the school system.  There are no component units 
+(entities considered to be financially accountable to the District). 
+
+ 
+B. Measurement Focus, Basis of Accounting and Basis of Presentation – Fund Accounting 
+
+ 
+The District prepares its financial statements in a presentation format that is, in substance, the format established 
+by GASB Statement No. 34, Basic Financial Statements-Management’s Discussion and Analysis for State and 
+Local Governments.   
+ 
+As to basis of accounting, the basic financial statements are essentially prepared on a basis of cash receipts and 
+disbursements modified as required by the regulations of the Oklahoma State Department of Education as follows: 
+ 
+
+• Encumbrances represented by purchase orders, contracts, and other commitments for the expenditure of 
+monies are recorded as expenditures when approved. 
+
+• Investments are recorded as assets when purchased. 
+• Inventories of school supplies are recorded as expenditures and not as assets. 
+• Warrants payable are recorded as liabilities when issued. 
+• Long-term debt is recorded when incurred. 
+• Compensated absences are recorded as an expenditure and liability when the obligation is paid. 
+• Capital assets are recorded when acquired and depreciated over their useful lives.  
+
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 17 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+B. Measurement Focus, Basis of Accounting and Basis of Presentation – Fund Accounting (Continued) 
+ 
+
+This regulatory basis of accounting differs from accounting principles generally accepted in the United States of 
+America, which require revenues to be recognized when they become available and measurable, or when they are 
+earned, and expenditures or expenses to be recognized when the related liabilities are incurred for governmental 
+fund types; and, when revenues are earned.   
+ 
+The Fund financial statements conform to the regulatory (statutory) basis of accounting, which is another 
+comprehensive basis of accounting other than generally accepted accounting principles.  The accounting policies 
+are prescribed by the Oklahoma Department of Education and conform to the system of accounting authorized by 
+the State of Oklahoma. 
+
+ 
+The District’s basic financial statements consist of government-wide statements, including a statement of net 
+position and a statement of activities, and fund financial statements, which provide a more detailed level of 
+financial information.  Basis of accounting determines when transactions are recorded in the financial records and 
+reported on the financial statements.  Government-wide financial statements are prepared using the accrual basis 
+of accounting.   
+  
+Government-wide Financial Statements – The statement of net position and the statement of activities display 
+information about the District as a whole.  These statements include the financial activities of the primary 
+government, except fiduciary funds.   
+ 
+The statement of net position presents the financial condition of the District activities at year-end.  The statement 
+of activities presents demonstrates the degree to which the direct expenses of a given program are offset by 
+program revenues.  Direct expenses are those that are clearly identifiable with a specific program.  Program 
+revenues include 1) charges to students or applicants who purchase, use, or directly benefit from goods, services, 
+or privileges provided by a given function and 2) grants and contributions that are restricted to meeting the 
+operational or capital requirements of a particular function.   
+ 
+Taxes, interest and other items not properly included among program revenues are reported instead as general 
+revenues. 
+ 
+Fund Financial Statements – During the year, the District segregates transactions related to certain District 
+functions or activities in separate funds in order to aid financial management and to demonstrate legal compliance. 
+Fund financial statements are designed to present financial information of the District at this more detailed level.  
+The focus of governmental and enterprise fund financial statements is on major funds.  Each major fund is 
+presented in a separate column.  Non-major funds are aggregated and presented in a single column.  Fiduciary 
+funds are reported by type.    
+ 
+
+ Fund Accounting – The accounts of the District are organized and operated on the basis of funds.  A fund is an 
+independent fiscal accounting entity with a self-balancing set of accounts.  Fund accounting segregates funds 
+according to their intended purpose and is used to aid management in demonstrating compliance with finance-
+related legal and contractual provisions.  The minimum number of funds is maintained consistent with legal and 
+managerial requirements.  There are two categories of funds: governmental and fiduciary.   
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 18 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+B. Measurement Focus, Basis of Accounting and Basis of Presentation – Fund Accounting (Continued) 
+ 
+
+Governmental Funds – are used to account for the District’s general activities including the collection and 
+disbursement of earmarked monies (special revenue funds), the acquisition or construction of general fixed assets 
+(capital projects funds), and the servicing of general long-term debt (debt service funds).  Governmental fund types 
+use the Regulatory (Statutory) basis of accounting, which is primarily cash receipts and disbursements with certain 
+modifications as required by the regulations of the Oklahoma State Department of Education.  If the District utilized 
+the basis of accounting recognized as generally accepted, the governmental funds would use the modified accrual 
+basis of accounting based on the flow of current financial resources measurement focus recognizing revenues 
+when susceptible to accrual (i.e., when they become measurable and available, normally considered available if 
+collected within 60 days of the end of the current fiscal period).  As a result, Ad valorem taxes on real and personal 
+property associated with the current fiscal period and all other revenue items are recorded as revenues when 
+collected rather than when "measurable" and "available."  Entitlements, grants and shared revenues are recorded 
+at the time of receipt.   Expenditures are generally recognized when encumbered or reserved rather than at the 
+time the related liability is incurred.  Unmatured interest for debt service is recognized when due and certain 
+compensated absences and claims and judgments which are recognized when the obligations are expected to be 
+liquidated with expendable available financial resources.  Fiduciary type funds are accounted for using the cash 
+basis of accounting.  These practices differ from accounting principles generally accepted in the United States of 
+America. 
+ 
+The following are the District’s major governmental funds: 
+
+ 
+General fund – is the main operating fund of the District.  It accounts for all financial resources of the general 
+government, except those required to be accounted for in another fund.  This is a budgeted fund, and any fund 
+balances are considered as resources available for use.  Major revenue sources include local property taxes 
+and federal and state funding.  Expenditures include all costs associated with the daily operations of the 
+schools except for programs funded for building repairs and maintenance, school construction, and debt 
+service on bonds and other long-term debt.  The General Fund also accounts for federal and state financed 
+programs where restricted monies must be expended for specific programs.  Project accounting is employed 
+to maintain integrity for the various sources of these funds. 
+
+  
+Capital Projects fund – consists of the District’s Bond Fund and accounts for the proceeds of bond sales used 
+exclusively for acquiring school sites, constructing and equipping new school facilities, renovating existing 
+facilities, acquisition of technical equipment and the acquisition of transportation equipment. 
+
+ 
+Debt Service fund – consists of the District’s Sinking Fund and accounts for the accumulation of financial 
+resources for servicing of general long-term debt (principal, interest and related costs).  This is a budgeted 
+fund.  The primary revenue sources are local property taxes levied specifically for debt service. 
+ 
+Building Fund – is a special revenue fund which consists mainly of monies derived from property taxes levied 
+for the purpose of erecting, remodeling, repairing, or maintaining school buildings and for purchasing furniture, 
+equipment and computer software to be used on or for school district property, for paying energy and utility 
+costs, for purchasing telecommunications services, for paying fire and casualty insurance premiums for school 
+facilities, for purchasing security systems, and for paying salaries of security personnel. 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 19 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+B. Measurement Focus, Basis of Accounting and Basis of Presentation – Fund Accounting (Continued) 
+ 
+
+Other governmental funds of the District that are considered non-major funds include:   
+ 
+
+Special Revenue funds – account for revenue sources that are restricted to expenditures for specific purposes 
+(not including expendable trusts or major capital projects). The special revenue funds are composed of the 
+District’s Building Fund, Child Nutrition Fund and CO-OP Fund.  These are budgeted funds and any fund 
+balances are considered as resources available for use. 
+ 
+
+Child Nutrition Fund – consists of monies derived from federal and state financial assistance and food 
+sales.  This fund is used to account for the operations of the school cafeteria. 
+
+ 
+CO-OP Fund – is a special revenue fund which is called the Oklahoma Technical Assistance Center.  It 
+accounts for revenue sources that are restricted to expenditures for specific purposes.  These are 
+budgeted funds and any fund balances are considered as resources available for use. 
+
+ 
+Fiduciary Funds – account for assets held by the District in a trustee capacity or as an agent on behalf of others.   
+
+ 
+Agency fund – is custodial in nature and do not present results of operations or have a measurement focus. 
+Agency funds are accounted for using the cash basis of accounting.  This fund is the School Activities Fund 
+used to account for monies collected principally through fundraising efforts of the students and District-
+sponsored groups.  This is an unbudgeted fund.  The administration is responsible, under the authority of the 
+Board, of collecting, disbursing and accounting for these activity funds.  These funds have no equity, assets 
+are equal to liabilities, and do not include revenues and expenditures for general operation of the District.    
+
+ 
+C. Assets, Liabilities, Fund Balance, Revenue and Expenditures 
+
+ 
+ 1. Deposits and Investments  
+
+ 
+State statutes govern the District’s investment policy.  Permissible investments include direct obligations of the 
+United States Government and Agencies; certificates of deposit of savings and loan associations, and bank 
+and trust companies; and savings accounts or savings certificates of savings and loan associations, and trust 
+companies.  Collateral is required for demand deposits and certificates of deposit for all amounts not covered 
+by federal deposit insurance.  Investments are stated at cost.  The School District invests entirely in 
+certificates of deposit, U.S. Treasury Securities, and participates in the Secured Investment Program of 
+Oklahoma State School Boards Association, as authorized by Oklahoma Statutes Title 62, Section 348. 
+
+ 
+2. Fair Value of Financial Instruments 
+
+ 
+The District’s financial instruments include cash and investments. The District’s estimates of the fair value of 
+all financial instruments does not differ materially from the aggregate carrying values of its financial 
+instruments recorded in the accompanying statement of net assets and fund balance sheets. The carrying 
+amount of these financial instruments approximates fair value because of the short maturity of these 
+instruments. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 20 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+
+ 
+3. Estimates 
+
+ 
+  The preparation of financial statements in conformity with generally accepted accounting principles requires 
+
+management to make estimates and assumptions that affect certain reported amounts and disclosures. 
+Accordingly, actual results could differ from those estimates. 
+
+ 
+4. Interfund Transactions 
+
+ 
+Interfund transactions are accounted for as revenues, expenditures or expenses.  Transactions that constitute 
+reimbursements to a fund or expenditures/expenses initially made from it that are properly applicable to 
+another fund are recorded as expenditures/expenses in the fund that is reimbursed.  Non-recurring or non-
+routine permanent transfers of equity are reported as residual equity transfers. 
+ 
+
+5. Inventories  
+ 
+
+Inventories consist of minimal amounts of expendable supplies held for consumption.  The value of 
+consumable inventories at year-end is not material to the District’s financial statements.  The costs of 
+inventories are recorded as expenditures when encumbered and purchased rather than when consumed. 
+
+ 
+6. Capital Assets  
+
+ 
+Capital assets, which include land, buildings and improvements, furniture, fixtures and equipment, and 
+vehicles, are reported in the government-wide financial statements.  The District defines capital assets as 
+assets with an initial, individual cost of more than $2,500 and an estimated useful life in excess of two years.  
+Such assets are recorded at historical cost or estimated historical cost if purchased or constructed.  Donated 
+capital assets are recorded at estimated acquisition value at the date of donation.     
+ 
+The cost of normal maintenance and repairs that do not add value of the asset or materially extend assets 
+lives are not capitalized.   
+ 
+Major outlays for capital assets and improvements are capitalized as projects are constructed.  Interest 
+incurred during construction is not capitalized.   
+ 
+All reported capital assets are depreciated except for land.  Improvements are depreciated over the remaining 
+useful lives of the related capital assets.  Depreciation is computed using the straight-line method over the 
+following estimated useful lives:  
+
+ 
+
+   
+
+Assets Years
+Buildings and improvements 40 - 100
+Furniture, Fixtures and Equipment 10 - 100
+Vehicles 5 - 40
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 21 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+ 
+
+7. Compensated Absences 
+ 
+
+The District provides vacation and sick leave benefits in accordance with Title 70 of the Oklahoma Statutes, 
+Article 6-104, which provides for annual sick leave and personal business days.  District policy allows certified 
+employees to accumulate such days to a maximum number of days.  None of the benefits are payable upon 
+retirement or death.  Accrued vacation and sick leave benefits are not reflected in the financial statements 
+because such statements are prepared on the regulatory basis of accounting. This practice differs from 
+generally accepted accounting principles.  
+
+ 
+8. Long-term Obligations 
+
+ 
+In the government-wide financial statements, long-term debt and long-term lease obligations are reported as 
+liabilities in the applicable statement of net position.    
+
+ 
+9. Net Position 
+
+ 
+In the government-wide financial statement, net position represents the difference between assets and 
+liabilities. Net investment in capital assets, consists of capital assets, net of accumulated depreciation, 
+reduced by the outstanding balances of any borrowing used for the acquisition, construction, or improvement 
+of those assets.  Net position is reported as restricted when limitations on their use change the nature or 
+normal understanding of the availability of the asset.  Such constraints are either externally imposed by 
+creditors, contributors, grantors, laws or other governments, or are imposed by law through constitutional 
+provisions or enabling legislation.   
+
+ 
+In the fund financial statements, governmental funds report the hierarchy of fund balances.  The hierarchy is 
+based primarily on the degree of spending constraints placed upon use of resources for specific purposes 
+versus availability of appropriation.  An important distinction that is made in reporting fund balance is between 
+amounts that are considered nonspendable (i.e., fund balance associated with assets that are not in 
+spendable form, such as inventories or prepaid items, long-term portions of loans and notes receivable, or 
+items that are legally required to be maintained intact (such as the corpus of a permanent fund)) and those 
+that are spendable (such as fund balance associated with cash, investments or receivables).   
+ 
+Amounts in the spendable fund balance category are further classified as restricted, committed, assigned or 
+unassigned, as appropriate. 
+ 
+
+Restricted fund balance represents amounts that are constrained either externally by creditors (such as 
+debt covenants), grantors, contributors or laws or regulations of other governments; or by law, through 
+constitutional provisions or enabling legislation. 
+
+ 
+Committed fund balance represents amount that are useable only for specific purposes by formal action 
+of the government’s highest level of decision-making authority.  Such amounts are not subject to legal 
+enforceability (like restricted amounts), but cannot be used for any other purpose unless the government 
+removes or changes the limitation by taking action similar to that which imposed the commitment.   
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 22 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+ 
+
+9. Net position (Continued) 
+ 
+
+Assigned fund balance represents amounts that are intended to be used for specific purposes but are 
+neither restricted nor committed.  Intent is expressed by the governing body itself, or a subordinated high-
+level body or official who the governing body has delegated the authority to assign amounts to be used for 
+specific purposes.  Assigned fund balances includes all remaining spendable amounts (except negative 
+balances) that are reported in governmental funds other than the general fund, that are neither restricted 
+nor committed, and amounts in the general fund that are intended to be used for specific purpose in 
+accordance with the provisions of the standard. 
+
+ 
+Unassigned fund balance is the residual classification for the general fund.  It represents the amounts 
+that have not been assigned to other funds, and that have not been restricted, committed, or assigned to 
+specific purposes within the general fund.   
+
+ 
+10. Property Taxes and Other Local Revenues 
+
+ 
+The District is authorized by state law to levy property taxes, which consist of ad valorem taxes on real and 
+personal property within the District.  The County Assessor, upon receipt of the certification of tax levies from 
+the County Excise Board, extends the tax levies on the tax roll for submission to the County Treasurer.  
+Property taxes are levied on November 1 and are due on receipt of the tax bill.  The first half of taxes is due 
+prior to January 1.  The second half is due prior to April 1.  If the first payment is not made timely, the entire 
+tax becomes due and payable on January 2.  Second half taxes become delinquent on April 1 of the year 
+following the assessment.  If not paid by the following October 1, the property is offered for sale for the amount 
+of the taxes due.  The owner has two years to redeem the property by paying the taxes and penalty owed.  If 
+at the end of two years the owner has not done so, the purchaser is issued a deed to the property.  No 
+provision has been made for uncollected taxes, as all taxes are deemed collectible.  Other local sources of 
+revenues include tuition, fees, rentals, disposals, commissions and reimbursements. 
+
+ 
+11. Intermediate Revenues 
+
+ 
+Revenue from intermediate source is the amount of money from funds collected by an intermediate 
+administrative unit, or a political subdivision between the district and the state, and distributed to districts in 
+amounts that differ in proportion to those which were collected within such systems. 
+
+ 
+12. State Revenues 
+
+ 
+The District receives revenue from the state to administer certain categorical educational programs.  State 
+Board of Education rules require that revenue earmarked for these programs be expended only for the 
+program for which the money is provided and require that the money not expended as of the close of the fiscal 
+year be carried forward into the following year to be expended for the same categorical programs.  The State 
+Department of Education requires that categorical educational program revenues be accounted for in the 
+general fund.   
+ 
+Revenues from state sources for current operations are primarily governed by state aid formula under the 
+provisions of Title 70, Oklahoma Statutes.  The State Board of Education administers the allocation of state 
+aid funds to school districts based on information accumulated from the districts.  After review and verification 
+of reports and supporting documentation, the State Department of Education may adjust subsequent fiscal 
+period allocations of money for prior year errors disclosed by review.  Normally, such adjustments are treated 
+as reductions or additions of revenue of the year when the adjustment is made. 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 23 
+
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued) 
+ 
+
+13. Federal Revenues 
+ 
+
+Federal revenues consist of revenues from the federal government in the form of operating grants or 
+entitlements.  An operating grant is a contribution to be used for a specific purpose, activity or facility.  A grant 
+may be received either directly from the federal government or indirectly as a pass through from another 
+government, such as the state.  Entitlement is the amount of payment to which the District is entitled pursuant 
+to an allocation formula contained in applicable statutes.  The majority of the federal revenues received by the 
+District are apportioned to the general fund.  The District maintains a separate child nutrition fund and the 
+federal revenues received for the child nutrition programs are apportioned there. 
+
+ 
+14. Non-Monetary Transactions 
+
+ 
+The District receives commodities from the U. S. Department of Agriculture.  The value of these commodities 
+has been included in the Schedule of Expenditures of Federal Awards and they have been reflected in the 
+basic financial statements as revenue and expense.     
+
+ 
+15. Resource Use Policy 
+ 
+
+It is in the School’s policy for all funds that when an expenditure/expense is incurred for purposes for which 
+both restricted and unrestricted resources, including fund balances, are available, the School considers 
+restricted amounts to be spent first before any unrestricted amounts are used.  Furthermore, it is the School’s 
+policy that when an expenditure/expense is incurred for purposes for which committed, assigned, or 
+unassigned resources, including fund balances, are available, the School considers committed amounts to be 
+spent first, followed by assigned amounts and lastly unassigned amounts. 
+
+ 
+2. DETAILED NOTES CONCERNING THE FUNDS 
+ 
+
+A. Deposits and Investments 
+ 
+
+Custodial Credit Risk 
+ 
+
+At June 30, 2018, the District held deposits of approximately $13,781,722 at financial institutions.  The District's 
+cash deposits, including interest-bearing certificates of deposit, are entirely covered by Federal Depository 
+Insurance (FDIC) or direct obligation of the U.S. Government insured or collateralized with securities held by the 
+District or by its agent in the District's name. 
+
+ 
+Investment Interest Rate Risk 
+
+ 
+The District does not have a formal investment policy that limits investment maturities as a means of managing its 
+exposure to fair value losses arising from increasing interest rates. 
+
+ 
+Investment Credit Risk 
+
+ 
+The District has no policy that limits its investment choices other than the limitation of state law as follows: 
+
+ 
+a. Direct obligations of the U.S. Government, its agencies and instrumentalities to which the full faith and credit 
+
+of the U.S. Government is pledged, or obligations to the payment of which the full faith and credit of the 
+State is pledged. 
+
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 24 
+
+2. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+A. Deposits and Investments (Continued) 
+ 
+
+b. Certificates of deposits or savings accounts that are either insured or secured with acceptable collateral with 
+in-state financial institutions, and fully insured certificates of deposit or savings accounts in out-of-state 
+financial institutions. 
+
+c. With certain limitation, negotiable certificates of deposit, prime bankers acceptances, prime commercial 
+paper and repurchase agreements with certain limitations. 
+
+d. County, municipal or school district tax supported debt obligations, bond or revenue anticipation notes, 
+money judgments, or bond or revenue anticipation notes of public trusts whose beneficiary is a county, 
+municipality or school district. 
+
+e. Notes or bonds secured by mortgage or trust deed insured by the Federal Housing Administrator and 
+debentures issued by the Federal Housing Administrator, and in obligations of the National Mortgage 
+Association. 
+
+f. Money market funds regulated by the SEC and in which investments consist of the investments mentioned 
+in the previous paragraphs (a.-d.). 
+
+ 
+The cash and investments held at June 30, 2018 are as follows: 
+
+ 
+Weighted
+Average
+Maturity Credit Market
+(Months) Rating Value Cost
+
+Investments
+Money Market N/A AAAm 13,781,722$  13,781,722$  
+
+Total investments 13,781,722$  13,781,722$  
+
+Type
+
+ 
+ 
+Concentration of Investment Credit Risk 
+
+ 
+The District places no limit on the amount it may invest in any one issuer.  The District has the following of credit 
+risk: 100% in Money Market funds ($13,781,722). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 25 
+
+2. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+B. Capital Assets  
+ 
+ Primary Government capital asset activity for the year ended is as follows: 
+ 
+
+Balance Balance
+Governmental Activities: 6/30/17 Additions Disposals 6/30/18
+Non-depreciable assets:
+
+Land $ 1,054,549      $ -              $ -              $ 1,054,549      
+Work in process 45,791           1,178,414   1,224,205   -                 
+
+Total non-depreciable assets 1,100,340      1,178,414   1,224,205   1,054,549      
+
+Depreciable assets:
+Buildings and improvements 74,615,547    1,421,101   -              76,036,648    
+Furniture, fixtures and equipment 7,735,636      -              -              7,735,636      
+Vehicles 2,489,340      984,450      -              3,473,790      
+
+Total depreciable assets 84,840,523    2,405,551   -              87,246,074    
+
+Less accumlated depreciation:
+Buildings and improvements (20,119,464)   (760,367)     -              (20,879,831)   
+Furniture, fixtures and equipment (7,603,845)     (44,959)       -              (7,648,804)     
+Vehicles (2,267,741)     (202,229)     -              (2,469,970)     
+
+Total accumulated depreciation (29,991,050)   (1,007,555)  -              (30,998,605)   
+
+Net depreciable assets 54,849,473    1,397,996   -              56,247,469    
+
+Net governmental activities capital assets $ 55,949,813    $ 2,576,410   $ 1,224,205   $ 57,302,018    
+
+C. Long-term Debt  
+ 
+
+ State statutes prohibit the District from becoming indebted in an amount exceeding the revenue to be received for 
+any fiscal year without approval by the District's voters.  Bond issues have been approved by the voters and issued 
+by the District for various capital improvements.  These bonds are required to be fully paid serially within 25 years 
+from the date of issue.  Debt service requirements for bonds are payable solely from fund balance and future 
+revenues of the debt service fund.  
+
+   
+The District issued building bonds in the amount of $7,470,000 on June 1, 2016.  Bond maturities begin June 1, 
+2018 with a payment of $7,470,000 per year.  This was paid off in the current year.   
+ 
+The District issued building bonds in the amount of $7,470,000 on June 1, 2018.  Bond maturities begin June 1, 
+2020 with a payment of $7,470,000 per year.  Debt service requirements for the 2018 building bonds are as 
+follows: 
+
+ 
+Year
+
+Ended Total
+June 30, Rate Principal Interest Requirements
+
+2019 3.05% $ -                 $ 227,835         $ 227,835         
+2020 3.05% 7,470,000      227,835         7,697,835      
+
+$ 7,470,000      $ 455,670         $ 7,925,670      
+
+General
+Obligation Bonds
+
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 26 
+
+2. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+C. Long-term Debt (Continued) 
+ 
+The District issued transportation bonds in the amount of $1,000,000 on June 1, 2017.  Bond maturities begin 
+June 1, 2019 with payments of $250,000 per year.  Debt service requirements for the 2017 transportation bonds 
+are as follows: 
+
+ 
+Year
+
+Ended Total
+June 30, Rate Principal Interest Requirements
+
+2019 2.00% $ 250,000         $ 16,875           $ 266,875         
+2020 1.50% 250,000         11,875           261,875         
+2021 1.55% 250,000         8,125             258,125         
+2022 1.70% 250,000         4,250             254,250         
+
+$ 1,000,000      $ 41,125           $ 1,041,125      
+
+General
+Obligation Bonds
+
+ 
+Debt service requirements for all bonds is as follows: 
+
+ 
+
+ 
+
+Year General Obilgation
+Ended Bonds Total
+
+June 30, Principal Interest Requirements
+2019 $ 250,000         $ 244,710         $ 494,710         
+2020 7,720,000      239,710         7,959,710      
+2021 250,000         8,125             258,125         
+2022 250,000         4,250             254,250         
+Total $ 8,470,000      $ 496,795         $ 8,966,795      
+
+ 
+D. Leases 
+
+ 
+As per Oklahoma Statutes 200, Section 430.1, the District executed a lease for construction, equipment and 
+capital improvement of the new middle school building, a roofing project and a new track during the 2013-14 year.  
+The lease is to be financed by the issue of building bonds on a yearly basis and paid annually.  Annual rental and 
+interest payments to maturity are as follows: 
+ 
+
+Year
+Ended
+
+June 30, Amount
+2019 $ 6,835,400         
+2020 637,000            
+2021 7,137,000         
+2022 360,500            
+2023 7,570,500         
+Total 22,540,400       
+
+Less Interest (2,870,400)       
+Total $ 19,670,000       
+
+  
+ 
+
+The above lease contains a clause that gives the District the ability to terminate the lease agreements at the end of 
+each fiscal year.  The District has recorded the liability for future lease payments in the general long-term debt 
+account group for these leased assets. 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 27 
+
+2. DETAILED NOTES CONCERNING THE FUNDS (Continued) 
+
+E. Changes in General Long-term Debt 
+ 
+Long-term debt consists of bonds payable and lease obligations.  The following is a summary of the changes in 
+general long-term debt transactions of the District for the fiscal year:  
+ 
+
+Balance Balance
+July 1, 2017 Additions Reductions June 30, 2018
+
+Bonds payable $ 8,470,000      $ 7,470,000      $ 7,470,000      $ 8,470,000      
+Leases payable 19,670,000    -                 -                 19,670,000    
+Total $ 28,140,000    $ 7,470,000      $ 7,470,000      $ 28,140,000    
+
+ 
+ 
+
+3. OTHER INFORMATION  
+ 
+
+A. Risk Management  
+ 
+
+The District is exposed to various risks of loss related to torts; theft of, damage to and destruction of assets; errors 
+and omissions; injuries to employees; or acts of God.  The District purchases commercial insurance to cover these 
+risks, including general and auto liability, property damage, and public officials’ liability.  The District had the 
+following insurance coverage during the year: commercial property - $350,000,000; general liability - $1,000,000;   
+and educators liability $1,000,000.  Settled claims resulting from these risks have not exceeded the commercial 
+insurance coverage in any of the past three fiscal years. 
+ 
+The School also participates in a risk pool for Workers' Compensation coverage in which there is a transfer or 
+pooling of risks among the participants of that pool.  In accordance with GASB No. 10, the School reports the 
+required contribution to the pool, net of refunds, as insurance expense.  The risk pool is the Oklahoma School 
+Assurance Group (OSAG), an organization formed for the purpose of providing workers' compensation coverage 
+to participating schools in the State of Oklahoma.  
+ 
+In that capacity, OSAG is responsible for providing loss control services and certain fiscal activities, including 
+obtaining contract arrangements for the underwriting, excess insurance agreements, claims processing, and legal 
+defense for any and all claims submitted to them during the plan year.  As a member of OSAG the District is 
+required to pay fees set by OSAG according to an established payment schedule.  A portion of the fees paid by the 
+District goes into a loss fund for the District.  The fee for the loss fund is calculated by projecting losses based on 
+the schools losses for the last five years.  OSAG provides coverage in excess of the Loss Fund so the District's 
+liability for claim loss is limited to the balance of the loss fund.  If the District does not use their loss fund in three 
+years it is returned to them with no interest. 
+
+ 
+The District is also a member of the Oklahoma Public Schools Unemployment Compensation Program.  In this 
+program the District is required to contribute 1.6% of their taxable payroll for unemployment insurance.  The funds 
+for each district are kept separate and districts can contribute more than 1.6% of their payroll if they elect to.  The 
+money contributed by each District earns interest and is fully insured.  If the District has claims in excess of the 
+amount in their account they would be liable for the excess. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 28 
+
+3. OTHER INFORMATION (Continued) 
+ 
+
+B. Contingent Liabilities  
+ 
+
+Amounts received or receivable from grantor agencies are subject to audit and adjustment by grantor agencies, 
+principally the federal government. Any disallowed claims, including amounts already collected, may constitute a 
+liability of the applicable funds.  The amount, if any, of expenditures which may be disallowed by the grantor cannot 
+be determined at this time although the District expects such amounts, if any, to be immaterial. 
+ 
+
+C. Non-Monetary Transactions 
+ 
+
+The fair market value as determined by the Oklahoma Department of Human Services of the commodities 
+received during the period under audit was $66,353.  
+
+ 
+D. Employee Retirement System and Plan 
+
+ 
+Description of Plan 
+
+ 
+The District participates in the state-administered Oklahoma Teachers' Retirement System, which is a cost 
+sharing, multiple-employer defined benefit public employee retirement system (PERS), which is administered by 
+the Board of Trustees of the Oklahoma Teachers’ Retirement System (the “System”).  The System provides 
+retirement and disability benefits, annual cost-of-living adjustments, and death benefits to plan members and 
+beneficiaries.  Title 70 Section 17 of the Oklahoma Statutes establishes benefit provisions and may be amended 
+only through legislative action.   
+
+  
+The Oklahoma Teachers’ Retirement System issues a publicly available financial report that includes financial 
+statements and required supplementary information for the System.  That report may be obtained by writing to the 
+Oklahoma Teachers’ Retirement System, P.O. Box 53624, Oklahoma District, OK 73152 or by calling 405-521-
+2387. 
+
+ 
+Basis of Accounting 
+
+ 
+The System’s financial statements are prepared using the cash basis of accounting, except for accruals of interest 
+income. Plan member contributions are recognized in the period in which the contributions are made. Benefits and 
+refunds are recognized when paid.  The pension benefit obligation is a standardized disclosure measure of the 
+present value of pension benefits.  This pension valuation method reflects the present value of estimated pension 
+benefits that will be paid in future years as a result of employee services performed to date and is adjusted for the 
+effect of projected salary increases.  There are no actuarial valuations performed on individual school districts.  
+The System has an under-funded pension benefit obligation as determined as part of the latest actuarial valuation. 
+
+  
+Funding Policy 
+
+ 
+The District, the State of Oklahoma, and the participating employee make contributions.  The contribution rates for 
+the District and its employees are established by and may be amended by Oklahoma Statutes.  The rates are not 
+actuarially determined.  The rates are applied to the employee’s earnings plus employer-paid fringe benefits.  The 
+required contribution for the participating members is 7.0% of compensation.  Additionally, OTRS receives “federal 
+matching contributions” for positions whose funding comes from federal sources or certain grants.  The District 
+and State are required to contribute 14.0% of applicable compensation.  Contributions received by the System 
+from the State of Oklahoma are from 3.54% of its revenues from sales tax use taxes, corporate income taxes and 
+individual income taxes.  The District contributed 9.5% and the State of Oklahoma plus the federal contribution 
+contributed the remaining 4.5% during this year.  The District is allowed by the Oklahoma Teachers’ Retirement 
+System to make the required contributions on behalf of the participating members.  The school is required to pay 
+16.5% for any compensated retired teachers already receiving retirement benefits. 
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO THE BASIC FINANCIAL STATEMENTS 
+ June 30, 2018 
+ 
+
+ 
+ 29 
+
+3. OTHER INFORMATION (Continued) 
+ 
+
+D. Employee Retirement System and Plan (Continued) 
+ 
+
+Annual Pension Cost  
+ 
+
+The District’s total contributions for 2018, 2017 and 2016 were $750,215, $693,192 and $599,876, respectively. 
+ 
+
+E. Surety Bonds 
+ 
+
+The Activity Fund Clerks are bonded by Ohio Casualty Insurance Company.  The bond number is 5080586, it 
+covers each activity fund clerk for the penal sum of $5,000, and it is for the term July 1, 2017 to June 30, 2018. 
+ 
+The Superintendent is bonded by Ohio Casualty Insurance Company.  The bond number is 5080586, for the penal 
+sum of $100,000 for the term July 1, 2017 to July 1, 2018.   
+
+ 
+The Lunch Fund Clerks are bonded by Ohio Casualty Insurance Company.  The bond number is 5080586, it 
+covers each lunch fund clerk for the penal sum of $10,000, and it is for the term July 1, 2017 to June 30, 2018. 
+ 
+The treasurer is bonded by Ohio Casualty Insurance Company.  The bond number is 5080586, for the penal sum 
+of $100,000 for the term July 1, 2017 to July 1, 2018. 
+ 
+The encumbrance clerk is bonded by Ohio Casualty Insurance Company.  The bond number is 5080586, for the 
+penal sum of $5,000 for the term July 1, 2017 to July 1, 2018. 
+ 
+The minutes clerk is bonded by Ohio Casualty Insurance Company.  The bond number is 5080586, for the penal 
+sum of $5,000 for the term July 1, 2017 to July 1, 2018. 
+ 
+
+4. RELATED PARTY 
+ 
+
+The Cushing Educational Facilities Authority was created by Trust Indenture dated September 13, 2013, under the 
+provisions of Title 60, Oklahoma Statutes 2011, Sections 176 to 180.3, inclusive.  The Trust was created generally to 
+promote the development of educational, recreational and cultural activities within and near the territorial limits of the 
+City and to thereby provide educational, recreational and cultural facilities which will benefit and strengthen culture and 
+the economy of the City of Cushing, Oklahoma.  The Authority is exempt from State and Federal Income taxes.  In 
+2013, the Authority issued 2013 General Obligation Bonds in the amount of $39,730,000 for the purpose of 
+constructing, equipping, repairing and remodeling school buildings, acquiring school furniture, fixtures and equipment 
+and acquiring and improving school sites.  Final maturity of those bonds has not been determined at this time.  
+Construction of facilities started during the year.  The City of Cushing, as beneficiary, has elected to preserve the legal 
+structure of this Authority for a potential future use. The School will be liable to pay these monies back through bond 
+issues. 
+
+ 
+5. SUBSEQUENT EVENTS 
+ 
+
+Management has evaluated subsequent events through the date of the audit report, which is the date the financial 
+statements were available to be issued and have determined that there is a possibility that the Cushing School Building 
+Fund may be required to re-pay Stroud Schools Building Fund for excess property tax revenues received due to 
+Lincoln County incorrectly identifying the school districts in the property tax valuations.  No estimated amount of liability 
+has been added to the financial statements at this time.  
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ SUPPLEMENTAL INFORMATION 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL
+
+(Non-GAAP Budgetary Basis)
+
+The accompanying notes are an integral part of this statement.
+30
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 10,195,269    $ 10,195,269    $ 11,044,817   $ 849,548           
+Intermediate sources 579,924         579,924         644,695        64,771             
+State sources 2,477,528      2,477,528      2,847,619     370,091           
+Federal sources 575,715         575,715         310,930        (264,785)          
+Other sources 37,168           37,168           -                (37,168)            
+
+Total revenues 13,865,604    13,865,604    14,848,061   1,019,625        
+
+Expenditures:
+Instruction 8,658,253      8,658,253      8,459,814     198,439           
+Support services 6,500,772      6,500,772      5,962,060     538,712           
+Non-instructional services 20,500           20,500           14,886          5,614               
+Capital outlay 412,500         412,500         412,626        (126)                 
+Other outlays 33,089           33,089           33                 33,056             
+Principal retirement -                 -                 -                -                   
+Interest & fiscal agent charges -                 -                 -                -                   
+Repayments -                 -                 -                -                   
+
+Total expenditures 15,625,114    15,625,114    14,849,419   775,695           
+
+Net change in fund balance (1,759,510)     (1,759,510)     (1,358)           1,795,320        
+
+Beginning fund balance 1,759,510      1,759,510      1,759,510     -                   
+
+Prior year encumbrances appropriated -                 -                 247               247                  
+
+Ending fund balances $ -                 $ -                 $ 1,758,399     $ 1,795,567        
+
+Budgeted Amounts
+
+GENERAL FUND
+For the Fiscal Year Ended June 30, 2018
+
+(Unaudited)
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL
+
+(Non-GAAP Budgetary Basis)
+
+The accompanying notes are an integral part of this statement.
+31
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 1,429,635      $ 1,429,635      $ 1,545,817     $ 116,182           
+Intermediate sources -                 -                 -                -                   
+State sources 9,704             9,704             10                 (9,694)              
+Federal sources -                 -                 -                -                   
+
+Total revenues 1,439,339      1,439,339      1,545,827     106,488           
+
+Expenditures:
+Instruction 2,593,880      2,593,880      -                2,593,880        
+Support services -                 -                 48,433          (48,433)            
+Non-instructional services -                 -                 -                -                   
+Capital outlay -                 -                 962,684        (962,684)          
+Other outlays -                 -                 -                -                   
+Repayments -                 -                 -                -                   
+
+Total expenditures 2,593,880      2,593,880      1,011,117     1,582,763        
+
+Net change in fund balance (1,154,541)     (1,154,541)     534,710        1,689,251        
+
+Beginning fund balance 1,154,541      1,154,541      1,154,541     -                   
+
+Prior year encumbrances appropriated -                 -                 -                -                   
+
+Ending fund balances $ -                 $ -                 $ 1,689,251     $ 1,689,251        
+
+(Unaudited)
+
+SPECIAL REVENUE FUNDS - BUILDING FUND
+For the Fiscal Year Ended June 30, 2018
+
+Budgeted Amounts
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL
+
+(Non-GAAP Budgetary Basis)
+
+The accompanying notes are an integral part of this statement.
+32
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 43,965           $ 43,965           $ 33,889          $ (10,076)            
+Intermediate sources -                 -                 -                -                   
+State sources 235,455         235,455         -                (235,455)          
+Federal sources -                 -                 -                -                   
+
+Total revenues 279,420         279,420         33,889          (245,531)          
+
+Expenditures:
+Support services 570,184         570,184         241,618        328,566           
+Non-instructional services -                 -                 -                -                   
+Capital outlay -                 -                 -                -                   
+Other outlays -                 -                 -                -                   
+Repayments -                 -                 -                -                   
+
+Total expenditures 570,184         570,184         241,618        328,566           
+
+Net change in fund balance (290,764)        (290,764)        (207,729)       83,035             
+
+Beginning fund balance 290,764         290,764         290,764        -                   
+
+Prior year encumbrances appropriated -                 -                 -                -                   
+
+Ending fund balances $ -                 $ -                 $ 83,035          $ 83,035             
+
+SPECIAL REVENUE FUNDS - CO-OP FUND
+For the Fiscal Year Ended June 30, 2018
+
+(Unaudited)
+
+Budgeted Amounts
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL
+
+(Non-GAAP Budgetary Basis)
+
+The accompanying notes are an integral part of this statement.
+33
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 187,812         $ 187,812         $ 207,802        $ 19,990             
+Intermediate sources -                 -                 -                -                   
+State sources 7,789             7,789             8,015            226                  
+Federal sources 601,531         601,531         641,998        40,467             
+
+Total revenues 797,132         797,132         857,815        60,683             
+
+Expenditures:
+Support services -                 -                 -                -                   
+Non-instructional services 985,095         985,095         851,842        133,253           
+Capital outlay -                 -                 -                -                   
+Other outlays -                 -                 16,644          (16,644)            
+Repayments -                 -                 -                -                   
+
+Total expenditures 985,095         985,095         868,486        116,609           
+
+Net change in fund balance (187,963)        (187,963)        (10,671)         177,292           
+
+Beginning fund balance 187,963         187,963         187,963        -                   
+
+Prior year encumbrances appropriated -                 -                 427               427                  
+
+Ending fund balances $ -                 $ -                 $ 177,719        $ 177,719           
+
+SPECIAL REVENUE FUNDS - CHILD NUTRITION FUND
+For the Fiscal Year Ended June 30, 2018
+
+(Unaudited)
+
+Budgeted Amounts
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+BUDGET AND ACTUAL
+
+(Non-GAAP Budgetary Basis)
+
+The accompanying notes are an integral part of this statement.
+34
+
+Variance with
+Final Budget
+
+Original Final Favorable
+Budget Budget Actual (Unfavorable)
+
+Revenues:
+Local sources $ 3,626,710      $ 3,626,710      $ 3,767,573     $ 140,863           
+Intermediate sources -                 -                 -                -                   
+State sources -                 -                 25                 25                    
+Federal sources -                 -                 -                -                   
+
+Total revenues 3,626,710      3,626,710      3,767,598     140,888           
+
+Expenditures:
+Debt service:
+
+Principal retirement 7,470,000      7,470,000      7,470,000     -                   
+Interest & fiscal agent charges 95,310           95,310           95,310          -                   
+
+Total expenditures 7,565,310      7,565,310      7,565,310     -                   
+
+Net change in fund balance (3,938,600)     (3,938,600)     (3,797,712)    140,888           
+
+Beginning fund balance 4,140,006      4,140,006      4,140,006     -                   
+
+Ending fund balances $ 201,406         $ 201,406         $ 342,294        $ 140,888           
+
+DEBT SERVICE FUND
+For the Fiscal Year Ended June 30, 2018
+
+Budgeted Amounts
+
+(Unaudited)
+
+
+
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ NOTES TO BUDGETARY INFORMATION 
+ For the Fiscal Year Ended June 30, 2018 
+
+(Unaudited) 
+ 
+
+ 
+ 35 
+
+BUDGETARY INFORMATION 
+ 
+
+The District is required by state law to prepare an annual budget.  A preliminary budget is submitted to the Board of 
+Education by December 31 for the fiscal year beginning the following July 1.  Since the voters have permanently 
+approved the additional levies, the preliminary budget becomes the legal budget.  An annual Estimate of Needs is then 
+approved by the Board and subsequently filed with the County Clerk and approved by the County Excise Board.  
+Supplemental appropriations can be made during the year.  
+
+ 
+Encumbrances represent commitments related to unperformed contracts for goods or services.  Encumbrance 
+accounting - under which purchase orders and other commitments of resources are recorded as expenditures of the 
+applicable fund - is utilized in all Governmental Funds of the District.  Purchase orders or contracts document 
+encumbrances for goods or purchased services.  Under Oklahoma law, unencumbered appropriations lapse at year-
+end. 
+
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ OTHER INFORMATION 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+COMBINING BALANCE SHEET
+NON-MAJOR GOVERNMENTAL FUNDS
+
+REGULATORY BASIS
+June 30, 2017
+
+36
+
+Total
+Child Non-Major
+
+CO-OP Nutrition Governmental
+Fund Fund Funds
+
+Assets:
+Cash and investments $ 87,967            $ 204,283          $ 292,250           
+
+Total assets 87,967            204,283          292,250           
+
+Liabilities:
+Warrants payable 4,932              26,564            31,496             
+Encumbrances -                  -                  -                   
+
+Total liabilities 4,932              26,564            31,496             
+
+Fund balances:
+Restricted 83,035            177,719          260,754           
+
+Total fund balances 83,035            177,719          260,754           
+
+Total liabilities and 
+fund balances $ 87,967            $ 204,283          $ 292,250           
+
+Special Revenue
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+COMBINING STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+NON-MAJOR GOVERNMENTAL FUNDS
+
+REGULATORY BASIS
+For the Fiscal Year Ended June 30, 2017
+
+37
+
+Total
+Child Non-Major
+
+CO-OP Nutrition Governmental
+Fund Fund Funds
+
+Revenues:
+Local sources $ 33,889          $ 207,802        $ 241,691           
+Intermediate sources -                -                -                   
+State sources -                8,015            8,015               
+Federal sources -                641,998        641,998           
+
+Total revenues 33,889          857,815        891,704           
+
+Expenditures:
+Instruction -                -                -                   
+Support services -                -                -                   
+Non-instructional services 241,618        851,842        1,093,460        
+Capital outlay -                -                -                   
+Other outlays -                16,644          16,644             
+Repayments -                -                -                   
+Debt service:
+
+Principal retirement -                -                -                   
+Interest & fiscal agent charges -                -                -                   
+Total expenditures 241,618        868,486        1,110,104        
+
+Excess of revenues over (under) 
+expenditures (207,729)       (10,671)         (218,400)          
+
+Adjustments to prior year 
+encumbrances -                427               427                  
+
+Net changes in fund balance (207,729)       (10,244)         (217,973)          
+
+Fund balance - begin of year 290,764        187,963        478,727           
+
+Fund balance - end of year $ 83,035          $ 177,719        $ 260,754           
+
+Special Revenue
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+38
+
+Pass-through
+Federal Grantor's Balance Balance
+
+Federal Grantor/Pass Through CFDA Project Grant Approved July 1, Expend- June 30,
+Grantor/Program Title Number Number Number Amount 2017 Receipts itures 2018
+
+U.S. Department of Education:
+
+Direct Programs:
+Title VII - Indian Education 84.060 561 S060A170008$ 89,771       $ -            $ 89,771      $ 89,771         $ -              
+Title VII - Indian Education 16-17 84.060 561 S060A160008 92,613       (31,605)     31,605      -              -              
+
+Sub-Total 182,384     (31,605)     121,376    89,771         -              
+
+Passed through State Department of Education:
+Title I 84.010 511 S010A170036 388,869     -            -            343,668       (343,668)     
+Title I 16-17 84.010 511 S010A160036 338,081     (132,444)   132,444    -              -              
+Title I 16-17 84.010 515 S010A160036 20,600       (11,362)     11,362      -              -              
+Title II, Part A 84.367 541 S367A170035 53,882       -            -            53,882         (53,882)       
+Title II, Part A 16-17 84.367 541 S367A160035 79,023       (31,234)     31,234      -              -              
+Title VI, Part B - Rural & Low Income 84.358 587 S358B160036 32,703       -            -            32,703         (32,703)       
+
+Sub-Total 913,158     (175,040)   175,040    430,253       (430,253)     
+
+Passed through State Department of Career and Technology Education:
+Carl Perkins 84.048 421 V048A170036 14,515       -            14,515      14,515         -              
+
+Sub-Total 14,515       -            14,515      14,515         -              
+
+Passed through State Department of Education:
+IDEA Cluster:
+
+IDEA-B, Special Ed Prof Dev 84.027 613 220            -            -            194              (194)            
+IDEA-B, SEA Discretionary 84.027 615 5,184         -            -            3,979           (3,979)         
+
+IDEA Cluster Sub-Total 5,404         -            -            4,173           (4,173)         
+
+For the Fiscal Year Ended June 30, 2018
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67
+Payne County, Oklahoma
+
+39
+
+Pass-through
+Federal Grantor's Program Balance Balance
+
+Federal Grantor/Pass Through CFDA Project Grant or Award July 1, Expend- June 30,
+Grantor/Program Title Number Number Number Amount 2017 Receipts itures 2018
+
+U.S. Department of Agriculture:
+
+Passed through State Department of Education:
+Child Nutrition Programs:
+
+School Breakfast Program 10.553 764 190,974     -            190,974    190,974       -              
+National School Lunch Program 10.555 763 440,726     -            440,726    440,726       -              
+Summer Food Service Program 10.559 766 19,224       -            10,297      19,224         (8,927)         
+
+Child Nutrition Cluster sub-total 650,924     -            641,997    650,924       (8,927)         
+
+Passed through Oklahoma Department of
+Human Services (Note C) 10.565 66,353       -            66,353      66,353         -              
+
+Sub-Total 717,277     -            708,350    717,277       (8,927)         
+
+Total Expenditures of Federal Awards $ 1,832,738  $ (206,645)   $ 1,019,281 $ 1,255,989    $ (443,353)     
+
+Note A - Basis of Presentation - The accompanying schedule of expenditures of federal awards (the Schedule) incluldes the federal award activity of the School 
+            under programs of the federal government for the year ended June 30, 2018.  The information in this Schedule is presented in accordance with the require-
+            ments of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+            Awards  (Uniform Guidance).  Because the Schedule presents only selected portion of the operations of the School, it is not intended and does not present
+            the financial position, changes in net assets, or cash flows of the School.
+
+Note B - Summary of Significant Accounting Policies - Expenditures reported on the Schedule are reported on the regulatory basis of accounting consistent 
+            with the preparation of the combined financial statements except for nonmonetary assistance noted in Note C.  Such expenditures are recognized following 
+            the cost principles contained in the Uniform Guidance, wherein certain types of expenditures are not allowable or are limited as to reimbursement.  The
+             School has elected not to use the 10 percent de minimus indirect cost rate allowed under the Uniform Guidance.
+
+Note C - Food Distribution - Non-monetary assistance is reported in the schedule at the fair market value of the commodities received and disbursed.
+
+For the Fiscal Year Ended June 30, 2018
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUSHING SCHOOL DISTRICT NUMBER I-67 
+ Payne County, Oklahoma 
+ 
+ REPORTS REQUIRED BY GOVERNMENT AUDITING STANDARDS 
+ June 30, 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+40 
+
+ 
+
+ 
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL  
+
+ STATEMENTS PERFORMED IN ACCORDANCE WITH 
+GOVERNMENT AUDITING STANDARDS 
+
+ 
+ 
+August 14, 2018 
+ 
+ 
+The Honorable Board of Education 
+Cushing School District Number I-67 
+Cushing, Payne County, Oklahoma 
+ 
+ 
+We have audited, in accordance with auditing standards generally accepted in the United States of America and the 
+standards applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller 
+General of the United States, the accompanying basic financial statements —regulatory basis of the governmental 
+activities, each major fund, and the aggregate remaining fund information of the Cushing School District Number I-67, 
+Payne County, Oklahoma (District), as of and for the year ended June 30, 2018, and the related notes to the financial 
+statements, which collectively comprise the District’s financial statements, and have issued our report thereon dated 
+August 14, 2018, which was adverse with respect to the presentation of the financial statements in conformity with 
+accounting principles generally accepted in the United States because the presentation followed the regulatory basis of 
+accounting for Oklahoma school districts and did not conform to the presentation requirements of the Governmental 
+Accounting Standards Board.   
+ 
+Internal Control Over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered the District’s internal control over 
+financial reporting (internal control) to determine the audit procedures that are appropriate in the circumstances for the 
+purpose of expressing our opinions on the financial statements, but not for the purpose of expressing an opinion on the 
+effectiveness of District’s internal control.  Accordingly, we do not express an opinion on the effectiveness of District’s 
+internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow management or 
+employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis.  A material weakness is a deficiency, or a combination of deficiencies, in internal 
+control, such that there is a reasonable possibility that a material misstatement of the entity’s financial statements will 
+not be prevented, or detected and corrected on a timely basis.  A significant deficiency is a deficiency, or a combination 
+of deficiencies, in internal control that is less severe than a material weakness, yet important enough to merit attention 
+by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this section and was 
+not designed to identify all deficiencies in internal control that might be material weaknesses or, significant deficiencies. 
+Given these limitations, during our audit we did not identify any deficiencies in internal control that we consider to be 
+material weaknesses. However, material weaknesses may exist that have not been identified. 
+ 
+ 
+ 
+
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+P.O. Box 790 
+Cushing, OK 74023 
+918-225-4216  FAX 918-225-4315 
+ 
+
+
+
+41 
+
+Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether the District’s financial statements are free of material 
+misstatement, we performed tests of its compliance with certain provisions of laws, regulations, contracts, and grant 
+agreements, noncompliance with which could have a direct and material effect on the determination of financial 
+statement amounts.  However, providing an opinion on compliance with those provisions was not an objective of our 
+audit, and accordingly, we do not express such an opinion.  The results of our tests disclosed no instances of 
+noncompliance or other matters that are required to be reported under Government Auditing Standards.  
+ 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance and the 
+results of that testing, and not to provide an opinion on the effectiveness of the entity’s internal control or on 
+compliance.  This report is an integral part of an audit performed in accordance with Government Auditing Standards in 
+considering the entity’s internal control and compliance.  Accordingly, this communication is not suitable for any other 
+purpose. 
+ 
+
+CBEW Professional Group, LLP  
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+42 
+
+ 
+ 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR 
+ PROGRAM AND ON INTERNAL CONTROL OVER COMPLIANCE REQUIRED 
+ BY THE UNIFORM GUIDANCE 
+ 
+ 
+August 14, 2018 
+ 
+ 
+The Honorable Board of Education 
+Cushing School District Number I-67 
+Cushing, Payne County, Oklahoma 
+ 
+ 
+Report on Compliance for Each Major Federal Program 
+ 
+We have audited the Cushing School District Number I-67, Payne County, Oklahoma (District)’s compliance with the 
+types of compliance requirements described in the OMB Compliance Supplement that could have a direct and material 
+effect on each of the District’s major federal programs for the year ended June 30, 2018. The District’s major federal 
+programs are identified in the summary of auditor’s results section of the accompanying schedule of findings and 
+questioned costs. 
+ 
+Management’s Responsibility 
+ 
+Management is responsible for compliance with the federal statutes, regulations, and the terms and conditions of its 
+federal awards applicable to its federal programs. 
+ 
+Auditor’s Responsibility 
+ 
+Our responsibility is to express an opinion on compliance for each of the District’s major federal programs based on 
+our audit of the types of compliance requirements referred to above.  We conducted our audit of compliance in 
+accordance with auditing standards generally accepted in the United States of America; the standards applicable to 
+financial audits contained in Government Auditing Standards, issued by the Comptroller General of the United States; 
+and the audit requirements of Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance).   Those standards 
+and Uniform Guidance require that we plan and perform the audit to obtain reasonable assurance about whether 
+noncompliance with the types of compliance requirements referred to above that could have a direct and material 
+effect on a major federal program occurred.  An audit includes examining, on a test basis, evidence about the District’s 
+compliance with those requirements and performing such other procedures as we considered necessary in the 
+circumstances. 
+ 
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major federal program. 
+However, our audit does not provide a legal determination of the District’s compliance 
+ 
+Opinion on Each Major Federal Program 
+ 
+In our opinion, Cushing School District Number I-67, Payne County, Oklahoma, complied, in all material respects, with 
+the types of compliance requirements referred to above that could have a direct and material effect on each of its 
+major federal programs for the year ended June 30, 2018. 
+ 
+
+CBEW Professional Group, LLP 
+Certified Public Accountants 
+P.O. Box 790 
+Cushing, OK 74023 
+918-225-4216  FAX 918-225-4315 
+ 
+
+
+
+43 
+
+ 
+Report on Internal Control Over Compliance 
+ 
+Management of Cushing School District Number I-67, Payne County, Oklahoma (the District), is responsible for 
+establishing and maintaining effective internal control over compliance with the types of compliance requirements 
+referred to above.  In planning and performing our audit of compliance, we considered the District’s internal control 
+over compliance with the types of requirements that could have a direct and material effect on each major federal 
+program to determine the auditing procedures that are appropriate in the circumstances for the purpose of expressing 
+an opinion on compliance for each major federal program and to test and report on internal control over compliance in 
+accordance with the Uniform Guidance, but not for the purpose of expressing an opinion on the effectiveness of 
+internal control over compliance.  Accordingly, we do not express an opinion on the effectiveness of the District’s 
+internal control over compliance. 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control over compliance does 
+not allow management or employees, in the normal course of performing their assigned functions, to prevent, or detect 
+and correct, noncompliance with a type of compliance requirement of a federal program on a timely basis.  A material 
+weakness in internal control over compliance is a deficiency, or combination of deficiencies, in internal control over 
+compliance, such that there is a reasonable possibility that material noncompliance with a type of compliance 
+requirement of a federal program will not be prevented, or detected and corrected, on a timely basis.  A significant 
+deficiency in internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over 
+compliance with a type of compliance requirement of a federal program that is less severe than a material weakness in 
+internal control over compliance, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the first paragraph of 
+this section and was not designed to identify all deficiencies in internal control over compliance that might be material 
+weaknesses or significant deficiencies.  We did not identify any deficiencies in internal control over compliance that we 
+consider to be material weaknesses.  However, material weaknesses may exist that have not been identified. 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing of internal 
+control over compliance and the results of that testing based on the requirements of the Uniform Guidance.  
+Accordingly, this report is not suitable for any other purpose. 
+ 
+
+CBEW Professional Group, LLP  
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+
+
+
+   CUSHING SCHOOLS DISTRICT NO. I-67 
+ Payne County, Oklahoma 
+ 
+
+ 
+ 44 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+For the Fiscal Year Ended June 30, 2018 
+
+ 
+ 
+
+SUMMARY OF AUDITOR’S RESULTS 
+ 
+
+Financial Statements: 
+Type of Auditor’s Report Issued: Adverse opinion on the basic financial statements—regulatory basis in 
+conformity with generally accepted accounting principles and an unmodified opinion on the governmental 
+activities, each major fund and the aggregate remaining fund information in conformity with a regulatory basis of 
+accounting prescribed by the Oklahoma Department of Education. 
+ 
+Internal Control Over Financial Reporting: 
+
+Material Weakness(es) identified?     Yes X No 
+ 
+Significant Deficiencies identified not considered to be material weaknesses? None reported 
+ 
+Noncompliance material to financial statements noted?    Yes X No 
+
+ 
+Federal Awards:  
+Type of auditors report issued on compliance for major programs: Unmodified in conformity with the regulatory 
+basis of accounting. 
+ 
+Internal Control Over Major Programs: 
+
+Material Weakness(es) identified?     Yes X No 
+ 
+
+Significant Deficiencies identified not considered to be material weaknesses? None reported 
+ 
+Audit findings disclosed that are required to be reported in accordance with the Uniform Guidance, 
+Section .516(a)?      Yes X No 
+
+   
+  Dollar threshold used to distinguish Type A and Type B programs $750,000 
+   
+  Auditee Qualified as low-risk auditee?    Yes X No 
+ 
+ Identification of Major Programs: 
+  
+ CFDA# 
+  84.010  Title I 
+  84.367  Title II, Part A 
+  84.358  Title VI, Part B – Rural & Low Income 
+  84.060  Title VII – Indian Education 
+ 
+  
+FINDINGS - FINANCIAL STATEMENT AUDIT 
+ 
+
+1. None. 
+ 
+
+ 
+FINDINGS AND QUESTIONED COSTS - MAJOR FEDERAL AWARD PROGRAMS AUDIT 
+ 
+
+1. None 
+ 
+ 
+ 
+ 
+
+
+
+   CUSHING SCHOOLS DISTRICT NO. I-67 
+ Payne County, Oklahoma 
+ 
+
+ 
+ 45 
+
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS 
+For the Fiscal Year Ended June 30, 2018 
+
+ 
+ 
+None.   
+
+ 
+ 
+ 
+ 
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67 
+Payne County, Oklahoma 
+
+ 
+
+ 
+46 
+
+ 
+ACCOUNTANT’S PROFESSIONAL 
+LIABILITY INSURANCE AFFIDAVIT 
+
+ 
+JULY 1, 2017 TO JUNE 30, 2018 
+
+ 
+ 
+ 
+ 
+ 
+
+State of Oklahoma ) 
+ 
+ 
+County of Payne ) 
+ 
+ 
+The undersigned auditing firm of lawful age, being first duly sworn on oath, says that said firm had in 
+
+full force and effect Accountant’s Professional Liability Insurance in accordance with the “Oklahoma 
+
+Public School Audit Law” at the time of audit contract and during the entire audit engagement with 
+
+Cushing School District for the audit year 2017-2018.  
+
+ 
+
+ 
+CBEW PROFESSIONAL GROUP, LLP 
+Certified Public Accountants 
+ 
+ Auditing Firm 
+ 
+ 
+By ____________________________________________ 
+ 
+ Authorized Agent 
+ 
+ 
+Subscribed and sworn to before me on this ______________ day of, ____________________, 2018. 
+ 
+ 
+ 
+_______________________________________________ 
+                    Notary Public 
+ 
+ 
+My commission expires on: 
+ 
+     day of                 ,                     #                      .     
+
+
+
+CUSHING SCHOOL DISTRICT NUMBER I-67 
+Payne County, Oklahoma 
+
+June 30, 2018 
+ 
+
+ 
+ 
+
+ 
+AUDIT ACKNOWLEDGEMENT 
+
+ 
+The annual independent audit for the Cushing School District Number I-67 was 
+presented to the Board of Education in an Open Board Meeting on September 10, 
+2018, by CBEW Professional Group, LLP.  
+
+ __________________________ _ 
+    Auditor Signature   
+
+ 
+The School Board acknowledges that as the governing body of the district, 
+responsible for the district’s financial and compliance operations, the audit findings 
+and exceptions have been presented to them. 
+ 
+A copy of the audit, including this acknowledgement form, will be sent to the 
+Oklahoma State Department of Education and the State Auditor and Inspector within 
+30 days from it’s presentation, as stated in 70 O.S. § 22-108: 
+ 
+
+“The district board of education shall forward a copy of the auditor’s 
+opinions and related financial statements to the State Board of Education 
+and the State Auditor and Inspector within thirty (30) days after receipt of 
+the audit.” 
+
+  
+___________________________  ______________________________ 
+Superintendent of Schools    Board of Education Vice President 
+ 
+___________________________  ______________________________ 
+Board of Education President   Board of Education Member 
+ 
+       ______________________________ 
+       Board of Education Member 
+ 
+       ______________________________ 
+       Board of Education Member 
+ 
+ 
+Subscribed and sworn to before me on this __________ day of, ___________, 2018. 
+ 
+ 
+My commission expires on __________ day of ___________, 20_____. 
+ 
+ 
+___________________________ 
+Notary Public 
+        Affix Notary Seal 
+
+
+	Cover.pdf
+	Official.pdf
+	CUSHING SCHOOL DISTRICT NUMBER I-67
+	BOARD OF EDUCATION
+	CLERK OF BOARD OF EDUCATION
+	SCHOOL DISTRICT TREASURER
+	Karen Dooley
+
+	SUPERINTENDENT OF SCHOOLS
+
+	Contents.pdf
+	CONTENTS
+
+	Letter.pdf
+	INDEPENDENT AUDITOR'S REPORT
+	CBEW Professional Group, LLP
+
+	Cushing Schools MD&A.pdf
+	MANAGEMENT’S DISCUSSION AND ANALYSIS
+	For the Fiscal Year Ended June 30, 2018
+	Financial Highlights
+	Overview of the Financial Statements
+	Governmental-wide Financial Analysis
+	District’s Net position
+	District’s Changes in Net position
+	Financial Analysis of the Governments Funds
+	Capital Assets
+	Capital Assets at Year-end Excluding Accumulated Depreciation
+	Debt Administration
+	Outstanding Debt at Year-end – General Obligation Bonds and Lease Payable
+	Economic Factors and Next Year’s Budgets and Rates
+	Request for Information
+
+
+	Cushing Schools FS 18.pdf
+	gwsna
+	gwsa
+	bsgf
+	recon1
+	srecfbgf
+	recon2
+	sfna
+
+	Cushing Schools Notes 2018.pdf
+	A. Reporting Entity
+	B. Measurement Focus, Basis of Accounting and Basis of Presentation – Fund Accounting
+	C. Assets, Liabilities, Fund Balance, Revenue and Expenditures
+	1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)
+	C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued)
+	C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued)
+	C. Assets, Liabilities, Fund Balance, Revenue and Expenditures (Continued)
+	A. Deposits and Investments
+	Custodial Credit Risk
+	A. Deposits and Investments (Continued)
+	C. Long-term Debt
+	C. Long-term Debt (Continued)
+	D. Leases
+
+	E. Changes in General Long-term Debt
+	A. Risk Management
+	B. Contingent Liabilities
+	C. Non-Monetary Transactions
+	D. Employee Retirement System and Plan
+	Description of Plan
+	Basis of Accounting
+	Funding Policy
+
+
+	D. Employee Retirement System and Plan (Continued)
+
+
+
+	Cover.pdf
+	Cushing Schools FS 18.pdf
+	rsi
+
+	RSI Notes.pdf
+	BUDGETARY INFORMATION
+
+	Cover.pdf
+	Cushing Schools FS 18.pdf
+	combs
+	comre
+	sefa
+
+	Cover.pdf
+	Letter 2.pdf
+	CBEW Professional Group, LLP
+	INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR
+	CBEW Professional Group, LLP
+
+	Finding.pdf
+	For the Fiscal Year Ended June 30, 2018
+	For the Fiscal Year Ended June 30, 2018
+
+
+	Affidav.pdf
+	JULY 1, 2017 TO JUNE 30, 2018
+
+	ackknowledge.pdf
+

@@ -1,0 +1,3452 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - {38D7B7DE-088D-41BB-B4EF-C84DEC09E469}
+
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ARDMORE SCHOOL DISTRICT I-19 
+Carter County, Oklahoma 
+
+Financial Statements 
+Year-End June 30, 2018 
+
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Table of Contents 
+June 30, 2018 
+
+ 
+
+ 
+
+ Page 
+Independent Auditor’s Report ..................................................................................................... 1 
+ 
+Management’s Discussion and Analysis (Unaudited) .................................................................  4 
+ 
+Basic Financial Statements 
+ Government-wide Financial Statements: 
+        Statement of Net Position – Regulatory Basis ....................................................... 14 
+        Statement of Activities– Regulatory Basis ............................................................ 15 
+  Fund Financial Statements: 
+        Balance Sheet – Governmental Funds – Regulatory Basis ................................... 16 
+        Statement of Revenues, Expenditures, and Changes in 
+         Fund Balances – Governmental Funds – Regulatory Basis ................................... 17 
+        Reconciliation of the Statement of Revenues, Expenditures,  
+         and Changes in Fund Balances – Governmental Funds – Regulatory Basis 
+         to the Statement of Activities – Regulatory Basis ................................................. 18 
+ Notes to the Financial Statements ...................................................................................... 19 
+ 
+Other Information 
+ Budgetary Comparison Schedule – General Fund (Unaudited) ........................................ 39 
+
+Budgetary Comparison Schedule – Building Fund (Unaudited) ....................................... 40 
+Budgetary Comparison Schedule – Sinking Fund (Unaudited)  ....................................... 41 
+
+ Combining and Individual Fund Statements and Schedules: 
+     Combining Balance Sheet – Regulatory Basis - Other Governmental Funds ....... 42 
+ Combining Statement of Revenues, Expenditures and 
+     Changes in Fund Balances– Regulatory Basis - Other Governmental Funds ....... 43 
+ Combining Statement of Assets and Fund Balances – Activity Fund ............................... 44 
+ Schedule of Expenditures of Federal Awards ................................................................... 47 
+ Notes to Schedule of Expenditures of Federal Awards ………………………………. ... 49 
+ 
+Government Auditing Standards Section 
+ Independent Auditors’ Report on Internal Control over Financial Reporting and on  
+ Compliance and Other Matters Based on an Audit of Financial Statements Performed in  
+ Accordance with Governmental Auditing Standards ........................................................ 50 
+Single Audit Section 
+
+Independent Auditor’s Report on Compliance for Each Major Program and on  
+Internal Controls over Compliance Required by the Uniform Guidance .......................... 52  
+
+ Schedule of Findings and Questioned Costs ..................................................................... 54 
+ Summary Schedule of Prior Year Findings ....................................................................... 56 
+ 
+Other Oklahoma Department of Education Requirements 
+ Statement of Statutory Fidelity and Honesty Bonds (Unaudited) ..................................... 58 
+ Schedule of Accountant’s Professional Liability and Insurance (Unaudited)  .................. 59 
+
+
+
+ 
+ 
+ 
+
+2007 N. Commerce #200   ●   Ardmore, OK 73401      
+  Phone 580.826.3539   ●   Phone 405.322.5009   ●   Fax 855.999.2782      
+
+j‐acpas.com 
+
+1 
+
+INDEPENDENT AUDITOR’S REPORT 
+ 
+
+To the Board of Education 
+Ardmore School District No. I-19, Carter County, Oklahoma 
+Ardmore, Oklahoma 
+Report on the Financial Statements 
+We have audited the accompanying financial statements of the governmental activities, each major 
+fund, and the aggregate remaining fund information Ardmore School District No. I-19, Carter County, 
+Oklahoma, as of and for June 30, 2018, and the related notes to the financial statements, which 
+collectively comprise the District’s basic financial statements as listed in the table of contents. 
+Management’s Responsibility for the Financial Statements 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting practices prescribed by the Oklahoma State Department of Education 
+described in Note I; this includes the design, implementation, and maintenance of internal control 
+relevant to the preparation and fair presentation of financial statements that are free from material 
+misstatement, whether due to error or fraud. 
+Auditor’s Responsibility 
+Our responsibility is to express opinions on these financial statements based on our audit. We 
+conducted our audit in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States. Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether the financial statements are free from 
+material misstatement. 
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements. The procedures selected depend on the auditor’s judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or 
+error. In making those risk assessments, the auditor considers internal control relevant to the entity’s 
+preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness 
+of the entity’s internal control. Accordingly, we express no such opinion. An audit also includes 
+evaluating the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluating the overall presentation of the 
+financial statements. 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinions. 
+ 
+
+
+
+ 
+
+2 
+ 
+
+ 
+Basis for Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+As described in Note I, the financial statements are prepared by Ardmore School District No. I-19, 
+Carter County, Oklahoma, on the basis of the financial reporting provisions of Oklahoma State 
+Department of Education, which is a basis of accounting other than accounting principles generally 
+accepted in the United States of America, to comply with the requirements of Oklahoma State 
+Department of Education. The effects on the financial statements of the variances between the 
+regulatory basis of accounting described in Note I and accounting principles generally accepted in the 
+United States of America, although not reasonably determinable, are presumed to be material. 
+Adverse Opinion on U.S. Generally Accepted Accounting Principles 
+In our opinion, because of the significance of the matter discussed in the “Basis for Adverse Opinion 
+on U.S. Generally Accepted Accounting Principles” paragraph, the financial statements referred to in 
+the first paragraph do not present fairly, in accordance with accounting principles generally accepted in 
+the United States of America, the financial position of Ardmore School District No. I-19, Carter 
+County, Oklahoma, as of June 30, 2018, the changes in its financial position for the year then ended. 
+Unmodified Opinion on Regulatory Basis of Accounting 
+In our opinion, the financial statements referred to in the first paragraph present fairly, in all material 
+respects, the respective financial position on a regulatory basis of governmental activities, each major 
+fund and the aggregate remaining fund information on a regulatory basis of Ardmore School District 
+No. I-19, Carter County, Oklahoma, as of June 30, 2018, and the respective changes in financial 
+position on a regulatory basis for the year then ended, on the basis of the financial reporting provisions 
+of Oklahoma State Department of Education as described in Note I. 
+Other Matters 
+Other Information 
+Our audit was conducted for the purpose of forming opinions on the financial statements that 
+collectively comprise the Ardmore School District No. I-19, Carter County, Oklahoma’s financial 
+statements as a whole. The management discussion and analysis, budgetary comparison schedules, 
+combining nonmajor fund financial statements, statement of changes in activity fund subaccounts and 
+other information as listed in the table of contents are presented for purposes of additional analysis and 
+are not a required part of the financial statements. The accompanying schedule of expenditures of 
+federal awards, as required by Title 2 U.S. Code of Federal Regulations Part 200, Uniform 
+Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, is 
+presented for purposes of additional analysis and is also not a required part of the financial statements.  
+The combining nonmajor fund financial statements, statement of changes in activity fund subaccounts 
+and the schedule expenditures of federal awards  is the responsibility of management and was derived 
+from and relates directly to the underlying accounting and other records used to prepare the basic 
+financial statements. Such information has been subjected to the auditing procedures applied in the 
+audit of the financial statements and certain additional procedures, including comparing and 
+reconciling such information directly to the underlying accounting and other records used to prepare 
+the financial statements or to the financial statements themselves, and other additional procedures in 
+accordance with auditing standards generally accepted in the United States of America. In our opinion, 
+the information is fairly stated in all material respects in relation to the financial statements as a whole.  
+The Oklahoma Department of Education requires management discussion and analysis, budgetary 
+information, statement of statutory fidelity and honesty bonds and schedule of accountant’s 
+
+
+
+Government Auditing Standards
+Government Auditing Standards
+
+Government 
+Auditing Standards
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+4 
+ 
+
+ 
+As management of the Ardmore School District No. I-19, Carter County, Oklahoma (the “District”), 
+we offer readers of the District’s financial statements this narrative overview and analysis of the 
+financial activities of the District for the fiscal year ended June 30, 2018.  We encourage readers to 
+consider the information presented here.  The basic financial statements include government-wide 
+financial statements and fund financial statements.  For a further understanding of the difference 
+between these financial statements, a detailed discussion is provided on page 19.  
+ 
+Financial Highlights 
+ 
+With respect to the government-wide financial statements: 
+ 
+  The assets of the District exceeded its liabilities at the close of the most recent fiscal year by 
+
+$32,307,271 (net position), which is an increase of $723,825 from the prior year.  Of the 
+amount at June 30, 2018, $2,107,090 (unrestricted net position) may be used to meet the 
+entity’s ongoing obligations to citizens and creditors.   
+
+ 
+With respect to the fund financial statements: 
+ 
+  As of the close of the current fiscal year, the District’s governmental funds reported combined 
+
+ending fund balances of $9,671,387, a decrease of $135,285 from the prior year.  
+ 
+  At the end of the current fiscal year, unassigned fund balance for the general fund was 
+
+$1,642,637. 
+ 
+Other highlights: 
+ 
+The voters approved $2,500,000 Transportation Series Bonds in November 2017.  In February 2018, 
+the Board of Education approved the sale of $3,075,000 General Obligation Combined Purpose Bonds; 
+the proceeds were received by the District on March 22, 2018.  The purpose of these bonds were to 
+provide $1,000,000 proceeds for the Transportation series bonds and $2,075,000 proceeds for the 
+CCPFA lease payment as explained in the following paragraph.  Ten buses were purchased and 
+received by June 30, 2018. 
+ 
+On September 1, 2013, the Board of Education entered into ground lease and sublease agreements with 
+the Carter County Public Facilities Authority (CCPFA), a public trust, for the purpose of facilitating 
+the issuance of the bonds, to provide security for payment of the bonds, and to enable the District to 
+utilize the bond proceeds for the construction and placement of improvements on real property.  The 
+lease agreements will remain in effect to June 30, 2027.  In conjunction with these lease agreements, 
+the District will issue general obligation bonds to repay the lease.  The District received $2,075,000 
+proceeds from the $3,075,000 General Obligation Combined Purpose Bonds on March 22, 2018.   
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+5 
+ 
+
+In June 2018, a local charitable foundation granted the District $4,000,000 to help construct the 
+Performing Arts Center.  The grant will be distributed in annual payments of $500,000 from 2018 
+through 2025.  The first payment of $500,000 was received on June 7, 2018. 
+ 
+Overview of the Financial Statements 
+ 
+This discussion and analysis is intended to serve as an introduction to the entity’s basic financial 
+statements.  The District’s basic financial statements comprise three components: 1) government-wide 
+financial statements, 2) fund financial statements, and 3) notes to the financial statements.  This report 
+also contains other supplementary information in addition to the basic financial statements themselves. 
+ 
+Government-wide financial statements.  The government-wide financial statements include the 
+statement of net position – regulatory basis and the statement of activities – regulatory basis and are 
+designed to provide readers with a broad overview of the District’s finances, in a manner similar to a 
+private-sector business. 
+ 
+The statement of net position – regulatory basis presents information on all of the District’s assets and 
+liabilities, with the difference between the two reported as net position.  Over time, increases or 
+decreases in net position may serve as a useful indicator of whether the financial position of the 
+District is improving or deteriorating. 
+ 
+The statement of activities – regulatory basis presents information showing how the government’s net 
+position changed during the most recent fiscal year.  All changes in net position are reported using the 
+regulatory basis of accounting whereby revenues represent cash receipts collected by June 30th and 
+expenditures represent cash disbursements modified by encumbrances, investments, inventories, 
+capital assets, depreciation, and long-term debt.  
+ 
+The governmental activities of the District include instruction, supporting services, non-instruction 
+services, capital outlay, and other outlays.  These functions are principally supported by State of 
+Oklahoma appropriations, grants and fees. 
+ 
+The government-wide financial statements can be found on pages 14-15 of this report. 
+ 
+Fund financial statements.  A fund is a grouping of related accounts that is used to maintain control 
+over resources that have been segregated for specific activities or objectives.  The District uses fund 
+accounting to ensure and demonstrate compliance with finance-related legal requirements.  The 
+District only has governmental funds. 
+ 
+Governmental funds.  Governmental funds are used to account for essentially the same functions 
+reported as governmental activities in the government-wide financial statements. However, unlike the 
+government-wide financial statements, governmental fund financial statements focus on cash 
+collections and encumbrances, as well as balances of spendable resources available at the end of the 
+fiscal year.  Such information may be useful in evaluating a government’s near-term financing 
+requirements. 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+6 
+ 
+
+ 
+ 
+Overview of the Financial Statements (Continued) 
+ 
+Because the focus of governmental funds is narrower than that of the government-wide financial 
+statements, it is useful to compare the information presented for governmental funds with similar 
+information presented for governmental activities in the government-wide financial statements.  By 
+doing so, readers may better understand the long-term impact of the government’s near-term financing 
+decisions.  Both the governmental fund balance sheet – regulatory basis and the governmental fund 
+statement of revenues, expenditures, and changes in fund balances – regulatory basis provide a 
+reconciliation to facilitate this comparison between governmental funds and governmental activities. 
+ 
+The District maintains fourteen individual governmental funds.  Information is presented separately in 
+the governmental fund balance sheet and in the governmental fund statement of revenues, 
+expenditures, and changes in fund balances for the General Fund, Building Fund, Sinking Fund, Sales 
+Tax Fund and Bond Fund 37 which are considered to be major funds.  Data from the other nine 
+governmental funds are combined into an aggregated presentation.  Individual fund data for each of 
+these nonmajor governmental funds is provided in the form of combining statements elsewhere in this 
+report. 
+ 
+The District adopts an annual appropriated budget for its general fund, building fund, child nutrition 
+fund, coop fund, and sinking fund.  A budgetary comparison statement has been provided for the 
+general fund and all major funds to demonstrate compliance with this budget. 
+ 
+The basic governmental fund financial statements can be found on pages 16-17 of this report. 
+
+ 
+Notes to the financial statements.  The notes provide additional information that is essential to a full 
+understanding of the data provided in the government-wide and fund financial statements.  The notes 
+to the financial statements can be found on pages 19-37 of this report. 
+ 
+Other information.  In addition to the basic financial statements and accompanying notes, this report 
+also presents certain other information concerning the District’s budget to actual schedules on major 
+governmental funds, combining and individual fund statements and schedules.  Other information can 
+be found on pages 39-41 and pages 42-43 of this report. 
+ 
+Government-wide Financial Analysis 
+ 
+As noted earlier, net position may serve over time as a useful indicator of a government’s financial 
+position.  In the case of the District, assets exceeded liabilities by $32,307,271 at the close of the most 
+recent fiscal year, as shown on the following page. 
+
+ 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+7 
+ 
+
+The District’s Net Position 
+ 
+
+June 30, 2018 June 30, 2017
+ASSETS
+
+Cash and Cash Equivalents 11,465,653$          12,139,780$          
+Restricted Cash 132,929                 133,161                 
+Investments 37,666                   37,666                   
+Capital Assets:
+
+Land and Construction in Progress 609,807                 480,810                 
+Other Capital Assets, Net of Depreciation 45,201,077            45,445,964            
+
+Total Assets 57,447,132$          58,237,381$          
+
+LIABILITIES AND EQUITY
+Current Liabilities
+
+Warrants Payable 1,744,304$            2,247,638$            
+Reserve for Encumbrances 220,557                 256,297                 
+
+Long-Term Liabilities
+Due within one year 4,090,000              4,050,000              
+Due in more than one year 19,085,000            20,100,000            
+
+Total Liabilities 25,139,861$          26,653,935$          
+
+Net Position
+Invested in Capital Assets 24,927,585            24,000,600            
+Restricted 5,272,596              5,142,826              
+Unrestricted 2,107,090              2,440,020              
+
+Total Net Position 32,307,271$          31,583,446$          
+
+Governmental Activities
+
+ 
+ 
+The District’s Cash and Cash Equivalents decreased by $674,127, primarily due to purchasing of 
+technology and operational costs.  
+
+ 
+Restricted Cash of $132,929 consists of unused cash from the advanced lease revenue bonds from the 
+Carter County Public Facilities Authority (CCPFA).  
+
+ 
+The increase in land and construction in progress is primarily due to construction in progress change of 
+completed construction projects removed and construction in progress at year end of June 30, 2018 
+was a total of $167,157 which includes the following site improvement projects:  
+
+ 
+AMS Gym Floor 109,987$        
+IP Camera Systems - AHS Main Building Hallways, 
+Classrooms, Office, and Little Theater 57,170            
+
+167,157$        
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+8 
+ 
+
+ 
+Government-wide Financial Analysis (Continued) 
+ 
+Long-Term Liabilities include $7,755,000 of general obligation bonds and $15,420,000 of advanced 
+lease revenue bonds from the Carter County Public Facilities Authority (CCPFA).   These liabilities 
+were incurred for the purpose of constructing, equipping, repairing and remodeling school buildings, 
+acquiring school furniture, fixtures and equipment, acquiring and improving school sites, and 
+purchasing school buses.  These financing arrangements are described in Notes V and X of the 
+footnotes.  
+ 
+Governmental activities.  Governmental activities increased the District’s net position by $723,825.  
+Key elements of this decrease are shown below.  
+ 
+
+The District’s Changes in Net Position 
+ 
+
+June 30, 2018 June 30, 2017
+Primary Government
+
+Program Revenues:
+Charges for Services 1,204,851$            1,069,227$            
+Operating Grants and Contributions 6,801,203              6,081,773              
+Capital Grants and Contributions 61,434                   863,902                 
+     Total Program Revenues 8,067,488$            8,014,902$            
+
+General Revenues:
+Taxes:
+  Property Taxes, levied for general purposes 5,475,603$            5,407,579$            
+  Property Taxes, levied for building purposes 782,448                 772,727                 
+  Property Taxes, levied for sinking fund purposes 2,613,379              2,740,732              
+  General Taxes 2,716,144              2,601,892              
+Investment Earnings 101,293                 177,493                 
+State Aid - Noncategorical 9,813,521              9,382,151              
+Gain or (Loss) on Disposal of Assets (5,927)                   14,620                   
+Miscellaneous 445,044                 458,120                 
+     Total General Revenues 21,941,505$          21,555,314$          
+
+Total Revenues 30,008,993$          29,570,216$          
+
+Governmental Activities
+Expenses:
+
+Instruction 13,193,095            12,966,299            
+Support Services 13,120,143            12,648,323            
+Operation of Noninstructional Services 2,261,486              2,331,043              
+Facilities Acquisition & Construction Services 44,175                   18,930                   
+Scholarships, Awards, & Other 8,845                     14,450                   
+Interest on Long-Term Debt 653,862                 663,694                 
+Other Expenses and Refunds 3,562                     3,472                     
+
+  Total Expenses 29,285,168            28,646,211            
+
+Increase (Decrease) In Net Position 723,825                 924,005                 
+
+Net Position - Beginning 31,583,446            30,659,441            
+
+Net Position, Ending 32,307,271$          31,583,446$          
+
+Governmental Activities
+Year Ended
+
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+9 
+ 
+
+Government-wide Financial Analysis (Continued) 
+ 
+The District’s Operating Grants and Contributions had a net increase of $719,430 during the year 
+ended June 30, 2018, due to several large one-time donations, grant for the Performing Arts Center, 
+and the timing of federal claim reimbursements.  
+ 
+Capital Grants and Contributions decreased $802,468 primarily due to the donation of football field 
+artificial turf during the year ended June 30, 2017. 
+
+ 
+Property taxes levied for general purposes and building purposes increased $68,024 and $9,721, 
+respectively, during the year ended June 30, 2018, primarily due to slight increase in property 
+valuations.  
+
+ 
+Property taxes levied for sinking fund purposes decreased $127,353 during the year ended June 30, 
+2018, due to reduction of outstanding bond debt.  
+
+ 
+General taxes increased $114,252 primarily due to $155,937 increase in Gross Production Taxes net of 
+$46,672 reduction in Motor Vehicle Taxes.  
+ 
+Investment earnings decreased $76,200 due to $104,354 net decreased rental income primarily from a 
+building no longer being leased at full capacity, offset by $25,789 increase in interest income. 
+
+ 
+State Aid – Noncategorical revenues increased $431,370 primarily due to the effects of the following 
+categories in the state aid formula:  increase in state aid factors ($131,926), decrease in weighted ADM 
+($385,896), increase in ad valorem chargeable ($65,045), the reduction of other chargeables 
+($592,878), and a reduction of returned FY17 state aid ($88,066).  In addition to the increase in the 
+state aid formula, there was an increase in flexible benefit allowance of $245,573. 
+ 
+The $5,927 Loss on Disposal of Assets for the year ended June 30, 2018, is primarily attributable to 
+the obsolescence of technology-related equipment, software, and security systems.  
+
+ 
+Instruction expenses increased $226,796 primarily due to increase in teaching positions, new band 
+instruments, and outside instructional services.  These increases were offset by a decrease in 
+technology purchases. 
+ 
+Support Services increased $471,820 primarily due to the addition of instructional coaching positions, 
+a psychometrist, a few support employees, and depreciation expense.  These increases were offset by a 
+decrease in technology purchases, legal fees, and staff training. 
+ 
+Facilities Acquisition and Construction Services increased $25,245 primarily due to architectural 
+services provided to assist with the drawings and costs for proposed bond projects. 
+
+ 
+Interest on Long-Term Debt of $653,862 on long-term debt includes $574,142 interest on the CCPFA 
+lease revenue bonds and $79,720 on general obligation bonds.  
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+10 
+ 
+
+Financial Analysis of the Government’s Funds 
+ 
+As noted earlier, the District uses fund accounting to ensure and demonstrate compliance with finance-
+related legal requirements. 
+ 
+Governmental funds.  The focus of the District’s governmental funds is to provide information on cash 
+collections and encumbrances, as well as balances of spendable resources available at the end of the 
+fiscal year.  Such information is useful in assessing the District’s financing requirements.  In particular, 
+unassigned fund balance may serve as a useful measure of a government’s net resources available for 
+spending at the end of the fiscal year. 
+ 
+As of the end of the current fiscal year, the District’s governmental funds reported combined ending 
+fund balances of $9,671,387, a decrease of $135,285 in comparison with the prior year.  This amount 
+includes $1,642,637, unassigned fund balance, which is available for spending at the District’s 
+discretion.  
+ 
+The general fund is the chief operating fund of the District.  At the end of the current fiscal year, total 
+fund balance of the general fund was $2,107,090,` of which $464,453 was restricted by state statute, 
+donors and external grantors. 
+ 
+General Fund Budgetary Comparisons 
+ 
+The District budgets conservatively.  Revenues are budgeted based upon statutorily-limited amounts 
+equaling 90% of the prior year’s collections; approved millage rates for ad valorem taxes; and 
+approved allocation amounts from federal, state, and local grantors.  Expenditures and carryover are 
+budgeted based upon the legal appropriations approved by the county excise board.   
+ 
+During fiscal year ended June 30, 2018, General Fund property tax revenue was $1,234,539 less than 
+the budgeted amount, reflecting an 18% decrease in revenues. This decrease is primarily due to a 
+property valuation adjustment for 2014 that was made after the 2017 budget was presented and 
+approved by the County Excise Board. 
+ 
+State revenues increased $345,739 primarily due to an increase of $185,787 in State Foundation and 
+Salary Incentive Aid, a $245,573 increase Flexible Benefit Allowance offset by a $46,672 decrease in 
+Motor Vehicle taxes and a $17,074 decrease in School Land Earnings.  
+ 
+Federal revenues increased $57,333 primarily due to the timing of federal claim reimbursements. 
+ 
+Other revenues increased $413,474 primarily due to collection of a large, one-time local grant and 
+advanced funding of a grant for school nurses. 
+ 
+General fund actual instruction expenditures were $2,441,695 less than budgeted instruction 
+expenditures due to the District’s conservative approach to carryover fund balance to the next fiscal 
+year. 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+11 
+ 
+
+Capital Asset and Debt Administration 
+ 
+Capital assets.  The District’s investment in capital assets for its governmental activities as of June 30, 
+2018, amounts to $45,810,884 (net of accumulated depreciation).  This investment in capital assets 
+includes land, land improvements, buildings, buses, vehicles, machinery and equipment, and 
+construction in progress.  The net decrease in the District’s capital assets for the current fiscal year was 
+$115,890. 
+ 
+
+The District’s Capital Assets 
+(Net of Depreciation) 
+
+ 
+
+June 30, 2018 June 30, 2017
+
+Land 442,650$               442,650$               
+Land Improvements 3,571,184              3,553,544              
+Buildings 73,917,792            73,832,791            
+Buses and Vehicles 3,378,186              2,427,100              
+Machinery and Equipment 4,182,081              3,657,263              
+Construction in Progress 167,157                 38,160                   
+
+Total Capital Assets 85,659,050            83,951,508            
+
+Accumulated Depreciation (39,848,166)          (38,024,734)          
+
+Net Capital Assets 45,810,884$          45,926,774$          
+
+Governmental Activities
+
+ 
+ 
+Additional information on the District’s capital assets can be found in Note IV on page 27 of this 
+report. 
+ 
+At year-end, the District had $23,175,000 in long-term liabilities versus $24,150,000 last year, as 
+shown below: 
+ 
+
+June 30, 2018 June 30, 2017
+
+Capital Leases 15,420,000$          16,880,000$          
+General Obligation Debt 7,755,000              7,270,000              
+
+Total Governmental Activity Long-Term Liabilities 23,175,000$          24,150,000$          
+
+Governmental Activities
+
+ 
+ 
+Additional information on the District’s long-term obligations can be found in Note V to the financial 
+statements. 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Management’s Discussion and Analysis 
+
+June 30, 2018 
+(UNAUDITED) 
+
+ 
+
+12 
+ 
+
+Other Currently Known Facts, Decisions, or Conditions 
+ 
+On September 1, 2013, the Board of Education entered into ground lease and sublease agreements with 
+the Carter County Public Facilities Authority (CCPFA), a public trust, for the purpose of facilitating 
+the issuance of the bonds, to provide security for payment of the bonds, and to enable the District to 
+utilize the bond proceeds for the construction and placement of improvements on real property.  The 
+lease agreements will remain in effect to June 30, 2027.  In conjunction with these lease agreements, 
+the District will issue general obligation bonds to repay the lease.  On March 12, 2019, the Board of 
+Education approved a resolution to sell $2,075,000 general obligation bonds as part a $3,780,000 
+General Obligation Combined Purpose Bonds; the bonds will be sold on April 4, 2019. 
+ 
+On November 14, 2017, the voters of the District approved $2,500,000 General Obligation bonds to be 
+issued in series for the purpose of purchasing transportation equipment.  In June 2018, the District 
+received delivery of 10 school buses which were purchased for a total of $928,900.  On March 12, 
+2019, the Board of Education approved a resolution to sell the second series $300,000 general 
+obligation bond as a part of a $3,780,000 General Obligation Combined Purpose Bonds; the bonds will 
+be sold on April 4, 2019.  Subsequent series bonds of $300,000 each will be issued in years 2020 
+through 2023.   
+ 
+On April 3, 2018, the citizens of Ardmore, Oklahoma, supported the passing of a $44,165,000 series 
+bond issue for the purpose of constructing, equipping, repairing and remodeling school buildings, 
+acquiring school furniture, fixtures and equipment and acquiring and improving school sites.  Specific 
+projects include the construction and furnishing of a performing arts center, water intrusion mitigation 
+and foundation repairs at Charles Evans Elementary, improvements to outdoor canopies and cafeteria 
+restrooms at Ardmore High School, and purchasing school vehicles.  
+ 
+On August 1, 2018, the Board of Education entered into ground lease and sublease agreements with the 
+Carter County Public Facilities Authority (CCPFA), a public trust, for the purpose of facilitating the 
+issuance of the bonds, to provide security for payment of the bonds, and to enable the District to utilize 
+the bond proceeds for the construction and placement of improvements on real property.  The lease 
+agreements will remain in effect to June 30, 2034.  In conjunction with these lease agreements, the 
+District will issue general obligation bonds to repay the lease.  Proceeds of the first series bond of 
+$1,935,000 were received July 12, 2018.  On March 12, 2019, the Board of Education approved a 
+resolution to sell the second series $1,405,000 general obligation bond as a part of a $3,780,000 
+General Obligation Combined Purpose Bonds; the bonds will be sold on April 4, 2019.  Remaining 
+series of bonds will be sold in subsequent two-year increments in years 2020 through 2033.   
+ 
+Requests for Information 
+ 
+This financial report is designed to provide a general overview of the District’s finances for all those 
+with an interest in the entity’s finances.  Questions concerning any of the information provided in this 
+report or requests for additional financial information should be addressed to Ardmore School District 
+No. I-19, Carter County, Oklahoma District, P.O. Box 1709, Ardmore, Oklahoma 73402. 
+ 
+
+
+
+ 
+
+13 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BASIC FINANCIAL STATEMENTS
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Statement of Net Position – Regulatory Basis 
+June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+14 
+
+ 
+
+Governmental
+Activities
+
+ASSETS
+Cash and Cash Investments 11,465,653$    
+Restricted Cash 132,929
+Investments 37,666
+Capital Assets: 
+
+Land and Construction in Progress 609,807
+Other Capital Assets, net of depreciation 45,201,077
+
+Total Assets 57,447,132$    
+
+LIABILITIES AND NET POSITION
+Current Liabilities
+
+Warrants Payable 1,744,304$      
+Reserve for Encumbrances 220,557
+
+Long -term liabilties
+Due within one year 4,090,000
+Due in more than one year 19,085,000
+
+Total Liabilities 25,139,861$    
+
+Net Position
+Net Investment in Capital Assets 24,927,585$    
+Restricted for
+
+Building Services 1,099,200        
+Child Nutrition 816,341
+Debt Service 2,401,674
+Instructional Materials and Technology 427,700
+Alternative Education 83,020
+School Organizations 365,523
+Scholarships
+
+Expendable 27,972
+Nonexpendable 51,166
+
+Unrestricted 2,107,090        
+Total Net Position 32,307,271$    
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Statement of Activities– Regulatory Basis 
+For the Year Ended June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+15 
+ 
+
+Net (Expense) Revenue and
+Program Revenues    Changes in Net Position
+
+Operating Capital Primary Government
+Charges for Grants and Grants and Governmental
+
+Expenses Services Contributions Contributions Activities
+Functions/Programs
+Primary Government
+
+Governmental Activities
+Instruction 13,193,095$     407,726$       3,736,800$    -$                   (9,048,569)$       
+Support Services 13,120,143       308,741         1,168,321      -                     (11,643,081)       
+Operation of Noninstructional Services 2,261,486         440,606         1,698,740      61,434 (60,706)              
+Facilities Acquisition and Construction Services 44,175              -                     12,056           -                     (32,119)              
+Scholarships, Awards and Other 8,845                -                     4,000             -                     (4,845)                
+Interest on Long-Term Debt 653,862            -                     -                    -                     (653,862)            
+Other Expenses and Refunds 3,562                47,778           181,286         -                     225,502             
+
+Total Governmental Activities 29,285,168$     1,204,851$    6,801,203$    61,434$          (21,217,680)$     
+
+General Revenues
+Taxes 
+
+Property taxes, levied for general purposes 5,475,603$        
+Property taxes, levied for building purposes 782,448
+Property taxes, levied for sinking fund purposes 2,613,379
+General Taxes 2,716,144
+
+Investment Earnings 101,293
+State Aid - Noncategorical 9,813,521
+Gain or (Loss) on Disposal of Assets (5,927)                
+Miscellaneous 445,044             
+
+Total General Revenues 21,941,505$      
+   Change in Net Position 723,825$           
+
+Net Position - Beginning 31,583,446
+Net Position - Ending 32,307,271$      
+
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Balance Sheet – Governmental Funds– Regulatory Basis 
+June 30, 2018 
+
+ 
+
+See Notes to Financial Statements 
+ 
+
+16 
+ 
+
+Other
+General Building Sinking Sales Bond Governmental
+Fund Fund Fund Tax Fund Fund 37 Funds Total
+
+Assets
+Cash and Cash Investments 3,343,429$            1,304,860$            2,401,674$            716,186$                2,062,146$            1,637,358$              11,465,653$      
+Restricted Cash -                             -                             -                             -                             -                             132,929                    132,929             
+Investments -                             -                             -                             -                             -                             37,666                      37,666               
+
+Total Assets 3,343,429$             1,304,860$             2,401,674$             716,186$                2,062,146$             1,807,953$               11,636,248$       
+
+Liabilities
+Warrants Outstanding 1,147,000$             78,297$                  -$                           284,631$                -$                           234,376$                  1,744,304$         
+Reserve for Encumbrances 89,339                   127,363                 -                             3,855                     -                             -                               220,557             
+
+Total Liabilities 1,236,339$             205,660$                -$                           288,486$                -$                           234,376$                  1,964,861$         
+
+Fund Balances
+Nonspendable -$                           -$                           -$                           -$                           -$                           51,166$                    51,166$              
+Restricted 464,453                 1,095,129              2,401,674              423,777                 2,056,245              1,145,041                 7,586,319          
+Committed -                             -                             -                             -                             -                             365,523                    365,523             
+Assigned -                             4,071                     -                             3,923                     5,901                     11,847                      25,742               
+Unassigned 1,642,637              -                             -                             -                             -                             -                               1,642,637          
+
+Total Fund Balances 2,107,090$             1,099,200$             2,401,674$             427,700$                2,062,146$             1,573,577$               9,671,387$         
+
+Total Liabilities and Fund Balances 3,343,429$             1,304,860$             2,401,674$             716,186$                2,062,146$             1,807,953$               
+
+Amounts reported for governmental activities in the statement of net assets are different because:
+Capital assets used in governmental activities are not financial resources and,
+
+therefore, are not reported in the fund. The costs of assets is $85,659,050
+and the accumulated depreciation is $39,848,166. 45,810,884        
+
+Long-term capital lease and bond payable obligations are not due and payable in the current period and accordingly 
+are not reported as fund liabilities. Long-term liablities at year-end consist of: 
+
+Bond Payable: 7,755,000                    
+Capital Lease Payable: 15,420,000                  
+
+(23,175,000)       
+
+Net position of governmental activities. 32,307,271$       
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Statement of Revenues, Expenditures and Changes in Fund  
+Balances – Governmental Funds– Regulatory Basis 
+
+For the Year Ended June 30, 2018 
+ 
+
+See Notes to Financial Statements 
+ 
+
+17 
+ 
+
+Other
+General Building Sinking Sales Tax Bond Governmental
+
+Fund Fund Fund Fund Fund 37 Funds Total
+REVENUE
+
+Property Taxes 5,488,634$        782,448$          2,613,379$       -$                      -$                      -$                      8,884,461          
+Interest 22,026               4,071                20,082 3,923 5,901 18,227               74,230               
+County Revenue 620,924             -                        -                        661,197 -                        -                        1,282,121          
+State Revenue 12,201,200        -                        -                        -                        -                        407,938             12,609,138        
+Federal Revenue 2,750,764          -                        -                        -                        -                        1,499,136          4,249,900          
+Other 1,190,935          637,512            3,998                -                        -                        3,468,398          5,300,843          
+
+Total Revenue 22,274,483$      1,424,031$       2,637,459$       665,120$          5,901$              5,393,699$        32,400,693$      
+
+EXPENDITURES
+Current
+
+Instruction 12,307,222$      -$                      -$                      348,659$          -$                      512,527$           13,168,408$      
+Support Services 9,776,898          791,495 -                        90,537 26,922              592,197             11,278,049        
+Non-instruction Services 102,303             -                        -                        -                        -                        1,992,114          2,094,417          
+
+Capital Outlay 138,283             229,168 -                        476,204 2,049,000 3,057,375          5,950,030          
+Other Outlays 289,551             -                        498 -                        -                        187,147             477,196             
+Debt Service
+
+Principal Payment -                         -                        2,590,000 -                        -                        -                        2,590,000          
+Interest Paid -                         -                        79,720              -                        -                        -                        79,720               
+
+Total Expenditures 22,614,257$      1,020,663$       2,670,218$       915,400$          2,075,922$       6,341,360$        35,637,820$      
+
+Excess (Deficiency) of Revenues
+Over (Under) Expenditures (339,774)$          403,368$          (32,759)$          (250,280)$        (2,070,021)$     (947,661)$         (3,237,127)$       
+
+Adjustments to Prior Year Encumbrances 6,844                 19,998              -                        -                        -                        -                        26,842               
+
+Other Financing Sources
+Transfers -$                       (3,000)$            -$                      -$                      -$                      3,000$               -$                       
+Proceeds of Bonds -                         -                        -                        -                        2,075,000         1,000,000          3,075,000          
+
+Total Other Financing Sources -$                       (3,000)              -                        -                        2,075,000$       1,003,000          3,075,000          
+
+Net Change in Fund Balances (332,930)$          420,366$          (32,759)$          (250,280)$        4,979$              55,339$             (135,285)$          
+
+Fund Balances - Beginning 2,440,020          678,834            2,434,433         677,980            2,057,167         1,518,238          9,806,672          
+
+Fund Balances - Ending 2,107,090$        1,099,200$       2,401,674$       427,700$          2,062,146$       1,573,577$        9,671,387$         
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Reconciliation of Statement of Revenues, Expenditures and Changes in Fund  
+Balances – Governmental Funds – Regulatory Basis to the Statement of Activities – Regulatory Basis 
+
+For the Year Ended June 30, 2018 
+ 
+
+See Notes to Financial Statements 
+ 
+
+18 
+ 
+
+Amounts reported for governmental activities
+ in the statement of activities are different because:
+
+Net change in fund balances - total governmental funds (135,285)$        
+
+Governmental funds report capital outlays as expenditures. However, in the
+statement of activities the costs of those assets are allocated over their estimated
+useful lives and reported as depreciation expense.  This is the amount by which Capital Outlay 1,871,275$        
+depreciation expense exceeded capital outlays in the current period. Depreciation Expense (1,980,825)         (109,550)          
+
+The net effect of various miscellaneous transactions involving
+capital assets (I.e., sales, trade-ins, disposals and donations) is to (6,340)              
+decrease net position.
+
+Bond proceeds are reported as financing sources in governmental funds and thus contribute
+to the change in fund balance.  In the statement of net position however issuing debt increases 
+long term liabilities and does not affect the statement of activities. Similarly, repayment of principal
+is an expenditure in the governmental funds but reduces the liability in the statement of net position. 
+Debt repayments this year exceeds debt issued: Debt Issued (3,075,000)         
+
+Debt Repayments 2,590,000          (485,000)          
+
+The repayment of the principal on capital leases consumes current financial resources
+of government funds. However this transaction does not have an effect on 
+net position. 1,460,000        
+
+Change in net position of governmental activities 723,825$         
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+19 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+ 
+
+ 
+The Ardmore School District No. I-19, Carter County, Oklahoma (the “District”) is a corporate 
+body for public purposes created under Title 70 of the Oklahoma Statutes and accordingly is a 
+separate entity for operating and financial reporting purposes.  The District is part of the public 
+school system of Oklahoma under the general direction and control of the State Board of 
+Education and is financially dependent on the state of Oklahoma for support.  The general 
+operating authority for the public school system is the Oklahoma School Code contained in 
+Title 70, Oklahoma Statutes. 
+ 
+The Reporting Entity 
+The governing body of the District is the Board of Education composed of elected members.  
+The superintendent is the executive officer of the Board of Education and the administrative 
+head of the District. 
+
+ 
+Financial Statement Presentation  
+ The District prepares its financial statements in a presentation format that is, in substance, the 
+format established by the Governmental Accounting Standards Board (GASB) Statement No. 
+34, Basic Financial Statement-Management’s Discussion and Analysis-for State and Local 
+Governments. 
+ GASB Statement No. 34 established a financial reporting model for state and local 
+governments that included the addition of management’s discussion and analysis, government-
+wide financial statements, required supplementary information and the elimination of the 
+effects of internal service activities and the use of account groups to the already required fund 
+financial statements and notes. 
+ 
+Government-Wide and Fund Financial Statements 
+ 
+The District’s basic financial statements include both government-wide (reporting the District 
+as a whole) and fund financial statements (reporting the District’s major funds). Both 
+government-wide and fund financial statements categorize primary activities as either 
+governmental or business type. Governmental activities include programs primarily supported 
+by taxes, State aid, grants and other intergovernmental revenue. The District does not have any 
+activities classified as business-type. The government-wide focus is more on the sustainability 
+of the District as an entity and the change in the District’s net position resulting from current 
+year’s activities.  
+ 
+Government-Wide Financial Statements: In the government-wide Statement of Net Position- 
+regulatory basis, the District’s governmental activities are reported on cash receipts and 
+disbursement basis modified as required by regulations of the Oklahoma Department of 
+Education to include fixed assets, long-term debt and obligations. The District’s net position is 
+reported in three parts: net investment in capital assets, restricted net position and unrestricted 
+net position.  
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+20 
+
+ 
+
+ 
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+
+ 
+The government-wide Statement of Activities – regulatory basis reports both the gross and net 
+cost of each of the District’s programs and functions. The functions are also supported by 
+general government revenues. The Statement of Activities – regulatory basis reduces gross 
+expenses (including depreciation) by related program revenues, operating and capital grants. 
+Direct expenses are those that are clearly identifiable with a specific function.  Program 
+revenues include 1) charges to students, faculty, individuals, or other school districts that 
+purchase, use, or directly benefit from goods, services, or privileges provided by a given 
+function and 2) grants and contributions that are restricted to meeting the operational or capital 
+requirements of a particular function.  Taxes, interest, transfers and other items not properly 
+included among program revenues are reported instead as general revenues. 
+
+ 
+ All interfund transactions are eliminated in the government-wide statements. 
+
+ 
+Fund Financial Statements: Governmental fund financial statements are reported using the 
+cash receipts and disbursements basis of accounting modified as required by the Oklahoma 
+Department of Education to include investments and inventories on hand, encumbrances issued 
+and warrants outstanding. The fund financial statements provide reports on the financial 
+condition and results of operations of governmental fund categories. 
+ 
+The District reports the following major governmental funds: 
+ 
+
+General Fund is the primary operating fund of the District. It is used to account for all 
+financial resources except those required to be accounted for in another fund. 
+ 
+Building Fund is used to account for resources restricted by statutes for ad valorem 
+taxes designated for repair, maintenance, acquisition and construction of buildings. 
+ 
+Debt Service Fund – The District accounts for the accumulation of funds for the 
+periodic payment of general long-term debt in this fund. 
+ 
+Sales Tax Fund – is used to account for proceeds of sales taxes used for instructional 
+materials, technology, building furniture, equipment and construction.  
+ 
+Bond Fund 37 – is used to account for proceeds from long-term financing and 
+revenues and expenditures related to authorized construction and other capital asset 
+acquisitions.   
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+21 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+Additionally, the District reports the following fund types included in the Other Governmental 
+Funds column: 
+ 
+
+Special Revenue Funds – The District accounts for resources restricted or committed 
+to specific purposes other than debt service or capital projects where the foundation for 
+the fund is those resources or if the fund is legally mandated in special revenue funds. 
+ 
+Capital Project Funds -- The proceeds from long-term financing and revenues and 
+expenditures related to authorized construction and other capital asset acquisitions are 
+accounted for in a capital projects fund.   
+ 
+Permanent Fund – The District reports resources that are restricted to the extent that 
+only earnings, and not principal, may be used to support the District’s programs in this 
+fund. 
+
+ 
+Basis of Accounting 
+ 
+Basis of accounting refers to when revenues and expenditures are recognized in the accounts 
+and reported in the financial statements. It relates to the timing of the measurements made 
+regardless of the measurement focus applied. 
+
+ 
+As to the basis of accounting, the basic financial statements are essentially prepared on a basis 
+of cash receipts and disbursements modified as required by the regulations of the Oklahoma 
+Department of Education as follows: 
+ Encumbrances represented by purchase orders, contracts, and other commitments for 
+
+the expenditure of monies and are recorded as expenditures when approved. 
+ Vendor obligations due and payable for goods and services received are recorded as a 
+
+payable until paid. 
+ Warrants/Checks payable are recorded as liabilities when issued. 
+ Investments and inventories are recorded as assets when purchased and reduced when 
+
+used. 
+  Capital assets in the government-wide statements are recorded when acquired and 
+
+depreciated over their useful lives. 
+ Long-term debt reported in the government-wide statements is recorded when incurred. 
+ Accrued compensated absences are recorded as an expenditure and liability when the 
+
+obligation is incurred. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+22 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+This regulatory basis of accounting differs from accounting principles generally accepted in the 
+United States of America, which would have required the government-wide financial 
+statements as well as the fiduciary fund financial statements to be presented on the accrual 
+basis of accounting. The fund financial statements under accounting principles generally 
+accepted in the United States of America would have been presented on the modified accrual 
+basis of accounting. These financial statements are presented on the basis of accounting 
+described above. 
+ 
+
+ 
+Deposits and Investments 
+
+ 
+The District’s cash and cash equivalents are considered to be cash on hand, demand deposits, 
+and short-term investments with original maturities of three months or less from the date of 
+acquisition. Collateral in the form of obligations of the U.S. government or its agencies, 
+municipalities or the State of Oklahoma is required for demand deposits and certificates of 
+deposit for all amounts not covered by federal depository insurance. 
+
+ 
+Permissible investments include direct obligations of the United States government and 
+agencies; certificates of deposit of savings and loan associations, and bank and trust companies; 
+and savings accounts or savings certificates of savings and loan associations, banks and trust 
+companies.   
+ 
+Investments for the District are reported at historical value. The investments held by the 
+District as equity securities were donated. 
+
+ 
+Inventories  
+
+ 
+The value of consumable inventories at June 30, 2018 is not material to the financial 
+statements. On the government-wide financial statements, United States Department of 
+Agriculture (USDA) food commodities are recorded as revenue at fair value as of the date of 
+receipt and as an expense when used. USDA food commodities are not reported in the 
+governmental funds. 
+
+ 
+Capital Assets 
+
+ 
+Capital assets, which include land, land improvements, buildings, buses and vehicles, 
+machinery and equipment, and construction in progress, are reported in the applicable 
+governmental activities columns in the government-wide financial statements.  Capital assets  
+ 
+ 
+
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+23 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+are defined by the government as assets with an initial individual cost of more than $5,000 and 
+an estimated useful life in excess of one year.  Such assets are recorded at historical cost or  
+estimated historical cost if purchased or constructed. Donated capital assets are recorded at 
+estimated fair market value at the date of donation.  
+
+ 
+The costs of normal maintenance and repairs that do not add to the value of the asset or 
+materially extend assets lives are not capitalized. Major outlays for capital assets and 
+improvements are capitalized as projects are constructed. 
+
+ 
+Property, plant, and equipment of the District, is depreciated using the straight-line method 
+over the following estimated useful lives. 
+
+ 
+               Assets    Years 
+   Land Improvements       15 
+   Buildings    20 – 40 
+   Buses & Vehicles   5 – 10 
+   Machinery and Equipment  3 – 10  
+ 
+
+Net Position 
+When the District incurs an expense for which it may either use restricted or unrestricted net 
+position, it uses restricted net position first unless unrestricted net position will have to be 
+returned because they are not used. 
+ 
+Net assets on the Statement of Net Position – Regulatory Basis include the following: 
+ 
+
+Net Investment in Capital Assets, – The component of net position that reports the 
+difference between capital assets less both accumulated depreciation and the 
+outstanding balance of debt  that is directly attributable to the acquisition, construction 
+and improvement of these capital assets. 
+ 
+Restricted for Building Services – The component of net position that reports the excess 
+of property taxes and other revenues collected in excess of expenses for operation of the 
+District’s buildings. This amount is restricted by Oklahoma Statutes. 
+ 
+Restricted for Child Nutrition – The component of net position that report the assets 
+restricted for use by the Child Nutrition program. 
+ 
+Restricted for Debt Service – The component of net position that report the assets 
+restricted for payment of principal and interest on general long-term debt. 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+24 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+Restricted for Instructional Materials and Technology – The component of net position 
+that report the excess of sales tax restricted for technology and instructional materials 
+by voters. 
+
+ 
+Restricted for Alternative Education – The component of net position that report the 
+assets restricted for alternative education programs. 
+ 
+Restricted for School Organizations – The component of net position that report the 
+assets restricted for use by student organizations and extracurricular activities.  This 
+amount is restricted by Oklahoma Statutes. 
+ 
+Restricted for Scholarships – The component of net position that report the assets 
+restricted for scholarships. 
+ 
+Unrestricted – The difference between assets and liabilities that is not reported as 
+restricted for any other purposes. 
+
+ 
+Fund Equity 
+
+ 
+The governmental fund financial statements present fund balances based on classifications that 
+comprise a hierarchy that is based primarily on the extent to which the District is bound to 
+honor constraints on the specific purposes for which amounts in the respective governmental 
+funds can be spent. The classifications used in the governmental fund financial statements are 
+as follows: 
+
+ 
+ Nonspendable: This classification includes amounts that cannot be spent because they 
+
+are either (a) not in spendable form or (b) are legally or contractually required to be 
+maintained intact. The District has classified the original funds donated in the 
+Endowment Fund as being nonspendable as these amounts are legally required to be 
+maintained intact. 
+
+ Restricted: This classification includes amounts for which constraints have been placed 
+on the use of the resources either (a) externally imposed by creditors (such as through a 
+debt covenant), grantors, contributors, or laws or regulations of other governments, or 
+(b) imposed by law through constitutional provisions or enabling legislation. The 
+District has classified amounts restricted by state statute, donors and external grantors in 
+this classification. 
+
+ Committed: This classification includes amounts that can be used only for specific 
+purposes pursuant to constraints imposed by formal action of the Board of Education. 
+These amounts cannot be used for any other purpose unless the Board of Education 
+removes or changes the specified use by taking the same type of action (resolution) that 
+was employed when the funds were initially committed. This classification also includes 
+contractual obligations to the extent that existing resources have been specifically 
+committed for use in satisfying those contractual requirements. The District has 
+classified school organization activities as being committed because their use is 
+governed by Board of Education action. 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+25 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+
+ Assigned: This classification includes amounts that are constrained by the District’s 
+intent to be used for a specific purpose but are neither restricted nor committed. This 
+intent can be expressed by the Board of Education or through the Board of Education 
+delegating this responsibility to the superintendent through the budgetary process. This 
+classification also includes the remaining positive fund balance for all governmental 
+funds except for the General Fund. The District has assigned funds for interest earnings 
+to the special revenue funds and capital project funds where earned by the budgetary 
+process. 
+
+ Unassigned: This classification includes the residual fund balance for the General Fund. 
+The Unassigned classification also includes negative residual fund balance of any other 
+governmental fund that cannot be eliminated by offsetting of Assigned fund balance 
+amounts. 
+
+ 
+As of June 30, 2018, fund balances are comprised of the following: 
+ 
+
+Other Total
+General Building Sinking Sales Tax Bond Governmental Governmental
+
+Fund Fund Fund Fund Fund 37 Funds Funds
+Nonexpendable
+
+Endowment -$                 -$                    -$                     -$                     -$                     51,166$           51,166$           
+Restricted
+
+Debt Service -                   -                      2,401,674        -                       -                       -                       2,401,674        
+Building Operation and Maintenance -                   1,095,129       -                       -                       -                       -                       1,095,129        
+Alternative Education -                   -                      -                       -                       -                       82,583             82,583             
+State and Private Grants 464,453        -                      -                       -                       -                       -                       464,453           
+Child Nutrition -                   -                      -                       -                       -                       810,143           810,143           
+Instructional Materials and Technology -                   -                      -                       423,777           -                       423,777           
+School Facilities -                   -                      -                       -                       2,056,245        224,437           2,280,682        
+Scholarships -                   -                      -                       -                       -                       27,878             27,878             
+
+Committed -                       
+School Organizations -                   -                      -                       -                       -                       365,523           365,523           p y
+
+Assigned
+Building Operation and Maintenance -                   4,071              -                       -                       -                       -                       4,071               
+Alternative Education -                   -                      -                       -                       -                       437                  437                  
+Child Nutrition -                   -                      -                       -                       -                       6,198               6,198               
+Instructional Materials and Technology -                   -                      -                       3,923               -                       3,923               
+School Facilities -                   -                      -                       -                       5,901               5,118               11,019             
+Scholarships -                   -                      -                       -                       -                       94                    94                    g
+Outstanding encumbrances -                   -                      -                       -                       -                       -                       -                       
+
+Unassigned 1,642,637     -                      -                       -                       -                       -                       1,642,637        
+2,107,090$   1,099,200$     2,401,674$      427,700$         2,062,146$      1,573,577$      9,671,387$       
+
+ 
+The District would typically use restricted fund balances first, followed by committed 
+resources, and then assigned resources as appropriate opportunities arise, but reserves the right 
+to selectively spend unassigned resources first to defer the use of these other classified funds. 
+ 
+Property Tax Revenues 
+
+ 
+The District is authorized by state law to levy property taxes which consist of ad valorem taxes 
+on real and personal property within the District.  The County Assessor, upon receipt of the 
+certification of tax levies from the county excise board, extends the tax levies on the tax roll for 
+submission to the county treasurer prior to October 1.  The county treasurer must commence 
+tax collection within fifteen days of receipt of the tax rolls.  The taxes are due one-half prior to 
+January 1 and the balance prior to April 1. If the first payment is not made timely, the entire tax 
+becomes due and payable on January 2.  Second half taxes become delinquent on April 1 of the 
+year following the year of assessment.   
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+26 
+
+ 
+
+I. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued) 
+ 
+Property Tax Revenues (Continued) 
+ 
+If not paid for a period of three years or more as of the date of such taxes first become due, the 
+property is offered for sale for the amount of taxes due. 
+ 
+State Revenues 
+
+ 
+Revenues from state sources for current operations are primarily governed by the state aid 
+formula under the provisions of Article XVIII, Title 70, Oklahoma Statutes.  The State Board 
+of Education administers the allocation of state aid funds to school districts based on 
+information accumulated from the districts. Approximately 39% of the District’s revenue 
+comes from state sources. 
+ 
+ After review and verification of reports and supporting documentation, the State Department 
+of Education may adjust subsequent fiscal period allocations of money for prior year errors 
+disclosed by review.  Normally, such adjustments are treated as reductions or additions of 
+revenue of the year when the adjustment is made. 
+
+ 
+The District receives revenue from the state to administer certain categorical educational 
+programs.  State Board of Education rules require that revenue earmarked for these programs 
+be expended only for the program for which the money is provided and require that the money 
+not expended as of the close of the fiscal year be carried forward into the following year to be 
+expended for the same categorical programs.   
+ 
+
+II. BUDGETARY INFORMATION  
+ 
+
+The District is required by law to prepare an annual budget. No later than October 1, each 
+Board of Education shall prepare a financial statement and estimate of needs to be filed with 
+the applicable county clerk and the State Department of Education. Once the county excise 
+board has approved the estimate of needs, the Board shall adopt a final budget within 45 days 
+or the second regularly scheduled board meeting. No later than 15 days prior to adoption of a 
+final budget, the Board must conduct a public hearing for purposes of taking public comments.  
+ 
+A final budget may be revised upon approval of the Board of Education in open meeting. 
+ 
+A budget is legally adopted for the General Fund, Building Fund, Child Nutrition Fund, Coop 
+Fund and Sinking Fund that includes revenue and expenditures. Budgets generally assume the 
+expenditure of all available resources. Therefore, when the legal budget is prepared, it is 
+assumed these funds will not have a carryover balance to a subsequent year. Program revenue 
+received but not spent is restricted and deferred to a subsequent fiscal year. 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+27 
+
+ 
+
+III. DEPOSITS AND INVESTMENTS 
+ 
+
+Custodial Credit Risk - Custodial credit risk for deposits is the risk that in the event of a bank 
+failure, the District’s deposits may not be returned or the District will not be able to recover 
+collateral securities in the possession of an outside party.  The District’s policy requires 
+collateral for demand deposits and certificates of deposit for all amounts not covered by federal 
+deposit insurance.  As of June 30, 2018, cash deposits and investments were fully insured or 
+collateralized by a pledging bank’s agent in the District’s name. 
+ 
+Investment – The District’s investment of $37,666 at June 30, 2018, represents equity 
+securities valued at historical value that were donated to the District. These securities are 
+uninsured and exposed to the risk that in the event of the failure of the counterparty, the District 
+will not be able to recover the value of the investment. 
+ 
+
+IV. CAPITAL ASSETS 
+ 
+
+Capital asset activity for the year ended June 30, 2018 was as follows: 
+Beginning Ending
+Balance Increases Decreases Balance
+
+Government Activities:
+Capital assets, not being depreciated
+
+Land 442,650$               -$                       -$                            442,650$               
+Construction in progress 38,160                   192,587              63,590                     167,157                 
+
+Total capital assets, not being depreciated 480,810$               192,587$            63,590$                   609,807$               
+
+Capital assets, being depreciated
+  Land Improvements 3,553,544$       17,640$              -$                            3,571,184$            
+  Buildings 73,832,791       90,071                5,070                       73,917,792            
+  Buses and Vehicles 2,427,100         951,086              -                              3,378,186              
+  Machinery and  Equipment 3,657,263         683,481              158,663                   4,182,081              
+
+Total capital assets, being depreciated 83,470,698$          1,742,278$         163,733$                 85,049,243$          
+
+Less Accumulated Depreciation 38,024,734            1,980,825           157,393                   39,848,166            
+
+Total capital assets, being depreciated, net 45,445,964$          (238,547)$          6,340$                     45,201,077$          
+
+Governmental activities capital assets, net 45,926,774            (45,960)              69,930                     45,810,884            
+
+Total Primary Government 45,926,774$          (45,960)$            69,930$                   45,810,884$          
+ 
+
+ 
+Depreciation expense was charged to functions/programs of the District as follows: 
+
+ 
+Government activities:
+
+Instruction 25,727$       
+Support 1,920,519    
+Non-Instruction 34,579
+
+Total depreciation expense - governmental activities 1,980,825$  
+ 
+
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+28 
+
+ 
+
+V. LONG-TERM DEBT 
+ 
+
+Long-term liability activity for the year ended June 30, 2018, was as follows: 
+ 
+
+Beginning 
+Balance Additions Reductions Ending Balance
+
+Due within One 
+Year
+
+Capital Leases 16,880,000$   -$                    1,460,000$   15,420,000$    1,485,000$     
+General Obligation Debt 7,270,000       3,075,000       2,590,000     7,755,000        2,605,000       
+
+Total Governmental 
+Activity Long-Term 
+Liabilities 24,150,000$   3,075,000$     4,050,000$   23,175,000$    4,090,000$     
+
+ 
+The District has entered financing arrangements with the Carter County Public Facilities 
+Authority (see Note X). These financing arrangements are accounted for as capital leases, since 
+for accounting purposes the title transfers at the end of lease term. The leases contain a clause 
+which gives the District the ability to terminate the lease agreements at the end of each fiscal 
+year. 
+
+ 
+The schedule of future minimum lease payments under the capital leases and the present value 
+of the net minimum lease payments for years ending June 30th are as follows: 
+ 
+
+Year Ended June 30, Amount Due 
+2019 2,028,766$     
+2020 2,037,906       
+2021 2,033,294       
+2022 2,035,325       
+2023 2,038,650       
+
+Thereafter 8,179,756       
+Less: Interest (2,933,697)      
+
+Total 15,420,000$    
+ 
+
+Leased construction in progress, buildings and equipment under capital leases in capital assets 
+at June 30, 2018, included the following: 
+ 
+
+Capital assets, being depreciated
+
+Buildings 17,733,124$     
+less Accumulated Depreciation (822,612)           
+
+16,910,512$      
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+29 
+
+ 
+
+V. LONG-TERM DEBT (Continued) 
+ Bonds Payable at June 30, 2018 is composed of the following individual general obligation 
+
+bond issues:  
+Amount 
+
+Oustanding 
+
+2,075,000$      
+
+530,000           
+
+3,075,000        
+
+2,075,000        
+
+7,755,000$      
+
+Independent School District, I-19 General Obligation Building Bonds of 2017, 
+original issue $2,075,000, interest rates of 1.650%, due in an annual installment of 
+$2,075,000 on 2/1/20
+
+Independent School District, I-19 General Obligation Building Bonds of 2014, 
+original issue $2,075,000, interest rates from 0.90% to 1.15%, due in annual 
+installments of $515,000 and  $530,000; the final installment due 5/1/19
+
+Independent School District, I-19 General Obligation Combined Purpose Bonds of 
+2018, original issue $3,075,000, interest rates of 2.75%, due in an annual 
+installment of $1,180,000 and $1,895,000; the final installment due on 3/1/21
+
+Independent School District, I-19 General Obligation Building Bonds of 2016, 
+original issue $2,075,000, interest rates of 1.20%, due in an annual installment of 
+$2,075,000 on 3/1/19
+
+ 
+ As of June 30, 2018, the annual requirements to amortize all bond debt outstanding, including 
+
+interest payments, are as follows:   
+ 
+
+Year Ended June 30, Principal Interest Total 
+2019 2,605,000$     99,470$          2,704,470$   
+2020 3,255,000       203,363          3,458,363     
+2021 1,895,000       52,113            1,947,113     
+
+Total 7,755,000$     354,946$        8,109,946$   
+ 
+
+ 
+ State statute prohibits the District from becoming indebted in an amount exceeding the 
+
+revenue to be received for any fiscal year without approval by the District’s voters. Bond 
+issues have been approved by the voters and issued by the District for various capital 
+improvements. These bonds are required to be fully paid serially within 25 years from the 
+date of issue. General obligation bonded debt of the District is limited by state law to 10% of 
+the assessed valuation of the District.  The legal debt limit at June 30, 2018 is approximately 
+$15,344,000.  
+
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+30 
+
+ 
+
+ 
+V. LONG-TERM DEBT (Continued) 
+ 
+ Pledged Revenues  
+ 
+
+The District has pledged $24,900,000 of future issuances of general obligation bonds to repay 
+$19,700,000 plus interest lease revenue bonds with Carter County Public Facilities Authority 
+(CCPFA). Proceeds from the lease revenue bonds are to be for the construction and placement 
+of improvements on real property. The general obligation bonds will be issued prior to the 
+payment due of the lease purchase payments to Carter County Public Facilities Authority. One 
+hundred percent of the general obligation bonds will be used to pay the lease revenue bond 
+payments and bond issuance costs. The annual payments started September 1, 2015 and will 
+continue with final payment due to CCPFA on September 1, 2026.  
+ 
+Property tax revenues collected by the District are pledged to repay the District’s General 
+Obligation Bonds.   As of June 30, 2018, $7,755,000 general obligations were outstanding and 
+$62,265,000 of general obligations bonds were authorized but not issued. Current year had 
+collected $2,613,379 of pledged revenues and paid $2,669,720 of principal and interest expense 
+toward obligations.   
+ 
+
+ 
+VI. EMPLOYEE RETIREMENT SYSTEM 
+ 
+
+Teachers’ Retirement System of Oklahoma 
+ 
+
+Plan Description - The District contributes to the state-administered Oklahoma Teachers' 
+Retirement System ("TRS"), a cost-sharing, multiple-employer public employee retirement 
+system.  The System is administered by a board of trustees. TRS provides retirement, disability 
+and death benefits to plan members and beneficiaries. Oklahoma State Statute 70-17 assigns 
+the authority to establish and amend benefit provisions to the TRS Board of Trustees. The 
+System issues a publicly available report that includes financial statements and required 
+supplementary information for TRS. That report may be obtained by contacting the Oklahoma 
+Teachers’ Retirement System. 
+
+ 
+Benefits Provided – The System provides defined retirement benefits based on members’ final 
+compensation, age, and term of service. In addition, the retirement program provides for 
+benefits upon disability and to survivors upon the death of eligible members. Title 70 O.S. Sec. 
+17-105 defines all retirement benefits. The authority to establish and amend benefit provisions 
+rests with the State Legislature.  
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+31 
+
+ 
+
+ 
+VI. EMPLOYEE RETIREMENT SYSTEM (continued)  
+
+ 
+Funding Policy – Under the System, contributions are made by the District, the State of 
+Oklahoma, and participating employees. Participation is required for all teachers and other 
+certified employees and is optional for all other regular employees of public educational 
+institutions who work at least 20 hours per week.  
+ 
+Contributions – In accordance with Oklahoma Statutes, System members are required to 
+contribute 7.00% of applicable compensation.  For the year ended June 30, 2018, qualifying 
+employee contributions were reduced by a retirement credit of $138,787 provided by Enrolled 
+House Bill 1873 and paid by the State of Oklahoma as on-behalf payments.  For the year ended 
+June 30, 2018, the District had a statutory contribution rate of 9.5% plus 7.80% as a match for 
+salaries funded by federal programs.  The contribution requirements of System members and 
+the District are established and may be amended by the state legislature.  For the year ended 
+June 30, 2018, the District contributions to the System for were $1,579,984. 
+
+ 
+The State of Oklahoma, a non-employer contributing entity, provides funds through 5% of the 
+State’s sales, use, corporate and individual income taxes collected. The System receives 1% of 
+the cigarette taxes collected by the State and 5% of net lottery proceeds collected by the State.  
+The District’s estimated share of these contributions based on their covered payroll for the 
+measurement period was $1,066,558. 
+
+ 
+Pension Liability and Pension Expense  
+At June 30, 2018, the District’s proportionate share of the net pension liability was 
+$24,413,297. The net pension liability was measured as of June 30, 2017, and the total pension 
+liability used to calculate the net pension liability was determined by an actuarial valuation as 
+of that date. The District’s proportion of the net pension liability was based on a projection of 
+the District’s long-term share of the contributions to the pension plan relative to the projected 
+contributions of all participating school districts, actuarially determined. At June 30, 2017, the 
+District’s proportion was 0.36792453% which was a decrease of 0.00490420% of the 
+proportion measured as of June 30, 2016.  
+ 
+The long-term expected rate of return on pension plan investments was determined using a 
+building block method in which best estimate ranges of expected future real rates of return 
+(expected returns, net of pension plan investment expense and inflation) are developed for each 
+major asset class. These ranges are combined to produce the long-term expected rate of return 
+by weighting the expected future real rates of return by the target asset allocation percentage 
+and by adding expecting inflation. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+32 
+
+ 
+
+ 
+VI. EMPLOYEE RETIREMENT SYSTEM (continued)  
+
+ 
+The target asset allocation and best estimates of arithmetic expected real rates of return for each 
+major asset class as of June 30, 2017, are summarized in the following table: 
+
+Asset Class Target Allocation
+
+Long-Term 
+Expected Real 
+Rate of Return
+
+Fixed Income 23.50% 2.50%
+Domestic Equity 38.50% 7.50%
+International Equity 19.00% 8.50%
+Private Equity
+Real Estate 9.00% 4.50%
+Alternative Assets 10.00% 6.10%
+
+100.00%
+ 
+
+Discount rate –A single discount rate of 7.50% was used to measure the total pension liability 
+as of June 30, 2017.  This single discount rate was based solely on the expected rate of return 
+on pension plan investments of 7.50%. Based on the stated assumptions and the projection of 
+cash flows, the pension plan’s fiduciary net position and future contributions were projected to 
+be available to finance all projected future benefit payments of current plan members. 
+Therefore, the long-term expected rate of return on pension plan investments was applied to all 
+periods of projected benefit payments to determine the total pension liability. 
+ 
+Sensitivity of the District’s proportionate share of the net pension liability to changes in the 
+discount rate – The following presents the District’s proportionate share of the net pension 
+liability calculated using the discount rate of 7.50%, as well as what the District’s proportionate 
+share of the net pension liability would be if it were calculated using a discount rate that is 1-
+percentage-point lower (6.50%) or 1-percentage-point higher (8.50%) than the current rate: 
+ 
+
+Sensitivity to changes in discount rate (Per Teacher Retirement system  CAFR audit report notes 
+1% Decrease 
+
+(6.50%)
+Current Discount 
+
+Rate (7.50%)
+1% Increase 
+
+(8.50%)
+District's Proportionate 
+share of the net pension 
+liability 33,624,770$                24,413,297$                16,702,235$                   
+
+ 
+Pension plan fiduciary net position – Detailed information about the pension plan’s fiduciary 
+net position is available in the separately issued TRS financial report that can be obtained at 
+http://www.ok.gov/trs/. 
+ 
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+33 
+
+ 
+
+ 
+VII. OTHER POST EMPLOYMENT BENEFITS (OPEB)  
+
+ 
+In addition to the retirement plan described in Note VI, the District participates in the state-
+administered  Supplemental Health Insurance Program (OPEB Plan) within Teachers’ 
+Retirement System of Oklahoma (the OPEB System), which is a cost-sharing multiple-
+employer defined benefit OPEB plan administered by the Teacher Retirement System (TRS). 
+ 
+Plan Description – The OPEB System pays a monthly health insurance premium supplement 
+for each retired member who is enrolled in the health insurance plan provided by the State and 
+Education Employees Group Health and Dental Insurance plan or in an insurance program 
+provided by a participating education employer who provides health insurance coverage to 
+former employees, provided the retired member had at least ten (10) years of Oklahoma service 
+prior to retirement.  
+ 
+Benefits Provided – All retirees are eligible except for special retirees (as defined) and spouses 
+and beneficiaries as long as they have at least 10 years of service.  Retirees who elect such 
+coverage receive the smaller of (i) a Medicare supplement benefit, if eligible, or (ii) an amount 
+between $100 and $105 per month, depending on service and final average compensation. 
+Payments made on the retirees’ behalf to the Employees Group Insurance Division of the 
+Office of Management and Enterprise Services, if the member continues health coverage under 
+that Plan, or (ii) to the member’s former employer, if the member retains health coverage under 
+a plan maintained by the former employer. 
+ 
+Contributions – Employer and employee contributions are made based upon the TRS Plan 
+provisions contained in State Statute Title 70, as amended. However, the statutes do not specify 
+or identify any particular contribution source to pay the health insurance subsidy. The cost of 
+the subsidy averages 0.15% of normal cost, as determined by an actuarial valuation. 
+ 
+Since the District prepares the financials under regulatory basis as required by the Oklahoma 
+State Department of Education, the net OPEB liability (asset) is disclosure only. At June 30, 
+2018, the District’s proportionate share of the net OPEB asset of $164,073. The net OPEB 
+asset was measured as of June 30, 2017, and the total OPEB asset used to calculate the net 
+OPEB asset was determined by an actuarial valuation as of that date. The District’s proportion 
+of the net OPEB asset was based on a projection of the District’s long-term share of the 
+contributions to the OPEB plan relative to the projected contributions of all participating school 
+districts, actuarially determined.  
+ 
+At June 30,2017, the District’s proportion was 0.36792453%, as compared to  its proportion 
+share of 0.37282873% measured as of June 30, 2016. 
+ 
+See Note VI. Employee pension plans for Actuarial measurement, discount rate, long-term 
+expected rate of return and target asset allocation 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+34 
+
+ 
+
+ 
+VII.  OTHER POST EMPLOYMENT BENEFITS (OPEB) (continued)  
+ 
+
+Sensitivity of the District’s proportionate share of the net OPEB asset to changes in the 
+discount rate – The following presents the District’s proportionate share of the net OPEB asset 
+calculated using the discount rate of 7.50%, as well as what the District’s proportionate share 
+of the net OPEB asset would be if it were calculated using a discount rate that is 1-percentage-
+point lower (6.50%) or 1-percentage-point higher (8.50%) than the current rate: 
+
+1% Decrease 
+(6.50%)
+
+Current 
+Discount Rate 
+
+(7.50%)
+1% Increase 
+
+(8.50%)
+District's Proportionate share of 
+the OPEB liability (asset) (6,868)$                       (164,073)$                 (298,481)$                 
+
+ 
+Due to the structure of the OPEB plan, healthcare cost trend rate sensitivity analysis is not 
+meaningful. 
+ 
+OPEB plan fiduciary net position – Detailed information about the OPEB plan’s fiduciary net 
+position is available in the separately issued TRS financial report that can be obtained at 
+http://www.ok.gov/trs/. 
+ 
+
+VIII. COMMITMENTS AND CONTINGENCIES  
+ 
+Amounts received or receivable from grantor agencies are subject to audit and adjustment by 
+grantor agencies.  Any disallowed claims, including amounts already collected, may constitute 
+a liability of the applicable funds.  The amount, if any, of expenditures which may be 
+disallowed by the grantor cannot be determined at this time although the District expects such 
+amounts, if any, to be immaterial. 
+
+ 
+The District is a defendant in lawsuits. Although the outcome of these lawsuits is not presently 
+determinable, the District believes the resolution of these matters will not have a material 
+adverse effect on the financial condition of the District. Should a judgment be awarded against 
+the District, it would be levied through the District’s sinking fund over a three-year period 
+pursuant to state law.  
+ 
+The District entered into several construction-related contracts during the fiscal year, which 
+include additions, new construction, and remodeling of school buildings. As of June 30, 2018, 
+the District had outstanding construction-related commitments totaling $225,823 that will be 
+financed from proceeds from building fund and sales tax fund.   
+
+Construction 
+Commitments 
+
+Building Fund 21 198,101$             
+Sales Tax Fund 25 27,722                 
+
+225,823$             
+ 
+
+Subsequent to June 30, 2018, the District entered into $248,070 of construction-related projects 
+to be financed from building fund and sales tax fund. 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+35 
+
+ 
+
+ 
+IX. RISK MANAGEMENT  
+ 
+
+The District is exposed to various risks of loss related to torts, theft, damage and destruction of 
+assets, errors and omission, injuries to employees, life and health of employees, and natural 
+disasters for which the District purchases commercial insurance. There have been no 
+significant reductions in coverage from prior year and settlements have not exceeded coverage 
+in the past three years.  
+
+  
+ X. LEASE REVENUE BOND AGREEMENTS 
+ 
+ On September 1, 2013, the Board of Education entered into ground lease and sublease 
+
+agreements with the Carter County Public Facilities Authority (CCPFA), a public trust, for the 
+purpose of facilitating the issuance of the bonds, to provide security for payment of the bonds, 
+and to enable the District to utilize the bond proceeds for the construction and placement of 
+improvements on real property.  The lease agreements will remain in effect to June 30, 2027. 
+The Authority advanced $19,700,000 in lease revenue bonds, series 2013, to the District for the 
+acquisition and construction of buildings and improvements.  The District will use money 
+received from General Obligation Debt to repay the lease. The advanced funds are being held 
+in a trust and District remits applications for payments.  The capital assets acquired and 
+constructed have been shown as capital assets on the District’s statement of net position. The 
+remaining balance of the advanced fund is reported as Restricted Cash in CCPFA Bond Fund 
+on Balance Sheet of Governmental Funds and on the Statement of Net Position.   
+
+ 
+XI. TAX ABATEMENT  
+   
+ The State of Oklahoma has authorized by the Oklahoma State Statutes Title 31 to offer 
+
+homestead and Veterans exemptions to Ad Valorem property taxes.  These exemptions reduce 
+the ad valorem taxes remitted to the District.   
+
+ 
+The State of Oklahoma has authorized by Oklahoma Statutes 62-850 the creation of tax 
+increment financing (TIF) districts. These districts are intended to provide incentives and 
+exemptions from taxation within certain areas to encourage investment, development and 
+economic growth. The District is subject to tax abatements granted by the City of Ardmore. 
+The City of Ardmore created TIF District #2 in May 2003, amended the project plan in August 
+2016, and projected the TIF to terminate December 31, 2021. The purpose of TIF District #2 is 
+to develop the Ardmore Commons, Ardmore Family Entertainment Center, Market Street 
+Shopping Center, and surrounding areas. This TIF district reduces the ad valorem taxes 
+remitted to the District over the term of the agreement. 
+
+ 
+For the year ended June 30, 2018, abated property taxes were $1,374,541. 
+
+ 
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+36 
+
+ 
+
+XII. NEW GASB STANDARDS  
+ 
+
+GASB Statement No.75, Postemployment Benefits Other Than Pensions establishes standards 
+for recognizing and measuring liabilities, deferred outflows and inflows of resources and 
+expenses/expenditures. Furthermore, this statement details the recognition and disclosure 
+requirements for employers with payables to defined benefit OPEB plans that are administered 
+by trusts that meet the specified criteria and for employers whose employees are provided with 
+defined contribution OPEB. Since the District’s financial statements are reported using the cash 
+receipts and disbursements modified basis as required by the regulations of the Oklahoma 
+Department of Education, the net OPEB liability (asset) is not required to be presented in these 
+financial statements, but the District’s portion of net OPEB liability (asset) is disclosed in Note 
+VII to the financial statements.  
+
+ 
+ 
+XIII.  SUBSEQUENT EVENTS 
+ 
+
+On September 1, 2013, the Board of Education entered into ground lease and sublease 
+agreements with the Carter County Public Facilities Authority (CCPFA), a public trust, for the 
+purpose of facilitating the issuance of the bonds, to provide security for payment of the bonds, 
+and to enable the District to utilize the bond proceeds for the construction and placement of 
+improvements on real property.  The lease agreements will remain in effect to June 30, 2027.  
+In conjunction with these lease agreements, the District will issue general obligation bonds to 
+repay the lease.  On March 12, 2019, the Board of Education approved a resolution to sell 
+$2,075,000 general obligation bonds as part a $3,780,000 General Obligation Combined 
+Purpose Bonds; the bonds will be sold on April 4, 2019. 
+ 
+On November 14, 2017, the voters of the District approved $2,500,000 General Obligation 
+bonds to be issued in series for the purpose of purchasing transportation equipment.  In June 
+2018, the District received delivery of 10 school buses which were purchased for a total of 
+$928,900.  On March 12, 2019, the Board of Education approved a resolution to sell the second 
+series $300,000 general obligation bond as a part of a $3,780,000 General Obligation 
+Combined Purpose Bonds; the bonds will be sold on April 4, 2019.  Subsequent series bonds of 
+$300,000 each will be issued in years 2020 through 2023.   
+ 
+On April 3, 2018, the citizens of Ardmore, Oklahoma, supported the passing of a $44,165,000 
+series bond issue for the purpose of constructing, equipping, repairing and remodeling school 
+buildings, acquiring school furniture, fixtures and equipment and acquiring and improving 
+school sites.  Specific projects include the construction and furnishing of a performing arts 
+center, water intrusion mitigation and foundation repairs at Charles Evans Elementary, 
+improvements to outdoor canopies and cafeteria restrooms at Ardmore High School, and 
+purchasing school vehicles.  
+ 
+On August 1, 2018, the Board of Education entered into ground lease and sublease agreements 
+with the Carter County Public Facilities Authority (CCPFA), a public trust, for the purpose of 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Financial Statements 
+June 30, 2018 
+
+ 
+
+ 
+37 
+
+ 
+
+facilitating the issuance of the bonds, to provide security for payment of the bonds, and to 
+enable the District to utilize the bond proceeds for the construction and placement of 
+improvements on real property.  The lease agreements will remain in effect to June 30, 2034.  
+In conjunction with these lease agreements, the District will issue general obligation bonds to 
+repay the lease.  Proceeds of the first series bond of $1,935,000 were received July 12, 2018.  
+On March 12, 2019, the Board of Education approved a resolution to sell the second series 
+$1,405,000 general obligation bond as a part of a $3,780,000 General Obligation Combined 
+Purpose Bonds; the bonds will be sold on April 4, 2019.  Remaining series of bonds will be 
+sold in subsequent two-year increments in years 2020 through 2033. 
+ 
+The District has evaluated subsequent events through March 19, 2019, the date which the 
+financial statements were available to be issued.     
+ 
+
+ 
+ 
+
+ 
+
+
+
+ 
+
+ 
+38 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OTHER  INFORMATION
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Budgetary Comparison Schedule –General Fund (Unaudited) 
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+39 
+
+ 
+
+Variance
+Actual Amounts With Final
+
+Original Final Budgetary Basis Budget
+REVENUE
+
+Property Taxes 6,723,173$             6,723,173$       5,488,634$       (1,234,539)$   
+Interest 13,834 13,834              22,026 8,192             
+County Revenue 552,572                  552,572            620,924 68,352           
+State Revenue 11,855,461             11,855,461       12,201,200 345,739         
+Federal Revenue 2,693,431               2,693,431         2,750,764 57,333           
+Other 777,461                  777,461            1,190,935         413,474         
+
+Total Revenue 22,615,932$           22,615,932$     22,274,483$     (341,449)$      
+
+EXPENDITURES
+Current
+
+Instruction 14,821,365$           14,821,365$     12,379,670 2,441,695$    
+Support Services 9,842,733 9,842,733 9,842,733 -                 
+Non-instruction Services 102,303 102,303 102,303 -                 
+
+Other Outlays 289,551                  289,551            289,551            -                 
+Total Expenditures 25,055,952$           25,055,952$     22,614,257$     2,441,695$    
+
+Excess (Deficiency) of Revenues
+Over (Under) Expenditures (2,440,020)$           (2,440,020)$     (339,774)$        2,100,246$    
+
+Adjustments to Prior Year Encumbrances -                             -                        6,844                6,844             
+
+Net Change in Fund Balance (2,440,020)             (2,440,020)       (332,930)          2,107,090      
+
+Fund Balance - Beginning 2,440,020               2,440,020         2,440,020         -                 
+Fund Balance - Ending -$                           -$                      2,107,090$       2,107,090$    
+
+Budgeted Amounts
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Budgetary Comparison Schedule –Building Fund (Unaudited) 
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+40 
+
+ 
+
+Variance
+Actual Amounts With Final
+
+Original Final Budgetary Basis Budget
+REVENUE
+
+Property Taxes 960,721$         960,721$          782,448$          (178,273)$      
+Interest 2,781 2,781                4,071                1,290              
+Other 1,231               1,231                637,512            636,281          
+
+Total Revenue 964,733$         964,733$          1,424,031$       459,298$        
+
+EXPENDITURES
+Current
+
+Instruction -$                    -$                     -$                     -$               
+Support Services 851,121           851,121            791,495 59,626            
+Non-instruction Services -                  -                   -                   -                 
+
+Capital Outlay 792,446 792,446 229,168 563,278          
+Other Outlays -                  -                   -                   -                 
+
+Total Expenditures 1,643,567$      1,643,567$       1,020,663$       622,904$        
+
+Excess (Deficiency) of Revenues
+Over (Under) Expenditures (678,834)         (678,834)          403,368            1,082,202       
+
+Adjustments to Prior Year Encumbrances -                  -                   19,998              19,998            
+
+Other Financing Sources
+Transfers Out -                  -                   (3,000)              (3,000)            
+Total Other Financing Sources -                  -                   (3,000)              (3,000)            
+
+Net Change in Fund Balance (678,834)         (678,834)          420,366            1,099,200       
+
+Fund Balance - Beginning 678,834           678,834            678,834            -                 
+Fund Balance - Ending -$                -$                 1,099,200$       1,099,200$     
+
+Budgeted Amounts
+
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Budgetary Comparison Schedule – Sinking Fund (Unaudited) 
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+41 
+
+ 
+
+ Original and 
+Final Budget 
+
+ Actual 
+Budgetary 
+Amounts  
+
+ Variance with 
+Final Budget  
+
+REVENUE
+Property Taxes 2,497,739$      2,613,379$     (115,640)$           
+Interest -                  20,082 (20,082)               
+Other -                  3,998.00         (3,998)                 
+
+Total Revenue 2,497,739$      2,637,459$     (139,720)$           
+
+EXPENDITURES
+Debt Service
+
+Interest Paid 102,573$         80,218$          22,355$              
+Principal Retirement 2,490,000 2,455,194 34,806                
+
+Total Expenditures 2,592,573$      2,535,412$     57,161$              
+
+Net Change in Fund Balance (94,834)           102,047          196,881              
+
+Fund Balance - Beginning 94,834             2,434,433 2,339,599           
+Fund Balance - Ending -$                    2,536,480$     2,536,480$         
+
+Reconciliation between Budgetary Comparison Schedule
+and Statement of Revenues Collected, Expenditures Paid and Changes in Fund Balances. 
+
+Actual amounts "Total Expenditures Paid" from budgetary comparison Schedule: 2,535,412$         
+Adjustments for Bond and Interest Accruals: 134,806
+
+2,670,218$         
+
+Actual amounts "Ending Cash Balances" from budgetary comparison Schedule: 2,536,480$         
+Adjustments for Bond and Interest Accruals: (134,806)             
+
+2,401,674$         
+
+ Total Expenditures Paid as reported on the State of Revenues Collected, 
+Expenditures Paid and Changes in Fund Balances  
+
+ Ending Cash Balances as reported on the State of Revenues Collected, 
+Expenditures   Paid and Changes in Fund Balances  
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Combining Balance Sheet – Regulatory Basis – Other Governmental Funds 
+June 30, 2018 
+
+ 
+
+ 
+42 
+
+ 
+
+Permanent Fund 
+Bond 36 Bond 38 CCPFA Bond Coop Child Nutrition Gifts Take II Activity Endowment
+
+Fund Fund Fund Fund Fund Fund Fund Fund Fund Total
+Assets
+
+Cash and Cash Investments 33,719$               62,907$               -$                        88,167$         999,282$             15,364$               13,616$               397,245$             27,058$                  1,637,358$          
+Restricted Cash -                          -                          132,929 -                     -                           -                           -                           -                           -                              132,929               
+Investments -                          -                         -                        -                   -                         -                          -                         -                         37,666                  37,666                
+
+Total Assets 33,719$               62,907$               132,929$             88,167$         999,282$             15,364$               13,616$               397,245$             64,724$                  1,807,953$          
+
+Liabilities
+Warrants Payable -$                        -$                        -$                        16,854$         182,941$             -$                         1,909$                 31,722$               950$                       234,376$             
+Reserve for Encumbrances -                          -                          -                          -                     -                           -                           -                           -                           -                              -                           
+  Total Liabilities -$                        -$                        -$                        16,854$         182,941$             -$                         1,909$                 31,722$               950$                       234,376$             
+
+Fund Balances
+Nonspendable -$                        -$                        -$                        -$                   -$                         -$                         -$                         -$                         51,166$                  51,166$               
+Restricted 33,498                 60,800                 130,139               70,876           810,143               15,270                 11,707                 -                           12,608                    1,145,041            
+Committed -                          -                          -                          -                     -                           -                           -                           365,523               -                              365,523               
+Assigned 221                      2,107                   2,790                   437                6,198                   94                        -                           -                           -                              11,847                 
+Unassigned -                          -                          -                          -                     -                           -                           -                           -                           -                              -                           
+
+Total Fund Balances 33,719                 62,907                 132,929               71,313           816,341               15,364                 11,707                 365,523               63,774                    1,573,577            
+
+Total Liabilities and Fund Balances 33,719$               62,907$               132,929$             88,167$         999,282$             15,364$               13,616$               397,245$             64,724$                  1,807,953$          
+
+Special Revenue Funds Capital Projects Funds 
+
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Combining Statement of Revenue, Expenditures and Changes in Fund Balance – Regulatory Basis 
+– Other Governmental Funds 
+
+For the Year Ended June 30, 2018 
+ 
+
+ 
+43 
+
+ 
+
+ 
+Permanent Fund 
+
+Bond 36 Bond 38 CCPFA Bond Coop Child Nutrition Gifts Take II Activity Endowment
+Fund Fund Fund Fund Fund Fund Fund Fund Fund Total
+
+REVENUE
+Interest 221$                2,107 2,790 437$             6,198$              94$                  -$                     2,749$             3,631$                 18,227$           
+State Revenue -                       -                       -                       178,730        229,208            -                       -                       -                       -                           407,938           
+Federal Revenue -                       -                       -                       -                    1,499,136         -                       -                       -                       -                           1,499,136        
+Other -                       -                       2,049,000        265,459        85,030              4,000               50,498             1,014,411        -                           3,468,398        
+
+Total Revenue 221$                2,107$             2,051,790$      444,626$      1,819,572$       4,094$             50,498$           1,017,160$      3,631$                 5,393,699$      
+
+EXPENDITURES
+Current
+
+Instruction -$                     -$                     -$                     278,443$      -$                     -$                     49,284$           184,800$         -$                         512,527$         
+Support Services -                       10,300 20,880 166,118        -                       4,885 20,767             365,287 3,960                   592,197           
+Non-instruction Services -                       -                       -                       -                    1,712,487         -                       -                       279,627 -                           1,992,114        
+
+Capital Outlay -                       928,900 2,034,142 -                    64,047              -                       -                       30,286 -                           3,057,375        
+Other Outlays -                      -                     -                     -                  757                  -                      -                     186,390         -                         187,147         
+
+Total Expenditures -$                     939,200$         2,055,022$      444,561$      1,777,291$       4,885$             70,051$           1,046,390$      3,960$                 6,341,360$      
+
+Excess (Deficiency) of 
+Revenues Over (Under) Expenditures 221                  (937,093)          (3,232)              65                 42,281              (791)                 (19,553)            (29,230)            (329)                     (947,661)          
+
+Adjustments to Prior Year Encumbrances -                       -                       -                       -                    -                       -                       -                       -                       -                           -                       
+Other Financing Sources
+
+Transfers In -                       -                       3,000$             -                    -                       -                       -                       -                       -                           3,000               
+Proceeds of Bonds -                       1,000,000        -                       -                    -                       -                       -                       -                       -                           1,000,000        
+
+Total Other Financing Sources -                       1,000,000        3,000               -                    -                       -                       -                       -                       -                           1,003,000        
+
+Net Change in Fund Balances 221                  62,907             (232)                 65                 42,281              (791)                 (19,553)            (29,230)            (329)                     55,339             
+
+Fund Balances, Beginning 33,498             -                       133,161           71,248          774,060            16,155             31,260             394,753           64,103                 1,518,238        
+Fund Balances, Ending 33,719$           62,907$           132,929$         71,313$        816,341$          15,364$           11,707$           365,523$         63,774$               1,573,577$      
+
+Special Revenue Funds Capital Project Funds 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+Supplemental Schedule 
+
+Combining Statement of Assets and Fund Balances – Activity Fund  
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+44 
+
+ 
+
+Balance Adjusting Balance
+6/30/2017 Receipts Entries Checks 6/30/2018
+
+Unit  50  ADMINISTRATION
+Project  887  ODYSSEY OF THE MIND -$               -$                 -$               -$                 -$               
+Project  888  SPIRIT OF THE TIGERS 1,215         500               -                 743               972            
+Project  889  ADULT BASIC EDUCATION -                 -                   -                 -                   -                 
+Project  894  ACS FITNESS ACCOUNT 24              708               -                 500               232            
+Project  895  ACS ELEMENTARY MUSIC 2,213         6,264            -                 6,288            2,189         
+Project  896  HUGS 2,719         91,743          -                 93,674          788            
+Project  899  OPERATIONAL 29,937       12,772          -                 19,613          23,096       
+Project  901  UNITED WAY DONATION ACCOU 737            2,330            -                 1,323            1,744         
+Project  906  CLEARING ACCOUNT -                 -                   -                 -                   -                 
+Project  907  SPECIAL OLYMPICS 766            2,162            -                 1,819            1,109         
+Project  908  SUMMER SCHOOL -                 -                   -                 -                   -                 
+Project  912  ACS IECBOOSTER 1,784         1,396            45              786               2,439         
+Project  917  SUNSHINE WELFARE 1,077         81                 (45)             138               975            
+Project  939  PUBLIC RELATIONS/CURRICULU 241            -                   -                 -                   241            
+Project  962  CHILD NUTRITION 236            57,069          -                 57,305          -                 
+Project  971  RED RIVER CLASSIC -                 -                   -                 -                   -                 
+Total  Unit  50 40,949       175,025        -                 182,189        33,785       
+
+Unit 70 TRANSPORTATION
+Project 898 Transportation 19              -                   -                 19                 -                 
+Total Unit 70 19              -                   -                 19                 -                 
+
+Unit  110  CHARLES EVANS ELEMENTARY
+Project  801  CHARLES EVANS 6,982         19,777          -                 20,597          6,162         
+Project  802  CHARLES EVANS LIBRARY 2,410         10,297          -                 11,132          1,575         
+Project  803  CHARLES EVANS PTO 5,714         9,244            -                 8,159            6,799         
+Project  906  CLEARING ACCOUNT -                 128               -                 128               -                 
+Project  911  CHARLES EVANS WELFARE 279            890               -                 1,022            147            
+Total  Unit  110 15,385       40,336          -                 41,038          14,683       
+
+Unit  115  FRANKLIN
+Project  807  FRANKLIN SCHOLARSHIP 800            -                   -                 800               -                 
+Total  Unit  115 800            -                   -                 800               -                 
+
+Unit  120  JEFFERSON ELEMENTARY
+Project  811  JEFFERSON 8,566         13,092          -                 7,921            13,737       
+Project  812  JEFFERSON LIBRARY 275            2,637            -                 2,267            645            
+Project  813  JEFFERSON PTO 2,165         433               -                 111               2,487         
+Project 818   JEFFERSON STAFF ACTIVITY 380            1,660            -                 1,493            547            
+Project 819   JEFFERSON CHRISTMAS 9,450         3,350            -                 7,548            5,252         
+Project 820   JEFFERSON ARCHERY 155            -                   -                 -                   155            
+Project  906  CLEARING ACCOUNT -                 275               -                 275               -                 
+Total  Unit  120 20,991       21,447          -                 19,615          22,823       
+
+Unit  125  LINCOLN ELEMENTARY
+Project  808  LINCOLN SUNSHINE ACCOUNT 121            707               -                 686               142            
+Project  814  LINCOLN 1,401         7,793            -                 7,626            1,568         
+Project  815  LINCOLN LIBRARY 1,040         9,597            -                 9,620            1,017         
+Project  816  LINCOLN PTO 4,989         16,843          -                 18,535          3,297         
+Project  906  CLEARING ACCOUNT -                 335               -                 335               -                 
+Total  Unit  125 7,551         35,275          -                 36,802          6,024         
+
+Unit  135  WILL ROGERS ELEMENTARY
+Project  804  WILL ROGERS ACTIVITY 5,947         22,500          -                 28,246          201            
+Project  805  WILL ROGERS LIBRARY 2,042         -                   -                 14                 2,028         
+Project  806  WILL ROGERS WELFARE 1,569         211               -                 465               1,315         
+Project  817  WILL ROGERS PTO 3,043         656               -                 3,699            -                 
+Project  906  CLEARING ACCOUNT -                 108               -                 108               -                 
+Total  Unit  135 12,601       23,475          -                 32,532          3,544         
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+Supplemental Schedule 
+
+Combining Statement of Assets and Fund Balances – Activity Fund  
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+45 
+
+ 
+
+Balance Adjusting Balance
+6/30/2017 Receipts Entries Checks 6/30/2018
+
+Unit  505  ARDMORE MIDDLE SCHOOL
+Project  825  AMS ATHLETIC ACTIVITY 618            12,636          -                 10,141          3,113         
+Project  826  AMS VOCAL MUSIC 260            3,607            -                 3,813            54              
+Project  827  AMS POM SQUAD 443            2,846            -                 -                   3,289         
+Project  828  AMS MISCELLANEOUS 3,954         8,942            3,177         8,830            7,243         
+Project  829  AMS CHEERLEADERS 2,049         9,074            -                 6,131            4,992         
+Project  830  AMS SCIENCE EXPLORERS 5,874         -                   -                 678               5,196         
+Project  831  AMS ART 1,700         -                   -                 369               1,331         
+Project  832  AMS STUDENT COUNCIL 336            -                   -                 -                   336            
+Project  833  AMS FCCLA 146            709               -                 739               116            
+Project  834  AMS NJHS 3,067         70,842          -                 69,764          4,145         
+Project  835  AMS 4-H 45              -                   -                 -                   45              
+Project  836  AMS AVID CLUB 2,084         -                   (2,084)        -                   -                 
+Project  884  AMS LIBRARY 293            2,624            -                 1,751            1,166         
+Project  893  AMS ENVIRONMENTAL CAMP 4,651         3,728            -                 6,542            1,837         
+Project  906  CLEARING ACCOUNT -                 190               -                 190               -                 
+Project  923  AMS DRAMA CLUB 543            -                   (543)           -                   -                 
+Project  926  AMS PTT 390            10,220          2,084         11,681          1,013         
+Project  928  AMS TIGER DEN 6,373         -                   (3,177)        3,196            -                 
+Project  931  AMS YEARBOOK 1,783         1,269            -                 288               2,764         
+Project  933  AMS TEACHERS' FLOWER FUND 137            440               -                 507               70              
+Project  946  AMS OUTDOOR CLASSROOM 564            -                   -                 -                   564            
+Total  Unit  505 35,310       127,127        (543)           124,620        37,274       
+
+Unit  705  ARDMORE HIGH SCHOOL
+Project  837  AHS ART 2                980               -                 869               113            
+Project  838  AHS ATHLETICS 35,570       141,333        -                 156,856        20,047       
+Project  839  AHS BAND 1,515         94,483          -                 92,013          3,985         
+Project  841  AHS BAND BOOSTER CLUB 51,278       19,843          -                 46,594          24,527       
+Project  843  AHS VOCAL MUSIC 2,295         5,911            -                 4,426            3,780         
+Project  844  AHS TEST FEES 7,117         4,094            -                 4,849            6,362         
+Project  845  AHS CLASS OF 2015 66              230               -                 -                   296            
+Project  846  AHS CLASS OF 2019 1,041         8,357            -                 5,619            3,779         
+Project  847  AHS CLASS OF 2016 -                 -                   -                 -                   -                 
+Project  848 AHS CLASS OF 2017 2,108         -                   (1,108)        728               272            
+Project  849 AHS ClASS OF 2018 3,217         2,885            1,108         7,101            109            
+Project 850 AHS Class of 2021 -                 125               -                 14                 111            
+Project  851  AHS FORENSIC BOOSTER 11              -                   -                 -                   11              
+Project  852  AHS CRITERION 11,818       6,900            -                 7,830            10,888       
+Project  853  AHS STUDENT CRIME STOPPERS -                 -                   -                 -                   -                 
+Project  855  AHS POM SQUAD 1,826         13,866          -                 11,665          4,027         
+Project  856  AHS DUGOUT CLUB 14,947       28,010          -                 30,043          12,914       
+Project  857  AHS FORENSICS 4,251         26,383          543            28,828          2,349         
+Project  858  AHS AVID 175            -                   -                 -                   175            
+Project  859  AHS FCCLA 807            15,856          -                 15,919          744            
+Project  861  AHS TECHNOLOGY CLUB 11              -                   -                 -                   11              
+Project  863  AHS LIBRARY 98              -                   -                 -                   98              
+Project  864  AHS MISCELLANEOUS 3,615         2,564            -                 2,889            3,290         
+Project  865  AHS NATIONAL HONOR SOCIET 166            -                   -                 -                   166            
+Project  866  AHS QUARTERBACK CLUB 26,687       -                   -                 17,019          9,668         
+Project  867  AHS SCIENCE CLUB 1,704         -                   -                 -                   1,704         
+Project  869  AHS INTERNATIONAL CLUB 863            -                   -                 200               663            
+Project  871  AHS STRINGS/ORCHESTRA 10,481       10,390          -                 9,894            10,977       
+Project  872  AHS STUDENT COUNCIL 968            5,374            -                 5,417            925            
+Project  873  AHS TAKEDOWN CLUB 344            300               -                 288               356            
+Project  874  AHS TENNIS CLUB 593            7,401            -                 4,933            3,061         
+Project  875  AHS COALITION OF GEEKS -                 -                   -                 -                   -                 
+Project  877  AHS QB CLUB/NOBLE MAINTEN 645            -                   -                 -                   645            
+Project  878  AHS VARSITY CHEERLEADERS 30              11,620          -                 9,312            2,338         
+Project  879  AHS TIGERS SOCCER CLUB 10,652       12,153          -                 10,771          12,034       
+Project  897  AHS TIGER TRACK MEET 1,440         4,690            -                 4,638            1,492          
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+Supplemental Schedule 
+
+Combining Statement of Assets and Fund Balances – Activity Fund  
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+46 
+
+ 
+
+Balance Adjusting Balance
+6/30/2017 Receipts Entries Checks 6/30/2018
+
+Project  906  CLEARING ACCOUNT -                 235               -                 235               -                 
+Project  913  AHS NATIVE AMERICAN CLUB 2,474         9,805            -                 7,011            5,268         
+Project  918  AHS GIRLS FASTPITCH CLUB 11,848       26,173          -                 33,615          4,406         
+Project 919  AHS SOCCER 2,453         13,230          -                 13,381          2,302         
+Project  921  AHS STATE TRACK MEET 532            -                   -                 -                   532            
+Project  922  AHS HOLIDAY FESTIVAL 1,522         18,155          -                 13,659          6,018         
+Project  938  AHS BENEVOLENCE 323            502               -                 712               113            
+Project  943  AHS FOOTBALL CAMP 16,175       18,320          -                 14,851          19,644       
+Project  945  AHS ADVERTISING REVENUE 20,107       36,925          -                 11,133          45,899       
+Project  951  LADY TIGER BASKETBALL 1,319         17,996          -                 12,274          7,041         
+Project  953  AHS TIGER RUN ACCOUNT 2,083         18,451          -                 15,618          4,916         
+Project  964  AHS SPORTS MEDICINE 170            500               -                 350               320            
+Project  972  AHS GOLF 5,800         10,435          -                 7,221            9,014         
+Project  977  AHS INCENTIVE ACCOUNT -                 -                   -                 -                   -                 
+Total  Unit  705 261,147     594,475        543            608,775        247,390     
+
+Grand Total 394,753$   1,017,160$   -$               1,046,390$   365,523$   
+
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+Supplemental Schedule 
+
+Schedule of Expenditures of Federal Awards  
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+47 
+
+ 
+
+Federal 
+CFDA 
+
+Number
+
+Pass Through 
+Grantor's 
+
+Project Number
+Balance 
+
+6/30/2017
+
+Federal 
+Grant 
+
+Receipts
+
+Federal 
+Grant  Cash 
+
+Basis 
+Expenditures
+
+Balance 
+6/30/2018
+
+U.S. Dept. of Interior
+Direct Program
+
+Johnson O'Malley Indian Education Assistance to Schools FY18 15.130 563 -$           6,520$           30,126$         (23,606)$         
+Johnson O'Malley Indian Education Assistance to Schools FY17 15.130 563 (19,668)      19,668           -                     -                     
+     Total U.S. Department of Interior (19,668)$    26,188$         30,126$         (23,606)$         
+
+U.S. Dept. of Education
+Direct Program
+
+Title VIII - Impact Aid FY18 84.041 591, 592 -$               87,810$         87,810$         -$                    
+Title VII - Indian Education Formula Grant FY18 84.060A 561 -                 157,930         157,930         -                     
+
+-$               245,740$       245,740$       -$                    
+Passed Through State Department of Education:
+
+Title I, Part A FY18 84.010 511, 515, 518 -$               966,718$       1,257,463$    (290,745)$       
+Title I, Part A FY17 84.010 511, 515, 518 (513,985)    605,476         91,491           -                     
+     Title I Cluster (513,985)$  1,572,194$    1,348,954$    (290,745)$       
+
+IDEA, Part B - Flow Through FY18 84.027 613, 621 , 625 -$               463,871$       623,715$       (159,844)$       
+IDEA, Part B - Flow Through FY17 84.027 613, 621 , 625 (143,701)    143,701         -                     -                     
+IDEA, Part B - Preschool, Ages 3-5 FY18 84.173 641 -                 9,379             15,573           (6,194)            
+IDEA, Part B - Preschool, Ages 3-5 FY17 84.173 641 (1,960)        1,960             -                     -                     
+     Special Education Cluster (145,661)$  618,911$       639,288$       (166,038)$       
+
+Title II, Part A - Improving Teacher and Principal Quality FY18 84.367 541, 543 -                 65,166           83,263           (18,097)          
+Title II, Part A - Improving Teacher and Principal Quality FY17 84.367 541, 543 (18,976)      23,306           4,330             -                     
+Title III, Part A - Limited English Proficiency FY18 84.365 572 -                 27,953           34,829           (6,876)            
+Title III, Part A - Limited English Proficiency FY17 84.365 572 (2,843)        2,843             -                     -                     
+Title VI, Part B Rural and Low-Income School Program FY18 84.358B 587 -                 38,406           50,263           (11,857)          
+Title VI, Part B Rural and Low-Income School Program FY17 84.358B 587 (16,396)      16,396           -                     -                     
+Job Training FY18 84.126 456 (20)             236                216                -                     
+
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+Supplemental Schedule 
+
+Schedule of Expenditures of Federal Awards  
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+48 
+
+ 
+
+Federal 
+CFDA 
+
+Number
+
+Pass Through 
+Grantor's 
+
+Project Number
+Balance 
+
+6/30/2017
+
+Federal 
+Grant 
+
+Receipts
+
+Federal 
+Grant  Cash 
+
+Basis 
+Expenditures
+
+Balance 
+6/30/2018
+
+U.S. Dept. of Education - continued
+Passed Through State Department of Education:
+
+Gear Up Grant FY18 84.334 770 -                 75,600           61,716           13,884            
+Gear Up Grant FY17 84.334 770 17,155       -                     5,050             12,105            
+Adult Education and Literacy FY18 84.002 731 -                 9,555             107,107         (97,552)          
+Adult Education and Literacy FY17 84.002 731 (23,922)      23,922           -                     -                     
+Title X, Part C - McKinney-Vento Homeless FY17 84.196 596 (1,794)        1,794             -                     -                     
+
+     Total U.S. Department of Education (706,442)$  2,722,022$    2,580,756$    (565,176)$       
+
+U.S. Department of Agriculture
+Passed Through State Department of Education: 
+
+National School Lunch Program FY18 10.555 763 428,768$    1,098,429$    1,116,062$    411,135$        
+School Breakfast Program FY18 10.553 764 37,987       362,571         386,327         14,231            
+Summer Food Service Program FY18 10.559 766 -                 -                     18,332           (18,332)          
+Summer Food Service Program FY17 10.559 766 (38,136)      38,136           -                     -                     
+
+Passed Through the Oklahoma Department of Human Services 
+Lunch Program - Commodities FY18 10.555 763 -                 130,344         130,344         -                     
+Summer Food Service Program -Commodities FY18 10.559 766 -                 2,146             2,146             -                     
+     Child Nutrition Cluster 428,619$    1,631,626$    1,653,211$    407,034$        
+
+     Total U.S. Department of Agriculture 428,619$    1,631,626$    1,653,211$    407,034$        
+
+U.S. Department of Health and Human Services
+Passed Through centers for Medicare and Medicaid 
+and Oklahoma Health Care Authority:
+
+Medical Assistance Program (Medicaid) FY18 93.778 698 -$               2,554$           20,767$         (18,213)$         
+     Total U.S. Dept. of Health and Human Services -$               2,554$           20,767$         (18,213)$         
+
+     Total Expenditures of Federal Awards (297,491)$  4,382,390$    4,284,860$    (199,961)$       
+
+
+
+ARDMORE SCHOOL DISTRICT NO. I-19 
+Carter County, Oklahoma 
+
+Notes to Schedule of Expenditures of Federal Awards 
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+49 
+
+ 
+
+ 
+ 
+ 
+
+Note A: Basis of Presentation 
+The accompanying schedule of expenditures of federal awards (the Schedule) includes the federal award activity of Ardmore School District 
+No. I-19 Carter County, Oklahoma under programs of the federal government for the year ended June 30, 2018. The information in this 
+Schedule is presented in accordance with the requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative 
+Requirements, Cost Principles and Audit Requirements for Federal Awards (Uniform Guidance). Because the Schedule presents only a 
+selected portion of the operations of Ardmore School District No. I-19 Carter County, Oklahoma, it is not intended to and does not present the 
+basic financial statements as listed in the table of contents, of Ardmore School District No. I-19 Carter County, Oklahoma. 
+ 
+Note B: Summary of Significant Accounting Policies 
+Expenditures reported on the Schedule are reported on using the cash basis of accounting.  Some amounts presented in the schedule may 
+differ from amounts presented in, or used in the preparation of the basic financial statements. Such expenditures are recognized following the 
+cost principles contained in the Uniform Guidance, where certain types of expenditures are not allowable or are limited as to reimbursement. 
+Nonmonetary assistance is reported in the schedule at the fair market value of commodities received. 
+ 
+Note C: Indirect Cost Rate  
+Ardmore School District No. I-19 Carter County, Oklahoma has elected not to use the 10% de minimis indirect cost rate allowed under the 
+Uniform Guidance.  
+ 
+Note D: Subrecipients  
+Ardmore School District No. I-19 Carter County, Oklahoma did not have any awards that have been passed through to subrecipients.  
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+2007 N. Commerce #200   ●   Ardmore, OK 73401      
+  Phone 580.826.3539   ●   Phone 405.322.5009   ●   Fax 855.999.2782      
+
+j‐acpas.com 
+ 
+
+50 
+
+ 
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL 
+
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN  
+AUDIT OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH 
+
+GOVERNMENT AUDITING STANDARDS 
+ 
+ 
+
+To the Board of Education 
+Ardmore School District, No. I-19, Carter County, Oklahoma 
+Ardmore, Oklahoma 
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in the Government Auditing 
+Standards issued by the Comptroller General of the United States, the financial statements of the 
+governmental activities, each major fund, and the aggregate remaining fund information of Ardmore 
+School District No. I-19, Carter County, Oklahoma, as of and for the year ended June 30, 2018, and the 
+related notes to the financial statements, which collectively comprise the Ardmore School District No. 
+I-19, Carter County, Oklahoma’s basic financial statements and have issued our report thereon dated 
+March 19, 2019. Our report included an adverse opinion on U.S. generally accepted accounting 
+principles because the District prepares its financial statements on a prescribed regulatory basis of 
+accounting.  
+Internal Control Over Financial Reporting 
+In planning and performing our audit of the financial statements, we considered Ardmore School 
+District No. I-19, Carter County, Oklahoma’s internal control over financial reporting (internal control) 
+to determine the audit procedures that are appropriate in the circumstances for the purpose of 
+expressing our opinions on the financial statements, but not for the purpose of expressing an opinion 
+on the effectiveness of Ardmore School District No. I-19, Carter County, Oklahoma’s internal control. 
+Accordingly, we do not express an opinion on the effectiveness of Ardmore School District No. I-19, 
+Carter County, Oklahoma’s internal control.   
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct misstatements on a timely basis. A material weakness is a deficiency, or a 
+combination of deficiencies, in internal control such that there is a reasonable possibility that a material 
+misstatement of the entity’s financial statements will not be prevented, or detected and corrected on a 
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal 
+control that is less severe than a material weakness, yet important enough to merit attention by those 
+charged with governance.   
+Our consideration of internal control over financial reporting was for the limited purpose described in 
+the first paragraph of this section and was not designed to identify all deficiencies in internal control 
+
+
+
+Government Auditing Standards
+
+Government Auditing Standards 
+
+
+
+ 
+
+2007 N. Commerce #200   ●   Ardmore, OK 73401      
+  Phone 580.826.3539   ●   Phone 405.322.5009   ●   Fax 855.999.2782      
+
+j‐acpas.com 
+ 
+
+52 
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH MAJOR 
+ PROGRAM AND ON INTERNAL CONTROL OVER COMPLIANCE  
+
+REQUIRED BY THE UNIFORM GUIDANCE 
+ 
+ 
+To the Board of Education 
+Ardmore School District, No. I-19, Carter County, Oklahoma 
+Ardmore, Oklahoma 
+ 
+ 
+Report on Compliance for Each Major Federal Program 
+We have audited Ardmore School District, No. I-19, Carter County, Oklahoma’s compliance with the 
+types of compliance requirements described in the OMB Compliance Supplement that could have a 
+direct and material effect on each of Ardmore School District, No. I-19, Carter County, Oklahoma’s 
+major federal programs for the year ended June 30, 2018.  Ardmore School District, No.  I-19, Carter 
+County, Oklahoma’s major federal programs are identified in the summary of auditor’s results section 
+of the accompanying schedule of findings and questioned costs.  
+Management’s Responsibility 
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and 
+grants applicable to its federal programs. 
+Auditor’s Responsibility 
+Our responsibility is to express an opinion on compliance for each of Ardmore School District, No.    
+I-19, Carter County, Oklahoma’s major federal programs based on our audit of the types of compliance 
+requirements referred to above.  We conducted our audit of compliance in accordance with auditing 
+standards generally accepted in the United States of America; the standards applicable to financial 
+audits contained in Government Auditing Standards, issued by the Comptroller General of the United 
+States; and Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, 
+Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Those standards 
+and the Uniform Guidance require that we plan and perform the audit to obtain reasonable assurance 
+about whether noncompliance with the types of compliance requirements referred to above that could 
+have a direct and material effect on a major federal program occurred. An audit includes examining, on 
+a test basis, evidence about Ardmore School District, No. I-19, Carter County, Oklahoma’s compliance 
+with those requirements and performing such other procedures as we considered necessary in the 
+circumstances.  
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major 
+federal program. However, our audit does not provide a legal determination of Ardmore School 
+District, No. I-19, Carter County, Oklahoma’s compliance.  
+ 
+
+
+
+Opinion on Each Major Federal Program 
+
+deficiency in internal control over compliance
+
+material weakness in internal control over 
+compliance
+
+significant deficiency in internal control over compliance 
+
+
+
+ARDMORE SCHOOL DISTRICT I-19 
+Carter County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+ 
+54 
+
+ 
+
+ 
+Section I Summary of Auditor’s Results 
+ 
+Financial Statements:
+
+Type of auditor's report issued
+
+Internal control over financial reporting: 
+Material weakness(es) identified? Yes X No
+Significant Deficiency(ies) identified? Yes X None Reported 
+
+Noncompliance material to financial statement Yes X No
+
+Federal Awards: 
+
+Internal control over major program: 
+Material weakness(es) identified? Yes X No
+Significant Deficiency(ies) identified ? Yes X None Reported
+
+Type of auditors' report issued on compliance for major programs:
+
+Yes X No
+
+Identification of Major Programs:
+CFDA Number
+84.027; 84.173
+
+84.010
+
+Auditee qualified as a low-risk auditee? Yes X No
+
+Unmodified Regulatory Basis 
+
+Unmodified
+
+Any audit findings disclosed that are required to be reported in 
+accordance with 2 CFR section 200.516(a)?
+
+Name of Federal Program or Cluster
+Special Education Cluster (IDEA)
+Title I 
+
+Dollar threshold used to distinguish between Type A and Type B 
+programs: 750,000$                           
+
+ 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT I-19 
+Carter County, Oklahoma 
+
+Schedule of Findings and Questioned Costs 
+Year Ended June 30, 2018 
+
+ 
+
+ 
+55 
+
+ 
+
+ 
+Section II – Financial Statement Findings 
+ 
+
+ 
+None  
+ 
+ 
+Section III – Federal Award Findings and Questioned Costs 
+ 
+ 
+None 
+
+
+
+ARDMORE SCHOOL DISTRICT I-19 
+Carter County, Oklahoma 
+
+Summary Schedule of Prior Audit Findings  
+Year Ended June 30, 2018 
+
+ 
+56 
+
+ 
+
+ 
+Financial Statement Findings  
+
+ 
+2017-001 Child Nutrition 3-Month Carryover Balance   
+
+Condition:  District has exceeded their three month carryover balance 
+allowed in the Child Nutrition Program.   
+
+ Recommendation: The auditor recommended that the District evaluate child 
+nutrition expenditures and keep carryover balance below limit.     
+
+Status:   Condition has been resolved. 
+ 
+
+Federal Award Findings and Questioned Costs 
+ 
+None 
+
+
+
+ 
+
+ 
+57 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Other Oklahoma Department of Education Requirements
+
+
+
+ARDMORE SCHOOL DISTRICT I-19 
+Carter County, Oklahoma  
+
+Statement of Statutory Fidelity and Honesty Bonds (Unaudited)  
+For the Year Ended June 30, 2018 
+
+ 
+
+ 
+58 
+
+ 
+
+ 
+ 
+ 
+The District has a public official position bond with Western Surety Company. The bond number is 
+71825359. This bond covers the superintendent for $100,000.  The term is August 31, 2017 to August 
+31, 2018. 
+ 
+The District has a public official position bond with Western Surety Company. The bond number is 
+69537183. This bond covers the treasurer for $100,000.  The term is July 1, 2017 to June 30, 2018. 
+ 
+The District has a blanket bond with Western Surety Company, bond number 70784644 for various 
+positions including the minutes clerk, encumbrance clerk and activity fund custodian, in the amount 
+of $100,000. The term is July 1, 2017 to June 30, 2018. 
+ 
+
+
+
+ARDMORE SCHOOL DISTRICT 1-19 
+Carter County, Oklahoma 
+
+Schedule of Accountant's Professional Liability Insurance Affidavit (unaudited) 
+For the Year Ended June 30, 2018 
+
+State of Oklahoma ) 
+
+County of Carter ) 
+
+The undersigned auditing firm of lawful age, being first duly sworn on oath, says that said firm had in 
+full force and effect Accountant's Professional Liability Insurance in accordance with the "Oklahoma 
+Public School Audit Law" at the time of audit contract and during the entire audit engagement with 
+Ardmore School District 1-19 for the audit year 2017-2018. 
+
+MARYE. JOHNSON & ASSOCIATES, PLLC 
+
+BY:.~/,).~~~!}~.~~· ~~ 
+Authorized Agent 
+
+Subscribed and sworn to before me on this d \ ~~ day of, Jl'hvc1t , 2019. 
+
+59 
+
+
+
+

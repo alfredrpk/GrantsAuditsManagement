@@ -1,0 +1,2523 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+Tulsa, Oklahoma 
+
+Financial Statements 
+and Supplemental Information 
+
+June 30, 2018 
+
+
+
+To the Department of Housing 
+and Urban Development 
+
+MADDOX & AssOCIATES1 APC 
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+Attached is the financial report of Hope Housing of Green Country, Inc., (A Nonprofit Corporation), HUD 
+Project No. 118-HD026 for the year ended June 30, 2018. 
+
+Audit Firm: 
+
+Lead Auditor: 
+
+Address: 
+
+Telephone Number: 
+
+Facsimile Number: 
+
+Tax Identification Number: 
+
+Unique IPA Identifier: 
+
+E-mail: 
+
+Website: 
+
+August 16, 2018 
+
+Maddox & Associates, APC 
+
+Bryan Beale, CPA 
+
+5627 Bankers Avenue, Building 2 
+Baton Rouge, LA 70808 
+
+225-926-3360 
+
+225-926-3361 
+
+72-1314069 
+
+58640 
+
+auditors@maddoxassociates.com 
+
+www.maddoxassociates.com 
+
+5627 Bankers Avenue• Building 2 • Baton Rouge, LA 70808 
+Phone 225.926.3360 • Fax 225,926-3361 • Auditors@MaddoxAssociates.com 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+CONTENTS 
+
+June 30, 2018 
+
+Independent Auditors' Report 1 
+
+Financial Statements 
+Statement of Financial Position 3 
+Statement of Activities 5 
+Statement of Cash Flows 6 
+Notes to the Financial Statements 8 
+
+Supplemental Information 12 
+
+Schedule of Expenditures of Federal Awards 18 
+
+Summary Schedule of Prior Audit Findings 19 
+
+Independent Auditors' Report on Internal Control over Financial Reporting and on 
+Compliance and Other Matters Based on an Audit of Financial Statements Performed 
+in Accordance with Government Auditing Standards 20 
+
+Independent Auditors' Report on Compliance for Each Major Program and on Internal 
+Control Over Compliance Required by the Uniform Guidance 22 
+
+Schedule of Findings and Questioned Costs 24 
+
+Corrective Action Plan 27 
+
+Certification of Officers 28 
+
+Management Agent's Certification 29 
+
+Independent Accountants' Report on Applying Agreed-Upon Procedures 30 
+
+
+
+MADDOX & AssOCIATES1 APC 
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+Independent Auditors' Report 
+
+To the Directors 
+Hope Housing of Green Country, Inc. 
+
+Report on the Financial Statements 
+
+We have audited the accompanying financial statements of Hope Housing of Green Country, Inc., HUD 
+Project No. 118-HD026, (the "Project"), which comprise the statement of financial position as of June 30, 
+2018, and the related statements of activities and cash flows for the year then ended, and the related 
+notes to the financial statements. 
+
+Management's Responsibility for the Financial Statements 
+
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this includes 
+the design, implementation, and maintenance of internal control relevant to the preparation and fair 
+presentation of financial statements that are free from material misstatement, whether due to fraud or 
+error. 
+
+Auditor's Responsibility 
+
+Our responsibility is to express an opmIon on these financial statements based on our audit. We 
+conducted our audit in accordance with auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards, 
+issued by the Comptroller General of the United States. Those standards require that we plan and 
+perform the audit to obtain reasonable assurance about whether the financial statements are free from 
+material misstatement. 
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in 
+the financial statements. The procedures selected depend on the auditor's judgment, including the 
+assessment of the risks of material misstatement of the financial statements, whether due to fraud or 
+error. In making those risk assessments, the auditor considers internal control relevant to the entity's 
+preparation and fair presentation of the financial statements in order to design audit procedures that are 
+appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of 
+the entity's internal control. Accordingly, we express no such opinion. An audit also includes evaluating 
+the appropriateness of accounting policies used and the reasonableness of significant accounting 
+estimates made by management, as well as evaluating the overall presentation of the financial 
+statements. 
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for 
+our audit opinion. 
+
+Opinion 
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+financial position of Hope Housing of Green Country, Inc. as of June 30, 2018, and the changes in net 
+assets and its cash flows for the year then ended in accordance with accounting principles generally 
+accepted in the United States of America. 
+
+5627 Bankers Avenue• Building 2 • Baton Rouge, LA 70808 1 
+Phone 225.926.3360 • Fax 225.926-3361 • Auditors@MaddoxAssociates.com 
+
+
+
+Other Information 
+
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a whole. 
+The accompanying supplementary information shown on pages 12 to 17 is presented for purposes of 
+additional analysis as required by the Consolidated Audit Guide for Audits of HUD Programs issued by 
+the U.S. Department of Housing and Urban Development, Office of the Inspector General, and is not a 
+required part of the financial statements. The accompanying schedule of expenditures of federal awards, 
+as required by Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative 
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, is presented for purposes of 
+additional analysis and is not a required part of the financial statements. Such information is the 
+responsibility of management and was derived from and relates directly to the underlying accounting and 
+other records used to prepare the financial statements. The information has been subjected to the 
+auditing procedures applied in the audit of the financial statements and certain additional procedures, 
+including comparing and reconciling such information directly to the underlying accounting and other 
+records used to prepare the financial statements or to the financial statements themselves, and other 
+additional procedures in accordance with auditing standards generally accepted in the United States of 
+America. In our opinion, the information is fairly stated, in all material respects, in relation to the financial 
+statements as a whole. 
+
+Other Reporting Required by Government Auditing Standards 
+
+In accordance with Government Auditing Standards, we have also issued our report dated August 16, 
+2018 on our consideration of Hope Housing of Green Country, lnc.'s internal control over financial 
+reporting and on our tests of its compliance with certain provisions of laws, regulations, contracts, and 
+grant agreements and other matters. The purpose of that report is to solely describe the scope of our 
+testing of internal control over financial reporting and compliance and the results of that testing, and not to 
+provide an opinion on the effectiveness of Hope Housing of Green Country, lnc.'s internal control over 
+financial reporting or on compliance. That report is an integral part of an audit performed in accordance 
+with Government Auditing Standards in considering Hope Housing of Green Country, lnc.'s internal 
+control over financial reporting and compliance. 
+
+Baton Rouge, Louisiana 
+August 16, 2018 
+
+2 
+
+
+
+ASSETS 
+
+CURRENT ASSETS 
+Cash-Operations 
+Tenant Accounts Receivable 
+Accounts Receivable-HUD 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Statement of Financial Position 
+June 30, 2018 
+
+Accounts and Notes Receivable-Operations 
+Total Current Assets 
+
+DEPOSITS HELD IN TRUST-FUNDED 
+Tenant Security Deposits Held in Trust 
+
+RESTRICTED DEPOSITS AND FUNDED RESERVES 
+Replacement Reserve 
+Residual Receipts Reserve 
+Total Restricted Deposits 
+
+FIXED ASSETS 
+Land 
+Buildings 
+Building Equipment-Portable 
+Furnishings 
+Miscellaneous Fixed Assets 
+Total Fixed Assets 
+Less Accumulated Depreciation 
+Net Fixed Assets 
+
+TOT AL ASSETS 
+
+3 See accompanying notes to the financial statements. 
+
+$ 12,705 
+407 
+
+4,524 
+929 
+
+18,565 
+
+4,508 
+
+50,241 
+7,439 
+
+57,680 
+
+146,791 
+1,294,723 
+
+11,349 
+6,127 
+4,125 
+
+1,463,115 
+391,839 
+
+1,071,276 
+
+$ 1,152,029 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Statement of Financial Position 
+June 30, 2018 
+
+LIABILITIES AND NET ASSETS (DEFICIT) 
+
+CURRENT LIABILITIES 
+Accounts Payable-Operations 
+Residual Receipts in Excess of Retained Amount 
+Prepaid Revenue 
+Total Current Liabilities 
+
+DEPOSITS HELD IN TRUST-FUNDED 
+Tenant Security Deposits Held in Trust (contra) 
+
+LONG-TERM LIABILITIES 
+Mortgage Payable-First Mortgage 
+Total Long-Term Liabilities 
+
+Total Liabilities 
+
+NET ASSETS (DEFICIT) 
+Unrestricted Net Assets 
+
+TOT AL LIABILITIES AND NET ASSETS (DEFICIT) 
+
+See accompanying notes to the financial statements. 
+
+$ 2,118 
+2,939 
+
+259 
+5,316 
+
+3,983 
+
+1A19J56 
+1,419,756 
+
+1A29,055 
+
+(277,026) 
+
+$ 1,152,029 
+
+4 
+
+
+
+REVENUES: 
+Rent 
+Financial 
+Other 
+
+Total Revenue 
+
+EXPENSES: 
+Project Services 
+
+Administrative 
+Utilities 
+Operating and Maintenance 
+Taxes and Insurance 
+Depreciation 
+Total Project Service Expenses 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Statement of Activities 
+For the Year Ended June 30, 2018 
+
+Gain on Retention of Residual Receipts 
+
+Decrease in Unrestricted Net Assets 
+
+Net Assets, Beginning of Period (deficit) 
+
+NET ASSETS, END OF PERIOD (DEFICIT) 
+
+See accompanying notes to the financial statements. 
+
+$ 94,453 
+24 
+
+275 
+
+94,752 
+
+26,851 
+22,265 
+16,571 
+11,566 
+34,997 
+
+112,250 
+
+472 
+
+(17,026) 
+
+(260,000) 
+
+$ (277,026) 
+
+5 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Statement of Cash Flows 
+For the Year Ended June 30, 2018 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+Rental Receipts 
+Interest Receipts 
+Other Receipts 
+Total Receipts 
+
+Administrative 
+Management Fees 
+Utilities 
+Salaries and Wages 
+Operating and Maintenance 
+Property Insurance 
+Miscellaneous Taxes and Insurance 
+Tenant Security Deposits 
+Total Disbursements 
+Net Cash Provided by Operating Activities 
+
+CASH FLOWS FROM INVESTING ACTIVITIES: 
+Deposits to the Escrow Account 
+Withdrawals from the Escrow Account 
+Deposits to the Replacement Reserve Account 
+Deposits to the Residual Receipts Account 
+Withdrawals from the Residual Receipts Account 
+Net Purchase of Fixed Assets 
+Other Investing Activities 
+Net Cash Used in Investing Activities 
+
+CASH FLOWS FROM FINANCING ACTIVITIES: 
+
+Net Increase in Cash and Cash Equivalents 
+
+CASH AND CASH EQUIVALENTS: 
+Beginning of Period 
+
+End of Period 
+
+(continued) 
+
+See accompanying notes to the financial statements. 
+
+$ 101,715 
+24 
+
+275 
+102,014 
+
+(11,852) 
+(10,270) 
+(22,364) 
+
+(1,523) 
+(16,859) 
+(11,024) 
+
+(546) 
+{757} 
+
+(75,195~ 
+26,819 
+
+(1,702) 
+5,687 
+
+(4,936) 
+(3,487) 
+
+246 
+(16,908) 
+
+{929} 
+(22,029) 
+
+0 
+
+4,790 
+
+7,915 
+
+$ 12,705 
+
+6 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Statement of Cash Flows (continued) 
+For the Year Ended June 30, 2018 
+
+CASH FLOWS FROM OPERATING ACTIVITIES: 
+Decrease in Net Assets 
+
+Adjustments to Reconcile Decrease in Net Assets to 
+Net Cash Provided by Operating Activities 
+
+Depreciation Expense 
+Gain on Retention of Excess Residual Receipts 
+
+Decrease (Increase) in: 
+Tenant Accounts Receivable 
+Accounts Receivable-Other 
+Cash Restricted for Tenant Security Deposits 
+
+Increase (Decrease) in: 
+Accounts Payable 
+Accrued Liabilities 
+Tenants Security Deposits Held in Trust 
+Prepaid Revenue 
+
+Net Cash Provided by Operating Activities 
+
+See accompanying notes to the financial statements. 
+
+$ (17,026) 
+
+34,997 
+(472) 
+
+4,666 
+7,056 
+
+(1,028) 
+
+(441) 
+(835) 
+271 
+
+(369) 
+
+$ 26,819 
+
+7 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Notes to the Financial Statements 
+June 30, 2018 
+
+1. Organization and Summary of Significant Accounting Policies 
+
+The Project consists of six three-unit group homes for persons with disabilities located in Tulsa, 
+Oklahoma. The Project is operated under Section 811 of the National Housing Act and regulated 
+by the U.S. Department of Housing and Urban Development (HUD) with respect to rental charges 
+and operating methods. 
+
+Hope Housing of Green Country, Inc., a corporation sponsored by Volunteers of America of 
+Oklahoma, Inc., holds legal title to the Project. The accompanying financial statements include 
+only the assets and related liabilities of Hope Housing of Green Country, Inc. 
+
+The Project also is subject to Project Rental Assistance Contracts with the U.S. Department of 
+Housing and Urban Development (HUD), and a significant portion of the Project's rental income is 
+received from HUD. 
+
+The Project's regulatory agreement with HUD stipulates, among other things, that the Project will 
+not make distributions of assets or income to any of its officers and directors. 
+
+The following significant accounting policies have been followed in the preparation of the financial 
+statements: 
+
+Basis of Accounting: The financial statements are prepared on the accrual basis of 
+accounting, which is in accordance with generally accepted accounting principles. 
+
+Subsequent Events: The financial statements and related disclosures include evaluation 
+of events up through and including August 16, 2018, which is the date the financial 
+statements were issued. 
+
+Revenue Recognition: Rental income is recognized as rentals become due. Rental 
+payments received in advance are deferred until earned. All leases between the Project 
+and the tenants are operating leases. Rental income is recorded net of vacancies. 
+Under the Regulatory Agreement, the Project may not increase rents charged to tenants 
+without HUD approval. 
+
+Functional Expenses: Expenditures incurred in connection with project operations and 
+expenditures made for entity purposes have been summarized on a functional basis in 
+the Statement of Activities. 
+
+Cash and Cash Equivalents: For the purposes of the Statement of Cash Flows, the 
+Project considers all highly liquid investments purchased with maturities of three months 
+or less to be cash equivalents. 
+
+Concentration of Credit Risk: The project maintains its cash in financial institutions 
+insured by the Federal Deposit Insurance Corporation (FDIC). Deposit accounts, at 
+times, may exceed federally insured limits. The project has not experienced any losses 
+in such accounts. 
+
+Allowance for Uncol/ectible Receivables: Tenant receivables are charged to bad debt 
+expense when they are determined to be uncollectible based upon a periodic review of 
+the accounts by management. Accounting principles generally accepted in the United 
+States of America require that the allowance method be used to recognize bad debts; 
+however, the effect of using the direct write-off method is not materially different from the 
+results that would have been obtained under the allowance method. 
+
+8 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Notes to the Financial Statements (continued) 
+June 30, 2018 
+
+Depreciation: The Project's land, building, improvements, and personal property are 
+recorded at cost. Improvements are capitalized, while expenditures for maintenance and 
+repairs are charged to expense as incurred. Depreciation is provided by the straight-line 
+method over the estimated useful life of the asset. 
+
+Buildings 
+Land and Building Improvements 
+Furniture, Fixtures, and Equipment 
+
+40 years 
+15-38 years 
+7 years 
+
+Impairment of Long-Lived Assets: The Project reviews its long-lived assets for 
+impairment whenever events or changes in circumstances indicate that the carrying value 
+may not be recoverable. Recoverability is measured by a comparison of the carrying 
+amount to the future net undiscounted cash flow expected to be generated and any 
+estimated proceeds from the eventual disposition. If the long-lived asset is considered to 
+be impaired, the impairment to be recognized is measured at the amount by which the 
+carrying amount exceeds the fair value as determined from an appraisal, discounted cash 
+flows analysis, or other valuation technique. There is no impairment loss recognized for 
+the period ending June 30, 2018. 
+
+Other Liabilities: Accrued expenses for compensated absences, vacations, and sick pay 
+are not shown due to the fact that amount of the liability cannot be reasonably estimated. 
+It is the Project's policy to expense these items when they are incurred. 
+
+Interest Expense: There is no interest expense. 
+
+Income Taxes: Neither the Project nor its nonprofit corporate owner is subject to federal 
+income taxes under IRC 501 (C)(3). The Project files information returns in the U.S. 
+federal jurisdiction. Federal and state tax authorities generally have the right to examine 
+and audit the previous three years of tax returns filed. There are no interest and 
+penalties related to income taxes recognized in the statement of activities. The Project 
+has not taken any tax positions that would significantly increase or decrease any 
+unrecognized tax benefit within twelve months of the reporting date. 
+
+Estimates: The preparation of financial statements, in conformity with accounting 
+principles generally accepted in the United States of America, requires management to 
+make estimates and assumptions that affect certain reported amounts of assets and 
+liabilities and disclosure of contingent assets and liabilities at the date of the financial 
+statements and the reported amounts of revenue and expenses during the reporting 
+period. Actual results could differ from those estimates. 
+
+Economic Concentrations: The Project's primary asset is its 18-unit apartment project. 
+The Project's operations are concentrated in the multifamily housing real estate market. 
+In addition, the Project operates in a regulated environment. The operations of the 
+Project are subject to the administrative directives, rules and regulations of federal, state, 
+and local regulatory agencies, including, but not limited to, HUD. Such administrative 
+directives, rules, and regulations are subject to change by an act of Congress, or an 
+administrative change mandated by HUD. Such changes may occur with little notice or 
+inadequate funding to pay for the related cost, including the additional administrative 
+burden, to comply with a change. 
+
+9 
+
+
+
+2. Financing 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Notes to the Financial Statements (continued) 
+June 30, 2018 
+
+Section 811 of the National Housing Act authorized HUD to provide funds as capital advances to 
+nonprofit owners for new construction or acquisition/rehabilitation of supportive housing facilities. 
+This capital advance note shall bear no interest and repayment is not required so long as the 
+housing remains available for very low-income persons with disabilities for at least 40 years in 
+accordance with Section 811 of the National Housing Act, the Regulatory Agreement and HUD 
+Regulations. Failure to keep the housing available for disabled persons would result in HUD's 
+billing the owner for the entire capital advance of $1,419,756 plus 5.250% interest since the date 
+of the first advance. The capital advance is classified in the statement of financial position as 
+debt. The maturity date of the capital advance is September 29, 2045. 
+
+3. Related Party-Identity of Interest 
+
+Related Party: Volunteers of America of Oklahoma, Inc. 
+Relationship: Sponsor 
+Transactions: Management, Payroll, and Reimbursable Expenses 
+Amount paid for services: $24, 182 
+Amount payable at June 30, 2018: None 
+
+4. Management Fee 
+
+The Project has contracted with Volunteers of America of Oklahoma, Inc. to provide management 
+services. The charges for these services are based upon a management agreement. The 
+charges are 10.34% of collected rental income not to exceed $43.91 per unit, per month. For the 
+period ended June 30, 2018, management fees charged amounted to $9,484. There is no 
+balance owed Volunteers of America of Oklahoma, Inc. at June 30, 2018. 
+
+5. Restricted Funds 
+
+Under the Regulatory Agreement, the Project is required to establish and maintain a replacement 
+reserve account for the replacement of property and other project expenditures as approved by 
+HUD. The Project is also required to complete a computation of surplus cash. Surplus cash is 
+the cash remaining after all expenses of the project are paid less current obligations of the current 
+reporting period. If surplus cash exists, the Project is required to deposit surplus cash into a 
+residual receipts account within 90 days of the Project's year-end. Restricted funds are held in 
+separate accounts and generally are not available for operating purposes. 
+
+6. Unrestricted Net Assets 
+
+None of the Project's net assets are subject to donor-imposed restrictions. Accordingly, all net 
+assets are accounted for as unrestricted net assets. 
+
+10 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Notes to the Financial Statements (continued) 
+June 30, 2018 
+
+7. Residual Receipts Contingency 
+
+Regulations require the return of residual receipts to HUD unless the funds are authorized by 
+HUD to be retained by the Project for possible future uses. The use of these funds is contingent 
+upon HUD's prior written approval. On June 19, 2015 HUD issued a directive that they will 
+require the return of residual receipts balances in excess of $250 per unit ("retained balance"), 
+upon expiration of the Project Rental Assistance Contract, subject to certain conditions. The 
+expiration date of the Project Rental Assistance Contract is July 31, 2018. The amount in excess 
+of the retained balance at June 30, 2018 is $2,939. The required deposit to the Residual 
+Receipts account for current period surplus cash is $10,853. The required deposit was not used 
+to calculate the current period retained balance. 
+
+8. Accounts Receivable from HUD 
+
+"Accounts Receivable-HUD" includes $4,524 due for the July 2015 TRACS vouchers. 
+
+9. Accounts and Notes Receivable-Operations 
+
+"Accounts and Notes Receivable-Operations" includes $929 due from the project sponsor. 
+
+11 
+
+
+
+SUPPLEMENTAL INFORMATION 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Supplementary Information Required by HUD 
+June 30, 2018 
+
+Financial Statement Data: 
+
+Account 
+
+1120 
+
+1130 
+
+1135 
+1140-020 
+
+1140 
+
+1100T 
+
+1191 
+
+1320 
+
+1340 
+
+1300T 
+
+1410 
+
+1420 
+
+1440 
+
+1460 
+
+1490 
+
+1400T 
+
+1495 
+
+1400N 
+
+1000T 
+
+Account 
+
+2110 
+
+2190-020 
+2190 
+
+2210 
+
+2122T 
+
+2191 
+
+2320 
+
+2300T 
+
+2000T 
+
+Account 
+
+3131 
+
+3130 
+
+2033T 
+
+Account 
+
+5120 
+
+Assets 
+
+Description 
+
+Cash-Operations 
+
+Tenant Accounts Receivable 
+
+Accounts Receivable-HUD 
+Accounts Receivable-Operations 
+
+Accounts and Notes Receivable-Operations 
+
+Total Current Assets 
+
+Tenant Security Deposits Held in Trust 
+
+Replacement Reserve 
+
+Residual Receipts Reserve 
+
+Total Deposits 
+
+Land 
+
+Buildings 
+
+Building Equipment-Portable 
+
+Furnishings 
+Miscellaneous Fixed Assets 
+
+Total Fixed Assets 
+
+Less Accumulated Depreciation 
+
+Net Fixed Assets 
+
+Total Assets 
+
+Liabilities 
+
+Description 
+
+Accounts Payable-Operations 
+
+Residual Receipts in Excess of Retained Amount 
+Miscellaneous Current Liabilities 
+
+Prepaid Revenue 
+
+Total Current Liabilities 
+
+Tenant Security Deposits Held in Trust (contra) 
+
+Mortgage Payable-First Mortgage 
+
+Total Long-Term Liabilities 
+
+Total Liabilities 
+
+Net Assets 
+
+Description 
+
+Unrestricted Net Assets 
+
+Total Net Assets 
+
+Total Liabilities and Equity/Net Assets 
+
+Rent Revenue 
+
+Description 
+
+Rent Revenue-Gross Potential 
+
+5121 Tenant Assistance Payments 
+
+Value 
+
+12,705 
+
+407 
+
+4,524 
+929 
+
+929 
+
+18,565 
+
+4,508 
+
+50,241 
+
+7,439 
+
+57,680 
+
+146,791 
+
+1,294,723 
+
+11,349 
+
+6,127 
+4 125 
+
+1,463,115 
+
+391,839 
+
+1,071,276 
+
+1,152,029 
+
+Value 
+
+2,118 
+2,939 
+
+2,939 
+
+259 
+
+5,316 
+
+3,983 
+
+1,419,756 
+
+1,419,756 
+
+1,429,055 
+
+Value 
+
+(277,026} 
+
+(277,026} 
+
+1,152,029 
+
+Value 
+
+54,024 
+
+42,528 
+
+12 
+
+
+
+5100T 
+
+Account 
+
+5220 
+5200T 
+5152N 
+
+Account 
+
+5430 
+5440 
+
+5400T 
+
+Account 
+
+5920 
+5900T 
+5000T 
+
+Account 
+
+6203 
+6204 
+6210 
+6250 
+6311 
+6320 
+6330 
+6350 
+6351 
+6370 
+
+6263T 
+
+Account 
+
+6450 
+6451 
+6452 
+6453 
+
+6400T 
+
+Account 
+
+6515 
+6520 
+6525 
+6546 
+
+6500T 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+(Hope Housing of Green Country, Inc.) 
+
+HUD Project No. 118-HD026 
+
+Supplementary Data Required by HUD (continued) 
+June 30, 2018 
+
+Total Rent Revenue 
+
+Apartments 
+
+Total Vacancies 
+
+Net Rental Revenue 
+
+Vacancies 
+
+Description 
+
+Financial Revenue 
+
+Description 
+
+Revenue from Investments-Residual Receipts 
+
+Revenue from Investments-Replacement Reserve 
+
+Total Financial Revenue 
+
+Tenant Charges 
+
+Total Other Revenue 
+
+Total Revenue 
+
+Other Revenue 
+
+Description 
+
+Administrative Expenses 
+
+Description 
+
+Conventions and Meetings 
+
+Management Consultants 
+
+Advertising and Marketing 
+
+Other Renting Expenses 
+
+Office Expense 
+
+Management Fee 
+
+Manager or Superintendent Salaries 
+
+Audit Expense 
+
+Bookkeeping Fees/Accounting Services 
+
+Bad Debts 
+
+Total Administrative Expenses 
+
+Electricity 
+
+Water 
+
+Gas 
+
+Sewer 
+
+Total Utilities Expense 
+
+Utilities Ex ense 
+
+Description 
+
+Operating & Maintenance Expenses 
+
+Description 
+
+Supplies 
+
+Contracts 
+
+Garbage and Trash Removal 
+
+Heating/Cooling Repairs and Maintenance 
+
+Total Operating and Maintenance Expenses 
+
+Taxes & Insurance 
+
+Description 
+
+96,552 
+
+Value 
+
+2,099 
+2,099 
+
+94,453 
+
+Value 
+
+14 
+10 
+24 
+
+Value 
+
+275 
+275 
+
+94,752 
+
+Value 
+
+194 
+137 
+150 
+
+2,693 
+1,859 
+9,484 
+1,478 
+4,965 
+1,800 
+4,091 
+
+26,851 
+
+Value 
+
+11,285 
+3,755 
+5,093 
+2,132 
+
+22,265 
+
+Value 
+
+1,417 
+14,062 
+1,068 
+
+24 
+16,571 
+
+13 
+
+
+
+6711 
+
+6720 
+
+6721 
+
+6722 
+
+6790 
+
+6700T 
+
+Account 
+
+6000T 
+
+5060T 
+
+6600 
+
+5060N 
+
+Account 
+
+7105 
+
+7100T 
+
+Account 
+
+3247 
+
+3250 
+
+Payroll Taxes 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+(Hope Housing of Green Country, Inc.) 
+
+HUD Project No. 118-HD026 
+
+Supplementary Data Required by HUD (continued) 
+June 30, 2018 
+
+Property and Liability Insurance 
+
+Fidelity Bond Insurance 
+
+Workmen's Compensation 
+
+Miscellaneous Taxes, Licenses, Permits, and Insurance 
+
+Total Taxes and Insurance 
+
+Operating Results 
+
+Description 
+
+Total Cost of Operations Before Depreciation and Amortization 
+
+Profit (Loss) Before Depreciation and Amortization 
+
+Depreciation Expenses 
+
+Operating Profit or (Loss) 
+
+Corporate or Mortgagor Revenue/Expenses 
+
+Description 
+
+Gain on Retention of Excess Residual Receipts 
+
+Net Entity Revenue/Expenses 
+
+Change in Net Assets from Operations 
+
+Description 
+
+Change in Unrestricted Net Assets from Operations 
+
+Change in Total Net Assets from Operations 
+
+Part II 
+
+Account Description 
+
+Total first mortgage (or bond) principal payments required during the audit period 
+S1000-010 (usually 12 months). This applies to all direct loans and HUD-held and HUD-
+
+$1000-020 
+
+$1000-030 
+
+$1000-040 
+
+$1100-060 
+
+3247 
+
+3131 
+
+$1100-050 
+
+3250 
+
+3130 
+
+Account 
+
+insured first mortgages. 
+
+The total of all monthly reserve for replacement deposits (usually 12 months) 
+required during the audit period even if deposits have been temporarily waived or 
+suspended. 
+
+Replacement Reserves or Residual Receipts and Releases which are included as 
+expense items on this Profit and Loss statement. 
+
+Project Improvement Reserve releases under the Flexible Subsidy program that 
+are included as expense items on this Profit and Loss statement. 
+
+E uit Data 
+
+Previous Year Unrestricted Net Assets 
+
+Change in Unrestricted Net Assets from Operations 
+
+Unrestricted Net Assets 
+
+Previous Year Total Net Assets 
+
+Change in Total Net Assets from Operations 
+
+Total Net Assets 
+
+Cash Flow from Operating Activities 
+
+Description 
+
+S1200-010 Rental Receipts 
+
+S1200-020 Interest Receipts 
+
+S1200-030 Other Receipts 
+
+113 
+
+11,024 
+
+297 
+
+7 
+125 
+
+11,566 
+
+Value 
+
+77,253 
+
+17,499 
+
+34,997 
+
+(17,498) 
+
+Value 
+
+(472) 
+
+(472) 
+
+Value 
+
+(17,026) 
+
+(17,026) 
+
+0 
+
+4,926 
+
+0 
+
+0 
+
+(260,000) 
+
+(17,026) 
+
+(277,026) 
+
+(260,000) 
+
+(17,026) 
+
+(277,026) 
+
+Value 
+
+101,715 
+
+24 
+
+275 
+
+14 
+
+
+
+S1200-040 
+
+S1200-050 
+
+S1200-070 
+
+S1200-090 
+
+S1200-100 
+
+S1200-110 
+S1200-140 
+
+S1200-150 
+
+S1200-160 
+
+S1200-230 
+
+S1200-240 
+
+Account 
+
+S1200-245 
+
+S1200-250 
+S1200-260 
+
+S1200-330 
+
+S1200-342 
+
+S1200-340 
+
+S1200-350 
+
+S1200-470 
+
+Account 
+
+S1200-480 
+
+S1200T 
+
+Account 
+3250 
+
+Account 
+
+6600 
+
+S1200-490 
+
+S1200-500 
+
+S1200-530 
+
+S1200-540 
+S1200-560 
+
+S1200-580 
+
+S1200-590 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+(Hope Housing of Green Country, Inc.) 
+
+HUD Project No. 118-HD026 
+
+Supplementary Data Required by HUD (continued) 
+June 30, 2018 
+
+Total Receipts 
+
+Administrative 
+
+Management Fees 
+
+Utilities 
+
+Salaries and Wages 
+
+Operating and Maintenance 
+Property Insurance 
+
+Miscellaneous Taxes and Insurance 
+
+Tenant Security Deposits 
+
+Total Disbursements 
+
+Net Cash Provided by (Used in) Operating Activities 
+
+Cash Flow from Investing Activities 
+
+Description 
+
+Net Deposits to the Mortgage Escrow Account 
+
+Net Deposits to the Replacement Reserve Account 
+
+Net Deposits to the Residual Receipts Account 
+
+Net Purchase of Fixed Assets 
+
+Net Receivable Due from Affiliate 
+
+Other Investing Activities 
+
+Net Cash Provided by (Used in) Investing Activities 
+
+Net Increase (Decrease) in Cash and Cash Equivalents 
+
+Beginning of Period 
+
+End of Period 
+
+Cash and Cash Equivalents 
+
+Description 
+
+Reconciliation of Net Profit (Loss) to Net Cash Provided by (Used in) 
+
+Operating Activities 
+
+Description 
+
+Change in Total Net Assets from Operations 
+
+Adjustments to Reconcile Net Profit (Loss) to Net Cash Provided by 
+
+{Used in) Operating Activities 
+
+Description 
+
+Depreciation Expense 
+Decrease (Increase) in Tenant Accounts Receivable 
+
+Decrease (Increase) in Accounts Receivable-Other 
+
+Decrease (Increase) in Cash Restricted for Tenant Security Deposits 
+
+Increase (Decrease) in Accounts Payable 
+
+Increase (Decrease) in Accrued Liabilities 
+
+Increase (Decrease) in Tenants Security Deposits Held in Trust 
+
+Increase (Decrease) in Prepaid Revenue 
+
+S 1200-602 Gain on Retention of Excess Residual Receipts 
+
+S 1200-600 Other Adjustments 
+
+Net Cash Provided by (Used in) Operating Activities 
+
+Account Description 
+
+S1200-610 Net Cash Provided by (Used in) Operating Activities 
+
+(929) 
+
+(472) 
+
+102,014 
+
+(11,852) 
+
+(10,270) 
+
+(22,364) 
+
+(1,523) 
+
+(16,859) 
+
+(11,024) 
+
+(546) 
+
+{757) 
+
+(75,195) 
+
+26,819 
+
+Value 
+
+3,985 
+(4,936) 
+(3,241) 
+
+(16,908) 
+
+{929) 
+
+{22,029) 
+
+4,790 
+
+Value 
+
+7 915 
+
+12,705 
+
+Value 
+
+(17,026) 
+
+Value 
+
+34,997 
+
+4,666 
+
+7,056 
+(1,028) 
+
+{441) 
+(835) 
+
+271 
+
+(369) 
+
+{472) 
+
+Value 
+
+26,819 
+
+15 
+
+
+
+Reserve for Replacements: 
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+(Hope Housing of Green Country, Inc.) 
+
+HUD Project No. 118-HD026 
+
+Supplementary Data Required by HUD (continued) 
+June 30, 2018 
+
+In accordance with the provisions of the Regulatory Agreement, restricted cash is to be used for replacement of 
+property and various other uses, with the approval of HUD as follows: 
+
+Balance, June 30, 2017 
+Total Monthly Deposits 
+Investment Income 
+Approved Withdrawals 
+
+Balance, June 30, 2018 
+
+Deposits Suspended or Waived 
+No 
+
+Residual Receipts Reserve: 
+
+Balance, June 30, 2017 
+Total Required Deposit 
+Investment Income 
+Approved Withdrawals 
+Other Withdrawals-Service Charges 
+
+Balance, June 30, 2018 
+
+$ 
+
+$ 
+
+$ 
+
+$ 
+
+Computation of Surplus Cash, Distributions, and Residual Receipts-Annual: 
+
+Cash 
+Tenant Subsidy Due for Period Covered by Financial Statement 
+
+Total Cash 
+
+Accounts Payable-30 Days 
+Prepaid Revenue 
+Tenant Security Deposits Liability 
+Other Current Obligations: July 2015 TRACS Voucher Receivable 
+
+Total Current Obligations 
+Surplus Cash (Deficiency) 
+
+$ 
+
+$ 
+
+45,305 
+4,926 
+
+10 
+0 
+
+50,241 
+
+4,198 
+3,473 
+
+14 
+0 
+
+(246) 
+7,439 
+
+17,213 
+4,524 
+
+21,737 
+
+2,118 
+259 
+
+3,983 
+4,524 
+
+10,884 
+10,853 
+
+16 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+(Hope Housing of Green Country, Inc.) 
+
+HUD Project No. 118-HD026 
+
+Supplementary Data Required by HUD (continued) 
+June 30, 2018 
+
+Schedule of Fixed Assets Accounts-Detail: 
+
+Land 
+Buildings 
+Building Equipment-Portable 
+Furnishings 
+Miscellaneous Fixed Assets 
+
+Total 
+
+Accumulated Depreciation 
+
+Net Book Value 
+
+Description 
+HVAC Units 
+Appliances 
+Flooring 
+Gate 
+
+Beginning 
+Balance 
+
+$ 146,791 
+1,290,643 
+
+7,728 
+0 
+0 
+
+$ 1,445,162 
+
+$ 356,842 
+
+Additions Deductions 
+$ 0 $ 0 
+
+4,080 0 
+3,621 0 
+6,127 0 
+4,125 0 
+
+$ 17,953 $ 0 
+
+$ 34,997 $ 0 
+
+Ending 
+Balance 
+
+$ 146,791 
+1,294,723 
+
+11,349 
+6,127 
+4,125 
+
+1,463,115 
+
+391,839 
+
+$ 1,071,276 
+
+Additions 
+(Deductions) 
+$ 4,080 
+
+3,621 
+6,127 
+4,125 
+
+17 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Schedule of Expenditures of Federal Awards 
+June 30, 2018 
+
+Federal Grantor/Pass-through 
+Grantor/Program Title 
+
+U.S. Department of Housing and Urban Development 
+Supportive Housing for Persons with Disabilities 
+(Section 811 )-Capital Advance 
+
+U.S. Department of Housing and Urban Development 
+Supportive Housing for Persons with Disabilities 
+(Section 811 )-Project Rental Assistance 
+
+Federal 
+CFDA 
+
+Number 
+
+14.181 
+
+14.181 
+
+$ 
+
+$ 
+
+Federal 
+Expenditures 
+
+1,419,756 
+
+42,528 
+
+1,462,284 
+
+Basis of Presentation: The accompanying schedule of expenditures of federal awards includes the 
+federal grant activity of Hope Housing of Green Country, Inc., (A Nonprofit Corporation), (Hope Housing 
+of Green Country, Inc.), HUD Project No. 118-HD026, and is prepared on the accrual basis of accounting. 
+The information in this schedule is presented in accordance with the requirements of Title 2 U.S. Code of 
+Federal Regulations (CFR) Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards. Therefore, some amounts presented in this schedule may differ from 
+amounts presented in, or used in the preparation of, the basic financial statements. 
+
+Summary of Significant Accounting Policies: Expenditures reported on the Schedule are reported on the 
+accrual basis of accounting. Such expenditures are recognized following the cost principles contained in 
+the Uniform Guidance, wherein certain types of expenditures are not allowable or are limited as to 
+reimbursement. The Project has not elected to use the 10-percent de minim is indirect cost rate as 
+allowed under the Uniform Guidance. 
+
+18 
+
+
+
+Hope Housing of Green Country, Inc. 
+9605 E. 61st St. 
+
+Tulsa, OK 74133-6308 
+
+Summary Schedule of Prior Audit Findings 
+
+Federal Agency: 
+Federal Program: 
+
+Department of Housing and Urban Development 
+Section 811 
+
+CFDA Number: 14.181 
+
+Finding Reference Number: 2017-001 
+Statement of Condition: The security deposit account is not fully funded. 
+
+Status: The account has been properly funded. 
+
+Finding Reference Number: 2017-002 
+Statement of Condition: Surplus cash was not deposited into the Residual Receipts account. 
+
+Status: The account has been properly funded. 
+
+19 
+
+
+
+MADDOX & AssOCIATES1 APC 
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+Independent Auditors' Report on Internal Control Over Financial Reporting and 
+on Compliance and Other Matters Based on an Audit of Financial Statements 
+
+Performed in Accordance With Government Auditing Standards 
+
+To the Directors 
+Hope Housing of Green Country, Inc. 
+
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of Hope Housing of 
+Green Country, Inc., which comprise the statement of financial position as of June 30, 2018, and the 
+related statements of activities, and cash flows for the year then ended, and the related notes to the 
+financial statements, and have issued our report thereon dated August 16, 2018. 
+
+Internal Control Over Financial Reporting 
+
+In planning and performing our audit of the financial statements, we considered Hope Housing of Green 
+Country, lnc.'s internal control over financial reporting (internal control) to determine the audit procedures 
+that are appropriate in the circumstances for the purpose of expressing our opinions on the financial 
+statements, but not for the purpose of expressing an opinion on the effectiveness of Hope Housing of 
+Green Country, lnc.'s internal control. Accordingly, we do not express an opinion on the effectiveness of 
+Hope Housing of Green Country, lnc.'s internal control. 
+
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, or 
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a 
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a material 
+misstatement of the entity's financial statements will not be prevented, or detected and corrected on a 
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control 
+that is less severe than a material weakness, yet important enough to merit attention by those charged 
+with governance. 
+
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses. However, material 
+weaknesses may exist that have not been identified. 
+
+Compliance and Other Matters 
+
+As part of obtaining reasonable assurance about whether Hope Housing of Green Country, lnc.'s financial 
+statements are free from material misstatement, we performed tests of its compliance with certain 
+provisions of laws, regulations, contracts, and grant agreements, noncompliance with which could have a 
+direct and material effect on the determination of financial statement amounts. However, providing an 
+opinion on compliance with those provisions was not an objective of our audit, and accordingly, we do not 
+express such an opinion. The results of our tests disclosed instances of noncompliance or other matters 
+that are required to be reported under Government Auditing Standards which are described in the 
+accompanying schedule of findings and questioned costs as items 2018-001 and 2018-002. 
+
+5627 Bankers Avenue • Building 2 • Baton Rouge, LA 70808 20 
+Phone 225.926.3360 • fax 225.926-3361 • Auditors@MaddoxAssociates.com 
+
+
+
+Hope Housing of Green Country, lnc.'s Response to Findings 
+
+Hope Housing of Green Country, lnc.'s response to the findings identified in our audit are described in the 
+accompanying schedule of findings, questioned costs, and recommendations. Hope Housing of Green 
+Country, lnc.'s response was not subjected to the auditing procedures applied in the audit of the financial 
+statements and, accordingly, we express no opinion on it. 
+
+Purpose of this Report 
+
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity's internal 
+control or on compliance. This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the entity's internal control and compliance. Accordingly, 
+this communication is not suitable for any other purpose. 
+
+Baton Rouge, Louisiana 
+August 16, 2018 
+
+21 
+
+
+
+MADDOX & AssocIATESI APC 
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+Independent Auditors' Report on Compliance for Each Major Program and 
+on Internal Control Over Compliance Required by the Uniform Guidance 
+
+To the Directors 
+Hope Housing of Green Country, Inc. 
+
+Report on Compliance for Each Major Federal Program 
+
+We have audited Hope Housing of Green Country, lnc.'s compliance with the types of compliance 
+requirements described in the 0MB Compliance Supplement that could have a direct and material effect 
+on each of Hope Housing of Green Country, lnc.'s major federal programs for the year ended June 30, 
+2018. Hope Housing of Green Country, lnc.'s major federal programs are identified in the summary of 
+auditor's results section of the accompanying schedule of findings and questioned costs. 
+
+Management's Responsibility 
+Management is responsible for compliance with the requirements of laws, regulations, contracts, and 
+grants applicable to its federal programs. 
+
+Auditor's Responsibility 
+Our responsibility is to express an opinion on compliance for each of Hope Housing of Green Country, 
+lnc.'s major federal programs based on our audit of the types of compliance requirements referred to 
+above. We conducted our audit of compliance in accordance with auditing standards generally accepted 
+in the United States of America; the standards applicable to financial audits contained in Government 
+Auditing Standards, issued by the Comptroller General of the United States; and Title 2 U.S. Code of 
+Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit 
+Requirements for Federal Awards (Uniform Guidance). Those standards and the Uniform Guidance 
+require that we plan and perform the audit to obtain reasonable assurance about whether noncompliance 
+with the types of compliance requirements referred to above that could have a direct and material effect 
+on a major federal program occurred. An audit includes examining, on a test basis, evidence about Hope 
+Housing of Green Country, lnc.'s compliance with those requirements and performing such other 
+procedures as we considered necessary in the circumstances. 
+
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major 
+federal program. However, our audit does not provide a legal determination of Hope Housing of Green 
+Country, lnc.'s compliance. 
+
+Opinion on Each Major Federal Program 
+In our opinion, Hope Housing of Green Country, Inc. complied, in all material respects, with the types of 
+compliance requirements referred to above that could have a direct and material effect on each of its 
+major federal programs for the year ended June 30, 2018. 
+
+Other Matters 
+The results of our auditing procedures disclosed instances of noncompliance, which are required to be 
+reported in accordance with the Uniform Guidance and which are described in the accompanying 
+schedule of findings and questioned costs as items 2018-001 and 2018-002. Our opinion on each major 
+federal program is not modified with respect to these matters. 
+
+Hope Housing of Green Country, lnc.'s response to the noncompliance findings identified in our audit are 
+described in the accompanying corrective action plan. Hope Housing of Green Country, lnc.'s response 
+was not subjected to the auditing procedures applied in the audit of compliance and, accordingly, we 
+express no opinion on the response. 
+
+5627 Bankers Avenue• Building 2 • Baton Rouge, LA 70808 22 
+Phone 225.926.3360 • Fax 225.926-3361 • Auditors@MaddoxAssociates.com 
+
+
+
+Report on Internal Control Over Compliance 
+
+Management of Hope Housing of Green Country, Inc. is responsible for establishing and maintaining 
+effective internal control over compliance with the types of compliance requirements referred to above. In 
+planning and performing our audit of compliance, we considered Hope Housing of Green Country, lnc.'s 
+internal control over compliance with the types of requirements that could have a direct and material 
+effect on each major federal program to determine the auditing procedures that are appropriate in the 
+circumstances for the purpose of expressing an opinion on compliance for each major federal program 
+and to test and report on internal control over compliance in accordance with the Uniform Guidance, but 
+not for the purpose of expressing an opinion on the effectiveness of internal control over compliance. 
+Accordingly, we do not express an opinion on the effectiveness of Hope Housing of Green Country, lnc.'s 
+internal control over compliance. 
+
+A deficiency in internal control over compliance exists when the design or operation of a control over 
+compliance does not allow management or employees, in the normal course of performing their assigned 
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a 
+federal program on a timely basis. A material weakness in internal control over compliance is a 
+deficiency, or combination of deficiencies, in internal control over compliance, such that there is a 
+reasonable possibility that material noncompliance with a type of compliance requirement of a federal 
+program will not be prevented, or detected and corrected, on a timely basis. A significant deficiency in 
+internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over 
+compliance with a type of compliance requirement of a federal program that is less severe than a material 
+weakness in internal control over compliance, yet important enough to merit attention by those charged 
+with governance. 
+
+Our consideration of internal control over compliance was for the limited purpose described in the first 
+paragraph of this section and was not designed to identify all deficiencies in internal control over 
+compliance that might be material weaknesses or significant deficiencies. We did not identify any 
+deficiencies in internal control over compliance that we consider to be material weaknesses. However, 
+material weaknesses may exist that have not been identified. 
+
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements of the 
+Uniform Guidance. Accordingly, this report is not suitable for any other purpose. 
+
+Baton Rouge, Louisiana 
+August 16, 2018 
+
+23 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Schedule of Findings and Questioned Costs 
+For the Year Ended June 30, 2018 
+
+A. Summary of Audit Results 
+
+1. The auditors' report expresses an unmodified opinion on the financial statements of Hope 
+Housing of Green Country, Inc. 
+
+2. Material weaknesses were not identified during the audit of the financial statements. 
+
+3. Instances of noncompliance material to the financial statements of Hope Housing of 
+Green Country, Inc. were not disclosed during the audit. 
+
+4. Material weaknesses were not identified during the audit of the major federal award 
+programs. 
+
+5. The auditors' report on compliance for the major federal award programs for Hope 
+Housing of Green Country, Inc. expresses an unmodified opinion. 
+
+6. Audit findings relative to the major federal award programs for Hope Housing of Green 
+Country, Inc. are reported on this Schedule. 
+
+7. The programs tested as major programs included: 
+
+Name of Federal Program or Cluster 
+Section 811 Supportive Housing for Persons with Disabilities 
+
+CFDA Number 
+14.181 
+
+8. The threshold for distinguishing Type A and Type B programs was $750,000. 
+
+9. Hope Housing of Green Country, Inc. qualified as a low-risk auditee. 
+
+B. Findings-Financial Statement Audit 
+
+None 
+
+24 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Schedule of Findings and Questioned Costs 
+For the Year Ended June 30, 2018 
+
+C. Findings and Questioned Costs-Major Federal Award Programs Audit 
+
+Federal Agency: 
+Federal Program: 
+
+Department of Housing and Urban Development 
+Section 811 
+
+CFDA Number: 14.181 
+
+Finding Reference Number: 2018-001 
+Tvpe of Findina: FA 
+
+Finding Resolution Status: In Process 
+Information on Universe 
+
+Population Size: The findinq was not a result of a sampling procedure. 
+Sample Size Information: The findinq was not a result of a samplinq procedure. 
+
+Identification of Repeat 
+Finding and Finding 
+Reference Number: This is not a repeat finding. 
+
+Criteria: HUD Memorandum dated October 14, 2016, "Continuing Remission of 
+Excess PRAC Residual Receipts", continues the requirement that "Any 
+balance greater than $250 per unit in a Residual Receipts account must 
+be remitted to HU D's Accounting Center 'upon "termination" of the 
+PRAC". 
+
+Statement of Condition: The project did not remit excess Residual Receipts to HUD. 
+Cause: Residual Receipts account balance was not monitored. 
+
+Effect or Potential Effect: Residual Receipts account is in excess of the required balance. 
+Auditor Non-Compliance 
+
+Code: z 
+Questioned Costs: There are no questioned costs. The finding does not relate to an 
+
+undocumented transaction or unreasonable expenditure. 
+Reporting Views of Management agrees with the finding. The excess funds were accrued 
+
+Responsible Officials: to submit to HUD. 
+Context: The project did not remit excess Residual Receipts to HUD. 
+
+Recommendation: Management should monitor the Residual Receipts account balance 
+and remit excess deposits to HUD. 
+
+Auditor's Summary of the 
+Auditee's Comments on the 
+
+Findings and Management agrees with the finding. The excess funds were accrued 
+Recommendations: to submit to HUD. 
+
+Response Indicator: Aqree 
+Completion Date: Auqust16, 2018 
+
+Response: Management agrees with the finding. The excess funds were accrued 
+to submit to HUD. 
+
+25 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Schedule of Findings and Questioned Costs 
+For the Year Ended June 30, 2018 
+
+Finding Reference Number: 2018-002 
+Tvr:,e of Findinq: FA 
+
+Finding Resolution Status: In Process 
+Information on Universe 
+
+Population Size: The findinq was not a result of a sampling procedure. 
+Sample Size Information: The findinq was not a result of a samplinq procedure. 
+
+Identification of Repeat 
+Finding and Finding 
+Reference Number: This is not a repeat findinq. 
+
+Criteria: Project funds may be used only for expenses that are reasonable and 
+necessary to the operation of the project as provided for in the 
+Requlatorv Aqreement between HUD and the project owner. 
+
+Statement of Condition: There is a receivable due from the sponsor. 
+Cause: The sponsor overbilled the project for payroll expenses resulting in an 
+
+overpayment. 
+Effect or Potential Effect: There is a receivable due from the sponsor. 
+Auditor Non-Compliance 
+
+Code: G 
+Questioned Costs: $929 
+Reporting Views of 
+
+Responsible Officials: Manaqement aqrees with the findinq. 
+Context: The sponsor overbilled the project for payroll expenses 
+
+Recommendation: The project should be reimbursed. 
+Auditor's Summary of the 
+
+Auditee's Comments on the 
+Findings and Management agrees with the finding. The funds will be reimbursed to 
+
+Recommendations: the project in the amount of $929. 
+Response Indicator: Aqree 
+
+Completion Date: August16,2018 
+Response: Management agrees with the finding. The funds will be reimbursed to 
+
+the project in the amount of$ 929. 
+
+26 
+
+
+
+Hope Housing of Green Country, Inc. 
+9605 E. 61st St. 
+
+Corrective Action Plan 
+
+Name of Auditee: 
+HUD Project Number: 
+Name of Audit Firm: 
+Period Covered by Audit: 
+
+Tulsa, OK 74133-6308 
+
+Hope Housing of Green Country, Inc. 
+118-HD026 
+Maddox & Associates, APC 
+Year Ending June 30, 2018 
+
+Corrective Action Plan Prepared by: 
+Name: Pam Richardson 
+Position: President and CEO 
+Telephone Number: 918307-3030 
+
+Findings-Financial Statement Audit 
+
+None 
+
+Findings-Federal Award Programs Audits 
+
+Federal Agency: 
+Federal Program: 
+CFDA Number: 
+
+Finding Reference Number: 
+Concur or Do Not Concur: 
+
+Agree or Disagree with 
+Auditor Recommendations: 
+
+Department of Housing and Urban Development 
+Section 811 
+14.181 
+
+2018-001 
+Concur 
+
+Aqree 
+Actions Taken or Planned Management agrees with the finding. The excess funds were accrued to 
+
+on the Findinq: submit to HUD. 
+Completion Date: Auqust 16, 2018 
+
+Finding Reference Number: 2018-002 
+Concur or Do Not Concur: Concur 
+
+Agree or Disagree with 
+Auditor Recommendations: Aqree 
+
+Actions Taken or Planned Management agrees with the finding. The funds will be reimbursed to the 
+on the Findinq: project in the amount of $929. 
+
+Completion Date: Auqust16,2018 
+
+27 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Certification of Officers 
+
+We hereby certify that we have examined the accompanying financial statements and supplemental data 
+of Hope Housing of Green Country, Inc., (A Nonprofit Corporation), HUD Project No. 118-HD026 as of 
+June 30, 2018, and, to the best of our knowledge and belief, the same are accurate and complete. 
+
+Signature: 
+
+Signature: 
+
+Pam Richardson, President 
+Hope Housing of Green Country, Inc. 
+August 16, 2018 
+
+Lyon Morehead, Chair 
+Hope Housing of Green Country, Inc. 
+August 16, 2018 
+
+Employer Identification Number: 75-3156380 
+
+28 
+
+
+
+Hope Housing of Green Country, Inc. 
+(A Nonprofit Corporation) 
+
+HUD Project No. 118-HD026 
+
+Management Agent's Certification 
+
+I hereby certify that I have examined the accompanying financial statements and supplemental data of 
+Hope Housing of Green Country, Inc., (A Nonprofit Corporation), HUD Project No. 118-HD026 as of June 
+30, 2018, and, to the best of my knowledge and belief, the same are accurate and complete. 
+
+Signature: 
+
+Pam Richardson, President 
+Volunteers of America of Oklahoma, Inc. 
+Employer ID#: 73-1354867 
+August 16, 2018 
+
+29 
+
+
+
+MADDOX & ASSOCIATES, APC 
+CERTIFIED PUBLIC ACCOUNTANTS 
+
+Independent Accountants' Report on Applying Agreed-Upon Procedures 
+
+To the Directors 
+Hope Housing of Green Country, Inc. 
+
+We have performed the procedure described in the second paragraph of this report, which was agreed to by 
+Hope Housing of Green Country, Inc., (A Nonprofit Corporation), HUD Project No. 118-HD026 and the U.S. 
+Department of Housing and Urban Development, Public Indian Housing-Real Estate Assessment Center (PIH-
+REAC), on whether the electronic submission of certain information agrees with the related hard copy 
+documents within the audit reporting package. Hope Housing of Green Country, Inc. is responsible for the 
+accuracy and completeness of the electronic submission. The sufficiency of the procedure is solely the 
+responsibility of Hope Housing of Green Country, Inc. and PIH-REAC. Consequently, we make no 
+representation regarding the sufficiency of the procedure described below either for the purpose for which this 
+report has been requested or for any other purpose. 
+
+We compared the electronic submission of the items listed in the "UFRS Rule Information" column with the 
+corresponding printed documents listed in the "Hard Copy Documents" column. The associated findings from 
+the performance of our agreed-upon procedure indicate agreement or non-agreement of the electronically 
+submitted information and hard copy documents as shown in the attached chart. 
+
+This agreed-upon procedure engagement was conducted in accordance with the attestation standards 
+established by the American Institute of Certified Public Accountants and the standards applicable to attestation 
+engagements contained in Government Auditing Standards issued by the Comptroller General of the United 
+States. We were not engaged to and did not conduct an examination or review, the objective of which would be 
+the expression of an opinion or conclusion, respectively, on whether the electronic submission of the items listed 
+in the "UFRS Rule Information" column agrees with the related hard copy documents within the audit reporting 
+package. Accordingly, we do not express such an opinion or conclusion. Had we performed additional 
+procedures, other matters might have come to our attention that would have been reported to you. 
+
+We were engaged to perform an audit in accordance with the audit requirements of Title 2 U.S. Code of the 
+Federal Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements 
+for Federal Awards (Uniform Guidance), by Hope Housing of Green Country, Inc. as of and for the year ended 
+June 30, 2018, and have issued our reports thereon dated August 16, 2018. The information in the "Hard Copy 
+Documents" column was included within the scope, or was a by-product of that audit. Further, our opinion on 
+the fair presentation of the supplemental financial data templates dated August 16, 2018, was expressed in 
+relation to the basic financial statements of Hope Housing of Green Country, Inc. taken as a whole. 
+
+A copy of the financial statement package required by the Uniform Guidance, which includes the auditors' 
+reports, is available in its entirety from Hope Housing of Green Country, Inc. We have not performed any 
+additional auditing procedures since the date of the aforementioned audit reports. Further, we take no 
+responsibility for the security of the information transmitted electronically to the U.S. Department of Housing and 
+Urban Development, PIH-REAC. 
+
+The purpose of this report on applying the agreed-upon procedures is solely to describe the procedure 
+performed on the electronic submission of the items listed in the "UFRS Rule Information" column and the 
+associated findings, and not to provide an opinion or conclusion. Accordingly, this report is not suitable for any 
+other purpose. 
+
+August 22, 2018 
+
+5627 Bankers Avenue• Building 2 • Baton Rouge, LA 70808 30 
+Phone 225.926.3360 • Fax 225.926-3361 • Auditors@MaddoxAssociates.com 
+
+.. 
+
+
+
+Attachment to Independent Accountants' Report on Applying Agreed-Upon Procedures 
+
+UFRS Rule Information Hard Coov Documentfs) Findinas 
+Balance Sheet, Revenue and Expense and Supplemental Schedules with Financial Agrees 
+Cash Flow Data (account numbers 1120 to Statement Data 
+7100T and the S1200 series) 
+Surplus Cash (S1300 series of accounts) Computation of Surplus Cash, Agrees 
+
+Distributions and Residual Receipts 
+(Annual) 
+
+Footnotes (S3100 series of accounts) Notes to the Financial Statements Aarees 
+Type of Opinion on the Financial Auditors' Reports on the Financial Agrees 
+Statements and Auditor Reports (S3400, Statements, Compliance and Internal 
+S3500, and S3600 series of accounts) Control 
+Type of Opinion on Supplemental Data Auditors' Report on Supplemental Data Agrees 
+(account S3400-100) 
+Auditor Findings Narrative (S3800 series of Schedule of Findings and Questioned Agrees 
+accounts) Costs 
+General Information (S3300, S3700, and Schedule of Findings and Questioned Agrees 
+S3800 series of accounts) Costs and Federal Awards Data 
+
+31 
+
+

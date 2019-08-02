@@ -1,0 +1,1854 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOUTHEAST AREA HEALTH CENTER, INC
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+EAST CENTRAL OKLAHOMA  
+
+FAMILY HEALTH CENTER, INC. 
+Financial Statements 
+
+December 31, 2018 and 2017 
+With Independent Auditors' Report Thereon 
+
+ 
+
+
+
+ 
+ 
+ 
+
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+ 
+
+TABLE OF CONTENTS 
+ 
+ 
+ 
+ 
+ 
+  Independent Auditors' Report 1-2 
+   
+  Statement of Financial Position 3 
+ 
+  Statement of Activities 4 
+ 
+  Statement of Functional Expenses 5 
+ 
+  Statement of Cash Flows 6-7 
+ 
+  Notes to Financial Statements 8-18 
+ 
+  SUPPLEMENTAL INFORMATION 
+ 
+  Schedule of Expenditures of Federal Awards 19-20 
+ 
+REPORTS 
+ 
+  Independent  Auditors’ Report On Internal Control Over Financial Reporting 
+  And  On  Compliance  And  Other  Matters  Based On An Audit of Financial 
+  Statements  Performed In Accordance With Government Auditing Standards 21-22 
+   
+ Independent Auditors’ Report On Compliance For Each Major Program And 
+ On  Internal  Control  Over  Compliance  Required by the Uniform Guidance          23-24 
+                    
+ Schedule of Findings and Questioned Costs               25-26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+    
+Independent Auditors' Report 
+
+ 
+The Board of Directors 
+East Central Oklahoma Family Health Center, Inc.  
+Wetumka, Oklahoma 
+ 
+Report on the Financial Statements 
+ 
+We have audited the accompanying financial statements of East Central Oklahoma Family Health 
+Center, Inc. (a nonprofit organization), which comprise the statement of financial position as of 
+December 31, 2018 and 2017, and the related statements of activities and changes in net assets, 
+statement of functional expenses and cash flows for the years then ended, and the related notes to 
+the financial statements. 
+ 
+Management’s Responsibility for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of these financial statements in 
+accordance with accounting principles generally accepted in the United States of America; this 
+includes the design, implementation, and maintenance of internal control relevant to the preparation 
+and fair presentation of financial statements that are free from material misstatement, whether due 
+to fraud or error. 
+ 
+Auditors’ Responsibility 
+ 
+Our responsibility is to express an opinion on these financial statements based on our audit. We 
+conducted our audits in accordance with auditing standards generally accepted in the United States 
+of America and the standards applicable to financial audits contained in Government Auditing 
+Standards, issued by the Comptroller General of the United States. Those standards require that we 
+plan and perform the audits to obtain reasonable assurance about whether the financial statements 
+are free from material misstatement.  
+ 
+An audit involves performing procedures to obtain audit evidence about the amounts and 
+disclosures in the financial statements. The procedures selected depend on the auditor’s judgment, 
+including the assessment of the risks of material misstatement of the financial statements, whether 
+due to fraud or error. In making those risk assessments, the auditor considers internal control 
+relevant to the entity’s preparation and fair presentation of the financial statements in order to 
+design audit procedures that are appropriate in the circumstances, but not for the purpose of 
+expressing an opinion on the effectiveness of the entity’s internal control. Accordingly, we express 
+no such opinion. An audit also includes evaluating the appropriateness of accounting policies used 
+and the reasonableness of significant accounting estimates made by management, as well as 
+evaluating the overall presentation of the financial statements. 
+ 
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis 
+for our audit opinion.  
+ 
+
+1 
+
+
+
+The Board of Directors 
+East Central Oklahoma Family Health Center, Inc.  
+Wetumka, Oklahoma 
+Page two 
+ 
+Opinion 
+ 
+In our opinion, the financial statements referred to above present fairly, in all material respects, the 
+financial position of East Central Oklahoma Family Health Center, Inc. as of December 31, 2018 
+and 2017, and the changes in its net assets and its cash flows for the years then ended in accordance 
+with accounting principles generally accepted in the United States of America.  
+ 
+Other Matters 
+ 
+Other Information 
+ 
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a 
+whole. The accompanying schedule of expenditures of federal awards, as required by Title 2 U.S. 
+Code of Federal Regulations (CFR) Part 200, Uniform Administrative Requirements, Cost 
+Principles and Audit Requirements for Federal Awards is presented for purposes of additional 
+analysis and is not a required part of the financial statements. Such information is the responsibility 
+of management and was derived from and relates directly to the underlying accounting and other 
+records used to prepare the financial statements. The information has been subjected to the auditing 
+procedures applied in the audit of the financial statements, and certain additional procedures, 
+including comparing and reconciling such information directly to the underlying accounting and 
+other records used to prepare the financial statements or to the financial statements themselves, and 
+other additional procedures in accordance with auditing standards generally accepted in the United 
+States of America. In our opinion, the information is fairly stated, in all material respects, in relation 
+to the financial statements as a whole. 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated April 29, 
+2019 on our consideration of East Central Oklahoma Family Health Center Inc.’s internal control 
+over financial reporting and on our tests of its compliance with certain provisions of laws, 
+regulations, contracts, and grant agreements and other matters. The purpose of that report is to 
+describe the scope of our testing of internal control over financial reporting and compliance and the 
+results of that testing, and not to provide an opinion on internal control over financial reporting or 
+on compliance. That report is an integral part of an audit performed in accordance with Government 
+Auditing Standards in considering East Central Oklahoma Family Health Center Inc.’s internal 
+control over financial reporting and compliance.  
+
+ 
+Ada, Oklahoma 
+April 29, 2019 
+
+ 
+ 
+ 
+
+ 
+ 2 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Statement of Financial Position 
+December 31, 2018 and 2017 
+
+ 
+ 
+
+2018 2017
+ASSETS
+
+Current Assets
+   Cash 1,347,529$          1,615,642$          
+   Accounts Receivable:
+      Patient, Net Allowance for Uncollectibles 222,028               121,274               
+   Grants Receivable 68,978                 46,382                 
+   Other Receivables 7,631                   7,142                   
+   Inventories 161,565               168,708               
+   Prepaid Expense -                           5,396                   
+       Total Current Assets 1,807,731            1,964,544            
+
+   Property, Plant and Equipment 5,826,883            4,514,411            
+   Accumulated Depreciation (1,306,196)           (1,062,410)           
+   Net Property, Plant and Equipment 4,520,687            3,452,001            
+
+       Total Assets 6,328,418$          5,416,545$          
+
+          LIABILITIES AND NET ASSETS
+
+Current Liabilities
+   Accounts Payable 28,888$               32,938$               
+   Accrued Expenses:
+      Salaries and Vacations Payable 175,923               139,284               
+      Payroll Taxes Payable 5,459                   3,307                   
+   Current Portion Long-Term Debt 98,295                 93,533                 
+       Total Current Liabilities 308,565               269,062               
+
+Long-Term Debt
+   Long-Term Debt 2,057,927            2,154,759            
+       Total Long-Term Debt 2,057,927            2,154,759            
+
+       Total Liabilities 2,366,492            2,423,821            
+
+Net Assets
+   Without Donor Restrictions 3,961,926            2,992,724            
+
+       Total Liabilities and Net Assets 6,328,418$          5,416,545$          
+
+ 
+ 
+ 
+ 
+
+The accompanying notes are an integral part of this financial statement. 
+3 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Statement of Activities 
+Years Ended December 31, 2018 and 2017 
+
+ 
+ 
+
+2018 2017
+   Operating Revenues, Grants and 
+       Other Revenues:
+      Patient Fees 3,208,366$         3,148,290$         
+      Discounts Based on Eligibility and Doubtful Accounts (959,516)            (859,841)            
+         Net Patient Fees 2,248,850           2,288,449           
+
+      Federal Financial Assistance 3,631,723           3,247,468           
+      Interest Income 4,777                 1,241                 
+      Miscellaneous -                       75                     
+         Total Operating Revenues, Grants and
+             Other Revenues 5,885,350           5,537,233           
+
+   Operating Expenses
+      Personnel Services 2,650,496           2,323,690           
+      Fringe Benefits 482,510             415,798             
+      Utilities 128,017             143,121             
+      Supplies - General 164,954             112,032             
+      Supplies - Medical and Pharmacy 576,394             479,032             
+      Repairs and Maintenance - Bldg and Equipment 82,556               105,960             
+      Contract Services - Medical 403,212             398,749             
+      Travel 37,029               36,910               
+      Interest Expense 129,997             132,737             
+      Depreciation 260,983             208,443             
+          Total Operating Expenses 4,916,148           4,356,472           
+
+          Changes in Net Assets from Operations 969,202             1,180,761           
+
+Net Assets - Without Donor Restrictions
+   Beginning of Year 2,992,724           1,811,963           
+
+   End of Year 3,961,926$         2,992,724$         
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+The accompanying notes are an integral part of this financial statement. 
+4 
+
+
+
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+Statement of Functional Expenses 
+
+Years Ended December 31, 2018 and 2017 
+ 
+
+2018
+Salaries & 
+
+Wages
+Supplies & 
+
+Other Totals
+
+Cost of Providing Medical Services:
+Physician 472,692$      -$                472,692$      
+Physician Assistant -                  -                  -                  
+Nurse Practitioner 487,738        -                  487,738        
+Nursing 315,665        -                  315,665        
+Behavioral Health 131,011        -                  131,011        
+Dental 386,809        -                  386,809        
+Laboratory -                  -                  -                  
+Radiology 61,155          -                  61,155          
+Pharmacy 120,062        291,057        411,119        
+Medical Supplies -                  279,323        279,323        
+   Total Cost of Providing Medical Services 1,975,132     570,380        2,545,512     
+
+Administrative and Overhead:
+Administrative & General Services 633,278        677,843        1,311,121     
+Marketing/Outreach 23,187          -                  23,187          
+Plant Operation & Maintenance 18,899          143,939        162,838        
+Employee Benefit -                  482,510        482,510        
+Interest Expense -                  129,997        129,997        
+Depreciation -                  260,983        260,983        
+   Total Administrative and Overhead 675,364        1,695,272     2,370,636     
+
+   Totals 2,650,496$    2,265,652$    4,916,148$    
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The accompanying notes are an integral part of this financial statement. 
+ 
+
+
+
+ 
+ 
+ 
+
+2017
+Salaries & 
+
+Wages
+Supplies & 
+
+Other Totals
+
+317,739$      -$                317,739$      
+64,574          -                  64,574          
+
+416,095        -                  416,095        
+293,396        -                  293,396        
+70,969          -                  70,969          
+
+336,845        -                  336,845        
+-                  -                  -                  
+
+57,906          -                  57,906          
+116,787        232,629        349,416        
+
+-                  -                  -                  
+1,674,311     232,629        1,906,940     
+
+630,261        853,327        1,483,588     
+-                  -                  -                  
+
+19,118          161,300        180,418        
+-                  415,798        415,798        
+-                  132,737        132,737        
+-                  236,991        236,991        
+
+649,379        1,800,153     2,449,532     
+
+2,323,690$    2,032,782$    4,356,472$    
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+5 
+
+
+
+Page 1 of 2 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Statement of Cash Flows 
+Years Ended December 31, 2018 and 2017 
+
+ 
+ 
+
+2018 2017
+Operating Activity
+
+Patient Fees 2,147,607$        2,253,995$        
+Fees and Grants from Governmental Agencies 3,609,127          3,273,062          
+Other Revenue -                        75                      
+Payment to Employees (2,613,857)        (1,719,250)        
+Payments to Vendors and Suppliers (1,864,031)        (2,324,661)        
+
+Net Cash Provided by Operating Activities 1,278,846          1,483,221          
+
+Capital and Related Financing Activities
+Purchase of Capital Assets (1,329,669)        (637,552)           
+Advances on Long-term Debt -                        46,500               
+Principal Payments (92,070)             (81,692)             
+Interest Payments (129,997)           (132,737)           
+
+Net Cash Flow from Capital and Related
+   Financing Activities (1,551,736)        (805,481)           
+
+Investing Activities
+(Purchase) Redemption of Certificates of Deposits -                        -                        
+
+     Interest Income Received 4,777                 1,241                 
+Net Cash Flow from Investing Activities 4,777                 1,241                 
+
+(Decrease) Increase in Cash (268,113)           678,981             
+
+Cash Beginning 1,615,642          936,661             
+
+Cash Ending 1,347,529$        1,615,642$        
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+The accompanying notes are an integral part of this financial statement. 
+
+6 
+
+
+
+Page 2 of 2 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER INC. 
+
+Statement of Cash Flows 
+Years Ended December 31, 2018 and 2017 
+
+ 
+2018 2017
+
+Cash Flows from Operating Activities
+   Change in Net Assets 969,202$             1,180,761$          
+
+Adjustment to Reconcile Change in Net Assets to
+   Net Cash (Used In) Provided by Operating Activities
+   Depreciation 260,983               208,443               
+   Interest Expense 129,997               132,737               
+   Interest Earned (4,777)                  (1,241)                  
+
+Changes in Operating Assets and Liabilities
+     Accounts Receivable (123,839)              (8,860)                  
+     Other Current Assets 12,539                 (23,916)                
+     Accounts Payable and Accrued Expenses 34,741                 (4,703)                  
+
+Net Cash Provided by Operations 1,278,846$          1,483,221$          
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The accompanying notes are an integral part of this financial statement. 
+7 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 1. Organization 
+
+ 
+East Central Oklahoma Family Health Center, Inc. (Organization/Center) was incorporated 
+on December 22, 2005, as a 501 (c) (3) non-profit corporation. The stated purpose of the 
+Organization is to provide health care services to the residents of Wetumka, Oklahoma and 
+surrounding area regardless of age, sex, race, creed, color, national origin, or ability to pay.  
+The Organization provides medical services to the medically underserved. 
+ 
+
+Note 2. Summary of Significant Accounting Policies 
+ 
+
+The following summarizes certain significant accounting policies followed in the 
+preparation of these financial statements: 
+ 
+Basis of Presentation:  Financial statement presentation follows the recommendations of the 
+Financial Accounting Standards Board (the “FASB”) which requires that resources be 
+classified for reporting purposes based on the existence or absence of donor-imposed 
+restrictions. 
+ 
+Basis of Accounting:  The financial statements have been prepared on the accrual basis of 
+accounting.  Accordingly, the statement of financial position reflects all significant 
+receivables, payables, and other assets and liabilities.  In the statement of activities and 
+changes in net assets, revenues are recognized when earned, and expenses are recognized 
+when an obligation has been incurred.  The Organization follows FASB Accounting 
+Standards Codification (“ASC”), which integrates existing standards with other 
+authoritative guidance.  The ASC provides a single source of authoritative GAAP for 
+nongovernmental entities and supersedes all other previously issued non-SEC accounting 
+and reporting guidance. 
+ 
+Use of Estimates:  The preparation of financial statements in conformity with accounting 
+principles generally accepted in the United States of America requires management to make 
+estimate and assumptions that affect the reported amounts of assets and liabilities and 
+disclosure of contingent assets and liabilities at the date of the financial statements and the 
+reported amounts of revenues and expenses during the reporting period.  Actual results 
+could differ from those. 
+ 
+Cash and Outstanding Checks in Excess of Bank Balances:  The Organization maintains its 
+cash and cash equivalents in bank deposit accounts, some of which may not be federally 
+insured.  The Organization has not experienced any losses in such accounts and believes it 
+is not exposed to significant credit risk on cash and cash equivalents.  Accounts whose 
+outstanding checks are in excess of bank balances are classified as current liabilities for 
+financial reporting purposes. 
+ 
+Cash and Cash Equivalents: The Organization considers all liquid investments with original 
+maturities of three months or less to be cash equivalents.  At December 31, 2018 and 2017, 
+the Organization did not hold any cash equivalents. 
+ 
+
+8 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 2. Summary of Significant Accounting Policies (Continued) 
+ 
+
+Patient Accounts Receivable:  The Organization reports patient accounts receivable for 
+services rendered at net realizable amounts from third-party payers, patients, and others.  
+The Organization provides an allowance for doubtful accounts based upon a review of 
+outstanding receivables, historical collection information, and existing economic conditions. 
+As a service to the patient, the Organization bills third-party payers directly and bills the 
+patient when the patient’s liability is determined.  Patient account receivables are due in full 
+when billed.  Accounts are considered delinquent and subsequently written off as bad debts 
+based on individual credit evaluation and specific circumstances of the account. 
+
+ 
+Supplies and Pharmacy Inventory:  The Organization states supply and pharmacy 
+inventories at the lower of cost, determined using the first-in, first-out method, or market. 
+
+ 
+Property and Equipment:  Property and equipment are recorded at cost and are depreciated 
+using the straight-line method over the estimated useful life of each asset.  Leasehold 
+improvements are depreciated over the shorter of the lease term or their respective estimated 
+useful lives. 
+
+ 
+Certain property and equipment have been purchased with grant funds received from the 
+U.S. Department of Health and Human Services.  Such items or a portion thereof may be 
+reclaimed by the federal government if not used to further the grant’s objectives. 
+ 
+Donation of property and equipment are reported at fair value as a increase in unrestricted 
+net assets unless use of the assets is restricted by the donor.  Monetary gifts that must be 
+used to acquire property and equipment are reported as restricted support.  The expiration of 
+such restrictions is reported as an increase in unrestricted net assets when the donated asset 
+is placed in service. 
+ 
+Long-Lived Asset Impairment:  The Organization evaluates the recoverability of the 
+carrying value of long-lived assets whenever events or circumstances indicate the carrying 
+amount may not be recoverable.  If a long-lived asset is tested for recoverability and the 
+undiscounted estimated future cash flows expected to result from the use and eventual 
+disposition of the asset is less than the carrying amount of the asset, the asset cost is 
+adjusted to fair value and an impairment loss is recognized as the amount by which the 
+carrying amount of a long-lived asset exceeds its fair value.  No asset impairment was 
+recognized during the years ended December 31, 2018 and 2017. 
+ 
+Net Patient Service Revenue:  The Organization has agreements which third-party payers 
+that provide for payments to the Organization at amounts different from its established rates 
+(see Note 16). 
+ 
+
+ 
+ 
+ 
+ 
+
+9 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 2. Summary of Significant Accounting Principles (Continued) 
+ 
+
+Government Grant Revenue:  Support funded by grants is recognized as the Organization 
+performs the contracted services or incurs outlays eligible for reimbursement under the 
+grant agreements.  Grant activities and outlays are subject to audit and acceptance by 
+granting agency, and as a result of such audit, adjustments could be required (see Note 4). 
+ 
+Income Taxes:  East Central Oklahoma Family Health Center, Inc. is a tax-exempt 
+organization under IRS Code section 501 (c) (3) and is not considered to be a private 
+foundation. East Central Oklahoma Family Health Center, Inc. is exempt from federal taxes 
+on income other than unrelated business income. East Central Oklahoma Family Health 
+Center, Inc. did not have any net unrelated business income for the years ended December 
+31, 2018 and 2017.  
+ 
+Accounting for Uncertain Tax Positions:  Management evaluated their tax position and 
+concluded that they had taken no uncertain tax positions that require adjustment to the 
+financial statements to comply with the provisions of this guidance.  With few exceptions, 
+they are no longer subject to income tax examinations by the U.S. Federal, State or local tax 
+authorities for years before the year ended December 31, 2015. 
+ 
+Expense Allocation:  The costs of providing various programs and other activities have 
+been summarized on a functional basis in the Statement of Activities and in the Statement 
+of Functional Revenue and Expenses.  Accordingly, certain costs have been allocated 
+among the programs and supporting services benefited. 
+
+ 
+Federal and State Contracts:  The Organization receives funding through federal and state 
+contracts.  Acceptance of these contacts requires compliance with contract conditions.  Any 
+costs disallowed by the contracts must be paid by non-governmental funds. 
+ 
+
+Note 3. Net Assets 
+ 
+In accordance with FASB ASU 2016-14 net assets are presented in the following two 
+components: 
+ 
+Net Assets without Donor Restrictions 
+ 
+The portion of the organization’s net assets that are not subject to donor-imposed 
+restrictions. 
+ 
+Net Assets with Donor Restrictions 
+ 
+The portion of the organization’s net assets whose use by the organization has been limited 
+by donors to a specific time period or purpose.  As of December 31, 2018, and 2017 the 
+organization did not have any net assets with donor restrictions. 
+
+ 
+ 
+
+10 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 3. Net Assets (Continued) 
+
+ 
+Net Assets Released 
+ 
+When a donor restriction expires, that is, when a stipulated time restriction ends or purpose 
+restriction is accomplished, net assets with donor restrictions are reclassified to net assets 
+without donor restrictions and reported in the statement of activities as net assets released 
+from restrictions or in appropriate expense category in the statement of activities and changes 
+in net assets. 
+
+ 
+ 
+
+Note 4. Grant Revenue 
+ 
+
+The Organization is the recipient of a Consolidated Health Centers (“CHC”) grant from the 
+U.S. Department of Health and Human Services.  The general purpose of the grant is to 
+provide expanded health care service delivery for residents of Wetumka, Henryetta and 
+Wewoka, Oklahoma, and the surrounding area.  Terms of the grant generally provide for 
+funding of the Organization’s operations based on an approved budget.  Grant revenue is 
+recognized as qualifying expenditures are incurred over the grant period.  The Organization 
+recognized $3,631,723 and $3,247,468 in revenues from this grant for the years ended 
+December 31, 2018 and 2017, respectively.  The Organization’s present CHC grant award 
+covers the grant year ending April 30, 2019 and is authorized for funding in the amount of 
+$3,206,394. 
+ 
+
+ 
+Note 5. Accounts Receivable - Patient 
+
+2018 2017
+
+Total Receivable-Patients 435,543$         195,823$         
+Less Allowance for Uncollectable (213,515)          (74,549)            
+
+Total 222,028$         121,274$         
+
+ 
+The total for uncollectible accounts is based on management’s estimate of potential bad 
+debts as of December 31, 2018 and 2017. 
+ 
+
+Note 6. Service Contracts and Grants 
+ 
+
+East Central Oklahoma Family Health Center, Inc. derives a majority of its revenue from 
+service contracts and grants from federal and state agencies. A significant reduction in the 
+level of revenue from these agencies could have a material effect on the Organization’s 
+programs, activities and operations. 
+ 
+
+ 
+ 
+
+11 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 7. Contingencies 
+
+ 
+During the normal course of business, the Center is involved in various claims and lawsuits. 
+In the opinion of management, the potential loss on any claim and lawsuit, net of insurance 
+proceeds, will not be significant to the Center’s financial position or results of operations. 
+
+ 
+Note 8. Concentration of Credit Risk 
+
+ 
+The Center has locations in Wetumka, Henryetta and Wewoka, Oklahoma.  The Center 
+grants credit without collateral to its patients, most of whom are local residents and are 
+uninsured or under insured. 
+
+ 
+Note 9. Charity Care and Other Community Benefits 
+
+ 
+In addition to the services provided to the financially disadvantaged, the Center provides 
+services to other individuals, various community agencies, and to the broader community.  
+These services are provided at no charge to the public and include such items as health 
+education and promotion, blood pressure and cholesterol screening, and health assessments. 
+Costs related to these services are not separately identifiable. 
+
+ 
+Note 10. Compensated Absences 
+
+ 
+The Center accepts that it is necessary for staff members to have a means by which they are 
+able to have compensated time away from work for personal reasons, including short-term, 
+transitory illnesses. It is believed that a paid time off (PTO) approach to allocating and 
+taking compensated time away is an effective approach to providing compensated time off 
+for the Center’s staff members. In addition, it is believed that PTO is an effective tactic for 
+managing staff member absences in a health service organization. 
+
+ 
+PROCEDURE: 
+ 
+A.  Annual leave is computed from an employee’s first day at work but cannot be taken 
+
+during the introductory period for newly hired employees.  Annual leave does not 
+accrue during periods of suspension, layoff, or leave of absence without pay. 
+
+B.  Adjustment in Annual Leave is effective the first day of the month following the 
+employee’s anniversary date. 
+
+C.   For employees in high demand professions, e.g. physicians, (primary care), pharmacists, 
+dentists, and others, the Chief Executive Officer has the authority to negotiate a 
+separate Recruitment/Retention plan. The plan should not exceed the market within the 
+surrounding area. 
+
+D.   Annual leave earned during any calendar month shall be credited to the employee on 
+the last day of the pay period. 
+
+ 
+ 
+
+ 
+12 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 10. Compensated Absences (Continued) 
+
+ 
+E.       Employees may not accumulate annual leave in excess of 240 hours. Annual leave 
+
+in excess of 240 hours will not be credited to annual leave accumulation or 
+payment. 
+
+F.       Annual leave shall continue to accumulate at the normal rate during periods of 
+authorized leave with pay. Annual Leave must be used in fifteen (15) minute 
+increments. 
+
+G.       Leave may be taken any time during the year, subject to the convenience of the 
+Agency. Employees shall file a request with their supervisor at least two weeks 
+prior to their desired leave date. 
+
+H.       Employees, who have accumulated over eighty (80) hours of annual leave by May 
+1, may elect to exercise one of the following options 
+
+   1.  Retain annual leave up to maximum of 30 days (240 Hours) 
+I.       Separation/Death 
+   1.  Separation – An employee will be paid for annual leave at the                   
+
+                       next regular pay period after the date of separation. 
+   2.  Death – In case of the death of an employee, payment will be                    
+
+                        delivered to the employee’s beneficiary, estate, or as otherwise              
+                        provided. 
+
+ 
+ 
+Note 11. Fair Value of Financial Instruments 
+
+ 
+The following methods and assumptions were used by the Center in estimating the fair 
+value of its financial instruments at December 31, 2018 and 2017. The carrying amounts 
+reported in the balance sheet for cash, assets limited as to use, accounts payable and accrued 
+expenses, approximate their fair value. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+13 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 12. Capital Assets 
+
+ 
+Major classifications of capital assets and their respective depreciable lives are 
+summarized below. 
+
+Depreciable 
+Lives 2018 2017
+
+Land N/A 215,144$     215,144$     
+Furniture and Equipment 5-40 Years 1,052,086$  1,052,086$  
+Buildings and Fixed Equipment 4,559,653$  2,759,030$  
+Construction in Progress -                   488,155       
+
+Total Property, Plant and Equipment 5,826,883    4,514,415    
+
+Accumulated Depreciation (1,306,196)   (1,062,410)   
+
+Net Captial Assets 4,520,687$  3,452,005$  
+
+ 
+ 
+
+Note 13. Operating Lease 
+ 
+
+The Organization currently does not have any non-cancelable leases for health care facilities 
+or equipment. 
+ 
+
+ 
+ 
+
+Note 14. Long-Term Debt 
+ 
+
+A Summary of Long-Term Debt, including capital lease obligations, as of December 31, 2018 and 
+2017 follows: 
+
+ 
+
+Interest Maturity Beginning Ending Current
+Rate Date Balance Additions Deductions Balance Portion
+
+Notes Payable
+  First Untied Bank & Trust 6.00% 2040 1,767,952$ -$            37,659$     1,730,293$  40,840$     
+  Gary and Donna Lovell 5.00% 2022 134,288      25,689       108,599$     27,003       
+  Floyd T Sellers 5.00% 2022 78,057        15,542       62,515$       16,337       
+  Rural Enterprises of Oklahoma 6.00% 2041 222,270      4,794         217,476$     4,815         
+  Cannon Financial Services 0.00% 2022 45,725        8,387         37,338$       9,300         
+
+2,248,292   -              92,071       2,156,221    98,295       
+
+Totals 2,248,292$ -$            92,071$     2,156,221$  98,295$     
+
+2018
+
+ 
+ 
+
+14 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 14. Long-Term Debt (Continued) 
+
+Interest Maturity Beginning Ending Current
+Rate Date Balance Additions Deductions Balance Portion
+
+Notes Payable
+  First Untied Bank & Trust 6.00% 2040 1,805,129$   -$            37,177$    1,767,952$  38,467$     
+  Gary and Donna Lovell 5.00% 2022 158,726        -              24,438      134,288       25,689       
+  Floyd T Sellers 5.00% 2022 92,843          -              14,786      78,057         15,542       
+  Rural Enterprises of Oklahoma 6.00% 2041 226,786        -              4,516        222,270       4,535         
+  Cannon Financial Services 0.00% 2022 -                   46,500     775           45,725         9,300         
+
+2,283,484     46,500     81,692      2,248,292    93,533       
+
+Totals 2,283,484$   46,500$   81,692$    2,248,292$  93,533$     
+
+2017
+
+Scheduled principal and interest payment on long-term debt are as follows: 
+ 
+
+Year Ending Total
+December 31, Principal Interest Payment
+
+2019 98,295$       124,659$     222,954$     
+2020 103,328       119,626       222,954       
+2021 108,648       114,306       222,954       
+2022 98,401         108,771       207,172       
+2023 58,004         104,739       162,743       
+
+   2024 and thereafter 1,689,545    1,003,937    2,693,482    
+
+Totals 2,156,221$  1,576,038$  3,732,259$  
+ 
+
+Note 15. Medical Malpractice Claims 
+ 
+
+The U.S Department of Health and Human Services has deemed the Organization and its 
+practicing providers covered under the Federal Tort Claims Act (FTCA) for damage for 
+personal injury, including death resulting from the performance of medical, surgical, dental 
+and related functions.  FTCA coverage is comparable to an occurrence policy without a 
+monetary cap.  The Organization has adopted the provisions of Accounting Standards 
+Update (ASU) 2010-24, Health Care Entities (topic 954): Presentation of Insurance Claims 
+and Related Insurance Recoveries, which eliminates the practice of netting claim liabilities 
+with expected insurance recoveries for balance sheet presentation.  Claim liabilities are to 
+be determined without consideration of insurance recoveries.  Expected recoveries are 
+presented separately.  Prior to the adoption of ASU 2010-24, accounting principles 
+generally accepted in the United States of America required a health care provider to accrue 
+only an estimate of the malpractice claims cost for both reported claims and claims incurred 
+but not reported where the risk of a loss had not been transferred to a financially viable 
+insurer.  There was no impact of ASU adoption to the Organization’s financial statements. 
+ 
+ 
+
+15 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 15. Medical Malpractice Claims (Continued) 
+
+ 
+Based upon the Organization’s claim experience, no accrual has been made for the 
+Organization’s medical malpractice costs for the years ended June 30, 2018 and 2017. 
+However, because of the risk in providing health care services, it is possible that an event 
+has occurred which will be the basis of a future material claim. 
+
+ 
+Note 16. Net Patient Service Revenue 
+
+ 
+The Organization is approved as a FQHC for both Medicare and Medicaid reimbursement 
+purposes.  The Organization has agreements with third-party payers that provide for 
+payments to the Organization at amounts different from its established rates. 
+ 
+These payments arrangements include: 
+
+ 
+Medicare – Covered FQHC services rendered to Medicare program beneficiaries 
+are paid based on a prospective reimbursement methodology.  The Organization 
+is reimbursed a set encounter rate for certain services provided.  Services not 
+covered under the FQHC benefit are paid based on established fee schedules. 
+ 
+Medicaid - Covered FQHC services rendered to Medicaid programs beneficiaries 
+are paid based on a prospective reimbursement methodology.  The Organization 
+is reimbursed a set encounter rate for certain services provided.  Services not 
+covered under the FQHC benefit are paid based on established fee schedules. 
+
+ 
+Approximately 53% and 48% of net patient service revenues are from participation in the 
+Medicare and state-sponsored Medicaid programs for the years ended December 31, 2018 
+and 2017, respectively.  Laws and regulations governing the Medicare and Medicaid 
+programs are complex and subject to interpretation and change.  As a result, it is reasonably 
+possible that recorded estimates will change materially in the near term. 
+
+ 
+Patient service revenue, net of contractual allowances and discounts, for the years ended 
+December 31, 2018 and 2017 are as follows: 
+
+ 
+2018 2017
+
+Total Patient Service Revenue 3,208,366$   3,148,290$   
+Less:  Total Contractual, Sliding Fee and
+
+Bad Debt Adjustment (959,516)       (859,841)       
+
+Net Patient Service Revenue 2,248,850$   2,288,449$   
+ 
+
+ 
+ 
+ 
+ 
+
+16 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 16. Net Patient Service Revenue (continued) 
+
+ 
+The Organization has also entered into payment agreement with certain commercial 
+insurance carriers, health maintenance organizations and preferred provider organizations.  
+The basis for payment to the Organization under these agreements includes prospectively 
+determined rates per unit of service and discounts from established charges. 
+
+ 
+Note 17. Significant Estimates and Concentrations 
+ 
+
+Accounting principles general accepted in the United States of America require disclosure 
+of certain significant estimates and current vulnerability due to certain concentrations.  
+Those maters include the following: 
+ 
+Grant Revenues – Concentration of revenues related to grant awards and other support is 
+described in Note 4. 
+ 
+Allowance for Net Patient Service Revenue Adjustments – Estimates of allowances for 
+adjustments included in net patient service revenue are described in Notes 2, 5, and 16. 
+ 
+Malpractice Claims – Estimates related to the accrual for professional liability claims are 
+described in Note 15. 
+ 
+Current Economic Conditions – The current protracted economic decline continues to 
+present community health centers with circumstances and challenges, which in some cases 
+have resulted in declines in the fair value of investments and declines in contributions.  The 
+financial statements have been prepared using values and information currently available to 
+the Organization. 
+Current economic conditions have made it difficult for certain of our patients to pay for 
+services rendered.  As employers make adjustments to health insurance plans or more 
+patients become unemployed, services provided to self-pay and other payers may 
+significantly impact net patient service revenue, which could have an adverse impact on 
+the Organization’s future operating results.  Further, the effect of economic conditions on 
+the state may have an adverse effect on cash flows related to the Medicaid program. 
+ 
+Given the volatility of current economic conditions, the values of assets and liabilities 
+recorded in the financial statements could change rapidly and negatively impact the 
+Organizations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+17 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Notes to the Financial Statements 
+December 31, 2018 and 2017 
+
+ 
+Note 18. Functional Expenses 
+  
+
+The Organization provides health care services primarily to residents within its geographic 
+area.  Expenses related to providing these services are as follows: 
+
+ 
+2018 2017
+
+Health Care Services 2,545,512$   2,449,531$   
+General and Administrative 2,370,636     1,906,941     
+
+Total Expenses 4,916,148$   4,356,472$   
+
+ 
+ 
+
+Note 19. Subsequent Events 
+  
+
+Management has evaluated subsequent events through April 29, 2019 which is the date the 
+financial statements were available to be issued, and has determined that no additional 
+information needs to be added to the financial statements. 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+18 
+
+
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+SUPPLEMENTAL INFORMATION 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Schedule of Expenditures of Federal Awards 
+Year Ended December 31, 2018 
+
+ 
+ 
+
+Federal Agency/ Grant or
+Pass-Through CFDA Identifying Amount
+
+Cluster/Program Entity Number Number Expended
+
+Consolidated Health Centers
+H80CS 
+
+93.224 10583 3,016,762$  
+
+Affordable Care Act (ACA)
+   Health Infrastructure C8DCS
+   Investment Program 93.526 29734 614,961$     
+
+      Total Health Center Cluster 3,631,723$  
+
+U.S. Department 
+of Health and 
+Human Services
+
+U.S. Department 
+of Health and 
+Human Services
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+See Notes to Schedule of Expenditures of Federal Awards. 
+19 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+Schedule of Expenditures of Federal Awards 
+Year Ended December 31, 2018 
+
+ 
+NOTES TO THE SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS 
+
+ 
+Note A – Summary of Significant Accounting Policies 
+
+ 
+The Schedule of Expenditures of Federal Awards includes the federal awards activity of the 
+Organization and is presented on the accrual basis of accounting.  The information in this schedule 
+is presented in accordance with the requirements of the Uniform Guidance.  Therefore, some 
+amounts presented in the schedule may differ from amounts presented in, or used in the preparation 
+of, the basic consolidated financial statement. 
+ 
+The organization has elected not to use the 10-percent de minimis indirect cost rate as allowed 
+under the Uniform Guidance. 
+ 
+
+Note B – Consolidated Health Centers 
+ 
+The Organization is the recipient of a Consolidated Health Centers (“CHC”) grant from the U.S. 
+Department of Health and Human Services.  The general purpose of the grant is to provide 
+expanded health care service delivery for residents of Wetumka, Henryetta and Wewoka, 
+Oklahoma, and the surrounding area.  Terms of the grant generally provide for funding of the 
+Organization’s operations based on an approval budget.  Grant revenue is recognized as qualifying 
+expenditures are incurred over the grant period.  The Organization recognized $3,631,723 and 
+$3,247,468 in revenues from this grant for the years ended December 31, 2018 and 2017, 
+respectively.  The Organization’s present CHC grant award covers the grant year ending April 30, 
+2019, and is authorized for funding in the amount of $3,206,394. 
+ 
+
+Note C – Subrecipients 
+ 
+The Organization did not provide a federal award to a subrecipient during the year ended December 
+31, 2018. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+20 
+
+ 
+
+
+
+INDEPENDENT AUDITORS’ REPORT ON INTERNAL CONTROL OVER  
+FINANCIAL REPORTING, AND ON COMPLIANCE, AND OTHER MATTERS  
+
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN 
+ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS 
+
+ 
+The Board of Directors 
+East Central Oklahoma Family Health Center, Inc. 
+Wetumka, Oklahoma 
+ 
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States 
+of America and the standards applicable to financial audits contained in Government Auditing 
+Standards issued by the Comptroller General of the United States, the financial statements of East 
+Central Oklahoma Family Health Center, Inc. (a nonprofit organization), which comprise the 
+statement of financial position as of December 31, 2018, and the related statements of activities and 
+changes in net assets, and cash flows for the year then ended, and the related notes to the financial 
+statements, and have issued our report thereon dated April 29, 2019. 
+ 
+Internal Control over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered East Central 
+Oklahoma Family Health Center, Inc.’s internal control over financial reporting (internal control) to 
+determine the audit procedures that are appropriate in the circumstances for the purpose of 
+expressing our opinion on the financial statements, but not for the purpose of expressing an opinion 
+on the effectiveness of East Central Oklahoma Family Health Center, Inc.’s internal control. 
+Accordingly, we do not express an opinion on the effectiveness of East Central Oklahoma Family 
+Health Center, Inc.’s internal control.  
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow 
+management or employees, in the normal course of performing their assigned functions, to prevent, 
+or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a 
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a 
+material misstatement of the entity’s financial statements will not be prevented, or detected and 
+corrected on a timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, 
+in internal control that is less severe than a material weakness, yet important enough to merit 
+attention by those charged with governance.  
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of 
+this section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify 
+any deficiencies in internal control that we consider to be material weaknesses. However, material 
+weaknesses may exist that have not been identified. 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+21 
+
+ 
+
+
+
+The Board of Directors 
+East Central Oklahoma Family Health Center, Inc. 
+Wetumka, Oklahoma 
+Page two 
+ 
+ 
+Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether East Central Oklahoma Family Health 
+Center Inc.’s financial statements are free from material misstatement, we performed tests of its 
+compliance with certain provisions of laws, regulations, contracts, and grant agreements, 
+noncompliance with which could have a direct and material effect on the determination of financial 
+statement amounts. However, providing an opinion on compliance with those provisions was not an 
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests 
+disclosed no instances of noncompliance or other matters that are required to be reported under 
+Government Auditing Standards. 
+ 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the 
+organization’s internal control or on compliance. This report is an integral part of an audit performed 
+in accordance with Government Auditing Standards in considering the organization’s internal control 
+and compliance. Accordingly, this communication is not suitable for any other purpose. 
+ 
+
+ 
+ 
+Ada, Oklahoma 
+April 29, 2019 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+22 
+
+
+
+ 
+INDEPENDENT AUDITORS’ REPORT ON COMPLIANCE FOR 
+
+EACH MAJOR PROGRAM AND ON INTERNAL CONTROL OVER  
+COMPLIANCE REQUIRED BY THE UNIFORM GUIDANCE 
+
+ 
+The Board of Directors 
+East Central Oklahoma Family Health Center, Inc. 
+Wetumka, Oklahoma 
+ 
+ 
+Report on Compliance for Each Major Federal Program 
+ 
+We have audited East Central Oklahoma Family Health Center, Inc.’s compliance with the types of 
+compliance requirements described in the OMB Compliance Supplement that could have a direct and 
+material effect on each of East Central Oklahoma Family Health Center, Inc.’s major federal programs 
+for the year ended December 31, 2018. East Central Oklahoma Family Health Center, Inc.’s major 
+federal programs are identified in the summary of auditors’ results section of the accompanying 
+schedule of findings and questioned costs.  
+ 
+Management’s Responsibility 
+ 
+Management is responsible for compliance with federal statutes, regulations, and terms and 
+conditions of its federal awards applicable to its federal programs.  
+ 
+Auditor’s Responsibility 
+ 
+Our responsibility is to express an opinion on compliance for each of East Central Oklahoma Family 
+Health Center, Inc.’s major federal programs based on our audit of the types of compliance 
+requirements referred to above. We conducted our audit of compliance in accordance with auditing 
+standards generally accepted in the United States of America; the standards applicable to financial 
+audits contained in Government Auditing Standards, issued by the Comptroller General of the United 
+States; and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform 
+Administrative Requirements, Cost Principles and Audit Requirements for Federal Awards (Uniform 
+Guidance).  Those standards and the Uniform Guidance require that we plan and perform the audit to 
+obtain reasonable assurance about whether noncompliance with the types of compliance 
+requirements referred to above that could have a direct and material effect on a major federal 
+program occurred. An audit includes examining, on a test basis, evidence about East Central 
+Oklahoma Family Health Center, Inc.’s compliance with those requirements and performing such 
+other procedures as we considered necessary in the circumstances.  
+ 
+We believe that our audit provides a reasonable basis for our opinion on compliance for each major 
+federal program. However, our audit does not provide a legal determination of East Central 
+Oklahoma Family Health Center, Inc.’s compliance.  
+ 
+Opinion on Each Major Federal Program 
+ 
+In our opinion, East Central Oklahoma Family Health Center Inc. complied, in all material respects, 
+with the types of compliance requirements referred to above that could have a direct and material 
+effect on each of its major federal programs for the year ended December 31, 2018.  
+
+ 
+23 
+
+
+
+ 
+The Board of Directors 
+East Central Oklahoma Family Health Center, Inc.  
+Wetumka, Oklahoma 
+Page two 
+ 
+ 
+Report on Internal Control over Compliance 
+ 
+Management of East Central Oklahoma Family Health Center, Inc. is responsible for establishing 
+and maintaining effective internal control over compliance with the types of compliance 
+requirements referred to above. In planning and performing our audit of compliance, we considered 
+East Central Oklahoma Family Health Center, Inc.’s internal control over compliance with the types 
+of requirements that could have a direct and material effect on each major federal program to 
+determine the auditing procedures that are appropriate in the circumstances for the purpose of 
+expressing an opinion on compliance for each major federal program and to test and report on 
+internal control over compliance in accordance with the Uniform Guidance, but not for the purpose 
+of expressing an opinion on the effectiveness of internal control over compliance. Accordingly, we 
+do not express an opinion on the effectiveness of East Central Oklahoma Family Health Center, 
+Inc.’s internal control over compliance. 
+ 
+A deficiency in internal control over compliance exists when the design or operation of a control 
+over compliance does not allow management or employees, in the normal course of performing their 
+assigned functions, to prevent, or detect and correct, noncompliance with a type of compliance 
+requirement of a federal program on a timely basis. A material weakness in internal control over 
+compliance is a deficiency, or combination of deficiencies, in internal control over compliance, such 
+that there is a reasonable possibility that material noncompliance with a type of compliance 
+requirement of a federal program will not be prevented, or detected and corrected, on a timely basis. 
+A significant deficiency in internal control over compliance is a deficiency, or a combination of 
+deficiencies, in internal control over compliance with a type of compliance requirement of a federal 
+program that is less severe than a material weakness in internal control over compliance, yet 
+important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control over compliance was for the limited purpose described in the 
+first paragraph of this section and was not designed to identify all deficiencies in internal control 
+over compliance that might be material weaknesses or significant deficiencies. We did not identify 
+any deficiencies in internal control over compliance that we consider to be material weaknesses. 
+However, material weaknesses may exist that have not been identified. 
+ 
+The purpose of this report on internal control over compliance is solely to describe the scope of our 
+testing of internal control over compliance and the results of that testing based on the requirements 
+of the Uniform Guidance. Accordingly, this report is not suitable for any other purpose.  
+ 
+
+ 
+Ada Oklahoma 
+April 29, 2019 
+
+ 
+
+ 
+24 
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+DECEMBER 31, 2018 
+
+ 
+Section I – Summary of Auditors’ Results 
+
+ 
+Financial Statements 
+ 
+Type of auditor’s report issued:    Unmodified 
+ 
+Internal control over financial reporting: 
+ 
+• Material weakness(es) identified              yes X      no 
+
+ 
+• Significant deficiency(ies) identified that are 
+
+Not considered to be material weakness(es)?            yes X      none reported 
+ 
+
+Noncompliance material to financial statements noted?           yes X     no 
+ 
+
+Federal Awards 
+ 
+Internal control over major programs: 
+ 
+• Material weakness(ies) identified              yes X       no 
+
+ 
+• Significant deficiency(ies) identified that are 
+
+Not considered to be material weakness(es)?            yes X       none reported 
+ 
+
+Type of auditor’s report issued on compliance for  
+Major programs:      Unmodified 
+ 
+Identification of major programs: 
+ 
+Any audit findings disclosed that are required to be  
+Reported in accordance the Uniform Guidance? 
+                                              yes X       no 
+ 
+ Program             CFDA Number  
+ Consolidated Health Centers Cluster    93.224 
+       
+Dollar threshold used to distinguish between type A 
+and type B programs:      $750,000 
+ 
+Auditee qualified as a low-risk auditee?       X   yes           no 
+
+ 
+ 
+ 
+ 
+
+ 
+25
+
+
+
+ 
+EAST CENTRAL OKLAHOMA FAMILY HEALTH CENTER, INC. 
+
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS 
+DECEMBER 31, 2018 
+
+ 
+Section II – Findings Required to be Reported in Accordance with Government Auditing Standards:  
+
+ 
+None Reported 
+
+ 
+ 
+ 
+
+Section III – Findings Required to be Reported in Accordance with the Uniform Guidance: 
+ 
+
+None Reported 
+ 
+ 
+ 
+
+Section IV – Prior Year Findings Required to be Reported in Accordance with Government Auditing 
+Standards: 
+
+ 
+None Reported 
+ 
+ 
+ 
+
+Section V – Prior Year Findings Required to be Reported in Accordance with the Uniform Guidance:  
+ 
+
+None Reported 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+26 
+
+

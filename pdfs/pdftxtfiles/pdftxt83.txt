@@ -1,0 +1,2476 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINANCIAL STATEMENTS AND REPORTS OF
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+JUNE 30, 2018
+
+RALPH OSBORN
+CERTIFIED PUBLIC ACCOUNTANT
+
+500 SOUTH CHESTNUT
+P.O. BOX 1015
+
+BRISTOW, OKLAHOMA 74010-1015
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+CREEK COUNTY, OKLAHOMA
+
+JUNE 30, 2018
+
+TABLE OF CONTENTS
+
+SCHOOL DISTRICT OFFICIALS                                               1
+
+INDEPENDENT AUDITOR’S REPORT                                           2-3
+
+COMBINED FINANCIAL STATEMENTS
+ Combined Statement of Assets, Liabilities, and Equity -
+   Regulatory Basis All - Fund Types and Account Groups                 4
+ Combined Statement of Revenues Collected, Expenditures
+   Paid and Changes In Fund Balances - All Governmental
+   Regulatory Basis - Fund Types                                        5
+ Combined Statement of Revenues, Expenditures, and Changes In
+   Fund Balances - Budget and Actual - Budgeted Governmental
+   Regulatory Basis - Fund Types                                        6
+
+NOTES TO FINANCIAL STATEMENTS                                          7-16
+
+OTHER SUPPLEMENTARY INFORMATION:
+Combining Financial Statements
+  Combining Statement of Assets, Liabilities, and Fund 
+    Balances -Regulatory Basis - All Special Revenue Funds              17
+  Combining Statement of Revenues Collected, Expenditures
+    Paid, and Changes in Fund Balances - Regulatory Basis -
+    All Special Revenue Funds                                           18
+  Combining Statement of Revenues Collected, Expenditures 
+    Paid, and Changes in Fund Balances - Budget and Actual - 
+    Regulatory Basis - Special Revenue Funds                            19
+  Combining Statements of Assets, Liabilities and Fund Equity -
+    Regulatory Basis - All Agency Funds                                 20 
+  Combining Statement of Changes in Assets and Liabilities - 
+    Regulatory Basis - Activity Funds                                 21-22
+ 
+Supporting Schedules
+  Schedule of Federal Awards Expended                                   23
+  Schedule of Statutory, Fidelity and Honesty Bonds                     24
+
+INTERNAL CONTROL AND COMPLIANCE REPORTS
+  Independent Auditor’s Report on Compliance And Other Matters 
+    Based on an Audit of Financial Statements Performed in 
+
+    Accordance With Government Auditing Standards                     25-26
+  Independent Auditor’s Report on Compliance For Each Major Program 
+    and Internal Control Over Compliance Required by Uniform 
+    Guidance                                                          27-28
+
+SCHEDULE OF FINDINGS AND QUESTIONED COST
+  Schedule of Findings and Questioned Costs                           29-30 
+  Status of Prior Year Audit Findings                                   31
+
+OTHER DEPARTMENT OF EDUCATION REQUIRED INFORMATION
+ Accountant’s Professional Liability Insurance Affidavit                32
+ Audit Acknowledgment                                                   33
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+CREEK COUNTY, OKLAHOMA
+
+SCHOOL DISTRICT OFFICIALS
+JUNE 30, 2018
+
+BOARD OF EDUCATION
+
+           President                                        Billy Bryant
+           Vice-President                                   Dewayne Scaife     
+           Member                                           Alan Little
+           Member                                           Julie Bell
+           Member                                           Russell Brown   
+
+School District Treasurer
+
+Richard Womack, CPA
+
+Encumbrance Clerk
+
+Leisa Hallman
+
+Board Clerk
+
+Diane Nobles
+
+Superintendent of Schools
+
+Curtis Shelton
+
+
+
+INDEPENDENT AUDITOR’S REPORT
+
+The Honorable Board of Education
+
+Bristow School District No. I-2
+
+Bristow, Creek County, Oklahoma
+
+REPORT ON THE FINANCIAL STATEMENTS
+
+I have audited the accompanying basic financial statements - regulatory basis of the governmental activities, each
+
+major fund, and the aggregate remaining fund information of  Bristow School District No. I-2,Creek County,
+
+Oklahoma (District), as of and for the year ended June 30, 2018, as listed in the table of contents.
+
+MANAGEMENT’S RESPONSIBILITY FOR THE FINANCIAL STATEMENTS
+
+Management is responsible for the preparation and fair presentation of these financial statements in accordance
+
+with financial reporting provisions of the Oklahoma State Department of Education.  Management is also
+
+responsible for the design, implementation, and maintenance of internal control relevant to the preparation and
+
+fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+AUDITOR’S RESPONSIBILITY
+
+My responsibility is to express an opinion on these financial statements based on my audit.  I conducted my audit
+
+in accordance with auditing standards generally accepted in the Untied States of America and the standards
+
+applicable to financial audits contained in Government Auditing Standards, issued by the Comptroller General of
+
+the United States.    Those standards require that I plan and perform the audit to obtain reasonable assurance about
+
+whether the financial statements are free from material misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the
+
+financial statements.  The procedures selected depend on the auditor’s judgement, including the assessment of the
+
+risks of material misstatement of the financial statements, whether due to fraud or error.  In making those risk
+
+assessments, the auditor considers the internal control relevant to the entity’s preparation and fair presentation
+
+of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not
+
+for the purpose of expressing an opinion on the effectiveness of the entity’s internal control.  Accordingly, I express
+
+no such opinion.  An audit also includes evaluating the appropriateness of accounting policies used and the
+
+reasonableness of significant accounting estimates made by management, as well as evaluating the overall
+
+presentation of the financial statements.
+
+I believe that the audit evidence I have obtained is sufficient and appropriate to provide a basis for my audit
+
+opinions.
+
+BASIS FOR ADVERSE OPINION ON U.S. GENERALLY ACCEPTED ACCOUNTING PRINCIPLES
+
+As discussed in Note 1, the financial statements are prepared by the Bristow School District Number I-2, on the
+
+basis of the financial reporting provisions of the Oklahoma State Department of Education, which is a basis of
+
+accounting other than accounting principles generally accepted in the United States of America, to comply with the
+
+requirements of the Oklahoma State Department of Education.  The effects of the financial statements on the
+
+variances between the regulatory basis of accounting described in Note 1 and accounting principles generally
+
+accepted in the United States of America, although not reasonably determined, are presumed to be material.
+
+ADVERSE OPINION ON U.S. GENERALLY ACCEPTED ACCOUNTING PRINCIPLES
+
+In my opinion, because of the significance of the matter discussed in the “BASIS FOR ADVERSE OPINION ON
+
+U.S. GENERALLY ACCEPTED ACCOUNTING PRINCIPLES” paragraph, the basic financial statements
+
+referred to in the first paragraph do not present fairly, in accordance with  accounting principles generally accepted
+
+in the United States of America, the financial position of the governmental activities, each major fund, and the
+
+aggregate remaining fund information of  Bristow School District No. I-2,Creek County, Oklahoma as of June 30,
+
+2018, the changes in its financial position, or, where applicable, its cash flows for the year then ended.
+
+- 2 -
+
+
+
+OPINION ON REGULATORY BASIS OF ACCOUNTING
+
+As discussed in Note 1E, the financial statements referred to above do not include the general fixed assets account
+
+group, which should be included in order to conform with the accounting and reporting regulations prescribed or
+
+permitted by the Oklahoma State Department of Education.  The amount that should be recorded in the general
+
+fixed assets account group is not known.
+
+In my opinion, the basic financial statements referred to in the first paragraph  present fairly, in all material
+
+respects, the respective financial position - regulatory basis of the governmental activities, each major fund, and
+
+the aggregate remaining fund information of  Bristow School District No .I-2,Creek County, Oklahoma (District),
+
+as of June 30, 2018, and the respective changes in financial position - regulatory basis for the year ended on the
+
+regulatory basis of accounting described in Note 1.
+
+OTHER MATTERS
+
+Other Information
+
+My audit was conducted for the purpose of forming opinions on the financial statements that collectively comprise
+
+the District’s basic financial statements.  The combining statements - regulatory basis, are presented for purposes
+
+of additional analysis and are not a required part of the basic financial statements.  The schedule of expenditures
+
+of federal awards is presented for purposes of additional analysis as required by Title 2 U.S. Code of Federal
+
+Regulations (CFR) Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for
+
+Federal Awards (Uniform Guidance), and is also not a required part of the basic financial statements.
+
+The combining statements - regulatory basis and the schedule of expenditures of federal awards are the
+
+responsibility of management and were derived from and relate directly to the underlying accounting and other
+
+records used to prepare the basic financial statements.  Such information has been subjected to the auditing
+
+procedures applied in the audit of the basic financial statements and certain additional procedures, including
+
+comparing and reconciling such information directly to the underlying accounting and other records used to
+
+prepare the basic financial statements to the basic financial statements themselves, and other additional procedures
+
+in accordance with  auditing standards generally accepted in  the  United States of America.  In my opinion, the 
+
+combining  statements  - regulatory basis and the schedule of expenditures of federal awards are fairly stated in all
+
+material respects in relation to the basic financial statements as a whole. 
+
+OTHER REPORTING REQUIRED BY GOVERNMENT AUDITING STANDARDS
+
+In accordance with Government Auditing Standards, I have also issued my report dated December 10, 2018 on my
+
+consideration of the District’s internal control over financial reporting and on my tests of its compliance with
+
+certain provisions of laws, regulations, contracts and grant agreements and other matters.  The purpose of that
+
+report is to describe the scope of my testing of internal control over financial reporting and compliance and the
+
+results of that testing, and not to provide an opinion on the internal control over financial reporting or on
+
+compliance.  That report is an integral part of an audit performed in accordance with Government Auditing
+
+Standards in considering the District’s internal control over financial reporting and compliance.
+
+Sincerely,
+
+      
+
+Ralph Osborn
+
+Certified Public Accountant
+
+Bristow, Oklahoma
+
+December 10, 2018 
+
+- 3 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINED STATEMENT OF ASSETS, LIABILITIES, AND EQUITY
+
+REGULATORY BASIS - ALL FUND TYPES AND ACCOUNT GROUPS
+
+JUNE 30, 2018
+
+                                                                             Fiduciary     Account 
+
+                                                                             Fund Types    Groups  
+                                                 Governmental Fund Type                 Trust      General       Total 
+                                                     Special     Debt       Capital      And      Long-Term   (Memorandum
+                                         General     Revenue    Service     Projects    Agency      Debt         Only)   
+ASSETS
+Cash and cash equivalents              $ 4,103,415  $ 905,212  $1,013,351  $1,136,281 $  318,308  $     -     $ 7,476,567
+Amount available in Debt Service fund         -          -           -           -          -      1,013,351    1,013,351
+Amount to be provided for retirement  
+ of general long-term debt                    -          -           -           -          -      2,961,649    2,961,649
+Amount to be provided for retirement  
+ of lease obligations                         -          -           -           -          -           -            -   
+
+Total Assets                           $ 4,103,415  $ 905,212  $1,013,351  $1,136,281 $  318,308  $3,975,000  $11,451,567
+
+LIABILITIES AND FUND EQUITY
+
+LIABILITIES
+Warrants payable                       $ 1,354,989  $  57,219  $     -     $      540 $     -     $     -     $ 1,412,748
+Encumbrances                               493,229    279,852        -           -          -           -         773,081
+Due to other groups                           -          -           -           -       318,308        -         318,308
+Long-term debt:  
+ Bonds payable                                -          -           -           -          -      3,975,000    3,975,000
+Total Liabilities                        1,848,218    337,071        -            540    318,308   3,975,000    6,479,137
+
+FUND EQUITY
+Unreserved
+Designated for capital projects               -          -           -      1,135,741       -           -       1,135,741
+Designated for debt service                   -          -      1,013,351        -          -           -       1,013,351
+Undesignated                             2,255,197    568,141        -           -          -           -       2,823,338
+Total fund equity                        2,255,197    568,141   1,013,351   1,135,741       -           -       4,972,430
+Total liabilities and fund equity      $ 4,103,415  $ 905,212  $1,013,351  $1,136,281 $  318,308  $3,975,000  $11,451,567
+
+The accompanying notes are an integral part of this statement.
+
+- 4 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+CREEK COUNTY, OKLAHOMA
+
+COMBINED STATEMENT OF REVENUES COLLECTED, EXPENDITURES
+PAID, AND CHANGES IN FUND BALANCES
+
+REGULATORY BASIS - ALL GOVERNMENTAL FUND TYPES
+FOR THE YEAR ENDED JUNE 30, 2018
+
+                                                                                   Total
+                                             Special      Debt       Capital    (Memorandum
+                                General      Revenue     Service     Projects      Only)   
+Revenues Collected 
+
+ Local Resources              $ 1,856,668  $   287,974  $  992,053  $    1,635  $ 3,138,330
+ Intermediate Sources             307,808         -           -           -         307,808
+ State Sources                  8,729,985        6,955        -           -       8,736,940
+ Federal Sources                  755,742      632,596        -           -       1,388,338
+ Non-Revenue Receipts             115,802       79,196        -           -         194,998
+
+Total Revenues Collected       11,766,005    1,006,721     992,053       1,635   13,766,414
+
+Expenditures Paid
+
+ Instruction                    7,225,709         -           -           -       7,225,709
+ Support Services               4,680,875       94,240        -         26,708    4,801,823
+ Non-Instruction Services         167,537      727,669        -           -         895,206
+ Capital Outlay                      -         359,496        -      1,330,814    1,690,310
+ Other Outlays                         50          300        -           -             350
+ Other Uses                          -            -           -           -            -   
+Debt Service:
+ Principal Retirement                -            -           -           -            -   
+ Interest and Fiscal
+   Agent Charges                     -            -         25,350        -          25,350 
+
+Total Expenditures Paid        12,074,171    1,181,705      25,350   1,357,522   14,638,748
+
+Excess of Revenues Collected
+ Over(Under)Expenditures Paid    (308,166)    (174,984)    966,703  (1,355,887)    (872,334)
+
+Adjustments to Prior Year
+ Estopped Warrants                     14          390        -           -             404
+ Lapsed Encumbrances               80,880       37,836        -           -         118,716
+
+Total Adjustments                  80,894       38,226        -           -         119,120
+
+Other Financing Sources(Uses)
+ Bond Sale Proceeds                  -            -           -      2,025,000    2,025,000
+
+Excess (Deficiency) of Revenue
+ Collected Over (Under)
+ Expenditures Paid And
+ Adjustments                     (227,272)    (136,758)    966,703     669,113    1,271,786 
+
+Fund Balance, Beginning         2,482,469      704,899      46,648     466,628    3,700,644 
+
+Fund Balance, Ending          $ 2,255,197  $   568,141  $1,013,351  $1,135,741  $ 4,972,430
+
+The accompanying notes are an integral part of this statement.
+- 5 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINED STATEMENT OF REVENUES, EXPENDITURES
+
+AND CHANGES IN FUND BALANCES - BUDGET AND ACTUAL
+
+REGULATORY BASIS - BUDGETED GOVERNMENTAL FUND TYPES
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+ 
+
+                                          General Fund                     Special Revenue Funds                  Debt Service Fund         
+
+ Original       Final                   Original     Final                  Original     Final 
+
+                                Budget       Budget       Actual       Budget      Budget      Actual      Budget      Budget      Actual  
+
+Revenues Collected 
+
+  Local Sources                1,512,349  $  1,562,497  $ 1,856,668  $  221,695  $  221,695  $  287,974  $  957,927  $  957,927  $  992,053
+
+  Intermediate Sources           266,797       266,797      307,808        -           -           -           -           -           - 
+
+  State Sources                7,971,160     8,006,392    8,729,985       7,865       7,865       6,955        -           -           -   
+
+  Federal Sources                   -          503,137      755,742     499,813     499,813     632,596        -           -           -
+
+  Non-Revenue Receipts              -             -         115,802     106,992     106,992      79,196        -           -           -   
+
+ Total Revenues Collected      9,750,306    10,338,823   11,766,005     836,365     836,365   1,006,721     957,927     957,927     992,053
+
+ Expenditures Paid
+
+  Instruction                 10,617,907    11,206,424    7,225,709     720,408     720,408        -           -           -           -
+
+  Support Services             1,427,560     1,427,560    4,680,875        -           -         94,240        -           -           -   
+
+  Non-Instruction Services       187,308       187,308      167,537     820,856     820,856     727,669        -           -           -
+
+  Capital Outlays                   -             -            -           -           -        359,496        -           -           -
+
+  Other Outlays                     -             -              50        -           -            300        -           -           -
+
+  Other Uses                        -             -            -           -           -           -           -           -           -
+
+Debt Service:
+
+  Principal Retirement              -             -            -           -           -           -           -           -           -   
+
+  Interest and Fiscal
+
+   Agent Charges                    -             -            -           -           -           -         25,350      25,350      25,350 
+
+ Total Expenditures Paid      12,232,775    12,821,292   12,074,171   1,541,264   1,541,264   1,181,705      25,350      25,350      25,350 
+
+Excess of Revenues Collected
+
+ Over(Under) Expenditures 
+
+ Paid Before Adjustments
+
+ To Prior Year                (2,482,469)   (2,482,469)    (308,166)   (704,899)   (704,899)   (174,984)    932,577     932,577     966,703
+
+Adjustments to Prior Year
+
+  Estopped Warrants                 -             -              14        -           -            390        -           -           -
+
+  Lapsed Encumbrances               -             -          80,880        -           -         37,836        -           -           -   
+
+ Total Adjustments                  -             -          80,894        -           -         38,226        -           -           -   
+
+Excess (Deficiency) of Revenue
+
+  Collected Over (Under)
+
+  Expenditures Paid And Other
+
+  Financing Sources (Uses)    (2,482,469)   (2,482,469)    (227,272)   (704,899)   (704,899)   (136,758)    932,577     932,577     966,703
+
+Fund Balance, Beginning        2,482,469     2,482,469    2,482,469     704,899     704,899     704,899      46,648      46,648      46,648
+
+Fund Balance, Ending          $        0  $          0  $ 2,255,197  $        0  $        0  $  568,141  $  979,225  $  979,225  $1,013,351
+
+The accompanying notes are an integral part of this statement.
+
+                                                             - 6 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+1. Summary of Significant Accounting Policies
+
+The basic financial statements of Bristow Public Schools Independent  District 
+
+No. I-2, Creek County, Oklahoma ( the District) have been prepared in conformity
+
+with an other comprehensive basis of accounting as prescribed by the Oklahoma
+
+State Department of Education.  The more significant of the District’s policies
+
+are described below.
+
+ A. Reporting Entity
+
+The District is a corporate body for public purposes created under Title 70 of 
+
+Oklahoma Statutes and accordingly is a separate entity for operating and 
+
+financial reporting purposes.
+
+The District is part of the public school system of Oklahoma under the general
+
+direction and control of the State Board of Education and is financially
+
+dependent on State of Oklahoma support.  The general operating authority for the
+
+public school system is the Oklahoma School Code contained in Title 70, Oklahoma
+
+Statutes.
+
+The governing body of the District is the Board of Education composed of elected
+
+members.  The appointed superintendent is the executive officer of the District.
+
+In evaluating how to define the District, for financial reporting purposes,
+
+management has considered all potential component units.  The decision to include
+
+a potential component unit in the reporting entity was made by applying the
+
+criteria established by the Governmental Accounting Standards Board (GASB).  The
+
+basic, but not the only, criterion for including a potential component unit
+
+within the reporting entity is the governing body’s ability to exercise oversight
+
+responsibility.  The most significant manifestation of this ability is financial
+
+interdependency.  Other manifestations of the ability to exercise oversight
+
+responsibility include, but are not limited to, the selection of governing
+
+authority, the designation of management, the ability to significantly influence
+
+operations, and accountability for fiscal matters.  A second criterion used in
+
+evaluating potential component units is the scope of public service.  Application
+
+of this criterion involves considering whether the activity benefits the District
+
+and/or its citizens, or whether the activity is conducted within the geographic
+
+boundaries of the District and is generally available to its patrons.  A third
+
+criterion used to evaluate potential component units for inclusion or exclusion
+
+from the reporting entity is the existence of special financing relationships,
+
+regardless of whether the District is able to exercise oversight
+
+responsibilities.  Based upon the application of these criteria, there are no
+
+potential component units included in the District’s reporting entity.  The
+
+Parent Teacher Association (PTA) is not included in the reporting entity.  The
+
+District does not appoint any of the board members or exercise any oversight
+
+authority over the PTA.
+
+- 7 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+1. Summary of Significant Accounting Policies, (continued)
+
+B. Fund Accounting and Description of Funds
+
+The District uses funds and account groups to report on its financial position
+
+and the results of its operations. Fund accounting is designed to demonstrate
+
+legal compliance and to aid financial management by segregating transactions
+
+related to certain district functions or activities.  
+
+A fund is a separate accounting entity with a self-balancing set of accounts. An
+
+account group, on the other hand, is a financial reporting device designed to
+
+provide accountability for certain assets and liabilities that are not recorded
+
+in the funds because they do not directly affect net expendable available
+
+financial resources.  Funds are classified into three categories: governmental,
+
+proprietary and fiduciary. Each category, in turn, is divided into separate “fund
+
+types.”
+
+Governmental Fund Types
+
+Governmental funds are used to account for all or most of a governments’s general
+
+activities, including the collection and disbursement of earmarked monies
+
+(special revenue funds), the acquisition or construction of general fixed assets
+
+(capital projects fund), and the servicing of general long-term debt (debt
+
+service fund).
+
+General Fund - The general fund is used to account for all transactions, except
+
+those required to be accounted for in another fund.  Major revenue sources
+
+include state and local property taxes and state funding under the Foundation and
+
+Salary Incentive Aid Program.  Expenditures include all costs associated with the
+
+daily operation of the schools except the programs funded for building repairs
+
+and maintenance, child nutrition, school construction, and debt service on bonds
+
+and other long-term debt.  The general fund includes federal and state restricted
+
+monies that must be expended for specific programs.
+
+Special Revenue Fund - The special revenue fund includes the District’s Building
+
+Fund and Child Nutrition Fund.  The Building Fund consists of monies derived from
+
+property taxes levied for the purpose of erecting, remodeling, or repairing
+
+buildings and for purchasing furniture and equipment.
+
+The Child Nutrition Fund derives monies from the operation of the school lunch
+
+and breakfast programs.
+
+Debt Service Fund - The debt service fund is the District’s sinking fund and is
+
+used to account for the accumulation of financial resources for the payment of
+
+general long-term debt principal, interest, and related cost.  The primary
+
+revenue source is local property taxes levied specifically for debt service. 
+
+Capital Projects Fund - The capital projects fund is the District’s Bond Fund and
+
+is used to account for the proceeds of bond sales to be used exclusively for
+
+acquiring school sites, constructing and equipping new school facilities,
+
+renovating existing facilities, and acquiring transportation equipment.
+
+- 8 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+1. Summary of Significant Accounting Policies, (continued)
+
+B. Fund Accounting and Description of Funds, (continued)
+
+Proprietary Fund Types
+
+Proprietary funds are used to account for activities similar to those found in
+
+the private sector, where the determination of the net income is necessary or
+
+useful to sound financial administration. Goods and services from such activities
+
+can be provided either outside parties (enterprise funds) or to other departments
+
+or agencies primarily within the District (internal service funds).  The District
+
+does not have Proprietary Funds at this time.
+
+Fiduciary Fund Types
+
+Fiduciary funds are used to account for assets held on behalf of outside
+
+partners, including other governments, or on behalf of other funds within the
+
+District. When these assets are held under the terms of a trust agreement, trust
+
+funds are used for their accounting and reporting. Agency funds generally are
+
+used to account for assets that the District holds on behalf of others as their
+
+agent and do not involve measurement of results of operations.                 
+
+Account Groups
+
+Account groups are not funds and consist of a self-balancing set of accounts used
+
+only to establish accounting control over long-term debt and general fixed assets
+
+not accounted for in proprietary funds.
+
+General Long-Term Debt Account Group - This account group was established to
+
+account for all long-term debt of the District, which is offset by the amount 
+
+available in the debt service fund and the amount to be provided in future years
+
+to complete retirement of the debt principal. It is also used to account for
+
+liabilities for compensated absences and early retirement incentives, which are
+
+to be paid from funds provided in future years.
+
+General Fixed Asset Account Group - This account group is used to account for
+
+property, plant and equipment of the school district. The District does not have
+
+information necessary to include this group in its combined financial statements.
+
+Memorandum Only - Total Column
+
+The total column on the financial statements is captioned “memorandum only” to
+
+indicate that it is presented only to facilitate financial analysis.  Data in
+
+this column does not present financial position, results of operations, or cash
+
+flow in conformity with generally accepted accounting principles.  Neither is
+
+such data comparable to a consolidation.  Interfund eliminations have not been
+
+made in the aggretion of this data. 
+
+- 9 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+1. Summary of Significant Accounting Policies, (continued)
+
+C.  Basis of Accounting and Presentation
+
+The District prepares its financial statements in a presentation format that is
+
+prescribed by the Oklahoma State Department of Education.  This format is
+
+essentially the generally accepted form  of presentation used by the state and
+
+local governments prior to the effective date of GASB Statement No. 34, Basic
+
+Financial Statements - Management’s Discussion and Analysis - for State and Local
+
+Governments.  This format significantly differs from that required by GASB 34.
+
+The basic financial statements are essentially prepared on a basis of cash
+
+receipts and disbursements modified as required by the regulations of the
+
+Oklahoma State Department of Education (OSDE) as follows:
+
+! Encumbrances represented by purchase orders, contracts, and other
+
+commitments for the expenditure of monies are recorded as expenditures
+
+when approved.
+
+! Investments and inventories are recorded as assets when purchased.
+
+! Capital assets in proprietary funds are recorded when acquired and
+
+depreciated over their useful lives.
+
+! Warrants payable are recorded as liabilities when issued.
+
+! Long-term debt is recorded when incurred.
+
+! Accrued compensated absences are recorded as an expenditure and liability
+
+when the obligation is incurred.  
+
+This regulatory basis of accounting differs from accounting principles generally
+
+accepted in the United States of America, which require revenues to be recognized
+
+when they become available and measurable, or when they are earned, and
+
+expenditures or expenses to be recognized when the related liabilities are
+
+incurred for governmental fund types; and, when revenues are earned and
+
+liabilities are incurred for proprietary fund types and trust funds.
+
+D. Budgets and Budgetary Accounting 
+
+The District is required by state law to prepare an annual budget.  A preliminary
+
+budget must be submitted to the Board of Education by December 31 for the fiscal
+
+year beginning the following July 1.  If the preliminary budget requires an
+
+additional levy, the District must hold an election on the second Tuesday in
+
+February to approve the levy.  If the preliminary budget does not require an
+
+additional levy, it becomes a legal budget.  If an election is held and the taxes
+
+are approved, then the preliminary budget becomes the legal budget.  If voters
+
+reject the additional taxes, the District must adopt a budget within the approved
+
+tax rate.
+
+The District may upon approval by the majority of the electors of the District
+
+voting on the question make the ad valorem levy for emergency levy and local
+
+support levy permanent.  The District electors have made the levies permanent.
+
+Under current Oklahoma Statutes, a formal budget is required for all funds except
+
+for trust and agency funds.  Budgets are presented for all funds that include the
+
+originally approved budgeted appropriations and final budgeted appropriations as
+
+adjusted for supplemental appropriations and approved transfers between budget
+
+categories.
+
+- 10 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+1. Summary of Significant Accounting Policies, (continued)
+
+E. Assets, Liabilities, and Fund Equity
+
+Cash and Cash Equivalents - The District considers all cash on hand, demand
+
+deposits, and highly liquid investments, with an original maturity of three
+
+months or less when purchased, to be cash and cash equivalents. 
+
+Investments - Investments consist of certificates of deposit or direct
+
+obligations of the United States Government and Agencies with maturities greater
+
+than three months when purchased.  All investments are recorded at cost, which
+
+approximates market value.
+
+Property Tax Revenues - The District is authorized by state law to levy property
+
+taxes, which consists of ad valorem taxes on real and personal property within
+
+the District.  The County Assessor, upon receipt of the certification of tax
+
+levies from the county excise board, extends the tax levies on the tax roll for
+
+submission to the County Treasurer prior to October 1.  The County Treasurer must
+
+commence tax collection within fifteen days of receipt of the tax rolls.  The
+
+first half of taxes are due prior to January 1.  The second half is due prior to
+
+April 1.
+
+If the first payment is not made timely, the entire tax becomes due and payable
+
+on January 2.  Second half taxes become delinquent on April 1 of the year
+
+following the year of assessment.  If not paid by the following October 1, the
+
+property is offered for sale for the amount of taxes due. The owner has two years
+
+to redeem the property by paying the taxes and penalty owed. If at the end of two
+
+years the owner has not done so, the purchaser is issued a deed to the property.
+
+Inventories - The value of consumable inventories at June 30, 2018 is not known
+
+but is not believed to be material to the basic financial statements.
+
+Capital Assets - The General Fixed Assets Account Group is not presented.  The
+
+amount which would be included in it is not known.  
+
+Compensated Absences - Vested or accumulated vacation leave that is expected to
+
+be liquidated with expendable available financial resources is reported as an
+
+expenditure and a fund liability of the governmental fund that will pay it. There
+
+are no amounts of vested or accumulated vacation leave that are not expected to
+
+be liquidated with expendable available financial resources. 
+
+Employees are allowed varying amounts of sick leave during the year in accordance
+
+with Oklahoma Statutes.  Sick leave used during the year is recorded as an
+
+expense in the governmental fund.  Vested accumulated rights to receive sick pay
+
+benefits may be used in subsequent years, transferred to another District, or
+
+added to years of service upon retirement.  Based on the District’s experience
+
+it is not probable that District will pay for vested accumulated rights to
+
+receive sick leave.  Therefore, a liability for vested accumulated sick leave has
+
+not been recorded.
+
+- 11 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+1. Summary of Significant Accounting Policies, (continued)
+
+E. Assets, Liabilities, and Fund Equity, (continued)
+
+Long-Term Debt - Long-term debt is recognized as a liability of a governmental
+
+fund when due or when resources have been accumulated in the debt service fund
+
+for payment early in the following year.  For other long-term obligations, only
+
+that portion expected to be financed from expendable available financial
+
+resources is reported as a fund liability of a governmental fund.  The remaining
+
+portion of such obligations is reported in the general long-term debt account
+
+group. 
+
+Fund Balance - Fund balance represents the cash and investments not encumbered
+
+by purchase order, legal contracts, and outstanding warrants.
+
+F. Revenue, Expenses, and Expenditures
+
+State Revenues - Revenues from state sources for current operations are primarily
+
+governed by the state aid formula under the provisions of Article XVIII, Title
+
+70, Oklahoma Statutes.  The State Board of Education administers the allocation
+
+of state aid funds to school districts based on information accumulated from the
+
+districts.
+
+After review and verification of reports and supporting documentation, the State
+
+Department of Education may adjust subsequent fiscal period allocations of money
+
+for prior year errors disclosed by review.  Normally, such adjustments are
+
+treated as reductions or additions of revenue of the year when the adjustment is
+
+made.
+
+The District receives revenue from the state to administer certain categorical
+
+education programs.  State Board of Education rules require that revenue
+
+earmarked for these programs be expended only for the program for which the money
+
+is provided.  These rules also require that the money not expended as of the
+
+close of the fiscal year be carried forward into the following year to be
+
+expended for the same categorical programs.  The State Department of Education
+
+requires the categorical educational program revenues be accounted for in the
+
+general fund.
+
+Interfund Transactions - Quasi-external transactions are accounted for as
+
+revenues, expenditures or expenses.  Transactions that constitute reimbursements
+
+to a fund or expenditure/expenses initially made from it that are properly
+
+applicable to another fund are recorded as expenditures/expenses in the fund that
+
+is reimbursed.
+
+All other transactions, except quasi-external transactions and reimbursements,
+
+are reported as transfers.  Nonrecurring or nonroutine permanent transfers of
+
+equity are reported as residual equity transfers.  All other interfund transfers
+
+are reported as operating transfers.  
+
+- 12 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+2. Cash and Investments
+
+The District’s investment policies are governed by state statute.  Permissible
+
+investments include direct obligations of the United States Government and
+
+Agencies; certificates of deposit of savings and loan associations, and bank and
+
+trust companies; and savings accounts or savings certificates of saving and loan
+
+associations, and trust companies.  Collateral is required for demand deposits
+
+and certificates of deposit for all amounts not covered by federal deposit
+
+insurance.  
+
+Custodial Credit Risk
+
+Custodial credit risk is the risk that in the event of failure of counterparty,
+
+the District will not be able to recover the value of its deposits or
+
+investments.  Deposits are exposed to custodial credit risk if they are uninsured
+
+and uncollateralized.  Investment securities are exposed to custodial credit risk
+
+if they are uninsured, are not registered in the name of the District, and are
+
+held by counterparty or the counterparty’s trust department but not in the name
+
+of the District.  The District’s policy requires that all deposits and
+
+investments in excess of amounts covered by federal deposit insurance be fully
+
+collateralized by the entity holding the deposits or investments.  As of June 30,
+
+2018, all of the Districts deposits and investments were either covered by
+
+federal deposit insurance or were fully collateralized. 
+
+Deposits
+
+The District had deposits at financial institutions with a carrying amount of
+
+approximately $7,476,567 at June 30, 2018.  The bank balance of the deposits at
+
+June 30, 2018 was approximately $7,495,858.
+
+Credit Risk
+
+Fixed-income securities are subject to credit risk.  However, the District did
+
+not have fixed income securities at June 30, 2018.
+
+Interest Rate Risk
+
+Interest rate risk is the risk that changes in interest rates will adversely
+
+affect the fair value of an investment.  The District’s Treasurer and Board of
+
+Education monitor the District’s investment performance on an ongoing basis to
+
+limit the District’s interest rate risk.  As of June 30, 2018, all of the
+
+District’s deposits consisted of demand deposits and certificates of deposit.
+
+3. General Long-Term Debt
+
+State statutes prohibit the District from becoming indebted in an amount
+
+exceeding the revenue to be received for any fiscal year without approval by the
+
+District’s voters. Bond issues have been approved by the voters and issued by the
+
+District for various capital improvements. These bonds are required to be fully
+
+paid serially within 25 years from the date of issue.
+
+- 13 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+3. General Long-Term Debt,(continued)
+
+General long-term debt of the District consists of bonds payable. Debt service
+
+requirements for bonds are payable solely from fund balance and future revenues
+
+of the debt service fund.
+
+The following is a summary of the long-term debt transactions of the District
+
+for the year ended June 30, 2018: 
+
+                                     Bonds      Capital Lease
+
+                                    Payable      Obligation        Total     
+
+        Balance, July 1, 2017     $ 1,950,000   $      5,237    $  1,955,237 
+
+        Additions                   2,025,000           -          2,025,000
+
+        Retirements                      -            (5,237)         (5,237)
+
+        Balance, June 30, 2018    $ 3,975,000   $       -       $  3,975,000 
+
+A brief description of the outstanding general obligation bond issues at June 30,
+
+2018 is set forth below:
+
+Independent School District No. I-2 Building Bonds, series 2016, original
+
+ issue $1,950,000, interest rate of 1.3%, due in annual installments
+
+ of $975,000, final installment of $975,000 due January 1, 2020.            1,950,000
+
+Independent School District No. I-2 Building Bonds, series 2017, original
+
+ issue $2,025,000, interest rate of 1.25% to 4.45%, due in two installments 
+
+ of $1,010,000 and final installment of $1,015,000 due October 1, 2021.     2,025,000
+
+Total debt service principal                                             $  3,975,000
+
+The annual debt service requirements of bond principal and payment of interest
+
+are as follows:
+
+             Year ending        
+
+                June 30           Principal      Interest        Total   
+
+                  2019           $   975,000    $   52,683    $ 1,027,683
+
+                  2020               975,000        40,008      1,015,008
+
+                  2021             1,010,000        27,333      1,037,333  
+
+                  2022             1,015,000        12,688      1,027,688  
+
+                                 $ 3,975,000    $  132,712    $ 4,107,712
+
+Interest  expense on general  long-term debt incurred during the current year
+
+totaled $25,350.
+
+The District has recorded the liability for lease payments of the general long-
+
+term debt account group for the equipment. During the year, this capital lease
+
+obligation was paid in full.
+
+- 14 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+4. Employee Retirement System
+
+The District participants in the state-administered Oklahoma Teachers’ Retirement
+
+System (the “System”), which is a cost-sharing, multiple-employer Public Employee
+
+Retirement System administered by the Board of Trustees of the Oklahoma Teachers’
+
+Retirement System.  The System provides retirement and disability benefits,
+
+annual cost-of-living adjustments and death benefits to plan members and
+
+beneficiaries.  Title 70 Section 17 of Oklahoma Statutes establishes benefit
+
+provisions and may be amended only through legislative action.
+
+The System’s financial statements are prepared using the cash basis of
+
+accounting, except for accruals of interest income.  Plan member contributions
+
+are recognized in the period in which the contributions are made.  Benefits and
+
+refunds are recognized when paid.  The pension benefit obligation is a
+
+standardized disclosure measure of the present value of pension benefits. This
+
+pension valuation method reflects the present value of estimated pension benefits
+
+that will be paid in future years as a result of employee services performed to
+
+date and is adjusted for the effect of projected salary increases. There are no
+
+actuarial valuations performed on individual school districts. The System has an
+
+under funded pension benefit obligation as determined as part of the latest
+
+actuarial valuation.
+
+The District, the State of Oklahoma, and the participating employee make
+
+contributions.  The contribution rates for the District and its employees are
+
+established by and may be amended by Oklahoma Statutes. The contribution rates
+
+for the Districts, which are not actuarially determined, and its employees are
+
+established by statute and applied to the employee’s earnings, plus employer-paid
+
+fringe benefits.  The required contribution for participating members is 7% of
+
+compensation.  Additionally, OTRS receives federal matching contributions for
+
+positions whose funding comes from federal sources or certain grants.  The
+
+District and State are required to contribute 14% of applicable compensation. 
+
+Contributions received by the System from the State of Oklahoma are from 3.54%
+
+of its revenue from sales tax, use tax, corporate income tax, and individual
+
+income tax.  The District is required by statute to contribute 9.5% of
+
+compensation.  The District is allowed by the Oklahoma Teacher’s Retirement
+
+System to make the required contributions on behalf of the participating members. 
+
+Ten-year historical trend information is presented in the Teacher’s Retirement
+
+System of Oklahoma Annual Report for the year ended June 30, 2018. This
+
+information is useful in assessing the pension plan’s accumulation of sufficient
+
+assets to pay pension benefits as they become due.  The annual report may be
+
+obtained by writing to Oklahoma Teacher’s Retirement System, PO Box 53524,
+
+Oklahoma City, OK, 73152 or by calling 405-521-2387.
+
+The Districts total contributions for 2018, 2017, and 2016 were $1,296,431,
+
+$1,157,701, and $1,203,039 respectively.
+
+- 15 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+NOTES TO FINANCIAL STATEMENTS
+
+JUNE 30, 2018
+
+5. Contingencies 
+
+Amounts received or receivable from grantor agencies are subject to audit and
+
+adjustments by grantor agencies.  Any disallowed claims, including amounts
+
+already collected, may constitute a liability of the applicable funds.  The
+
+amount, of expenditures which may be disallowed by the grantor cannot be
+
+determined at this time, although the District expects such amounts, if any, to
+
+be immaterial.  
+
+6. Risk Management 
+
+The District is exposed to various risk of loss related to torts, theft of,
+
+damage to, and destruction of assets, errors and omissions, injuries to
+
+employees’s health and life, and natural disasters.  The District manages these
+
+various risks of loss through the purchase of commercial insurance.  Management
+
+believes such coverage is sufficient to preclude any significant uninsured losses
+
+to the District.  Settled claims have not exceeded this insurance coverage in any
+
+of the past three fiscal years.
+
+7.    Subsequent Events
+
+The District has considered subsequent events through December 10, 2018, the date
+
+which the financial statements were available for release.  The District is not
+
+aware of any subsequent events which would require disclosure.                 
+
+                                                      
+
+- 16 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINING STATEMENT OF ASSETS, LIABILITIES, AND CASH FUND BALANCES
+
+REGULATORY BASIS - ALL SPECIAL REVENUE FUNDS
+
+JUNE 30, 2018
+
+                                          Building      Child
+
+                                            Fund      Nutrition      Total   
+
+ASSETS
+
+Cash and Cash Equivalents               $   566,956  $   338,256  $   905,212
+
+Total Assets                            $   566,956  $   338,256  $   905,212
+
+LIABILITIES AND FUND EQUITY
+
+Liabilities:
+
+ Warrants Payable                       $      -     $    57,219  $    57,219
+
+ Encumbrances                               236,060       43,792      279,852
+
+Total Liabilities                           236,060      101,011      337,071
+
+Fund Equity:
+
+ Unreserved
+
+  Undesignated                              330,896      237,245      568,141
+
+Total Fund Equity                           330,896      237,245      568,141
+
+Total Liabilities and Fund Equity       $   566,956  $   338,256  $   905,212
+
+The accompanying notes are an integral part of this statement.
+
+- 17 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES
+
+PAID, AND CHANGES IN CASH BALANCES - REGULATORY BASIS
+
+ALL SPECIAL REVENUE FUNDS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+                                        Building       Child     
+
+                                          Fund       Nutrition       Total    
+
+Revenues Collected:
+
+ Local Sources                        $   233,210   $    54,764   $   287,974
+
+ State Sources                               -            6,955         6,955
+
+ Federal Sources                           46,945       585,651       632,596
+
+ Non-Revenue Receipts                        -           79,196        79,196
+
+Total Revenues                            280,155       726,566     1,006,721
+
+Expenditures Paid:
+
+ Instruction    -             -             -   
+
+ Support Services                          94,240          -           94,240
+
+ Non-instruction                             -          727,669       727,669
+
+ Capital Outlay                           359,496          -          359,496
+
+ Other Outlay                                -              300           300  
+
+Total Expenditures Paid                   453,736       727,969     1,181,705
+
+Excess of Revenues Collected 
+
+ Over(Under) Expenses Paid
+
+ Before Adjustments to Prior Year        (173,581)       (1,403)     (174,984)
+
+Adjustments to Prior Year
+
+ Estopped Warrants                           -              390           390
+
+ Lapsed Encumbrances                         -           37,836        37,836 
+
+Total Adjustments                            -           38,226        38,226 
+
+Excess (Deficiency) of Revenue
+
+ Collected Over(Under)
+
+ Expenditures Paid and Other
+
+ Financing Sources (Uses)                (173,581)       36,823      (136,758)
+
+Fund Balance - Beginning of Year          504,477       200,422       704,899
+
+Fund Balance - Ending of Year         $   330,896   $   237,245   $   568,141
+
+ 
+
+ 
+
+The accompanying notes are an integral part of this statement.
+
+- 18 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINING STATEMENT OF REVENUES COLLECTED, EXPENDITURES PAID
+
+AND CHANGES IN FUND BALANCES - BUDGET AND ACTUAL
+
+REGULATORY BASIS - SPECIAL REVENUE FUNDS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+                                        Building Fund                   Child Nutrition Fund                        Total              
+
+                              Original      Final                 Original     Final                  Original     Final
+
+Revenue Collected:             Budget      Budget      Actual      Budget      Budget      Actual      Budget      Budget      Actual  
+
+  Local Sources              $  215,931  $  215,931  $  233,210  $    5,764  $    5,764  $   54,764  $  221,695  $  221,695  $  287,974
+
+  State Sources                    -           -           -          7,865       7,865       6,955       7,865       7,865       6,955
+
+  Federal Sources                  -           -         46,945     499,813     499,813     585,651     499,813     499,813     632,596
+
+  Non-Revenue Receipts             -           -           -        106,992     106,992      79,196     106,992     106,992      79,196
+
+Total Revenue Collected         215,931     215,931     280,155     620,434     620,434     726,566     836,365     836,365   1,006,721
+
+Expenditures Paid:
+
+  Instruction                   720,408     720,408        -           -           -           -        720,408     720,408        -   
+
+  Support Services                 -           -         94,240        -           -           -           -           -         94,240 
+
+  Non-Instruction Services         -           -           -        820,856     820,856     727,669     820,856     820,856     727,669
+
+  Capital Outlay                   -           -        359,496        -           -           -           -           -        359,496
+
+ Other Outlay                      -           -           -           -           -            300        -           -            300
+
+Total Expenditures Paid         720,408     720,408     453,736     820,856     878,468     727,969   1,541,264   1,541,264   1,181,705
+
+Excess of Revenues Collected
+
+  Over(Under)Expenditures
+
+  Paid Before Adjustments
+
+  To Prior Year                (504,477)   (504,477)   (504,477)   (200,422)   (200,422)     (1,403)   (704,899)   (704,899)   (174,984)
+
+Adjustments to Prior Year
+
+  Estopped Warrants                -           -           -           -           -            390        -           -            390
+
+  Lapsed Encumbrances              -           -           -           -           -         37,836        -           -         37,836 
+
+Total Adjustments                  -           -           -           -           -         38,226        -           -         38,226 
+
+Excess(Deficiency) of Revenue
+
+  Collected Over(Under)
+
+  Expenditures Paid and Other
+
+  Financing Sources (Uses)     (504,477)   (504,477)   (173,581)   (200,422)   (200,422)     36,823    (704,899)   (704,899)   (136,758)
+
+Fund Balance - Beginning        504,477     504,477     504,477     200,422     200,422     200,422     704,899     704,899     704,899
+
+Fund Balance - Ending        $        0  $        0  $  330,896  $        0  $        0  $  237,245  $        0  $        0  $  568,141
+
+The accompanying notes are an integral part of this statement.
+
+- 19 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINING STATEMENT OF ASSETS, LIABILITIES AND FUND EQUITY
+
+REGULATORY BASIS - ALL AGENCY FUNDS
+
+JUNE 30, 2018
+
+                                       
+
+                                                       Agency
+
+                                                        Fund   
+
+                                                      Activity
+
+                                                       Funds        Total   
+
+ASSETS
+
+Cash and Cash Equivalents                            $  318,308  $   318,308 
+
+Total Assets                                         $  318,308  $   318,308 
+
+LIABILITIES AND FUND EQUITY
+
+Liabilities:
+
+ Due to Others                                       $  318,308  $   318,308 
+
+Total Liabilities                                       318,308      318,308 
+
+Fund Equity:
+
+ Unreserved/Undesignated                                   -            -   
+
+Total Liabilities and Fund Equity                    $  318,308  $   318,308 
+
+The accompanying notes are an integral part of this statement.
+
+- 20 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES
+
+REGULATORY BASIS - ACTIVITY FUND
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+Edison Elementary
+
+                             July 1,2017  Additions   Deletions  June 30,2018 
+
+Reserve                       $   7,371   $  20,535   $  19,762   $    8,144
+
+Media                             1,886       3,899       3,872        1,913
+
+Faculty Club                        106         325         431         -   
+
+Yearbook                          1,726       3,995       4,572        1,149
+
+Santa Shop                          563       4,527       4,581          509
+
+Vending Machine                     399         912         864          447
+
+Children Support Act                960        -            235          725
+
+Picture                           4,191       2,537       3,450        3,278
+
+Judy Vice Memorial Fund             570        -           -             570
+
+Total Activities              $  17,772   $  36,730   $  37,767   $   16,735
+
+Collins Elementary
+
+                             July 1,2017  Additions   Deletions  June 30,2018 
+
+Reserve                       $  14,728   $  45,184   $  36,590   $   23,322
+
+Media                             5,634       6,319       4,873        7,080
+
+Faculty Club                       -            707         465          242
+
+Yearbook                          3,299       4,825       3,497        4,627
+
+Pictures                          1,148       1,762       2,401          509
+
+Children Support                     60        -             23           37
+
+Total Activities              $  24,869   $  58,797   $  47,849   $   35,817
+
+Bristow Middle School
+
+                             July 1,2017  Additions   Deletions  June 30,2018 
+
+Tech Ed                       $   3,391   $    -      $      23   $    3,368
+
+Student Council                   1,750       1,994       1,644        2,100
+
+Pep Club                          1,402       2,235       2,247        1,390
+
+Library                             355       4,408       4,288          475
+
+Newspaper                           174        -           -             174
+
+Art Department                      120        -           -             120
+
+Physical Education                  166        -             82           84
+
+Teacher Courtesy Fund               315         620         550          385
+
+Reserve                           5,566      19,024      16,026        8,564
+
+Yearbook                          5,340       7,016       9,295        3,061
+
+Picture                           1,752         908         200        2,460
+
+Total Activities              $  20,331   $  36,205   $  34,355   $   22,181
+
+The accompanying notes are an integral part of this statement.
+
+- 21 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+COMBINING STATEMENT OF CHANGES IN ASSETS AND LIABILITIES
+
+REGULATORY BASIS - ACTIVITY FUND
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+    
+
+Bristow High School
+
+                                 July 1,2017   Additions  Deletions  June 30,2018 
+
+Athletics                        $    41,553   $ 126,823  $ 132,099   $   36,277
+
+Band                                  18,506      78,004     82,876       13,634
+
+Academics                                881       1,537      1,379        1,039
+
+Future Farmers of America              9,188      91,526     84,989       15,725
+
+FCCLA                                  4,279         700      1,291        3,688
+
+Library                                  593         806        317        1,082
+
+Log                                    4,169      14,844     18,003        1,010
+
+Extra-curricular                       6,413       7,424      6,655        7,182
+
+Pep Club                                 462         659        449          672
+
+Reserve                                2,761       4,121      2,567        4,315
+
+Scholarships                          14,327       8,750      9,250       13,827
+
+Speech                                12,652       9,041      5,616       16,077
+
+Student Council                         -         32,763     28,586        4,177
+
+Summer School                         11,282      12,812     11,986       12,108
+
+Vocal                                  3,515       9,676     10,165        3,026
+
+SACS/Leadership                        2,242       7,440      9,100          582
+
+Academic Banquet                       4,298       4,385      4,071        4,612
+
+Cheerleading                           5,843      10,415      9,856        6,402
+
+Basketball                             8,421      14,684     11,192       11,913
+
+Wrestling                              8,785       9,303      6,066       12,022
+
+Bristow Academy                        2,539        -          -           2,539
+
+Track                                  5,119      11,443      3,511       13,051
+
+Softball                                 375       7,791      4,933        3,233
+
+Technology                             9,343         240      1,351        8,232
+
+JOM Scholarship                        1,026         179      1,111           94
+
+      
+
+Total Activities                 $   178,572   $ 465,366  $ 447,419  $   196,519
+
+Administrative                                                                     
+
+                                 July 1,2017   Additions  Deletions  June 30,2018 
+
+Child Nutrition Program          $      -      $  79,269  $  79,269   $     -   
+
+Spirit of 1976 Scholarship               700         500        500          700
+
+Revolving Account                      4,934       1,941      3,338        3,537
+
+Home Alone                             4,197      99,084    103,281         -   
+
+Falcon Scholarship                      -          7,000      7,000         -   
+
+Yourman Scholarship                    9,719       4,311     10,415        3,615
+
+Cape Scholarship CD                   15,141         190        500       14,831
+
+Cape Scholarship                        -            500        500         -    
+
+Community Together                       189        -          -             189
+
+Concession Vending Account             4,230       2,250      2,292        4,188
+
+Auditorium Account                     5,414        -          -           5,414
+
+Yourman Scholarship                    7,235          87        740        6,582
+
+Harvat Foundation                      6,500       5,000      5,500        6,000
+
+Jean Ann Wilson Scholarship            2,000       1,500      1,500        2,000
+
+Total Activities                 $    60,259   $ 201,632  $ 214,835   $   47,056
+
+  
+
+The accompanying notes are an integral part of this statement.
+
+- 22 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+SCHEDULE OF FEDERAL AWARDS EXPENDED
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+Federal Grantor/Pass Through  Federal Grantor’s Approved  Balance at                          Balance at
+
+   Grantor/Program Title       CFDA#   Number    Amount   July1,2017  Receipts  Expenditures* June30,2018 U.S.
+
+Department of Education
+
+Direct Programs
+
+  Title VII                    84.060           $   -      $   -     $  135,927  $    92,726   $    -   
+
+  Impact Aid                   84.041               -          -         75,774       62,196        -   
+
+  Impact Aid Disabled          84.041               -          -           -          13,578        -   
+
+        Total Title VII Cluster                     -          -         75,774       75,774        -   
+
+  Total Direct                                      -          -        211,701      168,500        -   
+
+Passed Through State 
+
+ Dept. of Educ.
+
+  Title I Basic                84.010               -          -        420,354      451,588        -
+
+  Title I School Support       84.010               -          -           -           5,000        -
+
+  Title I Part D Local         84.010               -          -           -          14,516        -   
+
+        Total Title I Cluster                       -          -        420,354      471,104        -   
+
+  Sp Ed Pro Devlp OSDE Sonsored84.027               -          -          5,506          193        -
+
+  Sp Ed Prof Devlp District    84.027               -          -           -           5,313        -   
+
+        Total Sp Ed Prof Devlp Cluster              -          -          5,506        5,506        -   
+
+  Title D                      84.013               -          -         13,360         -           -   
+
+  JTPA - Vocational            84.126               -          -         16,564       16,564        -   
+
+  T-6 Sub. 2 (SDE)             84.358               -          -         20,940       30,846        -   
+
+  Title II, Part A             84.367               -          -         56,955       54,680        -   
+
+Total Passed Through
+
+ State Dept. of Educ.                               -          -        533,679      578,700        -   
+
+Passed Through State Dept. of
+
+ Career and Technology
+
+ Carl Perkins Secondary        84.048               -          -         33,669       21,676        -
+
+ Carl Perkins Suppl. Grants    84.048               -          -           -          21,619        -   
+
+        Total Carl Perkins Cluster                  -          -         33,669       43,295        -   
+
+Total Passed Through
+
+ State Dept. Of Career and Tech                     -          -         33,669       43,295        -   
+
+Total U.S. Dept. Of Education                       -          -        779,049      790,495        -   
+
+U.S. Dept of Interior Passed
+
+ Through Muscogee Creek Nation
+
+  Indian Education Program     15.130               -          -         23,639       11,216        -   
+
+  Indian Education 3-Month     15.130               -          -           -          11,777        -   
+
+        Total Indian Education Cluster              -          -         23,639       22,993        -   
+
+U.S. Dept Of Agriculture Passed
+
+Through State Dept.of Education
+
+  School Breakfast Program     10.553               -          -        134,742      134,742        -
+
+  School Lunch Program         10.555               -          -        396,570      396,570        - 
+
+  Child/Adult Care Food        10.558               -          -          7,996        7,996        -
+
+  Summer Food Service          10.559               -        13,962      46,342       47,955      12,349
+
+Passed Through State Dept.
+
+ Of Human Services
+
+  Child Nutrition Cluster 
+
+  Non-Cash Asst.(Commodities)  10.555               -          -         62,839       62,839        -    
+
+Total U.S. Dept. Of Agriculture                     -        13,962     648,489      650,102      12,349
+
+Total Expenditures of
+
+  Federal Awards                                $   -      $ 13,692  $1,451,177  $ 1,463,590   $  12,349
+
+Note 1 - * Represents federal share of expenditures only.     
+
+Note 2 - Commodities received in the amount of $62,839 were of a nonmonetary nature and therefore the total revenue 
+
+         does not agree with the financial statements by this amount.
+
+Note 3 - This schedule is prepared using the regulatory basis of accounting described in Note 1C.
+
+Note 4 - The District has elected not to use the 10% de minimis indirect cost rate as allowed under Uniform Guidance.
+
+- 23-
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+STATEMENT OF STATUTORY, FIDELITY, AND HONESTY BONDS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+      Bond              Bonding          Bond                       Effective
+
+      Type              Company         Number         Amount          Date      
+
+Surety/Position*    CNA Surety       18235715        $  170,000   9/21/17 - 9/21/18
+
+Surety/Position*    CNA Surety       18235715        $  170,000   9/21/16 - 9/21/17
+
+Surety/Treasurer    CNA Surety       01554555        $  100,000   7/1/17 - 7/1/18
+
+* Position bond covers the following positions in the indicated amounts: 
+
+Superintendent                                              $100,000
+
+High School Activity Custodian                              $ 25,000
+
+Middle School Activity Custodian                            $  5,000
+
+Edison Activity Custodian                                   $  5,000
+
+Collins Activity Custodian                                  $  5,000
+
+Board Clerk/Minutes Clerk                                   $  5,000
+
+Administration Activity Custodian/Lunch Fund Custodian      $ 20,000
+
+Encumbrance Clerk                                           $  5,000
+
+ Total                                                      $170,000
+
+- 24 -
+
+
+
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING AND
+
+ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL STATEMENTS
+
+PERFORMED IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS
+
+To the Board of Education
+
+Bristow School District No. I-2
+
+Creek County
+
+Bristow, Oklahoma
+
+I have audited, in accordance with the auditing standards generally accepted in
+the United States of America and the standards applicable to financial audits
+contained in Government Auditing Standards issued by the Comptroller General of
+the United States, the accompanying basic financial statements - regulatory basis
+of the governmental activities, each major fund, and the aggregate remaining 
+fund information of Bristow School District No. I-2, Creek County, Oklahoma
+(District) as of and for the year ended June 30, 2018, and the related notes to
+the financial statements, which collectively comprise the District’s financial
+statements, and have issued my report thereon dated December 10, 2018 which was
+adverse with respect to the presentation of the financial statements in
+conformity with accounting principles generally accepted in the United States of
+America because the presentation followed the regulatory basis of accounting for
+Oklahoma school districts and did not conform to the presentation requirements
+of the Governmental Accounting Standards Board.  The report did not include the
+General Fixed Assets Account Group. 
+
+Internal Control Over Financial Reporting
+
+In planning and performing my audit, I considered the District’s internal 
+
+control over financial reporting (internal control) to determine the audit
+
+procedures that are appropriate in the circumstances for the purpose of
+
+expressing my opinion on the financial statements, but not for the purpose of
+
+expressing an opinion on the effectiveness of the District’s internal control
+
+over financial reporting.  Accordingly, I do not express an opinion on the
+
+effectiveness of the District’s internal control over financial reporting.
+
+My consideration of internal control was for the limited purpose described in the
+
+preceding paragraph and was not designed to identify all deficiencies in internal
+
+control that might be material weaknesses or significant deficiencies and
+
+therefore material weaknesses or significant deficiencies may exist that were not
+
+identified.  However, as described in the accompanying schedule of findings and
+
+questioned cost, we identified certain deficiencies in internal control that we
+
+consider to be material weaknesses and/or significant deficiencies.
+
+A deficiency in internal control exists when the design or operation of a control
+
+does not allow management or employees, in the normal course of performing their
+
+assigned functions, to prevent, or detect and correct, misstatements on a timely
+
+basis.  A material weakness is a deficiency, or a combination of deficiencies,
+
+in internal control such that there is a reasonable possibility that a material
+
+misstatement of the entity’s financial statements will not be prevented, or
+
+detected and corrected on a timely basis.  I consider the deficiency described
+
+in the accompanying schedule of findings and questioned costs as number 2018-1
+
+and 2018-2 to be a material weakness.
+
+- 25 -
+
+
+
+A significant deficiency is a deficiency, or a combination of deficiencies, in
+internal control that is less severe than a material weakness, yet important enough
+to merit attention by those charged with governance.  I consider the deficiencies
+described in the accompanying schedule of findings and questioned costs number
+2018-3 to be a significant deficiency.
+
+Compliance and Other Matters
+
+As part of obtaining reasonable assurance about whether the District’s financial
+statements are free of material misstatement, I performed tests of its compliance
+with certain provisions of laws, regulations, contracts, and grant agreements,
+noncompliance with which could have a direct and material effect on the
+determination of financial statement amounts.  However, providing an opinion on
+compliance with those provisions was not an objective of my audit, and accordingly,
+I do not express such an opinion.  The results of my tests disclosed instances of
+noncompliance or other matters that are required to be reported under Government
+Auditing Standards. These items are described in the accompanying schedule of
+findings and questioned costs as item number 2018-1 and 2018-2.
+
+Purpose of this Report
+
+The purpose of this report is solely to describe the scope of my testing of
+internal control and the results of that testing, and not to provide an opinion on
+the effectiveness of the entity’s internal control or on compliance.  This report
+is an integral part of an audit performed in accordance with Government Auditing
+Standards in considering the entity’s internal control and compliance. 
+Accordingly, this communication is not suitable for any other purpose.
+
+Sincerely,
+
+Ralph Osborn
+
+Certified Public Accountant
+
+Bristow, Oklahoma
+
+December 10, 2018 
+
+- 26 - 
+
+
+
+INDEPENDENT AUDITOR’S REPORT ON COMPLIANCE FOR EACH 
+
+MAJOR PROGRAM AND ON INTERNAL CONTROL
+
+OVER COMPLIANCE REQUIRED BY UNIFORM GUIDANCE
+
+To the Honorable Board of Education
+
+Independent School District No. I-2
+
+Bristow, Creek County, Oklahoma
+
+Report on Compliance for Each Major Federal Program
+
+I have audited Bristow School District No. I-2, Creek County, Oklahoma (the
+
+District) compliance with the types of compliance requirements described in the 
+
+OMB Compliance Supplement that could have a direct and material effect on each of
+
+the District’s major federal programs for the year ended June 30, 2018.  The
+
+District’s major federal programs are identified in the summary of auditor’s
+
+results section of the accompanying schedule of findings and questioned cost. 
+
+Management’s Responsibility
+
+Management is responsible for compliance with the requirements of laws,
+
+regulations, contracts, and grants applicable to its federal programs.
+
+Auditor’s Responsibility
+
+My responsibility is to express an opinion on compliance for each of the District’s
+
+major federal programs based on my audit of the types of compliance requirements
+
+referred to above.  I conducted my audit of compliance in accordance with auditing 
+
+standards generally accepted in the United States of America, the standards
+
+applicable to financial audits contained in Government Auditing Standards, issued
+
+by the Comptroller General of the United States; and the audit requirements of
+
+Title 2 U.S. Code of Federal Regulations (CFR) Part 200, Uniform Administrative
+
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform
+
+Guidance).  Those standards and Uniform Guidance require that I plan and perform
+
+the audit to obtain reasonable assurance about whether noncompliance with the types
+
+of compliance requirements referred to above that could have a direct and material
+
+effect on a major federal program occurred.  An audit includes examining, on a test
+
+basis, evidence about the District’s  compliance with those requirements and
+
+performing such other procedures as I considered necessary in the circumstance. 
+
+I believe that my audit provides a reasonable basis for my opinion on compliance
+
+for each major federal program.  However, my audit does not provide a legal
+
+determination of the District’s compliance.
+
+Opinion on Each Major Federal Program
+
+In my opinion, Independent School District No. I-2, Creek County, Oklahoma,
+
+complied, in all material respects, with the types of compliance requirements
+
+referred to above that could have a direct and material effect on each of its major
+
+federal programs for the year ended June 30, 2018. 
+
+- 27 -
+
+
+
+Report on Internal Control Over Compliance
+
+Management of Independent School District No. I-2, Creek County, Oklahoma is
+
+responsible for establishing and maintaining effective internal control over
+
+compliance with the types of compliance requirements referred to above.  In
+
+planning and performing my audit of compliance, I considered the District’s
+
+internal control over compliance with the types of requirements that could have a
+
+direct and material effect on each major federal program to determine the auditing
+
+procedures that are appropriate in the circumstances  for the purpose of expressing
+
+an opinion on compliance for each major federal program and to test and report on
+
+internal control over compliance in accordance with Uniform Guidance, but not for
+
+the purpose of expressing an opinion on the effectiveness of internal control over
+
+compliance.  Accordingly, I do not express an opinion on the effectiveness
+
+Independent School District No. I-2, Creek County, Oklahoma’s internal control over
+
+compliance.
+
+A deficiency in internal control over compliance exists when the design or
+
+operation of a control over compliance does not allow management or employees, in
+
+the normal course of performing their assigned functions, to prevent, or detect 
+
+and correct, noncompliance with the type of compliance requirement of a federal
+
+program on a timely basis.  A material weakness in internal control over compliance
+
+is a deficiency, or combination of deficiencies, in internal control over
+
+compliance, such that there is a reasonable possibility  that material
+
+noncompliance with a type of compliance requirement of a federal program will not
+
+be prevented, or detected and corrected, on a timely basis.  A significant
+deficiency in internal control over compliance is a deficiency, or a combination
+of deficiencies, in internal control over compliance with a type of compliance
+requirement of a federal program that is less severe than a material weakness in
+internal control over compliance, yet important enough to merit attention by those
+charged with governance.  
+
+My consideration of internal control over compliance was for the limited purpose
+
+described in the first paragraph of this section and was not designed to identify
+
+all deficiencies in internal control over compliance that might be material
+
+weaknesses or significant deficiencies.  I did not identify any deficiencies in
+
+internal control over compliance that I consider to be material weaknesses. 
+
+However, material weaknesses may exist that have not been identified.
+
+The purpose of this report on internal control over compliance is solely to
+
+describe the scope of our testing of internal control over compliance and the
+
+results of that testing based on the requirements of Uniform Guidance. 
+
+Accordingly, this report is not suitable for any other purpose.
+
+Ralph Osborn
+
+Certified Public Accountant
+
+Bristow, Oklahoma
+
+December 10, 2018          
+
+- 28 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+STATUS OF FINDINGS AND QUESTIONED COSTS
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+Section I - SUMMARY OF AUDITOR’S RESULTS
+
+Financial Statements
+
+Type of auditor’s report issued:                Qualified on regulatory
+
+                                                basis of accounting
+
+Internal control over financial reporting:
+
+Material weakness(es) identified?                 X  Yes         No
+
+Significant deficiency identified that is
+
+not considered to be material weakness(es)?       X  Yes         None Reported
+
+Noncompliance material to financial
+
+statements noted?                                    Yes      X  No
+
+Federal Awards
+
+Internal control over major programs:
+
+Material Weakness(es) identified?                    Yes      X  No
+
+Significant deficiency identified that is
+
+not considered to be material weakness(es)?          Yes      X  None Reported 
+
+Type of auditor’s report issued on compliance
+
+to major programs:                               Unmodified
+
+Any audit findings disclosed that are required 
+
+to be reported in accordance with section
+
+2 CFR 200.516(a)?                                    Yes      X  No
+
+Programs tested as Major Programs
+
+     CFDA Number(s)                    Name of Federal Program or Cluster
+
+         84.010                         Title 1 - Part A Basic            
+
+         84.060                         Title 7 - Part A Indian Education 
+
+Dollar threshold used to distinguish
+
+between type A and type B programs:        $   750,000
+
+Auditee qualified as low-risk auditee?         Yes      X  No
+
+Section II - Financial Statement Findings
+
+See the Schedule of Findings and Questioned Cost for matters noted.
+
+Section III - Federal Award Findings and Questioned Cost
+
+No matters were noted.
+
+- 29 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+SCHEDULE OF FINDINGS AND QUESTIONED COST
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+Finding 2018-01
+
+Condition: The District entered into a teacher contract with  a contract amount of
+
+payment higher than the District’s salary schedule.  The teacher was paid per an
+
+amount on the salary schedule. This resulted in the teacher being paid less than
+
+the contract amount.
+
+Criteria: Oklahoma State Statues, Title 70, states when a contract is entered into,
+
+the contract shall be binding on the teacher and on the board of education until
+
+the teacher legally has been discharged from the teaching position or released by
+
+the board of education from the contract. The teacher was paid from the salary
+
+schedule and not the contract. The contracted amount was higher than the salary
+
+schedule.
+
+Effect: The District underpaid the teacher per the contract amount. 
+
+Recommendation: The District should review contracts to be certain they are in
+
+agreement with the District salary schedule.  Any contracts which vary from the
+
+salary schedule should be documented as to the reason. The District should consult
+
+legal counsel concerning the underpayment to the employee.
+
+District Response: The District has obtained a new contract with the correct amount
+
+of salary shown.  We will review future contracts to insure the contract is within
+
+the District salary schedule.
+
+Finding 2018-02
+
+Condition: A regular meeting of the Board of Education was held on a day other than
+
+the scheduled date.
+
+Criteria: The District approved 2018 meeting dates in November 2017 in accordance
+
+with the Oklahoma Open Meetings Act. The January meeting date approved was
+
+scheduled for January 15, 2018, however, the meeting was held on January 8, 2018.
+
+The meeting should have been held as a rescheduled regular meeting or as a special
+
+meeting.
+
+Effect: The meeting held on January 8, 2018 as a regular meeting should have been
+
+a special meeting or rescheduled regular meeting.
+
+Recommendation: The District should insure all meeting dates approved are correct,
+
+and the meeting is held on that date or follow procedures for a special meeting or
+
+rescheduled regular meeting.
+
+District Response: Board of Education meetings are held on the second Monday of
+
+each month.  District personnel have reviewed the 2018 and 2019 schedules to make
+
+certain the correct date is shown.  In the event a meeting cannot be held on the
+
+approved day, the District will use special meeting procedures.
+
+- 30 -
+
+
+
+BRISTOW SCHOOL DISTRICT NO. I-2
+
+CREEK COUNTY, OKLAHOMA
+
+STATUS OF PRIOR YEAR FINDINGS AND QUESTIONED COST
+
+FOR THE YEAR ENDED JUNE 30, 2018
+
+There were no audit findings reported for the year ended June 30, 2017.
+
+- 31 -
+
+
+
+
+
+

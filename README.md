@@ -38,7 +38,20 @@ folder has some javascript files that perform actions like some
 dropdowns in the screens, but these are not important. This will become
 apparent why soon.
 
-The “BOTS” folder contains python scripts used in development, including dCosts.py, which can be used to identify Disallowed Costs. To run it, use the command “python dCosts.py”. When prompted for a PDF, type in the name of a PDF located in the “pdfs” folder. If you want to test your own audit pdf not in that folder used for testing, either put it in the folder and pass the filename to the python script, or pass the full path of the pdf. After running, the script will check for mentions of Disallowed Costs in the pdf and return if there are or are not any. If there are, the pdf returns a monetary value if one exists as “HIT: $someamount” and the context around that hit, and if not, it returns “NO HIT”. No GUI for this exists, but one can easily be made using the python package tkinter or some other framework if needed. This dCosts.py script will likely be used for the finished product to print the disallowed cost using an audit’s PDF as an input.
+The “BOTS” folder contains python scripts used in development, including
+dCosts.py, which can be used to identify Disallowed Costs. To run it,
+use the command “python dCosts.py”. When prompted for a PDF, type in the
+name of a PDF located in the “pdfs” folder. If you want to test your own
+audit pdf not in that folder used for testing, either put it in the
+folder and pass the filename to the python script, or pass the full path
+of the pdf. After running, the script will check for mentions of
+Disallowed Costs in the pdf and return if there are or are not any. If
+there are, the pdf returns a monetary value if one exists as “HIT:
+$someamount” and the context around that hit, and if not, it returns “NO
+HIT”. No GUI for this exists, but one can easily be made using the
+python package tkinter or some other framework if needed. This dCosts.py
+script will likely be used for the finished product to print the
+disallowed cost using an audit’s PDF as an input.
 
 **Improvements**
 
@@ -57,7 +70,7 @@ by specifying an exact left and top style. When the mainbody id is used,
 the div is positioned to it takes up the space on the screen where
 common user elements are filled. This does not include standard elements
 copied from the axshare code like the navbar and the audit information
-bar pictured below.
+bar pictured below. 
 
 ![](https://i.imgur.com/SMHdzfm.png)
 
@@ -75,14 +88,15 @@ all the pages should be in the same directory calling a unified
 stylesheet, unlike how we did it where each page has its own stylesheet
 in its own folder.
 
-\`Many of the pages we made share the same elements from the UI designs
+Many of the pages we made share the same elements from the UI designs
 provided to us, but due to not having a standard sheet of elements,
 elements like buttons which should be similar are not, so everything
 should be made consistent. Along with that, through development, we
 somehow realized that we were calling both Bootstrap 4 and Bootstrap 3.
 Our reliance on both made it impossible to simply remove one of the
 versions without breaking pages. Therefore, pages should be rewritten
-using only one version.
+using only one version. For the final product, I highly recommend
+putting it into an Electron application.
 
 We set up a free trial of Azure to host an SQL Server on it with data
 from FAC to display on some of the screens using php: namely, 08-01,

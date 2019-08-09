@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "GrantsDevelopmentTool", "GrantsDevelopmentTool\GrantsDevelopmentTool.dtproj", "{5A994E4F-77BB-44F1-A484-BFA5CE30AF32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A994E4F-77BB-44F1-A484-BFA5CE30AF32}.Development|Default.ActiveCfg = Development
+		{5A994E4F-77BB-44F1-A484-BFA5CE30AF32}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64274821-9267-41C9-8D1A-6D179A0528F0}
+	EndGlobalSection
+EndGlobal

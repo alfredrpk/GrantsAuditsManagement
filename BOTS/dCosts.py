@@ -1,7 +1,9 @@
 import sys
 import os
 from tika import parser
-os.chdir('pdfs')
+from decimal import Decimal #use for conversion from monetary string to float
+import tkinter
+os.chdir('C:/Users/Alfred/Downloads/pdfs')
 try:
 	filename = sys.argv[1]
 except IndexError as error:
@@ -15,7 +17,7 @@ def locations_of_substring(string, substring):
 
     substring_length = len(substring)    
     def recurse(locations_found, start):
-        location = string.find(substring, start)
+        location = string.lower().find(substring.lower(), start)
         if location != -1:
             return recurse(locations_found + [location], location+substring_length)
         else:
@@ -25,16 +27,23 @@ def locations_of_substring(string, substring):
 
 try:
 	inds = locations_of_substring(text, 'Disallowed Cost')
-except ValueError as error:
+	print(inds[0])
+except IndexError as error:
 	sys.exit('NO DISALLOWED COST FOUND');
 
 
 print('POSSIBLE DISALLOWED COST FOUND')
+sub = []
+num=0
 
 for ind in inds:
-	sub = text[ind:ind + 90]
+	sub.append(text[ind:ind + 140])
 	try:
-		moneyind = sub.index('$')
-		print('HIT')
+		moneyind = sub[num].index('$')
+		temp = sub[num][moneyind:len(text)].split(" ", 1)[0]
+		print('HIT: ' + str(temp))
 	except ValueError as error:
 		print('NO HIT')
+	num+=1
+
+tomp = text[inds[0]-500:inds[0]+500]

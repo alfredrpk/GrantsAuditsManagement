@@ -38,6 +38,8 @@ folder has some javascript files that perform actions like some
 dropdowns in the screens, but these are not important. This will become
 apparent why soon.
 
+The “BOTS” folder contains python scripts used in development, including dCosts.py, which can be used to identify Disallowed Costs. To run it, use the command “python dCosts.py”. When prompted for a PDF, type in the name of a PDF located in the “pdfs” folder. If you want to test your own audit pdf not in that folder used for testing, either put it in the folder and pass the filename to the python script, or pass the full path of the pdf. After running, the script will check for mentions of Disallowed Costs in the pdf and return if there are or are not any. If there are, the pdf returns a monetary value if one exists as “HIT: $someamount” and the context around that hit, and if not, it returns “NO HIT”. No GUI for this exists, but one can easily be made using the python package tkinter or some other framework if needed. This dCosts.py script will likely be used for the finished product to print the disallowed cost using an audit’s PDF as an input.
+
 **Improvements**
 
 First off, it’s important to note that the reason the site architecture

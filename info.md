@@ -81,4 +81,18 @@ We set up a free trial of Azure to host an SQL Server on it with data
 from FAC to display on some of the screens using php: namely, 08-01,
 08-02, 08-03, dashboard4, and 08-07. However, this program manages
 audits that haven’t been completed yet, which is the opposite of what
-audits on FAC are.
+audits on FAC are. Therefore, a more final version of this product
+should be able to store audits currently being handled by the program in
+an SQL Database with accompanying metadata and change the data it needs
+to.
+
+On the note of retrieving data from FAC, an SSIS package was developed
+that calls metadata for completed audits from the FAC database and
+updates the SQL Database with that information. This is included in the
+repository. Some directory paths may need to be changed for it to
+function. For actual production, this package would need to be set up in
+azureto run on a timer in a shared location. However, for the reasons
+stated in the previous paragraph, this won’t be needed.
+
+I hope this explains everything, but if any answers are needed, I can be
+emailed: alfredrpk@gmail.com

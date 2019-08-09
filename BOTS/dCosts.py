@@ -3,7 +3,8 @@ import os
 from tika import parser
 from decimal import Decimal #use for conversion from monetary string to float
 import tkinter
-os.chdir('C:/Users/Alfred/Downloads/pdfs')
+os.chdir('..')
+os.chdir('pdfs')
 try:
 	filename = sys.argv[1]
 except IndexError as error:

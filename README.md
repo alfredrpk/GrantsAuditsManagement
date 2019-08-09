@@ -55,7 +55,7 @@ by specifying an exact left and top style. When the mainbody id is used,
 the div is positioned to it takes up the space on the screen where
 common user elements are filled. This does not include standard elements
 copied from the axshare code like the navbar and the audit information
-bar pictured below. ![](media/image1.png)
+bar pictured below. ![](https://i.imgur.com/SMHdzfm.png)
 
 Everything in this image is from the axshare code.
 
